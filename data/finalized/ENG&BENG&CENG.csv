@@ -1,0 +1,1125 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,isPreGPT,isSTEM,isAbstract,isWritten,isUD
+"Alexandrov, Ludmil B",BENG 100,SP23,132,70,0.615,0.862,6.56,3.03,3.03,False,False,False,False,True
+"Fraley, Stephanie I.",BENG 103B,SP23,128,86,0.75,0.94,8.6,3.22,3.09,False,False,False,False,True
+"Shi, Lingyan",BENG 112B,SP23,56,39,0.8420000000000001,0.711,5.24,3.5,3.21,False,False,False,False,True
+"Hasty, Jeff M",BENG 125,SP23,136,37,0.889,0.8059999999999999,4.27,3.57,3.46,False,False,False,False,True
+"Cabrales, Pedro",BENG 140B,SP23,72,47,0.804,0.826,6.88,3.32,3.25,False,False,False,False,True
+"Cabrales, Pedro",BENG 172,SP23,53,27,0.75,1.0,8.02,3.8,3.62,False,False,False,False,True
+"Omens, Jeffrey Howard",BENG 172,SP23,53,27,0.75,0.941,8.02,3.8,3.62,False,False,False,False,True
+"Bafna, Vineet",BENG 182,SP23,20,8,0.7140000000000001,0.857,4.79,3.71,3.22,False,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 101C,SP23,46,39,0.9740000000000001,1.0,8.19,3.1,3.1,False,False,False,False,True
+"Powell, Alyssa",CENG 101C,SP23,51,41,0.8290000000000001,0.951,8.5,3.2,3.15,False,False,False,False,True
+"Drews, Aaron",CENG 113,SP23,120,106,0.868,0.953,9.59,3.18,2.85,False,False,False,False,True
+"Powell, Alyssa",CENG 124B,SP23,91,49,0.9390000000000001,0.98,5.48,3.69,3.88,False,False,False,False,True
+"Russ, Benjamin Edward",CENG 124B,SP23,91,49,0.9390000000000001,0.98,5.48,3.69,3.88,False,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 157,SP23,52,27,0.9620000000000001,1.0,5.12,3.15,3.35,False,False,False,False,True
+"Drews, Aaron",CENG 170,SP23,29,18,0.941,0.882,6.38,3.59,3.23,False,False,False,False,True
+"Steinmetz, Nicole F",CENG 175,SP23,32,15,1.0,1.0,3.93,3.5,3.52,False,False,False,False,True
+"Zhang, Liangfang",CENG 176B,SP23,48,18,1.0,1.0,6.72,3.83,3.69,False,False,False,False,True
+"Shah, Nisarg",CENG 176B,SP23,44,15,0.9229999999999999,1.0,7.12,3.77,3.73,False,False,False,False,True
+"Ngo, Anh-Thu T.",ENG 100D,SP23,54,40,0.95,0.975,4.6,3.87,3.65,False,False,False,False,True
+"Hein, Lin Thu",ENG 100DR,SP23,48,27,0.889,0.9620000000000001,5.96,3.85,3.85,False,False,False,False,True
+"Hein, Lin Thu",ENG 100DR,SP23,39,19,0.8420000000000001,0.895,5.24,3.68,3.62,False,False,False,False,True
+"Valdez-Jasso, Daniela",BENG 112A,WI23,65,21,0.81,1.0,6.69,3.24,2.86,False,False,False,False,True
+"Taylor Amos, Alyssa C",BENG 119B,WI23,22,5,1.0,1.0,6.1,4.0,3.87,False,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 119B,WI23,22,5,1.0,1.0,6.1,4.0,3.87,False,False,False,False,True
+"Huang, Xiaohua",BENG 120,WI23,56,25,0.68,0.64,4.82,3.44,3.66,False,False,False,False,True
+"Palsson, Bernhard O.",BENG 123,WI23,78,31,0.655,0.7240000000000001,9.88,3.14,2.97,False,False,False,False,True
+"Silva, Gabriel",BENG 130,WI23,164,68,0.426,0.284,5.35,3.1,2.63,False,False,False,False,True
+"Silva, Gabriel",BENG 140A,WI23,78,35,0.853,0.8240000000000001,4.91,3.61,3.55,False,False,False,False,True
+"Taylor Amos, Alyssa C",BENG 152,WI23,21,10,0.889,0.667,8.3,3.9,3.77,False,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 152,WI23,21,10,0.889,1.0,8.3,3.9,3.77,False,False,False,False,True
+"Huang, Xiaohua",BENG 161B,WI23,62,10,0.6,0.556,7.3,3.56,3.5,False,False,False,False,True
+"Shi, Lingyan",BENG 168,WI23,103,33,0.6559999999999999,0.5,5.31,3.34,3.55,False,False,False,False,True
+"Taylor Amos, Alyssa C",BENG 179B,WI23,27,6,0.833,0.833,10.83,3.83,3.59,False,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 179B,WI23,27,6,0.833,0.833,10.83,3.83,3.59,False,False,False,False,True
+"Pevzner, Pavel Arkadjevich",BENG 181,WI23,21,15,0.6920000000000001,0.769,17.5,3.17,3.53,False,False,False,False,True
+"Cauwenberghs, Gert",BENG 186B,WI23,74,23,0.7829999999999999,0.7829999999999999,9.2,3.35,3.45,False,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 101A,WI23,31,27,0.846,1.0,11.22,2.84,3.13,False,False,False,False,True
+"Liu, Ping",CENG 101B,WI23,77,41,0.846,0.795,8.5,2.9,3.13,False,False,False,False,True
+"Powell, Alyssa",CENG 102,WI23,119,69,0.941,0.971,8.56,3.13,3.05,False,False,False,False,True
+"Lubarda, Vlado",CENG 114,WI23,93,76,0.893,0.92,4.5,3.66,3.47,False,False,False,False,True
+"Powell, Alyssa",CENG 124A,WI23,49,30,0.9670000000000001,1.0,6.5,3.47,3.63,False,False,False,False,True
+"Russ, Benjamin Edward",CENG 124A,WI23,42,30,0.867,0.9329999999999999,6.1,3.33,3.73,False,False,False,False,True
+"Pokorski, Jonathan Kyle",CENG 134,WI23,45,21,1.0,0.9520000000000001,5.45,3.0,2.97,False,False,False,False,True
+"Drews, Aaron",CENG 15,WI23,25,12,0.833,0.833,5.33,3.75,2.88,False,False,False,False,False
+"Zhang, Liangfang",CENG 176A,WI23,48,27,1.0,1.0,9.04,3.54,3.35,False,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 176A,WI23,44,22,1.0,1.0,8.32,3.73,3.43,False,False,False,False,True
+"Evdokimenko, Ekaterina",ENG 10,WI23,21,20,0.95,1.0,3.3,3.8,3.83,False,False,False,False,False
+"Ngo, Anh-Thu T.",ENG 100D,WI23,44,30,0.9670000000000001,1.0,5.1,3.83,3.71,False,False,False,False,True
+"Hein, Lin Thu",ENG 100DR,WI23,31,22,0.909,0.818,6.41,3.57,3.81,False,False,False,False,True
+"Mc Culloch, Andrew Douglas",BENG 110,FA22,97,91,0.813,0.846,6.48,3.19,3.16,False,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 119A,FA22,22,5,1.0,1.0,4.5,4.0,3.78,False,False,False,False,True
+"Cauwenberghs, Gert",BENG 122A,FA22,60,21,0.8,0.8,8.6,3.5,3.53,False,False,False,False,True
+"Smarr, Benjamin",BENG 134,FA22,26,18,0.9440000000000001,0.889,6.5,3.35,2.87,False,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 135,FA22,25,5,1.0,1.0,7.7,3.8,3.63,False,False,False,False,True
+"Lal, Ratnesh",BENG 141,FA22,49,36,0.941,0.8240000000000001,4.56,3.83,3.85,False,False,False,False,True
+"Fraley, Stephanie I.",BENG 161A,FA22,61,48,0.75,0.75,9.48,3.23,3.04,False,False,False,False,True
+"Mali, Prashant Gulab Ram",BENG 162,FA22,61,51,0.863,0.941,7.66,3.52,3.51,False,False,False,False,True
+"Sah, Robert Lie-Yuan",BENG 166A,FA22,63,41,0.61,0.7559999999999999,6.65,3.87,3.57,False,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 179A,FA22,28,10,1.0,1.0,10.0,4.0,3.67,False,False,False,False,True
+"Zhong, Sheng",BENG 183,FA22,92,28,0.815,0.846,6.28,3.82,4.0,False,False,False,False,True
+"Chen, Zheng",CENG 100,FA22,119,50,0.9590000000000001,0.958,6.98,3.3,2.88,False,False,False,False,True
+"Bae, Jinhye",CENG 101A,FA22,133,99,0.633,0.7759999999999999,10.88,3.08,3.19,False,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 120,FA22,94,76,0.934,0.9079999999999999,10.21,3.22,3.12,False,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 122,FA22,92,74,0.89,0.875,10.31,3.07,3.17,False,False,False,False,True
+"Lubarda, Vlado",CENG 15R,FA22,37,27,0.769,0.9229999999999999,4.35,3.42,3.3,False,False,False,False,False
+"Lubarda, Vlado",CENG 15R,FA22,63,44,0.8859999999999999,0.932,4.55,3.43,3.11,False,False,False,False,False
+"Drews, Aaron",CENG 170,FA22,41,25,0.9570000000000001,0.9129999999999999,7.37,3.22,3.01,False,False,False,False,True
+"Phan, Alex Minh Giang",ENG 10,FA22,25,17,0.706,0.882,5.68,3.4,3.8,False,False,False,False,False
+"Ngo, Anh-Thu T.",ENG 100D,FA22,46,18,0.833,0.889,4.83,3.89,3.88,False,False,False,False,True
+"Ngo, Anh-Thu T.",ENG 100D,FA22,46,15,0.8,0.9329999999999999,4.1,3.87,3.86,False,False,False,False,True
+"Evdokimenko, Ekaterina",ENG 20,FA22,39,33,0.97,1.0,4.08,3.85,3.94,False,False,False,False,False
+"Alexandrov, Ludmil B",BENG 100,SP22,154,77,0.474,0.684,6.55,3.51,3.65,False,False,False,False,True
+"Huang, Xiaohua",BENG 102,SP22,45,23,0.619,0.5710000000000001,5.64,3.95,3.65,False,False,False,False,True
+"Fraley, Stephanie I.",BENG 103B,SP22,99,69,0.7829999999999999,0.838,9.43,3.34,3.13,False,False,False,False,True
+"Shi, Lingyan",BENG 112B,SP22,45,32,0.875,0.938,5.94,3.61,3.74,False,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 125,SP22,147,61,0.614,0.772,6.89,3.27,3.52,False,False,False,False,True
+"Mali, Prashant Gulab Ram",BENG 133,SP22,38,36,0.943,1.0,8.61,3.21,3.57,False,False,False,False,True
+"Cabrales, Pedro",BENG 140B,SP22,76,54,0.9059999999999999,0.9620000000000001,5.71,3.46,2.9,False,False,False,False,True
+"Zhang, Kun",BENG 160,SP22,64,39,0.821,0.9229999999999999,6.61,3.5,3.59,False,False,False,False,True
+"Cabrales, Pedro",BENG 172,SP22,43,21,0.8,1.0,8.5,3.75,3.45,False,False,False,False,True
+"Omens, Jeffrey Howard",BENG 172,SP22,43,21,0.8,1.0,8.5,3.75,3.45,False,False,False,False,True
+"Bafna, Vineet",BENG 182,SP22,22,13,0.917,1.0,9.17,3.67,3.71,False,False,False,False,True
+"Kwon, Ester Jihae",BENG 186A,SP22,105,100,0.88,0.91,6.42,3.12,3.01,False,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 187A,SP22,140,78,0.882,0.987,2.34,3.99,3.0,False,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 187D,SP22,42,22,0.909,0.909,7.68,3.82,3.95,False,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 187D,SP22,41,18,0.882,0.882,5.21,3.76,3.9,False,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 187D,SP22,60,27,1.0,1.0,5.14,3.92,3.91,False,False,False,False,True
+"Lubarda, Vlado",CENG 101B,SP22,21,10,1.0,1.0,9.5,3.6,3.32,False,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 101C,SP22,94,82,0.9,1.0,9.9,3.0,3.01,False,False,False,False,True
+"Drews, Aaron",CENG 113,SP22,46,22,0.905,0.905,9.55,3.0,2.85,False,False,False,False,True
+"Drews, Aaron",CENG 113,SP22,70,33,0.909,0.9390000000000001,11.23,3.42,3.08,False,False,False,False,True
+"Russ, Benjamin Edward",CENG 124B,SP22,75,62,0.968,0.9840000000000001,7.03,3.54,3.89,False,False,False,False,True
+"Zhang, Liangfang",CENG 124B,SP22,62,51,1.0,1.0,6.26,3.7,3.94,False,False,False,False,True
+"Steinmetz, Nicole F",CENG 175,SP22,24,15,0.9329999999999999,1.0,5.57,3.2,3.33,False,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 176B,SP22,76,50,0.956,0.956,8.36,3.47,3.43,False,False,False,False,True
+"Chen, Zheng",CENG 176B,SP22,58,39,0.972,1.0,8.9,3.58,3.51,False,False,False,False,True
+"Evdokimenko, Ekaterina",ENG 10,SP22,25,20,1.0,1.0,4.0,3.53,3.22,False,False,False,False,False
+"Mancinelli, Ryan Mark",ENG 100D,SP22,44,18,0.556,0.611,5.17,3.75,3.71,False,False,False,False,True
+"Ngo, Anh-Thu T.",ENG 100D,SP22,52,41,0.8540000000000001,0.95,4.5,3.76,3.57,False,False,False,False,True
+"Valdez-Jasso, Daniela",BENG 112A,WI22,48,44,1.0,1.0,6.86,3.36,3.06,False,False,False,False,True
+"Huang, Xiaohua",BENG 120,WI22,59,29,0.7859999999999999,0.679,5.24,3.74,3.44,False,False,False,False,True
+"Haiman, Zachary Brandon",BENG 123,WI22,74,16,0.75,0.875,10.25,3.19,2.94,False,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 126B,WI22,33,8,1.0,1.0,7.93,3.86,3.88,False,False,False,False,True
+"Subramaniam, Shankar",BENG 130,WI22,130,49,0.7709999999999999,0.833,6.03,3.34,3.13,False,False,False,False,True
+"Silva, Gabriel",BENG 140A,WI22,96,39,0.795,0.718,5.17,3.47,3.49,False,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 152,WI22,21,10,1.0,1.0,9.7,3.6,3.87,False,False,False,False,True
+"Huang, Xiaohua",BENG 161B,WI22,61,21,0.81,0.857,7.83,3.48,3.22,False,False,False,False,True
+"Wang, Yingxiao",BENG 168,WI22,98,25,0.8,0.76,8.1,3.16,3.59,False,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 169B,WI22,21,5,1.0,1.0,5.3,4.0,3.88,False,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 179B,WI22,36,7,1.0,0.833,5.5,4.0,3.85,False,False,False,False,True
+"Cauwenberghs, Gert",BENG 186B,WI22,61,31,0.903,0.935,8.63,3.42,3.62,False,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 101A,WI22,26,22,0.955,0.955,11.59,3.0,2.98,False,False,False,False,True
+"Liu, Ping",CENG 101B,WI22,84,75,0.907,0.973,8.5,3.01,3.06,False,False,False,False,True
+"Powell, Alyssa",CENG 102,WI22,68,52,0.9620000000000001,1.0,7.69,3.48,2.95,False,False,False,False,True
+"Shah, Nisarg",CENG 102,WI22,41,33,0.97,0.879,7.65,3.47,2.94,False,False,False,False,True
+"Jahed Motlagh, Zeinab",CENG 114,WI22,93,83,0.855,0.94,6.79,3.09,3.13,False,False,False,False,True
+"Powell, Alyssa",CENG 124A,WI22,74,58,0.948,0.983,7.2,3.55,3.79,False,False,False,False,True
+"Zhang, Liangfang",CENG 124A,WI22,63,53,0.925,0.981,5.75,3.57,3.87,False,False,False,False,True
+"Pokorski, Jonathan Kyle",CENG 134,WI22,78,52,0.9229999999999999,0.922,5.85,3.04,3.02,False,False,False,False,True
+"Chen, Zheng",CENG 176A,WI22,58,39,0.973,0.892,9.55,3.34,3.5,False,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 176A,WI22,76,53,0.9059999999999999,0.925,9.19,3.6,3.51,False,False,False,False,True
+"Evdokimenko, Ekaterina",ENG 10,WI22,23,21,0.9520000000000001,1.0,3.45,3.76,3.74,False,False,False,False,False
+"Evdokimenko, Ekaterina",ENG 10,WI22,21,20,0.85,1.0,3.9,3.79,3.83,False,False,False,False,False
+"Ngo, Anh-Thu T.",ENG 100D,WI22,51,41,0.875,0.925,5.47,3.82,3.7,False,False,False,False,True
+"Ngo, Anh-Thu T.",ENG 100D,WI22,20,16,1.0,1.0,5.43,3.93,3.74,False,False,False,False,True
+"Mc Culloch, Andrew Douglas",BENG 110,FA21,87,83,0.807,0.747,7.13,3.34,3.12,True,False,False,False,True
+"Cauwenberghs, Gert",BENG 122A,FA21,57,31,0.9329999999999999,1.0,8.17,3.57,3.7,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 126A,FA21,32,7,0.833,1.0,4.5,4.0,3.83,True,False,False,False,True
+"Smarr, Benjamin",BENG 134,FA21,32,21,0.6,0.75,8.5,3.32,3.17,True,False,False,False,True
+"Lal, Ratnesh",BENG 141,FA21,40,32,0.968,0.903,5.06,4.0,3.92,True,False,False,False,True
+"Lewis, Nathan E",BENG 161A,FA21,63,37,0.8859999999999999,1.0,6.38,3.76,3.41,True,False,False,False,True
+"Mali, Prashant Gulab Ram",BENG 162,FA21,58,49,0.7959999999999999,0.6729999999999999,7.97,3.43,3.36,True,False,False,False,True
+"Sah, Robert Lie-Yuan",BENG 166A,FA21,71,43,0.667,0.762,5.33,3.9,3.85,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 169A,FA21,21,9,1.0,1.0,5.17,4.0,3.94,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 179A,FA21,36,12,1.0,0.9,6.7,4.0,3.87,True,False,False,False,True
+"Benner, Christopher William",BENG 183,FA21,76,27,0.9259999999999999,0.9259999999999999,5.83,3.74,3.75,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 2,FA21,23,14,1.0,1.0,6.04,3.31,3.4,True,False,False,False,False
+"Powell, Alyssa",CENG 100,FA21,112,95,0.968,0.9890000000000001,6.71,3.22,2.94,True,False,False,False,True
+"Bae, Jinhye",CENG 101A,FA21,136,115,0.746,0.779,10.22,3.07,3.12,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 120,FA21,136,120,0.983,0.992,8.78,3.31,3.31,True,False,False,False,True
+"Powell, Alyssa",CENG 122,FA21,139,123,0.9590000000000001,0.9420000000000001,8.84,3.28,3.37,True,False,False,False,True
+"Lubarda, Vlado",CENG 15,FA21,54,28,0.385,0.48,4.73,2.85,3.2,True,False,False,False,False
+"Lubarda, Vlado",CENG 15,FA21,58,26,0.625,0.625,5.06,3.24,3.26,True,False,False,False,False
+"Opatkiewicz, Justin Paul",CENG 157,FA21,54,41,0.951,0.976,6.26,3.26,3.19,True,False,False,False,True
+"Evdokimenko, Ekaterina",ENG 10,FA21,30,22,0.9520000000000001,1.0,4.23,3.91,3.9,True,False,False,False,False
+"Evdokimenko, Ekaterina",ENG 10,FA21,27,19,0.895,1.0,3.66,3.95,3.79,True,False,False,False,False
+"Mancinelli, Ryan Mark",ENG 100D,FA21,48,24,0.818,0.909,9.11,3.7,3.81,True,False,False,False,True
+"Ngo, Anh-Thu T.",ENG 100D,FA21,48,42,0.9520000000000001,0.976,4.88,3.79,3.76,True,False,False,False,True
+"Evdokimenko, Ekaterina",ENG 20,FA21,23,13,0.909,1.0,5.17,3.92,3.77,True,False,False,False,False
+"Alexandrov, Ludmil B",BENG 100,SP21,118,56,0.818,0.945,6.25,3.58,3.53,True,False,False,False,True
+"Huang, Xiaohua",BENG 102,SP21,52,24,0.7829999999999999,0.696,5.02,3.95,3.83,True,False,False,False,True
+"Fraley, Stephanie I.",BENG 103B,SP21,108,98,0.5670000000000001,0.423,10.7,3.43,3.49,True,False,False,False,True
+"Shi, Lingyan",BENG 112B,SP21,38,33,1.0,0.9690000000000001,6.81,3.55,3.82,True,False,False,False,True
+"Contijoch, Francisco",BENG 125,SP21,159,154,0.7340000000000001,0.87,6.71,3.53,3.67,True,False,False,False,True
+"Coleman, Todd Prentice",BENG 130,SP21,28,15,0.667,0.467,7.57,3.36,3.87,True,False,False,False,True
+"Mali, Prashant Gulab Ram",BENG 133,SP21,32,30,0.9,0.9670000000000001,7.81,3.27,3.61,True,False,False,False,True
+"Cabrales, Pedro",BENG 140B,SP21,63,52,0.9229999999999999,0.9229999999999999,6.15,3.71,3.78,True,False,False,False,True
+"Zhang, Kun",BENG 160,SP21,60,47,0.9570000000000001,0.87,7.73,3.68,3.98,True,False,False,False,True
+"Cabrales, Pedro",BENG 172,SP21,37,25,0.833,0.9520000000000001,10.26,3.83,3.74,True,False,False,False,True
+"Omens, Jeffrey Howard",BENG 172,SP21,37,25,0.833,0.905,10.26,3.83,3.74,True,False,False,False,True
+"Bafna, Vineet",BENG 182,SP21,30,13,0.769,0.846,8.65,3.83,3.8,True,False,False,False,True
+"Kwon, Ester Jihae",BENG 186A,SP21,113,105,0.838,0.867,6.67,3.39,3.28,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 187D,SP21,62,30,1.0,0.966,4.43,4.0,3.96,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 187D,SP21,60,32,0.935,0.935,6.69,4.0,3.99,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 187D,SP21,40,19,0.9440000000000001,0.9440000000000001,5.24,4.0,3.94,True,False,False,False,True
+"Engler, Adam J.",BENG 193,SP21,20,13,1.0,1.0,4.19,3.92,4.0,True,False,False,False,True
+"Lubarda, Vlado",CENG 101B,SP21,39,25,0.917,0.958,7.28,3.27,3.11,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 101C,SP21,78,73,0.932,0.9590000000000001,8.91,3.21,3.07,True,False,False,False,True
+"Powell, Alyssa",CENG 101C,SP21,69,64,0.922,0.9840000000000001,7.87,3.14,3.13,True,False,False,False,True
+"Drews, Aaron",CENG 113,SP21,79,69,0.9129999999999999,0.986,9.28,3.19,3.39,True,False,False,False,True
+"Drews, Aaron",CENG 113,SP21,23,23,1.0,1.0,9.77,3.14,3.29,True,False,False,False,True
+"Russ, Benjamin Edward",CENG 124B,SP21,49,38,0.9740000000000001,0.9470000000000001,8.66,3.82,3.93,True,False,False,False,True
+"Powell, Alyssa",CENG 124B,SP21,53,31,0.968,0.935,7.47,3.71,3.9,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 176B,SP21,63,40,0.9209999999999999,0.917,9.58,3.56,3.33,True,False,False,False,True
+"Zhang, Liangfang",CENG 176B,SP21,39,19,0.8420000000000001,0.895,10.61,3.26,3.31,True,False,False,False,True
+"Mancinelli, Ryan Mark",ENG 100D,SP21,43,11,0.818,0.909,6.9,3.64,3.8,True,False,False,False,True
+"Ngo, Anh-Thu T.",ENG 100D,SP21,48,24,0.9129999999999999,0.87,7.33,3.79,3.79,True,False,False,False,True
+"Mc Culloch, Andrew Douglas",BENG 110,WI21,20,6,0.667,0.667,8.17,3.67,3.62,True,False,False,False,True
+"Valdez-Jasso, Daniela",BENG 112A,WI21,29,28,0.9640000000000001,1.0,5.79,3.46,3.4,True,False,False,False,True
+"Huang, Xiaohua",BENG 120,WI21,49,19,0.833,0.722,4.83,3.76,3.89,True,False,False,False,True
+"Palsson, Bernhard O.",BENG 123,WI21,72,30,0.433,0.6,13.5,3.5,3.27,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 126B,WI21,26,4,0.75,1.0,6.5,4.0,3.97,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 127B,WI21,26,9,1.0,1.0,7.61,4.0,3.92,True,False,False,False,True
+"Subramaniam, Shankar",BENG 130,WI21,154,77,0.8109999999999999,0.865,7.07,3.55,3.52,True,False,False,False,True
+"Silva, Gabriel",BENG 140A,WI21,77,31,0.774,0.742,6.69,3.44,3.55,True,False,False,False,True
+"Huang, Xiaohua",BENG 161B,WI21,69,24,0.826,0.7829999999999999,7.11,3.65,3.81,True,False,False,False,True
+"Wang, Yingxiao",BENG 168,WI21,90,33,0.833,0.767,6.63,3.43,3.79,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 169B,WI21,22,3,1.0,1.0,5.17,4.0,3.95,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 179B,WI21,35,8,0.875,1.0,3.75,4.0,3.93,True,False,False,False,True
+"Pevzner, Pavel Arkadjevich",BENG 181,WI21,35,18,0.765,0.625,17.44,3.42,3.63,True,False,False,False,True
+"Cauwenberghs, Gert",BENG 186B,WI21,68,32,0.9329999999999999,0.9670000000000001,9.77,3.44,3.73,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 101A,WI21,42,39,0.9740000000000001,1.0,8.91,3.06,3.37,True,False,False,False,True
+"Liu, Ping",CENG 101B,WI21,26,24,0.875,0.625,7.92,2.87,2.83,True,False,False,False,True
+"Liu, Ping",CENG 101B,WI21,90,80,0.813,0.638,8.95,3.12,3.05,True,False,False,False,True
+"Powell, Alyssa",CENG 102,WI21,61,54,0.87,0.889,9.5,3.12,3.02,True,False,False,False,True
+"Shah, Nisarg",CENG 102,WI21,41,38,0.8420000000000001,0.816,7.13,2.97,2.91,True,False,False,False,True
+"Drews, Aaron",CENG 114,WI21,97,92,0.9890000000000001,1.0,5.49,3.7,3.89,True,False,False,False,True
+"Jahed Motlagh, Zeinab",CENG 114,WI21,41,36,1.0,1.0,6.83,3.47,3.51,True,False,False,False,True
+"Powell, Alyssa",CENG 124A,WI21,54,44,0.932,1.0,7.77,3.64,3.77,True,False,False,False,True
+"Russ, Benjamin Edward",CENG 124A,WI21,49,38,0.9209999999999999,0.919,8.92,3.57,3.66,True,False,False,False,True
+"Pokorski, Jonathan Kyle",CENG 134,WI21,34,21,0.905,1.0,5.93,3.3,3.53,True,False,False,False,True
+"Steinmetz, Nicole F",CENG 175,WI21,26,17,1.0,0.941,3.68,3.75,3.7,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 176A,WI21,63,47,0.932,0.955,10.0,3.57,3.84,True,False,False,False,True
+"Zhang, Liangfang",CENG 176A,WI21,39,23,0.8640000000000001,0.818,11.77,3.55,3.67,True,False,False,False,True
+"Mancinelli, Ryan Mark",ENG 100D,WI21,43,12,0.833,0.833,9.0,3.82,3.9,True,False,False,False,True
+"Ngo, Anh-Thu T.",ENG 100D,WI21,31,13,0.75,0.917,6.17,3.58,3.37,True,False,False,False,True
+"Zhong, Sheng",BENG 100,FA20,28,12,0.917,0.917,4.17,3.67,3.69,True,False,False,False,True
+"Schmid-Schoenbein, Geert W",BENG 110,FA20,79,45,0.75,0.698,6.64,3.09,3.13,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 119A,FA20,24,7,1.0,1.0,1.5,4.0,3.78,True,False,False,False,True
+"Cauwenberghs, Gert",BENG 122A,FA20,67,28,0.7140000000000001,0.857,9.21,3.52,3.27,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 126A,FA20,26,8,1.0,0.857,3.64,4.0,3.79,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 127A,FA20,27,11,1.0,1.0,6.68,3.9,3.89,True,False,False,False,True
+"Coleman, Todd Prentice",BENG 134,FA20,24,9,0.444,0.444,13.17,2.78,3.59,True,False,False,False,True
+"Lal, Ratnesh",BENG 141,FA20,31,20,0.85,0.9,4.1,3.95,3.88,True,False,False,False,True
+"Fraley, Stephanie I.",BENG 161A,FA20,71,40,0.872,0.825,9.58,3.49,3.58,True,False,False,False,True
+"Mali, Prashant Gulab Ram",BENG 162,FA20,69,27,0.72,0.6,9.22,3.44,3.52,True,False,False,False,True
+"Sah, Robert Lie-Yuan",BENG 166A,FA20,66,21,0.81,0.762,6.79,3.62,3.98,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 169A,FA20,22,3,1.0,1.0,5.17,4.0,3.91,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 179A,FA20,36,11,1.0,1.0,5.3,4.0,3.93,True,False,False,False,True
+"Zhong, Sheng",BENG 183,FA20,82,34,0.6970000000000001,0.818,7.68,3.7,3.79,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 2,FA20,25,13,0.846,1.0,4.96,3.85,3.49,True,False,False,False,False
+"Chen, Zheng",CENG 100,FA20,36,26,0.84,0.68,7.7,3.16,3.11,True,False,False,False,True
+"Chen, Zheng",CENG 100,FA20,57,42,0.875,0.725,7.95,3.05,3.26,True,False,False,False,True
+"Bae, Jinhye",CENG 101A,FA20,97,79,0.831,0.74,11.24,3.13,3.05,True,False,False,False,True
+"Bae, Jinhye",CENG 101A,FA20,89,80,0.763,0.85,10.8,3.33,3.13,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 120,FA20,99,98,0.9179999999999999,0.9590000000000001,10.62,3.36,3.56,True,False,False,False,True
+"Powell, Alyssa",CENG 122,FA20,38,31,1.0,1.0,9.5,3.33,3.44,True,False,False,False,True
+"Powell, Alyssa",CENG 122,FA20,65,51,0.958,1.0,9.32,3.59,3.54,True,False,False,False,True
+"Lubarda, Vlado",CENG 15,FA20,78,46,0.9329999999999999,0.953,4.9,3.51,3.41,True,False,False,False,False
+"Lubarda, Vlado",CENG 15,FA20,39,23,0.909,0.818,4.5,3.77,3.59,True,False,False,False,False
+"Vargas Consuelos, Carlos Ingram",ENG 10,FA20,26,13,0.9229999999999999,0.917,2.81,3.91,3.97,True,False,False,False,False
+"Mancinelli, Ryan Mark",ENG 100D,FA20,41,13,0.9229999999999999,0.9229999999999999,9.42,3.77,3.65,True,False,False,False,True
+"Evdokimenko, Ekaterina",ENG 20,FA20,24,14,0.929,1.0,4.36,3.93,3.87,True,False,False,False,False
+"Alexandrov, Ludmil B",BENG 100,SP20,153,64,0.703,0.7809999999999999,7.31,3.62,3.76,True,False,False,False,True
+"Engler, Adam J.",BENG 102,SP20,51,25,0.64,0.72,6.66,3.44,3.66,True,False,False,False,True
+"Fraley, Stephanie I.",BENG 103B,SP20,130,113,0.732,0.759,10.0,3.26,3.65,True,False,False,False,True
+"Schmid-Schoenbein, Geert W",BENG 112B,SP20,56,34,0.636,0.581,7.23,3.18,3.85,True,False,False,False,True
+"Contijoch, Francisco",BENG 125,SP20,105,56,0.833,0.83,6.87,3.42,3.54,True,False,False,False,True
+"Mali, Prashant Gulab Ram",BENG 133,SP20,25,10,0.9,0.7,8.7,3.43,3.79,True,False,False,False,True
+"Cabrales, Pedro",BENG 140B,SP20,72,30,0.9670000000000001,1.0,7.63,3.56,3.82,True,False,False,False,True
+"Zhang, Kun",BENG 160,SP20,70,48,0.8540000000000001,0.938,9.0,3.75,3.81,True,False,False,False,True
+"Cabrales, Pedro",BENG 172,SP20,57,34,0.9640000000000001,0.9620000000000001,12.26,3.61,3.83,True,False,False,False,True
+"Omens, Jeffrey Howard",BENG 172,SP20,57,34,0.9640000000000001,0.9620000000000001,12.26,3.61,3.83,True,False,False,False,True
+"Bafna, Vineet",BENG 182,SP20,25,13,0.846,0.846,6.65,3.56,3.77,True,False,False,False,True
+"Kwon, Ester Jihae",BENG 186A,SP20,130,95,0.894,0.9359999999999999,6.61,3.56,3.72,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 187D,SP20,55,28,0.963,0.963,4.5,3.93,3.93,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 187D,SP20,46,24,0.958,0.958,3.02,3.95,3.97,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 187D,SP20,50,16,0.938,1.0,4.75,3.93,3.92,True,False,False,False,True
+"Contijoch, Francisco",BENG 189,SP20,32,12,0.909,0.909,7.67,3.67,3.59,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 101C,SP20,89,75,0.96,1.0,8.79,3.61,3.69,True,False,False,False,True
+"Chen, Zheng",CENG 113,SP20,48,31,0.8059999999999999,0.742,8.31,3.32,3.23,True,False,False,False,True
+"Drews, Aaron",CENG 113,SP20,101,67,0.97,1.0,9.29,3.51,3.62,True,False,False,False,True
+"Powell, Alyssa",CENG 124B,SP20,103,59,0.915,0.9490000000000001,6.19,3.67,3.8,True,False,False,False,True
+"Russ, Benjamin Edward",CENG 124B,SP20,103,59,0.915,0.983,6.19,3.67,3.8,True,False,False,False,True
+"Bae, Jinhye",CENG 134,SP20,24,24,0.958,0.875,6.0,3.48,3.75,True,False,False,False,True
+"Drews, Aaron",CENG 176B,SP20,60,30,0.897,0.966,8.98,3.29,3.48,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 176B,SP20,43,16,0.938,0.938,6.13,3.46,3.44,True,False,False,False,True
+"Mancinelli, Ryan Mark",ENG 100D,SP20,54,23,0.9129999999999999,0.9570000000000001,8.59,3.71,3.83,True,False,False,False,True
+"Ngo, Anh-Thu T.",ENG 100D,SP20,40,12,1.0,0.917,5.83,3.9,3.71,True,False,False,False,True
+"Valdez-Jasso, Daniela",BENG 112A,WI20,47,46,0.978,0.978,6.67,3.39,3.04,True,False,False,False,True
+"Valdez-Jasso, Daniela",BENG 112A,WI20,22,22,0.955,1.0,6.05,3.14,2.82,True,False,False,False,True
+"Subramaniam, Shankar",BENG 120,WI20,50,25,0.409,0.7,8.5,3.18,3.73,True,False,False,False,True
+"Wang, Yingxiao",BENG 120,WI20,50,25,0.409,0.263,8.5,3.18,3.73,True,False,False,False,True
+"Palsson, Bernhard O.",BENG 123,WI20,76,23,0.773,0.8640000000000001,11.54,3.26,2.93,True,False,False,False,True
+"Hasty, Jeff M",BENG 125,WI20,48,9,0.875,0.625,4.75,3.5,3.48,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 125,WI20,48,9,0.875,1.0,4.75,3.5,3.48,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 126B,WI20,24,7,0.857,1.0,7.93,3.86,4.0,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 129B,WI20,22,5,0.8,0.8,4.9,4.0,3.95,True,False,False,False,True
+"Coleman, Todd Prentice",BENG 130,WI20,164,62,0.466,0.596,7.78,3.15,3.42,True,False,False,False,True
+"Silva, Gabriel",BENG 140A,WI20,86,32,0.966,0.966,6.43,3.37,3.59,True,False,False,False,True
+"Lewis, Nathan E",BENG 161B,WI20,49,22,0.682,0.727,7.74,3.43,3.09,True,False,False,False,True
+"Wang, Yingxiao",BENG 168,WI20,106,32,0.897,0.759,7.26,3.39,3.67,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 179B,WI20,41,9,0.857,1.0,4.21,4.0,3.85,True,False,False,False,True
+"Pevzner, Pavel Arkadjevich",BENG 181,WI20,23,11,0.909,0.727,15.41,3.45,3.37,True,False,False,False,True
+"Cauwenberghs, Gert",BENG 186B,WI20,42,17,0.625,1.0,10.88,3.19,3.25,True,False,False,False,True
+"Alvarez-Cabanillas, Miguel",BENG 186B,WI20,24,9,0.667,0.33299999999999996,11.83,3.0,2.94,True,False,False,False,True
+"Liu, Ping",CENG 101B,WI20,62,47,0.909,0.8859999999999999,8.94,2.98,3.03,True,False,False,False,True
+"Lubarda, Vlado",CENG 101B,WI20,46,32,0.935,1.0,6.44,3.5,3.75,True,False,False,False,True
+"Shah, Nisarg",CENG 102,WI20,48,45,0.956,0.867,7.82,3.27,3.26,True,False,False,False,True
+"Powell, Alyssa",CENG 102,WI20,100,98,0.9179999999999999,0.9690000000000001,8.66,3.15,3.32,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 114,WI20,98,93,0.8490000000000001,0.9570000000000001,6.93,3.26,3.37,True,False,False,False,True
+"Powell, Alyssa",CENG 124A,WI20,105,50,0.88,0.94,7.1,3.46,3.77,True,False,False,False,True
+"Russ, Benjamin Edward",CENG 124A,WI20,105,49,0.878,0.9590000000000001,7.15,3.45,3.77,True,False,False,False,True
+"Pokorski, Jonathan Kyle",CENG 134,WI20,22,12,0.909,1.0,4.83,3.42,3.38,True,False,False,False,True
+"Lubarda, Vlado",CENG 15,WI20,25,15,0.867,0.9329999999999999,4.23,3.67,3.75,True,False,False,False,False
+"Opatkiewicz, Justin Paul",CENG 157,WI20,27,15,1.0,1.0,5.17,3.53,3.8,True,False,False,False,True
+"Drews, Aaron",CENG 176A,WI20,60,22,0.909,0.955,9.41,3.55,3.77,True,False,False,False,True
+"Zhang, Liangfang",CENG 176A,WI20,42,17,0.9329999999999999,1.0,8.9,3.8,3.65,True,False,False,False,True
+"Williams, Ebonee P.",ENG 100B,WI20,21,6,1.0,1.0,1.3,4.0,4.0,True,False,False,False,True
+"Mancinelli, Ryan Mark",ENG 100D,WI20,55,27,0.9259999999999999,0.963,8.8,3.7,3.84,True,False,False,False,True
+"Ngo, Anh-Thu T.",ENG 100D,WI20,59,25,0.8,0.76,5.46,3.68,3.65,True,False,False,False,True
+"Mc Culloch, Andrew Douglas",BENG 110,FA19,47,44,0.8370000000000001,0.8370000000000001,6.73,3.19,3.0,True,False,False,False,True
+"Mc Culloch, Andrew Douglas",BENG 110,FA19,49,43,0.907,0.93,6.31,3.42,3.1,True,False,False,False,True
+"Gough, David A.",BENG 122A,FA19,49,18,0.353,0.125,5.06,3.44,3.58,True,False,False,False,True
+"Gough, David A.",BENG 122A,FA19,37,10,0.222,0.111,3.83,3.56,3.59,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 126A,FA19,24,8,0.5,1.0,3.83,3.67,3.85,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 129A,FA19,22,3,0.667,1.0,5.83,4.0,3.95,True,False,False,False,True
+"Coleman, Todd Prentice",BENG 134,FA19,23,12,0.75,0.917,11.33,2.67,3.3,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 135,FA19,33,6,1.0,1.0,5.5,4.0,3.62,True,False,False,False,True
+"Lal, Ratnesh",BENG 141,FA19,20,17,0.941,0.882,5.44,3.59,3.76,True,False,False,False,True
+"Fraley, Stephanie I.",BENG 161A,FA19,52,36,0.972,0.9440000000000001,8.67,3.4,3.3,True,False,False,False,True
+"Mali, Prashant Gulab Ram",BENG 162,FA19,50,42,0.81,0.8290000000000001,7.77,3.73,3.54,True,False,False,False,True
+"Sah, Robert Lie-Yuan",BENG 166A,FA19,61,47,0.111,0.136,8.95,3.29,3.47,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 179A,FA19,44,6,0.8,1.0,4.5,4.0,3.68,True,False,False,False,True
+"Zhong, Sheng",BENG 183,FA19,83,37,0.889,0.889,5.28,3.72,3.55,True,False,False,False,True
+"Chen, Zheng",CENG 100,FA19,68,57,0.982,0.895,7.03,3.21,2.99,True,False,False,False,True
+"Powell, Alyssa",CENG 100,FA19,48,29,1.0,0.966,6.36,3.41,3.2,True,False,False,False,True
+"Powell, Alyssa",CENG 100,FA19,30,21,0.857,1.0,6.79,3.14,2.9,True,False,False,False,True
+"Miller, David R.",CENG 101A,FA19,149,90,0.747,0.69,12.22,3.25,2.93,True,False,False,False,True
+"Bae, Jinhye",CENG 101A,FA19,38,34,0.765,0.912,11.26,3.09,3.02,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 120,FA19,69,65,0.9229999999999999,0.985,8.65,3.13,3.07,True,False,False,False,True
+"Russ, Benjamin Edward",CENG 120,FA19,36,34,0.735,0.727,7.32,3.12,3.16,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 122,FA19,66,63,0.9520000000000001,0.9840000000000001,8.12,3.25,3.09,True,False,False,False,True
+"Powell, Alyssa",CENG 122,FA19,38,29,0.929,1.0,9.81,3.17,3.06,True,False,False,False,True
+"Yang, Kesong",CENG 15,FA19,36,32,0.9690000000000001,0.903,4.38,3.41,2.84,True,False,False,False,False
+"Yang, Kesong",CENG 15,FA19,60,53,0.83,0.83,4.95,3.55,3.05,True,False,False,False,False
+"Ridley, Robyn Elizabeth",ENG 10,FA19,22,20,0.65,0.9,3.4,3.67,3.63,True,False,False,False,False
+"Mancinelli, Ryan Mark",ENG 100D,FA19,58,22,0.909,1.0,7.14,3.76,3.83,True,False,False,False,True
+"Ngo, Anh-Thu T.",ENG 100D,FA19,39,22,0.545,0.591,6.23,3.27,3.39,True,False,False,False,True
+"Evdokimenko, Ekaterina",ENG 20,FA19,31,18,0.778,0.889,4.06,3.83,3.92,True,False,False,False,False
+"Alexandrov, Ludmil B",BENG 100,SP19,174,80,0.6,0.8,7.38,3.14,2.87,True,False,False,False,True
+"Huang, Xiaohua",BENG 102,SP19,41,22,0.7,0.55,6.9,3.5,3.41,True,False,False,False,True
+"Fraley, Stephanie I.",BENG 103B,SP19,119,106,0.868,0.8959999999999999,8.82,3.28,2.97,True,False,False,False,True
+"Engler, Adam J.",BENG 112B,SP19,64,58,0.946,1.0,7.18,3.3,3.24,True,False,False,False,True
+"Contijoch, Francisco",BENG 125,SP19,136,36,1.0,0.968,6.5,3.42,3.48,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 125,SP19,136,36,1.0,0.968,6.5,3.42,3.48,True,False,False,False,True
+"Mali, Prashant Gulab Ram",BENG 133,SP19,43,33,0.7809999999999999,0.938,7.69,3.21,3.27,True,False,False,False,True
+"Broccard, Frederic Denis",BENG 140B,SP19,33,8,1.0,0.875,7.0,3.5,2.79,True,False,False,False,True
+"Alvarez-Cabanillas, Miguel",BENG 140B,SP19,49,28,0.462,0.154,6.5,3.44,3.48,True,False,False,False,True
+"Zhang, Kun",BENG 160,SP19,56,32,0.7809999999999999,0.8440000000000001,7.85,3.74,3.38,True,False,False,False,True
+"Cabrales, Pedro",BENG 172,SP19,51,17,0.929,1.0,10.13,3.67,3.41,True,False,False,False,True
+"Omens, Jeffrey Howard",BENG 172,SP19,51,17,0.929,1.0,10.13,3.67,3.41,True,False,False,False,True
+"Bafna, Vineet",BENG 182,SP19,26,7,0.7140000000000001,0.857,7.36,3.14,3.24,True,False,False,False,True
+"Kwon, Ester Jihae",BENG 186A,SP19,101,71,0.826,0.9279999999999999,6.38,3.49,3.26,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 187D,SP19,53,12,1.0,1.0,4.68,3.91,3.61,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 187D,SP19,55,9,0.889,1.0,3.39,4.0,3.61,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 101C,SP19,82,80,0.925,0.975,7.95,3.04,3.05,True,False,False,False,True
+"Shah, Nisarg",CENG 101C,SP19,27,20,0.737,0.47100000000000003,9.76,2.89,3.23,True,False,False,False,True
+"Drews, Aaron",CENG 113,SP19,86,68,0.912,0.985,10.82,3.13,2.92,True,False,False,False,True
+"Chen, Zheng",CENG 113,SP19,22,19,0.895,0.895,7.66,3.26,3.14,True,False,False,False,True
+"Powell, Alyssa",CENG 124B,SP19,99,58,0.815,1.0,5.08,3.77,3.76,True,False,False,False,True
+"Russ, Benjamin Edward",CENG 124B,SP19,99,58,0.815,0.722,5.08,3.77,3.76,True,False,False,False,True
+"Pokorski, Jonathan Kyle",CENG 134,SP19,48,23,1.0,0.905,4.88,3.45,3.23,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 157,SP19,42,25,1.0,1.0,5.83,3.48,3.34,True,False,False,False,True
+"Drews, Aaron",CENG 176B,SP19,51,23,0.9570000000000001,0.9570000000000001,5.2,3.74,3.45,True,False,False,False,True
+"Zhang, Liangfang",CENG 176B,SP19,48,20,0.9,0.85,7.1,3.75,3.57,True,False,False,False,True
+"Evdokimenko, Ekaterina",ENG 10,SP19,25,9,0.875,0.875,2.0,3.83,3.79,True,False,False,False,False
+"Mancinelli, Ryan Mark",ENG 100D,SP19,48,19,1.0,1.0,8.5,4.0,3.77,True,False,False,False,True
+"Mc Culloch, Andrew Douglas",BENG 112A,WI19,70,15,0.857,0.7859999999999999,7.07,3.5,3.15,True,False,False,False,True
+"Subramaniam, Shankar",BENG 120,WI19,53,25,0.5,0.652,8.25,3.33,3.38,True,False,False,False,True
+"Wang, Yingxiao",BENG 120,WI19,52,25,0.5,0.542,8.25,3.33,3.38,True,False,False,False,True
+"Palsson, Bernhard O.",BENG 123,WI19,61,18,0.765,0.588,11.72,3.56,3.01,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 126B,WI19,20,3,0.667,1.0,5.17,4.0,3.65,True,False,False,False,True
+"Subramaniam, Shankar",BENG 130,WI19,184,55,0.5579999999999999,0.6920000000000001,6.5,3.25,3.58,True,False,False,False,True
+"Cabrales, Pedro",BENG 140A,WI19,88,51,0.922,0.961,6.03,3.4,3.24,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 152,WI19,32,11,1.0,1.0,6.1,4.0,3.77,True,False,False,False,True
+"Huang, Xiaohua",BENG 161B,WI19,40,24,1.0,0.875,7.2,3.88,3.68,True,False,False,False,True
+"Lewis, Nathan E",BENG 161B,WI19,24,3,0.33299999999999996,0.667,5.17,3.67,3.16,True,False,False,False,True
+"Wang, Yingxiao",BENG 168,WI19,75,20,0.95,1.0,6.61,3.63,3.74,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 179B,WI19,59,3,0.5,1.0,9.5,3.5,3.87,True,False,False,False,True
+"Pevzner, Pavel Arkadjevich",BENG 181,WI19,26,8,1.0,0.857,19.07,3.86,3.21,True,False,False,False,True
+"Cauwenberghs, Gert",BENG 186B,WI19,69,16,0.938,0.8,9.0,3.38,3.33,True,False,False,False,True
+"Liu, Ping",CENG 101B,WI19,60,35,0.853,0.941,8.1,3.17,3.03,True,False,False,False,True
+"Lubarda, Vlado",CENG 101B,WI19,49,31,0.935,1.0,5.98,3.26,3.05,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 102,WI19,66,59,0.932,0.983,9.08,3.23,3.05,True,False,False,False,True
+"Powell, Alyssa",CENG 102,WI19,47,41,0.85,0.95,9.75,3.03,3.06,True,False,False,False,True
+"Ong, Shyue Ping",CENG 114,WI19,92,82,0.805,0.902,6.91,3.05,2.9,True,False,False,False,True
+"Powell, Alyssa",CENG 124A,WI19,98,71,0.754,0.955,6.33,3.48,3.52,True,False,False,False,True
+"Russ, Benjamin Edward",CENG 124A,WI19,98,71,0.754,0.667,6.33,3.48,3.52,True,False,False,False,True
+"Lubarda, Vlado",CENG 15,WI19,33,14,0.833,0.833,5.5,3.42,3.33,True,False,False,False,False
+"Drews, Aaron",CENG 176A,WI19,50,21,0.95,0.95,8.1,3.4,3.45,True,False,False,False,True
+"Zhang, Liangfang",CENG 176A,WI19,48,24,0.9520000000000001,0.905,8.31,3.62,3.65,True,False,False,False,True
+"Mancinelli, Ryan Mark",ENG 100D,WI19,60,20,0.889,1.0,6.06,3.69,3.78,True,False,False,False,True
+"Mc Culloch, Andrew Douglas",BENG 110,FA18,63,33,0.968,0.935,5.79,3.58,3.25,True,False,False,False,True
+"Valdez-Jasso, Daniela",BENG 110,FA18,47,15,0.769,0.6920000000000001,8.04,3.62,3.13,True,False,False,False,True
+"Metallo, Christian Michael",BENG 122A,FA18,59,18,0.941,0.882,6.38,3.71,3.47,True,False,False,False,True
+"Coleman, Todd Prentice",BENG 134,FA18,32,18,0.875,0.938,17.25,3.19,3.63,True,False,False,False,True
+"Lal, Ratnesh",BENG 141,FA18,32,29,0.9309999999999999,0.897,4.98,3.76,3.66,True,False,False,False,True
+"Fraley, Stephanie I.",BENG 161A,FA18,67,55,0.909,0.8909999999999999,9.52,3.31,3.02,True,False,False,False,True
+"Mali, Prashant Gulab Ram",BENG 162,FA18,66,57,0.8420000000000001,0.895,8.68,3.53,3.16,True,False,False,False,True
+"Sah, Robert Lie-Yuan",BENG 166A,FA18,71,42,0.146,0.2,9.85,3.22,3.4,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 179A,FA18,58,7,0.667,0.667,8.21,4.0,3.93,True,False,False,False,True
+"Zhong, Sheng",BENG 183,FA18,73,28,0.6920000000000001,0.76,3.02,3.59,3.54,True,False,False,False,True
+"Engler, Adam J.",BENG 193,FA18,26,9,1.0,1.0,7.39,4.0,3.88,True,False,False,False,True
+"Chen, Zheng",CENG 100,FA18,100,57,0.907,0.722,6.06,3.22,2.9,True,False,False,False,True
+"Powell, Alyssa",CENG 100,FA18,47,27,0.9620000000000001,1.0,4.88,3.58,2.96,True,False,False,False,True
+"Miller, David R.",CENG 101A,FA18,173,89,0.762,0.59,11.8,3.06,3.0,True,False,False,False,True
+"Russ, Benjamin Edward",CENG 120,FA18,98,86,0.8370000000000001,0.5579999999999999,8.1,3.28,3.21,True,False,False,False,True
+"Powell, Alyssa",CENG 122,FA18,51,42,1.0,1.0,6.7,3.71,3.44,True,False,False,False,True
+"Zhang, Liangfang",CENG 122,FA18,46,34,0.8440000000000001,0.6559999999999999,6.95,3.29,3.21,True,False,False,False,True
+"Lubarda, Vlado",CENG 15,FA18,62,30,0.867,0.8,4.37,3.53,3.32,True,False,False,False,False
+"Lubarda, Vlado",CENG 15,FA18,58,27,0.846,0.731,5.09,3.59,3.32,True,False,False,False,False
+"Drews, Aaron",CENG 15,FA18,24,12,0.818,1.0,9.77,2.92,2.92,True,False,False,False,False
+"Choi, Seongcheol",ENG 10,FA18,20,15,0.5329999999999999,0.5329999999999999,2.9,3.8,3.72,True,False,False,False,False
+"Evdokimenko, Ekaterina",ENG 10,FA18,22,14,0.5710000000000001,0.7140000000000001,2.21,3.92,3.94,True,False,False,False,False
+"Bratton, Maryann",ENG 100D,FA18,59,44,0.932,0.8859999999999999,5.45,3.91,3.61,True,False,False,False,True
+"Bratton, Maryann",ENG 100D,FA18,53,39,0.6920000000000001,0.763,5.85,3.47,3.61,True,False,False,False,True
+"Alexandrov, Ludmil B",BENG 100,SP18,163,74,0.764,0.9009999999999999,7.2,3.18,2.91,True,False,False,False,True
+"Huang, Xiaohua",BENG 102,SP18,51,20,0.632,0.579,5.03,3.53,3.72,True,False,False,False,True
+"Fraley, Stephanie I.",BENG 103B,SP18,119,110,0.873,0.927,8.74,3.32,3.0,True,False,False,False,True
+"Mc Culloch, Andrew Douglas",BENG 112B,SP18,59,18,0.556,0.556,4.94,3.44,3.82,True,False,False,False,True
+"Hasty, Jeff M",BENG 125,SP18,131,41,0.8109999999999999,0.722,6.66,3.32,3.51,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 125,SP18,131,41,0.8109999999999999,0.757,6.66,3.32,3.51,True,False,False,False,True
+"Mali, Prashant Gulab Ram",BENG 133,SP18,23,23,0.9129999999999999,1.0,6.67,3.43,3.57,True,False,False,False,True
+"Silva, Gabriel",BENG 140B,SP18,40,18,0.706,0.706,5.32,3.56,3.37,True,False,False,False,True
+"Devor, Anna",BENG 140B,SP18,30,11,1.0,1.0,3.41,3.64,3.78,True,False,False,False,True
+"Zhang, Kun",BENG 160,SP18,63,57,0.807,0.9470000000000001,8.01,3.54,3.36,True,False,False,False,True
+"Cabrales, Pedro",BENG 172,SP18,45,12,0.833,1.0,10.0,3.55,3.56,True,False,False,False,True
+"Omens, Jeffrey Howard",BENG 172,SP18,45,12,0.833,1.0,10.0,3.55,3.56,True,False,False,False,True
+"Bafna, Vineet",BENG 182,SP18,20,6,0.833,1.0,8.5,2.83,3.25,True,False,False,False,True
+"Dequach, Jessica A",BENG 186A,SP18,105,78,0.632,0.645,6.03,3.23,3.18,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 187D,SP18,23,5,1.0,1.0,6.5,4.0,3.9,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 187D,SP18,58,16,0.75,0.938,6.0,3.88,3.9,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 187D,SP18,48,16,0.929,1.0,3.83,4.0,3.9,True,False,False,False,True
+"Gough, David A.",BENG 189,SP18,31,8,0.375,0.25,4.5,3.38,3.72,True,False,False,False,True
+"Silva, Gabriel",BENG 189,SP18,31,8,0.375,0.75,4.5,3.38,3.72,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 101C,SP18,101,97,0.8959999999999999,0.9259999999999999,8.33,3.24,3.17,True,False,False,False,True
+"Drews, Aaron",CENG 113,SP18,85,49,0.915,1.0,9.05,3.23,3.07,True,False,False,False,True
+"Safari, Iman",CENG 113,SP18,42,40,0.95,0.9,8.65,3.3,3.69,True,False,False,False,True
+"Russ, Benjamin Edward",CENG 124B,SP18,102,82,0.617,0.951,4.82,3.72,3.73,True,False,False,False,True
+"Talbot, Jan B",CENG 124B,SP18,102,83,0.622,0.622,4.81,3.72,3.73,True,False,False,False,True
+"Lipomi, Darren John",CENG 134,SP18,35,17,0.8240000000000001,1.0,5.09,3.31,2.8,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 157,SP18,58,42,0.976,1.0,5.83,3.37,3.29,True,False,False,False,True
+"Drews, Aaron",CENG 176B,SP18,55,29,0.966,0.966,7.4,3.75,3.58,True,False,False,False,True
+"Chen, Zheng",CENG 176B,SP18,49,25,1.0,0.958,8.26,3.84,3.76,True,False,False,False,True
+"Choi, Seongcheol",ENG 10,SP18,24,8,1.0,1.0,3.5,4.0,3.83,True,False,False,False,False
+"Reynante, Brandon Marcellino",ENG 100D,SP18,52,48,0.7709999999999999,0.9570000000000001,7.92,3.6,3.59,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,SP18,48,39,1.0,1.0,7.09,3.58,3.59,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,SP18,32,30,0.8,0.9329999999999999,8.37,3.64,3.59,True,False,False,False,True
+"Omens, Jeffrey Howard",BENG 112A,WI18,62,21,0.9,0.9,5.87,3.58,3.52,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 119B,WI18,24,5,0.6,1.0,3.7,4.0,4.0,True,False,False,False,True
+"Subramaniam, Shankar",BENG 120,WI18,51,26,0.68,0.8,7.92,2.88,3.39,True,False,False,False,True
+"Wang, Yingxiao",BENG 120,WI18,50,26,0.68,0.64,7.92,2.88,3.39,True,False,False,False,True
+"Palsson, Bernhard O.",BENG 123,WI18,67,20,0.667,0.667,11.91,3.5,3.36,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 128B,WI18,21,9,0.889,1.0,9.75,3.89,4.0,True,False,False,False,True
+"Huang, Xiaohua",BENG 130,WI18,169,99,0.737,0.6459999999999999,6.54,3.42,3.43,True,False,False,False,True
+"Cabrales, Pedro",BENG 140A,WI18,49,26,0.917,0.917,7.83,3.58,3.59,True,False,False,False,True
+"Sparks, Steven Ray",BENG 140A,WI18,29,10,0.667,0.33299999999999996,6.06,3.11,3.6,True,False,False,False,True
+"Metallo, Christian Michael",BENG 161B,WI18,47,15,0.867,0.9329999999999999,7.57,3.33,3.4,True,False,False,False,True
+"Wang, Yingxiao",BENG 168,WI18,72,20,1.0,1.0,7.2,3.65,3.71,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 169B,WI18,27,5,1.0,1.0,7.7,4.0,4.0,True,False,False,False,True
+"Pevzner, Pavel Arkadjevich",BENG 181,WI18,39,19,0.706,0.706,17.61,2.89,3.3,True,False,False,False,True
+"Cauwenberghs, Gert",BENG 186B,WI18,40,12,0.818,0.909,9.0,3.17,3.39,True,False,False,False,True
+"Alvarez-Cabanillas, Miguel",BENG 186B,WI18,20,10,1.0,0.875,10.75,3.0,3.38,True,False,False,False,True
+"Liu, Ping",CENG 101B,WI18,69,48,0.8959999999999999,0.8540000000000001,8.83,3.19,2.95,True,False,False,False,True
+"Lubarda, Vlado",CENG 101B,WI18,41,27,0.889,1.0,6.65,3.63,3.7,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 102,WI18,89,87,0.9540000000000001,0.9540000000000001,9.01,3.13,3.08,True,False,False,False,True
+"Safari, Iman",CENG 102,WI18,31,30,0.8,0.633,10.3,3.03,3.76,True,False,False,False,True
+"Ong, Shyue Ping",CENG 114,WI18,110,102,0.833,0.8140000000000001,6.97,3.19,2.95,True,False,False,False,True
+"Russ, Benjamin Edward",CENG 124A,WI18,106,74,0.568,0.89,5.74,3.48,3.61,True,False,False,False,True
+"Talbot, Jan B",CENG 124A,WI18,106,74,0.581,0.486,5.74,3.48,3.61,True,False,False,False,True
+"Yang, Kesong",CENG 15,WI18,21,17,0.941,0.882,4.15,3.59,3.08,True,False,False,False,False
+"Drews, Aaron",CENG 176A,WI18,56,25,0.92,0.92,9.38,3.63,3.58,True,False,False,False,True
+"Zhang, Liangfang",CENG 176A,WI18,50,23,0.857,1.0,10.12,3.52,3.61,True,False,False,False,True
+"Larson, David Philip",ENG 10,WI18,24,18,0.9440000000000001,1.0,2.17,3.88,3.97,True,False,False,False,False
+"Choi, Seongcheol",ENG 10,WI18,24,19,0.833,0.833,2.72,4.0,4.0,True,False,False,False,False
+"Reynante, Brandon Marcellino",ENG 100D,WI18,46,45,0.8220000000000001,0.978,7.12,3.61,3.61,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,WI18,46,44,0.977,1.0,6.83,3.6,3.61,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,WI18,44,43,0.93,1.0,7.66,3.66,3.61,True,False,False,False,True
+"Mc Culloch, Andrew Douglas",BENG 110,FA17,90,44,0.628,0.488,6.45,3.36,3.73,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 119A,FA17,25,6,0.8,1.0,1.7,3.67,3.88,True,False,False,False,True
+"Gough, David A.",BENG 122A,FA17,62,11,0.3,0.2,5.7,3.3,3.31,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 128A,FA17,20,7,1.0,1.0,6.5,4.0,3.85,True,False,False,False,True
+"Bartsch, Dirk-Uwe Guenther",BENG 134,FA17,20,12,0.364,0.33299999999999996,6.5,3.5,3.55,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 135,FA17,33,4,1.0,1.0,8.5,3.25,3.53,True,False,False,False,True
+"Fraley, Stephanie I.",BENG 161A,FA17,61,41,0.976,0.976,8.5,3.54,2.92,True,False,False,False,True
+"Mali, Prashant Gulab Ram",BENG 162,FA17,59,44,1.0,1.0,6.08,3.77,3.75,True,False,False,False,True
+"Sah, Robert Lie-Yuan",BENG 166A,FA17,64,39,0.361,0.41700000000000004,8.23,3.69,3.46,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 169A,FA17,26,6,1.0,1.0,5.3,3.75,3.95,True,False,False,False,True
+"Zhong, Sheng",BENG 183,FA17,83,70,0.7290000000000001,0.7709999999999999,3.9,3.43,3.75,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 187B,FA17,129,32,0.862,1.0,6.43,3.9,3.88,True,False,False,False,True
+"Engler, Adam J.",BENG 193,FA17,20,4,1.0,1.0,4.5,4.0,3.91,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 2,FA17,25,13,0.846,0.9229999999999999,7.27,3.5,3.35,True,False,False,False,False
+"Talbot, Jan B",CENG 100,FA17,110,92,0.902,0.846,4.54,3.69,3.68,True,False,False,False,True
+"Russ, Benjamin Edward",CENG 100,FA17,43,38,0.9209999999999999,0.73,5.39,3.61,3.65,True,False,False,False,True
+"Powell, Alyssa",CENG 100,FA17,26,22,0.955,0.955,7.32,3.64,3.57,True,False,False,False,True
+"Miller, David R.",CENG 101A,FA17,165,82,0.785,0.6920000000000001,13.23,3.27,3.03,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 120,FA17,104,101,0.96,0.96,9.04,3.28,3.15,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 122,FA17,108,105,0.943,0.971,9.71,3.19,3.19,True,False,False,False,True
+"Lubarda, Vlado",CENG 15,FA17,59,36,0.848,0.75,5.5,3.45,3.85,True,False,False,False,False
+"Lubarda, Vlado",CENG 15,FA17,53,32,0.867,0.821,6.11,3.68,3.85,True,False,False,False,False
+"Larson, David Philip",ENG 10,FA17,33,19,0.889,1.0,1.5,3.89,3.89,True,False,False,False,False
+"Choi, Seongcheol",ENG 10,FA17,26,15,0.5329999999999999,0.6,1.7,3.86,3.85,True,False,False,False,False
+"Reynante, Brandon Marcellino",ENG 100D,FA17,51,37,0.919,0.919,6.01,3.83,3.62,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,FA17,48,46,0.935,0.978,6.11,3.82,3.62,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,FA17,45,43,0.976,1.0,6.17,3.71,3.62,True,False,False,False,True
+"Coleman, Todd Prentice",BENG 100,SP17,150,53,0.654,0.7879999999999999,8.81,3.08,2.9,True,False,False,False,True
+"Huang, Xiaohua",BENG 102,SP17,35,11,0.818,0.545,4.14,3.73,3.61,True,False,False,False,True
+"Fraley, Stephanie I.",BENG 103B,SP17,112,100,0.85,0.89,8.15,3.31,2.84,True,False,False,False,True
+"Engler, Adam J.",BENG 112B,SP17,44,36,0.889,0.917,6.33,3.32,3.25,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 125,SP17,140,34,0.867,0.8,6.87,3.57,3.48,True,False,False,False,True
+"Mali, Prashant Gulab Ram",BENG 133,SP17,33,28,0.7859999999999999,0.893,5.71,3.39,3.49,True,False,False,False,True
+"Silva, Gabriel",BENG 140B,SP17,81,24,0.833,0.833,4.85,3.33,3.29,True,False,False,False,True
+"Zhang, Kun",BENG 160,SP17,58,30,0.893,0.929,6.13,3.79,3.64,True,False,False,False,True
+"Cabrales, Pedro",BENG 172,SP17,38,20,0.9440000000000001,0.9440000000000001,8.03,3.59,3.57,True,False,False,False,True
+"Omens, Jeffrey Howard",BENG 172,SP17,38,20,0.9440000000000001,1.0,8.03,3.59,3.57,True,False,False,False,True
+"Bafna, Vineet",BENG 182,SP17,42,17,0.882,0.882,8.23,3.25,2.95,True,False,False,False,True
+"Christman, Karen",BENG 186A,SP17,114,83,0.841,0.902,6.23,3.39,3.04,True,False,False,False,True
+"Dequach, Jessica A",BENG 186A,SP17,114,84,0.855,0.855,6.25,3.37,3.04,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 187D,SP17,122,28,0.889,0.9259999999999999,6.59,4.0,3.85,True,False,False,False,True
+"Gough, David A.",BENG 189,SP17,32,4,0.5,0.25,5.5,3.75,3.69,True,False,False,False,True
+"Silva, Gabriel",BENG 189,SP17,31,4,0.5,1.0,5.5,3.75,3.69,True,False,False,False,True
+"Arya, Gaurav",CENG 101C,SP17,105,39,0.972,0.861,7.17,3.32,3.09,True,False,False,False,True
+"Drews, Aaron",CENG 113,SP17,98,38,0.946,0.973,8.88,3.41,2.86,True,False,False,False,True
+"Russ, Benjamin Edward",CENG 124B,SP17,237,153,0.42,0.727,4.35,3.58,3.59,True,False,False,False,True
+"Talbot, Jan B",CENG 124B,SP17,237,152,0.42200000000000004,0.449,4.37,3.58,3.59,True,False,False,False,True
+"Lipomi, Darren John",CENG 134,SP17,82,30,0.833,0.9329999999999999,6.1,3.17,3.02,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 157,SP17,68,28,0.893,0.9640000000000001,5.09,3.32,3.39,True,False,False,False,True
+"Chen, Zheng",CENG 176B,SP17,134,46,0.953,0.93,7.85,3.54,3.72,True,False,False,False,True
+"Drews, Aaron",CENG 176B,SP17,134,47,0.953,0.977,7.85,3.54,3.72,True,False,False,False,True
+"Fenning, David",CENG 176B,SP17,134,46,0.953,0.977,7.85,3.54,3.72,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 176B,SP17,134,47,0.932,0.932,7.68,3.55,3.72,True,False,False,False,True
+"Vazquez Mena, Oscar",CENG 176B,SP17,134,46,0.953,0.907,7.85,3.54,3.72,True,False,False,False,True
+"Yang, Kesong",CENG 176B,SP17,134,46,0.953,1.0,7.85,3.54,3.72,True,False,False,False,True
+"Zhang, Liangfang",CENG 176B,SP17,134,46,0.953,0.953,7.85,3.54,3.72,True,False,False,False,True
+"Chen, Zheng",CENG 176B,SP17,101,32,0.9620000000000001,1.0,8.5,3.76,3.72,True,False,False,False,True
+"Drews, Aaron",CENG 176B,SP17,102,32,0.9620000000000001,0.9620000000000001,8.5,3.76,3.72,True,False,False,False,True
+"Fenning, David",CENG 176B,SP17,101,32,0.9620000000000001,1.0,8.5,3.76,3.72,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 176B,SP17,101,32,0.9620000000000001,1.0,8.5,3.76,3.72,True,False,False,False,True
+"Vazquez Mena, Oscar",CENG 176B,SP17,101,32,0.9620000000000001,0.9229999999999999,8.5,3.76,3.72,True,False,False,False,True
+"Yang, Kesong",CENG 176B,SP17,101,32,0.9620000000000001,1.0,8.5,3.76,3.72,True,False,False,False,True
+"Zhang, Liangfang",CENG 176B,SP17,101,32,0.9620000000000001,1.0,8.5,3.76,3.72,True,False,False,False,True
+"Karandikar, Keyur",ENG 10,SP17,20,8,0.875,0.75,4.0,4.0,3.71,True,False,False,False,False
+"Steck, Jamie Bradley",ENG 100D,SP17,50,46,0.978,0.9570000000000001,4.72,3.71,3.74,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,SP17,51,48,0.917,0.917,4.94,3.74,3.82,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,SP17,54,49,0.98,0.9590000000000001,5.1,3.69,3.82,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,SP17,53,48,0.958,0.958,5.98,3.83,3.82,True,False,False,False,True
+"Mc Culloch, Andrew Douglas",BENG 112A,WI17,45,12,0.833,0.667,5.67,3.42,3.6,True,False,False,False,True
+"Subramaniam, Shankar",BENG 120,WI17,40,20,0.882,0.882,6.26,3.29,3.62,True,False,False,False,True
+"Wang, Yingxiao",BENG 120,WI17,40,19,0.875,0.867,6.5,3.31,3.62,True,False,False,False,True
+"Palsson, Bernhard O.",BENG 123,WI17,73,15,0.733,0.5329999999999999,9.57,3.5,3.14,True,False,False,False,True
+"Subramaniam, Shankar",BENG 130,WI17,184,56,0.8270000000000001,0.865,6.54,3.42,3.34,True,False,False,False,True
+"Cabrales, Pedro",BENG 140A,WI17,79,50,0.857,0.857,6.99,3.59,3.69,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 152,WI17,29,7,1.0,1.0,5.93,3.67,3.57,True,False,False,False,True
+"Metallo, Christian Michael",BENG 161B,WI17,57,26,0.958,0.917,6.95,3.45,3.38,True,False,False,False,True
+"Wang, Yingxiao",BENG 168,WI17,72,16,1.0,0.9329999999999999,7.03,3.8,3.59,True,False,False,False,True
+"Pevzner, Pavel Arkadjevich",BENG 181,WI17,46,39,0.821,0.821,16.82,3.03,3.28,True,False,False,False,True
+"Cauwenberghs, Gert",BENG 186B,WI17,71,22,0.81,0.762,8.31,3.15,3.32,True,False,False,False,True
+"Liu, Ping",CENG 101B,WI17,101,85,0.976,0.9179999999999999,7.62,3.42,3.08,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 102,WI17,108,92,0.9570000000000001,0.9890000000000001,8.39,3.57,3.42,True,False,False,False,True
+"Ong, Shyue Ping",CENG 114,WI17,111,100,0.79,0.86,6.26,3.35,2.99,True,False,False,False,True
+"Russ, Benjamin Edward",CENG 124A,WI17,236,131,0.369,0.648,4.37,3.48,3.68,True,False,False,False,True
+"Talbot, Jan B",CENG 124A,WI17,236,131,0.361,0.377,4.38,3.48,3.68,True,False,False,False,True
+"Yang, Kesong",CENG 15,WI17,45,34,0.912,0.882,5.21,3.56,3.11,True,False,False,False,False
+"Chen, Zheng",CENG 176A,WI17,134,97,0.955,0.955,8.01,3.51,3.54,True,False,False,False,True
+"Drews, Aaron",CENG 176A,WI17,134,101,0.934,0.956,8.05,3.5,3.54,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 176A,WI17,134,96,0.953,0.953,7.97,3.51,3.54,True,False,False,False,True
+"Yang, Kesong",CENG 176A,WI17,134,93,0.953,0.8590000000000001,7.96,3.51,3.54,True,False,False,False,True
+"Zhang, Liangfang",CENG 176A,WI17,134,93,0.953,0.9059999999999999,7.96,3.51,3.54,True,False,False,False,True
+"Chen, Zheng",CENG 176A,WI17,102,59,0.965,0.9470000000000001,8.98,3.65,3.54,True,False,False,False,True
+"Drews, Aaron",CENG 176A,WI17,102,61,0.966,1.0,9.01,3.64,3.54,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 176A,WI17,102,59,0.9640000000000001,0.9640000000000001,9.07,3.64,3.54,True,False,False,False,True
+"Yang, Kesong",CENG 176A,WI17,102,59,0.9640000000000001,0.929,9.07,3.64,3.54,True,False,False,False,True
+"Zhang, Liangfang",CENG 176A,WI17,102,59,0.9640000000000001,0.982,9.07,3.64,3.54,True,False,False,False,True
+"Karandikar, Keyur",ENG 10,WI17,21,11,0.889,0.778,2.28,4.0,3.94,True,False,False,False,False
+"Larson, David Philip",ENG 10,WI17,22,11,0.818,1.0,3.23,3.64,3.97,True,False,False,False,False
+"Williams, Ebonee P.",ENG 100B,WI17,30,9,0.857,0.857,1.64,4.0,3.84,True,False,False,False,True
+"Steck, Jamie Bradley",ENG 100D,WI17,46,44,0.93,0.884,5.03,3.69,3.81,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,WI17,53,49,0.9390000000000001,0.9590000000000001,5.68,3.75,3.9,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,WI17,48,48,0.833,0.8959999999999999,6.67,3.81,3.9,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,WI17,53,49,0.898,0.98,5.93,3.84,3.9,True,False,False,False,True
+"Mc Culloch, Andrew Douglas",BENG 110,FA16,104,51,0.833,0.875,5.96,3.43,3.68,True,False,False,False,True
+"Metallo, Christian Michael",BENG 122A,FA16,81,20,0.8420000000000001,0.579,6.5,3.32,3.42,True,False,False,False,True
+"Coleman, Todd Prentice",BENG 134,FA16,30,14,0.846,0.769,6.65,3.15,3.78,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 135,FA16,30,4,1.0,1.0,7.5,3.25,3.37,True,False,False,False,True
+"Lal, Ratnesh",BENG 141,FA16,34,31,0.833,0.767,4.17,3.54,3.34,True,False,False,False,True
+"Fraley, Stephanie I.",BENG 161A,FA16,57,53,0.8109999999999999,0.8490000000000001,9.54,3.25,3.12,True,False,False,False,True
+"Mali, Prashant Gulab Ram",BENG 162,FA16,49,47,0.915,1.0,6.23,3.6,3.66,True,False,False,False,True
+"Varghese, Shyni",BENG 166A,FA16,52,49,0.7959999999999999,0.408,5.56,3.45,3.32,True,False,False,False,True
+"Zhong, Sheng",BENG 183,FA16,68,48,0.813,0.8959999999999999,4.2,3.5,3.5,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 2,FA16,33,22,0.9470000000000001,0.9470000000000001,7.66,3.79,3.3,True,False,False,False,False
+"Talbot, Jan B",CENG 100,FA16,146,70,0.892,0.754,5.92,3.73,3.7,True,False,False,False,True
+"Miller, David R.",CENG 101A,FA16,176,80,0.9590000000000001,0.6759999999999999,11.91,3.34,3.15,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 120,FA16,244,219,0.9209999999999999,0.94,9.05,3.35,3.13,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 122,FA16,239,197,0.907,0.9690000000000001,9.28,3.21,3.02,True,False,False,False,True
+"Karandikar, Keyur",ENG 10,FA16,31,18,0.889,0.722,3.28,3.94,3.95,True,False,False,False,False
+"Larson, David Philip",ENG 10,FA16,29,17,0.882,1.0,1.91,4.0,3.98,True,False,False,False,False
+"Steck, Jamie Bradley",ENG 100D,FA16,54,48,0.958,0.938,4.67,3.57,3.74,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,FA16,54,52,0.904,0.9420000000000001,5.38,3.62,3.81,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,FA16,53,46,0.778,0.8440000000000001,7.1,3.45,3.81,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,FA16,49,44,0.773,1.0,6.41,3.62,3.81,True,False,False,False,True
+"Bratton, Maryann",ENG 100L,FA16,32,12,1.0,0.818,3.05,4.0,3.83,True,False,False,False,True
+"Coleman, Todd Prentice",BENG 100,SP16,154,51,0.563,0.563,9.33,3.0,2.64,True,False,False,False,True
+"Engler, Adam J.",BENG 102,SP16,29,6,1.0,1.0,5.83,3.67,3.21,True,False,False,False,True
+"Fraley, Stephanie I.",BENG 103B,SP16,95,88,0.7609999999999999,0.511,8.52,3.32,3.14,True,False,False,False,True
+"Engler, Adam J.",BENG 112B,SP16,50,47,0.872,1.0,7.9,3.27,3.14,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 125,SP16,131,52,0.8540000000000001,0.958,6.5,3.37,3.48,True,False,False,False,True
+"Mali, Prashant Gulab Ram",BENG 133,SP16,40,34,0.727,0.818,6.5,3.24,3.42,True,False,False,False,True
+"Silva, Gabriel",BENG 140B,SP16,98,38,0.917,0.972,5.33,3.29,3.16,True,False,False,False,True
+"Zhang, Kun",BENG 160,SP16,49,39,0.605,0.605,6.01,3.68,3.6,True,False,False,False,True
+"Cabrales, Pedro",BENG 172,SP16,39,20,1.0,0.9440000000000001,10.17,3.53,3.44,True,False,False,False,True
+"Omens, Jeffrey Howard",BENG 172,SP16,39,20,1.0,0.9440000000000001,10.17,3.53,3.44,True,False,False,False,True
+"Bafna, Vineet",BENG 182,SP16,46,19,0.867,0.8,10.9,3.13,2.98,True,False,False,False,True
+"Christman, Karen",BENG 186A,SP16,160,107,0.84,0.868,6.4,3.17,2.99,True,False,False,False,True
+"Cabrales, Pedro",BENG 187A,SP16,126,59,0.887,0.9620000000000001,1.42,3.88,3.85,True,False,False,False,True
+"Cabrales, Pedro",BENG 187D,SP16,114,29,0.929,0.9640000000000001,7.62,3.79,4.0,True,False,False,False,True
+"Miller, David R.",CENG 101C,SP16,252,100,0.755,0.51,9.49,2.99,2.94,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 113,SP16,138,123,0.9179999999999999,0.9840000000000001,9.09,3.13,3.1,True,False,False,False,True
+"Fakhimi, Sourena",CENG 124B,SP16,193,106,0.612,0.35,5.26,3.71,3.68,True,False,False,False,True
+"Russ, Benjamin Edward",CENG 124B,SP16,193,106,0.612,0.951,5.26,3.71,3.68,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 157,SP16,69,35,1.0,1.0,5.1,3.52,3.43,True,False,False,False,True
+"Drews, Aaron",CENG 176B,SP16,136,102,1.0,0.99,7.01,3.73,3.65,True,False,False,False,True
+"Fenning, David",CENG 176B,SP16,136,98,1.0,0.9279999999999999,7.16,3.73,3.65,True,False,False,False,True
+"Xu, Sheng",CENG 176B,SP16,136,97,1.0,0.907,7.18,3.73,3.65,True,False,False,False,True
+"Yang, Kesong",CENG 176B,SP16,136,97,1.0,0.887,7.16,3.73,3.65,True,False,False,False,True
+"Zhang, Liangfang",CENG 176B,SP16,136,96,1.0,0.9059999999999999,7.17,3.73,3.65,True,False,False,False,True
+"Drews, Aaron",CENG 176B,SP16,59,41,0.951,0.976,7.62,3.78,3.81,True,False,False,False,True
+"Fenning, David",CENG 176B,SP16,59,41,0.951,0.927,7.62,3.78,3.81,True,False,False,False,True
+"Xu, Sheng",CENG 176B,SP16,59,40,0.95,0.95,7.7,3.78,3.81,True,False,False,False,True
+"Yang, Kesong",CENG 176B,SP16,59,40,0.95,0.9,7.7,3.78,3.81,True,False,False,False,True
+"Zhang, Liangfang",CENG 176B,SP16,59,40,0.95,0.95,7.7,3.78,3.81,True,False,False,False,True
+"Steck, Jamie Bradley",ENG 100D,SP16,57,16,0.938,0.938,4.63,3.73,3.7,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,SP16,57,54,0.868,0.925,4.42,3.6,3.71,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,SP16,54,52,0.981,0.981,6.82,3.71,3.96,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,SP16,59,56,1.0,0.982,4.82,3.69,3.86,True,False,False,False,True
+"Smith, David M.",ENG 100L,SP16,20,7,1.0,1.0,4.83,4.0,4.0,True,False,False,False,True
+"Kleissl, Jan",ENG 100L,SP16,22,4,1.0,1.0,3.0,4.0,3.9,True,False,False,False,True
+"Lal, Ratnesh",BENG 112A,WI16,55,50,0.6,0.58,5.26,3.63,3.33,True,False,False,False,True
+"Huang, Xiaohua",BENG 120,WI16,29,15,1.0,0.643,5.21,3.57,3.69,True,False,False,False,True
+"Wang, Yingxiao",BENG 120,WI16,29,15,1.0,1.0,5.21,3.57,3.69,True,False,False,False,True
+"Palsson, Bernhard O.",BENG 123,WI16,56,23,0.7829999999999999,0.7390000000000001,10.15,3.3,3.38,True,False,False,False,True
+"Huang, Xiaohua",BENG 130,WI16,184,64,0.721,0.525,6.53,3.29,3.59,True,False,False,False,True
+"Cabrales, Pedro",BENG 140A,WI16,119,41,0.975,0.925,7.37,3.38,3.49,True,False,False,False,True
+"Cabrales, Pedro",BENG 147B,WI16,23,6,0.833,1.0,8.9,4.0,3.68,True,False,False,False,True
+"Cauwenberghs, Gert",BENG 147B,WI16,23,6,0.833,1.0,8.9,4.0,3.68,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 152,WI16,35,4,1.0,1.0,7.0,3.75,3.57,True,False,False,False,True
+"Zhang, Kun",BENG 161B,WI16,51,42,0.8540000000000001,0.8290000000000001,7.39,3.43,3.57,True,False,False,False,True
+"Wang, Yingxiao",BENG 168,WI16,54,21,0.905,0.762,6.8,3.52,3.69,True,False,False,False,True
+"Pevzner, Pavel Arkadjevich",BENG 181,WI16,32,11,0.8,0.8,18.9,3.4,3.06,True,False,False,False,True
+"Omens, Jeffrey Howard",BENG 186B,WI16,72,30,1.0,0.929,7.69,3.62,3.43,True,False,False,False,True
+"Lubarda, Vlado",CENG 101B,WI16,257,136,0.8909999999999999,0.789,6.92,3.44,3.51,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 102,WI16,136,128,0.976,0.992,7.86,3.46,3.31,True,False,False,False,True
+"Ong, Shyue Ping",CENG 114,WI16,183,156,0.7709999999999999,0.7909999999999999,6.73,3.26,3.05,True,False,False,False,True
+"Fakhimi, Sourena",CENG 124A,WI16,194,110,0.575,0.179,5.67,3.4,3.5,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 124A,WI16,194,111,0.583,0.981,5.72,3.42,3.5,True,False,False,False,True
+"Lipomi, Darren John",CENG 134,WI16,72,32,0.935,1.0,6.22,3.52,3.41,True,False,False,False,True
+"Drews, Aaron",CENG 176A,WI16,136,90,0.978,1.0,8.54,3.61,3.61,True,False,False,False,True
+"Yang, Kesong",CENG 176A,WI16,136,86,0.976,0.9159999999999999,8.48,3.58,3.61,True,False,False,False,True
+"Zhang, Liangfang",CENG 176A,WI16,136,84,0.976,0.938,8.4,3.56,3.61,True,False,False,False,True
+"Drews, Aaron",CENG 176A,WI16,60,45,0.978,0.956,9.03,3.53,3.61,True,False,False,False,True
+"Yang, Kesong",CENG 176A,WI16,60,43,0.977,0.86,8.73,3.51,3.61,True,False,False,False,True
+"Zhang, Liangfang",CENG 176A,WI16,60,43,0.977,0.884,8.73,3.51,3.61,True,False,False,False,True
+"Eremenko, Svetlana",ENG 100B,WI16,24,9,0.667,0.889,1.83,3.5,3.98,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,WI16,54,53,0.9620000000000001,1.0,6.08,3.71,3.84,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,WI16,52,52,0.9620000000000001,0.981,5.72,3.76,3.84,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,WI16,52,51,0.902,0.922,5.11,3.86,3.84,True,False,False,False,True
+"Bratton, Maryann",ENG 100L,WI16,27,18,1.0,1.0,4.93,4.0,3.93,True,False,False,False,True
+"Kleissl, Jan",ENG 100L,WI16,20,7,1.0,1.0,2.21,4.0,4.0,True,False,False,False,True
+"Smith, David M.",ENG 100L,WI16,20,10,1.0,1.0,6.0,4.0,4.0,True,False,False,False,True
+"Mc Culloch, Andrew Douglas",BENG 110,FA15,112,39,0.8059999999999999,0.6940000000000001,7.68,3.5,3.77,True,False,False,False,True
+"Metallo, Christian Michael",BENG 122A,FA15,64,20,0.9470000000000001,1.0,7.03,3.58,3.49,True,False,False,False,True
+"Coleman, Todd Prentice",BENG 134,FA15,40,20,0.8420000000000001,0.684,9.5,3.05,3.23,True,False,False,False,True
+"Lal, Ratnesh",BENG 141,FA15,38,34,0.882,0.853,5.56,3.79,3.5,True,False,False,False,True
+"Cabrales, Pedro",BENG 147A,FA15,24,5,1.0,1.0,8.1,4.0,3.81,True,False,False,False,True
+"Cauwenberghs, Gert",BENG 147A,FA15,25,5,1.0,1.0,8.1,4.0,3.81,True,False,False,False,True
+"Fraley, Stephanie I.",BENG 161A,FA15,55,52,0.9620000000000001,0.9420000000000001,9.15,3.16,2.84,True,False,False,False,True
+"Mali, Prashant Gulab Ram",BENG 162,FA15,58,26,0.81,0.9520000000000001,6.9,3.6,3.53,True,False,False,False,True
+"Mercola, Mark",BENG 162,FA15,58,27,0.81,0.9520000000000001,6.9,3.6,3.53,True,False,False,False,True
+"Varghese, Shyni",BENG 166A,FA15,57,53,0.9620000000000001,0.981,5.56,3.72,3.22,True,False,False,False,True
+"Zhong, Sheng",BENG 183,FA15,57,57,0.8420000000000001,0.877,4.43,3.42,3.75,True,False,False,False,True
+"Wheeler, Bruce Christopher",BENG 2,FA15,30,13,0.7,0.8,5.3,3.45,3.55,True,False,False,False,False
+"Fakhimi, Sourena",CENG 100,FA15,177,119,0.588,0.009000000000000001,7.98,2.55,2.71,True,False,False,False,True
+"Fenning, David",CENG 101A,FA15,201,163,0.852,0.907,12.08,3.19,2.99,True,False,False,False,True
+"Miller, David R.",CENG 101A,FA15,196,167,0.836,0.642,12.01,3.18,2.99,True,False,False,False,True
+"Drews, Aaron",CENG 101A,FA15,115,100,0.88,0.99,12.7,3.18,3.04,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 120,FA15,194,173,0.925,0.971,9.23,3.32,3.23,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 122,FA15,200,179,0.9079999999999999,0.937,9.71,3.08,3.11,True,False,False,False,True
+"Lubarda, Vlado",CENG 15,FA15,55,31,0.774,0.742,4.76,3.55,3.27,True,False,False,False,False
+"Lubarda, Vlado",CENG 15,FA15,62,29,0.9229999999999999,0.8079999999999999,5.73,3.42,3.27,True,False,False,False,False
+"Reynante, Brandon Marcellino",ENG 100D,FA15,54,50,0.857,0.9590000000000001,5.79,3.76,3.83,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,FA15,52,51,0.922,0.961,4.78,3.76,3.83,True,False,False,False,True
+"Ferrante, Jeanne",ENG 100D,FA15,51,50,0.9,0.98,4.1,3.78,3.54,True,False,False,False,True
+"Bratton, Maryann",ENG 100L,FA15,20,12,0.917,0.833,4.5,4.0,3.95,True,False,False,False,True
+"Coleman, Todd Prentice",BENG 100,SP15,146,62,0.534,0.672,10.95,3.14,3.08,True,False,False,False,True
+"Huang, Xiaohua",BENG 102,SP15,37,12,0.917,0.917,5.33,3.5,3.79,True,False,False,False,True
+"Sah, Robert Lie-Yuan",BENG 103B,SP15,121,42,0.7559999999999999,0.512,9.27,3.23,3.31,True,False,False,False,True
+"Engler, Adam J.",BENG 112B,SP15,59,48,0.938,1.0,9.01,3.38,3.2,True,False,False,False,True
+"Hasty, Jeff M",BENG 125,SP15,119,26,0.9129999999999999,0.9570000000000001,7.02,3.65,3.08,True,False,False,False,True
+"Silva, Gabriel",BENG 140B,SP15,62,23,1.0,1.0,7.0,3.75,3.72,True,False,False,False,True
+"Zhang, Kun",BENG 160,SP15,58,29,0.963,0.963,5.04,3.64,3.57,True,False,False,False,True
+"Wang, Yingxiao",BENG 168,SP15,60,18,0.9440000000000001,0.9440000000000001,6.15,3.38,3.61,True,False,False,False,True
+"Cabrales, Pedro",BENG 172,SP15,55,16,0.813,1.0,11.79,3.67,3.31,True,False,False,False,True
+"Omens, Jeffrey Howard",BENG 172,SP15,55,16,0.867,1.0,11.73,3.64,3.31,True,False,False,False,True
+"Christman, Karen",BENG 186A,SP15,106,23,0.696,0.696,6.77,3.61,2.97,True,False,False,False,True
+"Cabrales, Pedro",BENG 187D,SP15,101,17,1.0,1.0,4.5,3.94,3.92,True,False,False,False,True
+"Arya, Gaurav",CENG 101C,SP15,204,71,0.91,0.8059999999999999,6.74,3.52,3.02,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 113,SP15,277,256,0.866,0.9570000000000001,10.84,3.31,2.96,True,False,False,False,True
+"Talbot, Jan B",CENG 124B,SP15,129,93,0.8370000000000001,0.804,6.46,3.68,3.64,True,False,False,False,True
+"Drews, Aaron",CENG 176B,SP15,130,123,0.9590000000000001,0.992,7.54,3.72,3.86,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 176B,SP15,130,120,0.958,0.975,7.57,3.72,3.86,True,False,False,False,True
+"Yang, Kesong",CENG 176B,SP15,130,119,0.958,0.8640000000000001,7.54,3.72,3.86,True,False,False,False,True
+"Tu, Charles",ENG 100D,SP15,59,29,0.821,0.679,3.91,3.65,3.42,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,SP15,57,56,0.929,0.9640000000000001,5.02,3.78,3.9,True,False,False,False,True
+"Bratton, Maryann",ENG 100L,SP15,24,11,1.0,1.0,4.14,3.91,3.88,True,False,False,False,True
+"Omens, Jeffrey Howard",BENG 109,WI15,82,40,0.6759999999999999,0.946,6.5,3.57,3.23,True,False,False,False,True
+"Lal, Ratnesh",BENG 112A,WI15,55,51,0.82,0.68,4.73,3.78,3.97,True,False,False,False,True
+"Subramaniam, Shankar",BENG 120,WI15,41,18,0.8240000000000001,0.941,7.68,3.41,3.66,True,False,False,False,True
+"Metallo, Christian Michael",BENG 122A,WI15,54,10,1.0,0.889,6.06,3.78,3.34,True,False,False,False,True
+"Palsson, Bernhard O.",BENG 123,WI15,59,25,0.75,0.792,9.8,3.23,2.99,True,False,False,False,True
+"Subramaniam, Shankar",BENG 130,WI15,129,41,0.875,0.95,7.05,3.58,3.59,True,False,False,False,True
+"Zhong, Sheng",BENG 130,WI15,129,40,0.872,0.667,6.96,3.56,3.59,True,False,False,False,True
+"Cabrales, Pedro",BENG 140A,WI15,82,30,0.852,1.0,7.35,3.81,3.61,True,False,False,False,True
+"Metallo, Christian Michael",BENG 161B,WI15,56,15,0.867,0.9329999999999999,7.7,3.47,3.34,True,False,False,False,True
+"Zhang, Kun",BENG 161B,WI15,56,15,0.867,0.6,7.7,3.47,3.34,True,False,False,False,True
+"Cauwenberghs, Gert",BENG 186B,WI15,56,21,0.9520000000000001,0.905,9.2,3.25,3.52,True,False,False,False,True
+"Cabrales, Pedro",BENG 187C,WI15,101,18,0.889,0.9440000000000001,6.15,4.0,3.92,True,False,False,False,True
+"Hasty, Jeff M",BENG 2,WI15,29,10,1.0,0.7,3.83,3.8,3.45,True,False,False,False,False
+"Lubarda, Vlado",CENG 101B,WI15,203,92,0.8809999999999999,0.7020000000000001,6.07,3.33,3.1,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 102,WI15,267,253,0.968,0.976,8.61,3.51,3.31,True,False,False,False,True
+"Ong, Shyue Ping",CENG 114,WI15,69,63,0.778,0.698,7.22,3.13,2.92,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 124A,WI15,129,118,0.915,0.983,10.08,3.53,3.69,True,False,False,False,True
+"Lipomi, Darren John",CENG 134,WI15,66,32,0.875,0.938,5.75,3.52,3.2,True,False,False,False,True
+"Yang, Kesong",CENG 15,WI15,55,23,0.9129999999999999,0.652,5.63,3.45,3.19,True,False,False,False,False
+"Drews, Aaron",CENG 176A,WI15,130,122,0.9420000000000001,0.983,9.77,3.45,3.69,True,False,False,False,True
+"Yang, Kesong",CENG 176A,WI15,130,118,0.94,0.88,9.74,3.45,3.69,True,False,False,False,True
+"Zhang, Liangfang",CENG 176A,WI15,130,120,0.941,0.857,9.74,3.45,3.69,True,False,False,False,True
+"Ferrante, Jeanne",ENG 100D,WI15,46,42,0.9520000000000001,0.976,5.23,3.83,3.72,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,WI15,39,38,0.9740000000000001,1.0,4.5,3.89,3.87,True,False,False,False,True
+"Bratton, Maryann",ENG 100L,WI15,23,16,1.0,1.0,6.21,4.0,3.97,True,False,False,False,True
+"Hall, David J",BENG 101,FA14,64,52,0.863,0.745,5.21,3.37,3.05,True,False,False,False,True
+"Lal, Ratnesh",BENG 101,FA14,64,53,0.865,0.8270000000000001,5.15,3.38,3.05,True,False,False,False,True
+"Mc Culloch, Andrew Douglas",BENG 110,FA14,54,25,0.87,0.9129999999999999,8.95,3.5,3.36,True,False,False,False,True
+"Metallo, Christian Michael",BENG 161A,FA14,56,12,0.9,1.0,6.7,3.7,3.2,True,False,False,False,True
+"Mercola, Mark",BENG 162,FA14,55,10,1.0,1.0,6.5,3.88,3.87,True,False,False,False,True
+"Wang, Yingxiao",BENG 162,FA14,52,10,1.0,0.875,6.5,3.88,3.87,True,False,False,False,True
+"Varghese, Shyni",BENG 166A,FA14,72,21,0.647,0.17600000000000002,6.85,3.24,3.36,True,False,False,False,True
+"Bafna, Vineet",BENG 182,FA14,20,16,0.857,0.7859999999999999,7.79,3.54,3.14,True,False,False,False,True
+"Zhong, Sheng",BENG 183,FA14,35,34,0.75,0.7809999999999999,3.85,3.41,3.75,True,False,False,False,True
+"Cabrales, Pedro",BENG 187B,FA14,101,18,0.875,0.938,5.63,3.94,3.92,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 100,FA14,262,240,0.93,0.983,8.32,3.27,3.12,True,False,False,False,True
+"Drews, Aaron",CENG 100,FA14,61,56,0.9109999999999999,0.946,9.25,3.09,2.55,True,False,False,False,True
+"Drews, Aaron",CENG 101A,FA14,299,227,0.8590000000000001,0.991,12.22,3.14,2.86,True,False,False,False,True
+"Miller, David R.",CENG 101A,FA14,291,226,0.855,0.823,12.23,3.13,2.86,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 120,FA14,134,121,0.9570000000000001,0.9740000000000001,8.24,3.39,3.2,True,False,False,False,True
+"Zhang, Liangfang",CENG 122,FA14,135,66,0.8420000000000001,0.737,7.43,3.33,3.12,True,False,False,False,True
+"Lubarda, Vlado",CENG 15,FA14,150,86,0.8590000000000001,0.5770000000000001,5.99,3.78,3.57,True,False,False,False,False
+"Bratton, Maryann",ENG 100D,FA14,48,42,0.925,0.925,5.55,3.87,3.81,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100D,FA14,36,33,0.935,0.935,5.53,3.71,3.88,True,False,False,False,True
+"Bratton, Maryann",ENG 100L,FA14,26,17,1.0,0.938,4.64,4.0,3.8,True,False,False,False,True
+"Coleman, Todd Prentice",BENG 100,SP14,137,42,0.7070000000000001,0.8290000000000001,9.47,3.1,3.06,True,False,False,False,True
+"Mc Culloch, Andrew Douglas",BENG 103B,SP14,101,31,0.733,0.8,8.98,3.27,3.38,True,False,False,False,True
+"Sah, Robert Lie-Yuan",BENG 103B,SP14,101,28,0.643,0.607,9.39,3.25,3.38,True,False,False,False,True
+"Engler, Adam J.",BENG 112B,SP14,51,20,1.0,1.0,6.82,3.26,3.21,True,False,False,False,True
+"Hasty, Jeff M",BENG 125,SP14,78,30,0.8,0.733,7.23,3.57,3.16,True,False,False,False,True
+"Silva, Gabriel",BENG 140B,SP14,64,17,0.938,1.0,6.0,3.31,3.48,True,False,False,False,True
+"Zhang, Kun",BENG 160,SP14,54,32,1.0,0.903,6.69,3.83,3.53,True,False,False,False,True
+"Huang, Xiaohua",BENG 168,SP14,63,24,0.87,0.826,7.68,3.5,3.54,True,False,False,False,True
+"Wang, Yingxiao",BENG 168,SP14,62,21,0.81,0.81,8.1,3.5,3.54,True,False,False,False,True
+"Cabrales, Pedro",BENG 172,SP14,54,15,1.0,1.0,10.5,3.67,3.36,True,False,False,False,True
+"Christman, Karen",BENG 186A,SP14,83,31,0.867,0.9329999999999999,6.1,3.52,3.07,True,False,False,False,True
+"Cabrales, Pedro",BENG 187A,SP14,102,26,1.0,0.958,1.25,4.0,3.92,True,False,False,False,True
+"Cabrales, Pedro",BENG 187D,SP14,77,28,0.889,0.9259999999999999,3.46,4.0,3.91,True,False,False,False,True
+"Arya, Gaurav",CENG 101C,SP14,135,50,0.9790000000000001,0.7709999999999999,6.58,3.63,3.27,True,False,False,False,True
+"Herz, Richard K",CENG 113,SP14,202,65,0.8390000000000001,0.29,8.03,3.31,3.14,True,False,False,False,True
+"Talbot, Jan B",CENG 124B,SP14,118,36,0.778,0.861,6.79,3.86,3.93,True,False,False,False,True
+"Lubarda, Vlado",CENG 15,SP14,23,6,1.0,0.833,5.17,3.83,3.59,True,False,False,False,False
+"Opatkiewicz, Justin Paul",CENG 176B,SP14,118,38,0.9740000000000001,0.9740000000000001,7.45,3.68,3.64,True,False,False,False,True
+"Ramin, Leyla",CENG 176B,SP14,118,33,1.0,0.9,7.63,3.71,3.64,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100A,SP14,47,45,0.956,0.956,3.52,3.83,3.66,True,False,False,False,True
+"Eremenko, Svetlana",ENG 100B,SP14,22,4,1.0,0.75,2.0,4.0,3.99,True,False,False,False,True
+"Bratton, Maryann",ENG 100L,SP14,33,11,1.0,1.0,5.39,3.91,3.96,True,False,False,False,True
+"Omens, Jeffrey Howard",BENG 109,WI14,95,37,0.971,0.971,6.73,3.41,3.09,True,False,False,False,True
+"Lal, Ratnesh",BENG 112A,WI14,56,22,0.591,0.182,5.77,3.5,3.41,True,False,False,False,True
+"Metallo, Christian Michael",BENG 122A,WI14,28,10,1.0,0.8,5.9,3.5,3.14,True,False,False,False,True
+"Palsson, Bernhard O.",BENG 123,WI14,57,23,0.773,0.773,11.14,3.45,2.9,True,False,False,False,True
+"Huang, Xiaohua",BENG 130,WI14,135,36,0.6,0.34299999999999997,7.44,3.27,3.33,True,False,False,False,True
+"Subramaniam, Shankar",BENG 130,WI14,134,35,0.7190000000000001,0.7809999999999999,7.63,3.23,3.33,True,False,False,False,True
+"Cabrales, Pedro",BENG 140A,WI14,68,28,0.857,0.9640000000000001,9.14,3.18,3.49,True,False,False,False,True
+"Sah, Robert Lie-Yuan",BENG 161B,WI14,49,19,0.833,0.444,7.91,3.53,3.27,True,False,False,False,True
+"Cauwenberghs, Gert",BENG 186B,WI14,57,22,0.909,0.818,11.26,3.4,3.55,True,False,False,False,True
+"Cabrales, Pedro",BENG 187C,WI14,77,23,0.87,1.0,5.93,3.94,3.91,True,False,False,False,True
+"Hasty, Jeff M",BENG 2,WI14,28,12,0.909,0.636,3.95,3.64,3.56,True,False,False,False,False
+"Lubarda, Vlado",CENG 101B,WI14,147,70,0.937,0.6829999999999999,7.64,3.54,3.05,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 102,WI14,205,200,0.96,1.0,9.33,3.44,3.23,True,False,False,False,True
+"Herz, Richard K",CENG 124A,WI14,118,33,0.897,0.483,8.43,3.79,3.59,True,False,False,False,True
+"Yang, Kesong",CENG 15,WI14,108,55,0.784,0.21600000000000003,7.03,3.56,3.11,True,False,False,False,False
+"Talbot, Jan B",CENG 176A,WI14,118,30,0.9259999999999999,0.815,9.61,3.67,3.59,True,False,False,False,True
+"Bratton, Maryann",ENG 100A,WI14,52,46,0.9129999999999999,0.978,4.5,3.76,3.63,True,False,False,False,True
+"Reynante, Brandon Marcellino",ENG 100A,WI14,30,9,1.0,0.889,2.72,3.89,3.6,True,False,False,False,True
+"Bratton, Maryann",ENG 100L,WI14,31,18,1.0,1.0,5.5,3.83,3.99,True,False,False,False,True
+"Hall, David J",BENG 101,FA13,84,47,0.723,0.596,6.37,3.18,3.06,True,False,False,False,True
+"Lal, Ratnesh",BENG 101,FA13,83,49,0.7759999999999999,0.469,6.58,3.13,3.06,True,False,False,False,True
+"Mc Culloch, Andrew Douglas",BENG 110,FA13,64,26,0.846,0.9620000000000001,9.12,3.24,3.11,True,False,False,False,True
+"Schmid-Schoenbein, Geert W",BENG 110,FA13,64,27,0.885,0.9620000000000001,9.27,3.27,3.11,True,False,False,False,True
+"Metallo, Christian Michael",BENG 161A,FA13,48,17,0.588,0.706,8.13,3.13,3.2,True,False,False,False,True
+"Mercola, Mark",BENG 162,FA13,49,16,1.0,1.0,7.97,3.86,3.83,True,False,False,False,True
+"Varghese, Shyni",BENG 162,FA13,49,17,1.0,0.8240000000000001,7.5,3.8,3.83,True,False,False,False,True
+"Varghese, Shyni",BENG 166A,FA13,60,20,0.9,0.75,5.9,3.74,3.55,True,False,False,False,True
+"Zhong, Sheng",BENG 183,FA13,36,10,0.625,0.5,3.5,3.75,3.86,True,False,False,False,True
+"Cabrales, Pedro",BENG 187B,FA13,77,21,0.81,0.9520000000000001,6.88,3.94,3.91,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 100,FA13,251,231,0.9740000000000001,0.996,8.83,3.35,3.12,True,False,False,False,True
+"Miller, David R.",CENG 101A,FA13,209,95,0.922,0.8109999999999999,11.26,3.4,2.93,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 101A,FA13,209,102,0.927,0.99,10.98,3.35,2.93,True,False,False,False,True
+"Herz, Richard K",CENG 120,FA13,121,43,0.659,0.293,8.45,3.13,3.15,True,False,False,False,True
+"Zhang, Liangfang",CENG 122,FA13,120,39,0.972,0.972,6.21,3.32,3.17,True,False,False,False,True
+"Lubarda, Vlado",CENG 15,FA13,141,74,0.873,0.634,7.28,3.41,3.25,True,False,False,False,False
+"Bratton, Maryann",ENG 100A,FA13,36,31,1.0,0.935,3.92,3.77,3.64,True,False,False,False,True
+"Bratton, Maryann",ENG 100A,FA13,36,30,0.862,0.862,3.6,3.79,3.64,True,False,False,False,True
+"Bratton, Maryann",ENG 100L,FA13,20,13,1.0,1.0,5.5,3.92,3.9,True,False,False,False,True
+"Coleman, Todd Prentice",BENG 100,SP13,152,61,0.7070000000000001,0.741,9.69,3.04,3.25,True,False,False,False,True
+"Sah, Robert Lie-Yuan",BENG 103B,SP13,93,29,0.643,0.75,9.21,3.2,3.05,True,False,False,False,True
+"Schmid-Schoenbein, Geert W",BENG 103B,SP13,93,26,0.654,0.885,9.58,3.25,3.05,True,False,False,False,True
+"Engler, Adam J.",BENG 112B,SP13,40,34,0.882,0.941,6.21,3.33,3.11,True,False,False,False,True
+"TSIMRING, LEV S",BENG 125,SP13,122,43,0.857,0.857,7.18,3.29,2.9,True,False,False,False,True
+"Silva, Gabriel",BENG 140B,SP13,34,19,0.889,1.0,5.28,3.63,3.14,True,False,False,False,True
+"Zhang, Kun",BENG 160,SP13,51,11,0.636,0.727,7.95,3.5,3.43,True,False,False,False,True
+"Wang, Yingxiao",BENG 168,SP13,63,8,0.875,0.875,6.75,3.71,3.32,True,False,False,False,True
+"Zhong, Sheng",BENG 168,SP13,63,8,0.875,0.875,6.75,3.71,3.32,True,False,False,False,True
+"Cabrales, Pedro",BENG 172,SP13,70,27,1.0,1.0,10.5,3.36,3.37,True,False,False,False,True
+"Omens, Jeffrey Howard",BENG 172,SP13,70,28,0.9640000000000001,1.0,10.36,3.36,3.37,True,False,False,False,True
+"Christman, Karen",BENG 186A,SP13,160,126,0.889,0.73,6.31,3.35,2.99,True,False,False,False,True
+"Watson, John Thomas",BENG 187A,SP13,78,20,1.0,0.95,1.7,4.0,3.91,True,False,False,False,True
+"Watson, John Thomas",BENG 187D,SP13,127,37,1.0,0.865,3.01,3.97,3.89,True,False,False,False,True
+"Arya, Gaurav",CENG 101C,SP13,123,40,1.0,1.0,6.65,3.45,3.27,True,False,False,False,True
+"Herz, Richard K",CENG 113,SP13,156,70,0.8240000000000001,0.10300000000000001,8.44,3.29,3.11,True,False,False,False,True
+"Herz, Richard K",CENG 124B,SP13,82,24,0.792,0.667,7.46,3.65,3.61,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 176B,SP13,80,21,1.0,1.0,7.55,3.63,3.48,True,False,False,False,True
+"Talbot, Jan B",CENG 176B,SP13,80,20,1.0,0.7,7.61,3.65,3.48,True,False,False,False,True
+"Tu, Charles",ENG 100A,SP13,40,8,1.0,0.875,4.5,3.75,3.4,True,False,False,False,True
+"Bratton, Maryann",ENG 100A,SP13,41,8,0.875,0.875,3.93,3.86,3.81,True,False,False,False,True
+"Bratton, Maryann",ENG 100L,SP13,27,10,1.0,0.889,6.06,4.0,3.87,True,False,False,False,True
+"Omens, Jeffrey Howard",BENG 109,WI13,92,42,0.9,0.95,5.65,3.58,3.14,True,False,False,False,True
+"Lal, Ratnesh",BENG 112A,WI13,41,18,0.722,0.055999999999999994,4.5,3.65,3.25,True,False,False,False,True
+"Mc Culloch, Andrew Douglas",BENG 112A,WI13,41,18,0.706,1.0,4.5,3.63,3.25,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 119B,WI13,30,7,0.7140000000000001,0.7140000000000001,10.83,4.0,3.98,True,False,False,False,True
+"Watson, John Thomas",BENG 119B,WI13,30,7,0.857,0.7140000000000001,10.5,4.0,3.98,True,False,False,False,True
+"Metallo, Christian Michael",BENG 122A,WI13,48,19,0.789,0.789,5.97,3.44,3.28,True,False,False,False,True
+"Palsson, Bernhard O.",BENG 123,WI13,55,20,0.65,0.65,11.0,3.26,2.85,True,False,False,False,True
+"Subramaniam, Shankar",BENG 130,WI13,137,45,0.511,0.667,5.85,3.14,3.33,True,False,False,False,True
+"Varghese, Shyni",BENG 130,WI13,137,45,0.489,0.6,6.11,3.17,3.33,True,False,False,False,True
+"Cabrales, Pedro",BENG 140A,WI13,56,21,0.857,0.905,6.88,3.55,3.07,True,False,False,False,True
+"Metallo, Christian Michael",BENG 161B,WI13,88,25,0.875,0.708,6.93,3.5,3.15,True,False,False,False,True
+"Sah, Robert Lie-Yuan",BENG 161B,WI13,88,24,0.87,0.87,7.05,3.5,3.15,True,False,False,False,True
+"Cauwenberghs, Gert",BENG 186B,WI13,84,40,0.48700000000000004,0.462,14.55,3.22,3.27,True,False,False,False,True
+"Intaglietta, Marcos",BENG 187C,WI13,127,34,0.853,0.706,4.7,3.92,3.89,True,False,False,False,True
+"Watson, John Thomas",BENG 187C,WI13,127,34,0.8240000000000001,0.853,4.91,3.92,3.89,True,False,False,False,True
+"Talbot, Jan B",CENG 101B,WI13,130,57,0.945,0.764,7.31,3.4,2.88,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 102,WI13,155,152,0.9540000000000001,0.987,8.57,3.37,3.39,True,False,False,False,True
+"Herz, Richard K",CENG 124A,WI13,81,25,0.833,0.625,9.37,3.57,3.43,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 176A,WI13,79,24,0.958,0.875,10.07,3.65,3.55,True,False,False,False,True
+"Talbot, Jan B",CENG 176A,WI13,79,23,0.9129999999999999,0.609,9.8,3.5,3.55,True,False,False,False,True
+"Zhang, Liangfang",CENG 176A,WI13,79,23,0.9129999999999999,0.9570000000000001,9.86,3.62,3.55,True,False,False,False,True
+"Bratton, Maryann",ENG 100A,WI13,43,17,0.625,0.625,4.0,3.63,3.71,True,False,False,False,True
+"Bratton, Maryann",ENG 100A,WI13,34,13,1.0,1.0,5.59,3.83,3.71,True,False,False,False,True
+"Bratton, Maryann",ENG 100L,WI13,25,13,1.0,1.0,5.83,4.0,3.87,True,False,False,False,True
+"Hall, David J",BENG 101,FA12,48,36,0.794,0.618,4.8,3.44,3.43,True,False,False,False,True
+"Lal, Ratnesh",BENG 101,FA12,48,41,0.846,0.795,4.5,3.42,3.43,True,False,False,False,True
+"Schmid-Schoenbein, Geert W",BENG 110,FA12,48,26,0.826,0.9570000000000001,7.72,3.45,3.08,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 119A,FA12,31,10,1.0,1.0,6.79,3.83,3.75,True,False,False,False,True
+"Watson, John Thomas",BENG 119A,FA12,31,7,1.0,1.0,7.83,3.67,3.75,True,False,False,False,True
+"Huang, Xiaohua",BENG 161A,FA12,86,22,0.833,0.444,7.06,3.39,3.55,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 162,FA12,87,20,0.938,0.938,7.13,3.38,3.6,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 166A,FA12,99,21,1.0,0.882,6.15,3.25,3.52,True,False,False,False,True
+"Ideker, Trey",BENG 183,FA12,21,12,0.909,0.909,6.68,3.55,3.44,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 187B,FA12,128,24,1.0,1.0,7.1,3.89,3.89,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 100,FA12,224,192,0.895,0.9740000000000001,8.5,3.15,3.04,True,False,False,False,True
+"Williams, Ebonee P.",CENG 100,FA12,224,191,0.884,0.32799999999999996,8.37,3.14,3.04,True,False,False,False,True
+"Miller, David R.",CENG 101A,FA12,225,87,0.705,0.731,12.5,3.23,2.89,True,False,False,False,True
+"Opatkiewicz, Justin Paul",CENG 101A,FA12,225,87,0.711,0.9520000000000001,12.45,3.23,2.89,True,False,False,False,True
+"Herz, Richard K",CENG 120,FA12,78,29,0.7829999999999999,0.435,7.37,2.91,3.07,True,False,False,False,True
+"Zhang, Liangfang",CENG 122,FA12,83,28,0.963,0.963,5.5,3.5,3.2,True,False,False,False,True
+"Bratton, Maryann",ENG 100A,FA12,36,20,0.9440000000000001,1.0,5.39,3.72,3.63,True,False,False,False,True
+"Bratton, Maryann",ENG 100A,FA12,35,17,0.5710000000000001,0.857,5.42,3.67,3.63,True,False,False,False,True
+"Bratton, Maryann",ENG 100L,FA12,26,8,1.0,0.875,4.21,3.88,3.85,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 100  ,SP12,119,58,0.862,0.7929999999999999,5.09,3.55,3.16,True,False,False,False,True
+"Gough, David A.",BENG 103B ,SP12,135,52,0.745,0.608,8.74,3.04,3.26,True,False,False,False,True
+"Sah, Robert Lie-Yuan",BENG 103B ,SP12,135,46,0.75,0.721,8.59,3.04,3.26,True,False,False,False,True
+"Engler, Adam J.",BENG 112B ,SP12,82,50,0.98,0.9390000000000001,8.82,3.42,2.97,True,False,False,False,True
+"Hasty, Jeff M",BENG 125  ,SP12,144,64,0.797,0.938,10.21,3.22,2.98,True,False,False,False,True
+"Silva, Gabriel",BENG 140B ,SP12,38,15,0.846,0.9229999999999999,5.79,3.21,2.92,True,False,False,False,True
+"Zhang, Kun",BENG 160  ,SP12,88,26,0.8,0.8,7.27,3.36,3.43,True,False,False,False,True
+"Metallo, Christian Michael",BENG 168  ,SP12,88,21,0.85,0.65,5.17,3.22,3.42,True,False,False,False,True
+"Sah, Robert Lie-Yuan",BENG 168  ,SP12,88,20,0.8,0.85,5.6,3.22,3.42,True,False,False,False,True
+"Cabrales, Pedro",BENG 172  ,SP12,83,32,0.867,0.833,11.25,3.29,3.33,True,False,False,False,True
+"Omens, Jeffrey Howard",BENG 172  ,SP12,83,31,0.867,0.9329999999999999,11.6,3.29,3.33,True,False,False,False,True
+"Christman, Karen",BENG 186A ,SP12,176,121,0.866,0.866,7.57,3.21,2.89,True,False,False,False,True
+"Watson, John Thomas",BENG 187A ,SP12,130,34,0.941,0.882,0.91,3.96,4.0,True,False,False,False,True
+"Watson, John Thomas",BENG 187D ,SP12,133,57,0.9640000000000001,0.9640000000000001,3.43,3.83,3.88,True,False,False,False,True
+"Arya, Gaurav",CENG 101C ,SP12,85,28,1.0,0.929,6.71,3.68,3.33,True,False,False,False,True
+"Herz, Richard K",CENG 113  ,SP12,111,40,0.821,0.579,8.14,3.39,3.14,True,False,False,False,True
+"Chau, Pao C.",CENG 124B ,SP12,64,12,0.667,0.583,10.0,3.67,3.42,True,False,False,False,True
+"Chau, Pao C.",CENG 176B ,SP12,63,11,0.778,0.6,9.3,3.36,3.44,True,False,False,False,True
+"Talbot, Jan B",CENG 176B ,SP12,63,11,0.8,0.818,9.05,3.36,3.44,True,False,False,False,True
+"Zhang, Liangfang",CENG 176B ,SP12,63,11,0.8,1.0,9.23,3.36,3.44,True,False,False,False,True
+"Bratton, Maryann",ENG 100A ,SP12,41,14,0.7140000000000001,0.857,5.5,3.5,3.68,True,False,False,False,True
+"Bratton, Maryann",ENG 100A ,SP12,35,14,0.846,1.0,8.04,3.64,3.68,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 109  ,WI12,72,36,0.8,0.6859999999999999,5.56,3.44,2.92,True,False,False,False,True
+"Mc Culloch, Andrew Douglas",BENG 112A ,WI12,84,36,0.857,0.8290000000000001,8.67,3.53,3.36,True,False,False,False,True
+"Cabrales, Pedro",BENG 119B ,WI12,22,6,1.0,0.75,10.1,4.0,3.61,True,False,False,False,True
+"Gough, David A.",BENG 122A ,WI12,63,31,0.71,0.5670000000000001,8.05,3.0,2.83,True,False,False,False,True
+"Hasty, Jeff M",BENG 122A ,WI12,63,31,0.742,0.935,7.73,3.0,2.83,True,False,False,False,True
+"Palsson, Bernhard O.",BENG 123  ,WI12,102,44,0.818,0.773,10.23,3.55,3.16,True,False,False,False,True
+"Engler, Adam J.",BENG 129B ,WI12,20,3,1.0,1.0,7.17,4.0,3.8,True,False,False,False,True
+"Varghese, Shyni",BENG 130  ,WI12,116,56,0.589,0.35700000000000004,8.32,2.94,2.7,True,False,False,False,True
+"Schmid-Schoenbein, Geert W",BENG 139B ,WI12,24,7,1.0,1.0,12.21,4.0,3.93,True,False,False,False,True
+"Cabrales, Pedro",BENG 140A ,WI12,47,19,0.9440000000000001,1.0,7.13,3.5,2.78,True,False,False,False,True
+"Metallo, Christian Michael",BENG 161B ,WI12,81,30,0.6,0.733,8.83,3.3,3.29,True,False,False,False,True
+"Sah, Robert Lie-Yuan",BENG 161B ,WI12,81,28,0.607,0.607,8.43,3.3,3.29,True,False,False,False,True
+"Cauwenberghs, Gert",BENG 186B ,WI12,83,38,0.8420000000000001,0.73,11.39,3.16,3.24,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 187C ,WI12,133,48,0.872,0.9570000000000001,6.71,3.76,3.88,True,False,False,False,True
+"Watson, John Thomas",BENG 191  ,WI12,37,10,0.889,0.778,3.61,4.0,3.68,True,False,False,False,True
+"Talbot, Jan B",CENG 101B ,WI12,90,45,0.9109999999999999,0.644,7.48,3.6,2.87,True,False,False,False,True
+"Cha, Jennifer N",CENG 102  ,WI12,117,54,0.963,0.943,8.65,3.45,2.9,True,False,False,False,True
+"Chau, Pao C.",CENG 124A ,WI12,66,22,0.619,0.19,14.2,3.38,3.24,True,False,False,False,True
+"Chau, Pao C.",CENG 176A ,WI12,64,16,0.625,0.313,11.63,3.31,3.5,True,False,False,False,True
+"Talbot, Jan B",CENG 176A ,WI12,64,10,0.667,0.667,10.3,3.31,3.5,True,False,False,False,True
+"Zhang, Liangfang",CENG 176A ,WI12,64,12,0.75,0.917,9.5,3.31,3.5,True,False,False,False,True
+"Tu, Charles",ENG 100A ,WI12,52,33,0.606,0.33299999999999996,5.89,3.84,3.65,True,False,False,False,True
+"Hall, David J",BENG 101  ,FA11,48,39,0.865,0.757,6.29,3.54,3.32,True,False,False,False,True
+"Lal, Ratnesh",BENG 101  ,FA11,48,42,0.9520000000000001,0.857,5.83,3.54,3.32,True,False,False,False,True
+"Schmid-Schoenbein, Geert W",BENG 110  ,FA11,82,49,0.787,0.872,8.09,3.31,3.16,True,False,False,False,True
+"Cabrales, Pedro",BENG 119A ,FA11,22,3,1.0,1.0,9.5,4.0,3.58,True,False,False,False,True
+"Sah, Robert Lie-Yuan",BENG 119A ,FA11,22,3,1.0,1.0,7.5,4.0,3.58,True,False,False,False,True
+"Hasty, Jeff M",BENG 139A ,FA11,24,7,1.0,0.8,8.1,4.0,3.62,True,False,False,False,True
+"Schmid-Schoenbein, Geert W",BENG 139A ,FA11,24,8,1.0,0.833,10.17,4.0,3.62,True,False,False,False,True
+"Huang, Xiaohua",BENG 161A ,FA11,82,31,0.867,0.733,8.44,3.39,3.39,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 162  ,FA11,79,28,0.929,0.9640000000000001,7.79,3.61,3.51,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 166A ,FA11,103,33,0.9390000000000001,0.909,8.74,3.59,3.15,True,False,False,False,True
+"Ideker, Trey",BENG 183  ,FA11,21,13,1.0,1.0,6.96,3.25,3.53,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 187B ,FA11,133,42,0.929,0.833,7.98,3.65,3.88,True,False,False,False,True
+"Herz, Richard K",CENG 100  ,FA11,116,58,0.86,0.544,6.75,3.36,2.88,True,False,False,False,True
+"Williams, Ebonee P.",CENG 100  ,FA11,49,30,0.7929999999999999,0.517,6.71,3.25,2.93,True,False,False,False,True
+"Miller, David R.",CENG 101A ,FA11,197,92,0.802,0.78,11.51,3.19,2.91,True,False,False,False,True
+"Herz, Richard K",CENG 120  ,FA11,107,35,0.743,0.34299999999999997,7.99,3.0,2.95,True,False,False,False,True
+"Zhang, Liangfang",CENG 122  ,FA11,62,19,0.9470000000000001,1.0,6.61,3.67,3.29,True,False,False,False,True
+"Bratton, Maryann",ENG 100A ,FA11,70,30,0.6,0.7,6.7,3.74,3.59,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 100  ,SP11,196,83,0.735,0.711,5.17,3.29,3.15,True,False,False,False,True
+"Watson, John Thomas",BENG 100  ,SP11,196,70,0.809,0.691,5.05,3.29,3.15,True,False,False,False,True
+"Gough, David A.",BENG 103B ,SP11,143,77,0.513,0.355,9.51,2.91,3.17,True,False,False,False,True
+"Sah, Robert Lie-Yuan",BENG 103B ,SP11,143,72,0.557,0.609,9.39,2.91,3.17,True,False,False,False,True
+"Engler, Adam J.",BENG 112B ,SP11,105,90,0.878,0.9440000000000001,9.56,3.15,2.9,True,False,False,False,True
+"Hasty, Jeff M",BENG 125  ,SP11,77,32,0.968,0.9670000000000001,9.27,3.28,3.51,True,False,False,False,True
+"Silva, Gabriel",BENG 140B ,SP11,61,37,0.972,0.9440000000000001,5.85,3.11,2.71,True,False,False,False,True
+"Sung, Lanping Amy",BENG 160  ,SP11,84,29,0.963,0.9259999999999999,8.81,3.75,3.7,True,False,False,False,True
+"Zhang, Kun",BENG 160  ,SP11,84,31,0.935,0.871,8.89,3.75,3.7,True,False,False,False,True
+"Sung, Lanping Amy",BENG 168  ,SP11,83,29,0.862,0.759,5.6,3.44,3.34,True,False,False,False,True
+"Cabrales, Pedro",BENG 172  ,SP11,117,56,0.9109999999999999,0.9640000000000001,11.79,3.41,3.38,True,False,False,False,True
+"Omens, Jeffrey Howard",BENG 172  ,SP11,117,57,0.93,0.965,11.5,3.41,3.38,True,False,False,False,True
+"Christman, Karen",BENG 186A ,SP11,136,106,0.895,0.894,7.74,3.25,2.91,True,False,False,False,True
+"Watson, John Thomas",BENG 187A ,SP11,138,56,0.9640000000000001,0.9640000000000001,1.85,3.89,3.7,True,False,False,False,True
+"Watson, John Thomas",BENG 187D ,SP11,74,28,0.889,0.9259999999999999,3.02,3.92,3.71,True,False,False,False,True
+"Arya, Gaurav",CENG 101C ,SP11,72,31,0.966,0.862,6.43,3.43,3.2,True,False,False,False,True
+"Herz, Richard K",CENG 113  ,SP11,78,27,0.846,0.615,8.04,3.16,3.0,True,False,False,False,True
+"Chau, Pao C.",CENG 124B ,SP11,60,17,0.647,0.235,14.13,3.73,3.58,True,False,False,False,True
+"Chau, Pao C.",CENG 176B ,SP11,60,15,0.667,0.33299999999999996,8.5,3.83,3.54,True,False,False,False,True
+"Tu, Charles",ENG 100A ,SP11,46,24,0.7829999999999999,0.435,5.92,3.67,3.44,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 109  ,WI11,103,51,0.88,0.64,6.66,3.4,2.8,True,False,False,False,True
+"Mc Culloch, Andrew Douglas",BENG 112A ,WI11,110,52,0.8079999999999999,0.7879999999999999,10.23,3.1,3.4,True,False,False,False,True
+"Gough, David A.",BENG 122A ,WI11,43,18,0.833,0.278,6.83,3.41,3.1,True,False,False,False,True
+"Hasty, Jeff M",BENG 122A ,WI11,43,17,0.8240000000000001,1.0,7.09,3.41,3.1,True,False,False,False,True
+"Palsson, Bernhard O.",BENG 123  ,WI11,85,45,0.7559999999999999,0.778,12.86,3.3,3.24,True,False,False,False,True
+"Varghese, Shyni",BENG 130  ,WI11,143,74,0.644,0.5479999999999999,6.5,3.3,3.14,True,False,False,False,True
+"Cabrales, Pedro",BENG 140A ,WI11,72,35,0.971,0.765,7.41,3.42,2.82,True,False,False,False,True
+"Huang, Xiaohua",BENG 161B ,WI11,38,16,0.813,0.563,9.38,3.6,3.49,True,False,False,False,True
+"Zhang, Kun",BENG 161B ,WI11,38,16,0.733,0.667,9.83,3.6,3.49,True,False,False,False,True
+"Cauwenberghs, Gert",BENG 186B ,WI11,129,69,0.838,0.691,9.4,3.09,3.16,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 187C ,WI11,74,33,0.9059999999999999,0.9690000000000001,8.38,3.68,3.71,True,False,False,False,True
+"Watson, John Thomas",BENG 191  ,WI11,32,19,0.9440000000000001,1.0,1.87,4.0,3.97,True,False,False,False,True
+"Herz, Richard K",CENG 101B ,WI11,75,30,0.733,0.552,8.23,3.3,3.04,True,False,False,False,True
+"Cha, Jennifer N",CENG 102  ,WI11,79,30,0.9259999999999999,0.893,7.95,3.24,2.97,True,False,False,False,True
+"Chau, Pao C.",CENG 124A ,WI11,62,29,0.46399999999999997,0.071,17.33,3.38,3.25,True,False,False,False,True
+"Chau, Pao C.",CENG 176A ,WI11,60,24,0.682,0.182,13.41,3.52,3.54,True,False,False,False,True
+"Talbot, Jan B",CENG 176A ,WI11,60,20,0.778,0.611,13.06,3.52,3.54,True,False,False,False,True
+"Zhang, Liangfang",CENG 176A ,WI11,60,21,0.737,1.0,12.71,3.52,3.54,True,False,False,False,True
+"Sukumar, Srinivas",ENG 100A ,WI11,52,30,0.7,0.828,4.16,3.87,3.71,True,False,False,False,True
+"Lal, Ratnesh",BENG 101,FA10,72,31,0.645,0.452,5.15,3.31,3.15,True,False,False,False,True
+"Schmid-Schoenbein, Geert W",BENG 110,FA10,108,46,0.826,0.8909999999999999,9.48,3.2,3.05,True,False,False,False,True
+"Huang, Xiaohua",BENG 161A ,FA10,38,20,1.0,0.75,7.7,3.53,3.61,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 162,FA10,35,19,0.8420000000000001,0.895,10.61,3.32,3.35,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 166A ,FA10,56,27,0.963,0.9259999999999999,8.57,3.22,3.4,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 187B ,FA10,74,34,0.8240000000000001,0.97,9.15,3.62,3.71,True,False,False,False,True
+"Herz, Richard K",CENG 100,FA10,84,49,0.816,0.479,6.26,3.12,2.97,True,False,False,False,True
+"Miller, David R.",CENG 101A ,FA10,140,71,0.8140000000000001,0.871,11.04,3.13,2.89,True,False,False,False,True
+"Herz, Richard K",CENG 120,FA10,69,35,0.5710000000000001,0.34299999999999997,7.93,3.06,2.9,True,False,False,False,True
+"Zhang, Liangfang",CENG 122,FA10,66,36,0.917,0.972,7.0,3.45,3.2,True,False,False,False,True
+"Bratton, Maryann",ENG 100A ,FA10,52,28,0.893,0.929,5.07,3.75,3.69,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 100,SP10,185,167,0.795,0.77,6.37,3.35,2.9,True,False,False,False,True
+"Watson, John Thomas",BENG 100,SP10,185,156,0.8079999999999999,0.7809999999999999,5.83,3.35,2.9,True,False,False,False,True
+"Gough, David A.",BENG 103B ,SP10,83,55,0.527,0.091,9.24,3.1,3.2,True,False,False,False,True
+"Engler, Adam J.",BENG 112B ,SP10,112,97,0.8540000000000001,0.9059999999999999,8.01,3.25,3.15,True,False,False,False,True
+"Hasty, Jeff M",BENG 125,SP10,65,29,0.897,0.966,6.14,3.43,2.99,True,False,False,False,True
+"Engler, Adam J.",BENG 140B ,SP10,41,26,0.96,1.0,7.86,3.28,3.24,True,False,False,False,True
+"Watson, John Thomas",BENG 140B ,SP10,41,26,0.9620000000000001,0.885,7.92,3.28,3.24,True,False,False,False,True
+"Sung, Lanping Amy",BENG 160,SP10,35,20,0.737,0.737,8.83,3.5,3.7,True,False,False,False,True
+"Zhang, Kun",BENG 160,SP10,35,18,0.8240000000000001,0.882,9.44,3.5,3.7,True,False,False,False,True
+"Sung, Lanping Amy",BENG 168,SP10,48,22,0.762,0.667,10.4,3.17,3.3,True,False,False,False,True
+"Omens, Jeffrey Howard",BENG 172,SP10,119,59,0.983,0.982,11.03,3.48,3.36,True,False,False,False,True
+"Christman, Karen",BENG 186A ,SP10,148,60,0.767,0.78,5.99,3.29,2.86,True,False,False,False,True
+"Watson, John Thomas",BENG 187A ,SP10,73,39,0.8420000000000001,0.868,1.74,3.9,3.71,True,False,False,False,True
+"Watson, John Thomas",BENG 187D ,SP10,65,27,0.9229999999999999,0.9620000000000001,1.7,3.88,3.46,True,False,False,False,True
+"Arya, Gaurav",CENG 101C ,SP10,72,32,0.938,0.8440000000000001,6.75,3.55,3.09,True,False,False,False,True
+"Herz, Richard K",CENG 113,SP10,116,48,0.8959999999999999,0.667,9.54,3.26,2.95,True,False,False,False,True
+"Chau, Pao C.",CENG 124B ,SP10,63,16,0.867,0.813,16.5,3.29,3.61,True,False,False,False,True
+"Chau, Pao C.",CENG 176B ,SP10,62,15,1.0,0.867,12.37,3.29,3.41,True,False,False,False,True
+"Talbot, Jan B",CENG 176B ,SP10,62,15,0.9329999999999999,0.8,12.1,3.29,3.41,True,False,False,False,True
+"Tu, Charles",ENG 100A ,SP10,46,23,0.609,0.391,5.02,3.45,3.74,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 109,WI10,112,50,0.9,0.86,5.6,3.56,2.88,True,False,False,False,True
+"Schmid-Schoenbein, Geert W",BENG 112A ,WI10,112,41,0.805,0.8290000000000001,9.28,3.28,2.8,True,False,False,False,True
+"Hasty, Jeff M",BENG 122A ,WI10,35,14,0.7859999999999999,0.9229999999999999,6.64,3.29,2.86,True,False,False,False,True
+"Palsson, Bernhard O.",BENG 123,WI10,44,18,0.722,0.722,11.79,3.53,3.04,True,False,False,False,True
+"Varghese, Shyni",BENG 130,WI10,109,53,0.588,0.423,6.62,3.33,2.94,True,False,False,False,True
+"Silva, Gabriel",BENG 140A ,WI10,50,19,1.0,0.9470000000000001,8.08,3.11,2.8,True,False,False,False,True
+"Huang, Xiaohua",BENG 161B ,WI10,40,15,0.867,0.733,8.9,3.5,3.36,True,False,False,False,True
+"Zhang, Kun",BENG 161B ,WI10,40,15,0.867,0.8,8.5,3.5,3.36,True,False,False,False,True
+"Cauwenberghs, Gert",BENG 186B ,WI10,124,46,0.9570000000000001,0.565,9.5,3.26,3.11,True,False,False,False,True
+"Omens, Jeffrey Howard",BENG 186B ,WI10,124,48,0.9790000000000001,1.0,9.29,3.26,3.11,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 187C ,WI10,65,25,0.64,0.76,5.22,3.61,3.46,True,False,False,False,True
+"Talbot, Jan B",CENG 101B ,WI10,81,37,0.946,0.892,8.5,3.63,2.59,True,False,False,False,True
+"Cha, Jennifer N",CENG 102,WI10,82,35,0.909,0.735,9.7,3.16,2.8,True,False,False,False,True
+"Chau, Pao C.",CENG 124A ,WI10,63,20,0.7,0.65,15.3,3.16,2.93,True,False,False,False,True
+"Chau, Pao C.",CENG 176A ,WI10,62,17,0.882,0.765,15.68,3.22,3.07,True,False,False,False,True
+"Talbot, Jan B",CENG 176A ,WI10,62,19,0.8420000000000001,0.737,15.13,3.22,3.07,True,False,False,False,True
+"Sukumar, Srinivas",ENG 100A ,WI10,38,9,1.0,0.889,1.83,3.78,3.92,True,False,False,False,True
+"Hall, David J",BENG 101,FA09,57,57,0.8109999999999999,0.792,5.1,3.31,2.63,True,False,False,False,True
+"Silva, Gabriel",BENG 101,FA09,57,57,0.8109999999999999,0.792,5.1,3.31,2.63,True,False,False,False,True
+"Engler, Adam J.",BENG 110,FA09,118,103,0.857,0.794,7.78,3.34,2.87,True,False,False,False,True
+"Schmid-Schoenbein, Geert W",BENG 110,FA09,118,103,0.825,0.792,7.75,3.34,2.87,True,False,False,False,True
+"Huang, Xiaohua",BENG 161A ,FA09,40,35,0.735,0.441,7.21,3.5,3.58,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 162,FA09,39,30,0.897,0.862,10.57,3.46,3.44,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 166A ,FA09,49,32,1.0,0.935,5.81,3.47,3.17,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 187B ,FA09,65,45,0.955,0.907,5.34,3.47,3.46,True,False,False,False,True
+"Herz, Richard K",CENG 100,FA09,87,72,0.725,0.544,6.04,3.26,2.91,True,False,False,False,True
+"Miller, David R.",CENG 101A ,FA09,107,61,0.81,0.932,10.77,3.05,2.78,True,False,False,False,True
+"Herz, Richard K",CENG 120,FA09,65,58,0.569,0.474,8.64,3.12,2.76,True,False,False,False,True
+"Zhang, Liangfang",CENG 122,FA09,63,46,1.0,0.978,7.54,3.48,3.24,True,False,False,False,True
+"Bratton, Maryann",ENG 100,FA09,40,34,0.848,0.8440000000000001,3.5,3.66,3.58,True,False,False,False,True
+"Bratton, Maryann",ENG 100A,FA09,40,34,0.848,0.8440000000000001,3.5,3.66,3.58,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 100,SP09,156,100,0.753,0.685,6.37,3.41,3.14,True,False,False,False,True
+"Watson, John Thomas",BENG 100,SP09,156,94,0.828,0.782,5.98,3.41,3.14,True,False,False,False,True
+"Gough, David A.",BENG 103B ,SP09,63,34,0.469,0.355,7.03,3.3,3.28,True,False,False,False,True
+"Engler, Adam J.",BENG 112B ,SP09,96,62,0.59,0.484,8.17,3.25,3.02,True,False,False,False,True
+"Hasty, Jeff M",BENG 125,SP09,81,45,0.795,0.8859999999999999,4.17,3.79,3.85,True,False,False,False,True
+"Vera, Carlos J",BENG 140B ,SP09,41,34,0.909,0.758,6.44,3.3,3.24,True,False,False,False,True
+"Sung, Lanping Amy",BENG 160,SP09,43,37,0.972,0.917,7.64,3.72,3.83,True,False,False,False,True
+"Zhang, Kun",BENG 160,SP09,43,37,0.972,0.917,7.64,3.72,3.83,True,False,False,False,True
+"Sung, Lanping Amy",BENG 168,SP09,38,21,0.9,0.95,6.21,3.42,3.35,True,False,False,False,True
+"Omens, Jeffrey Howard",BENG 172,SP09,98,33,0.968,1.0,8.56,3.89,3.28,True,False,False,False,True
+"Christman, Karen",BENG 186A ,SP09,143,64,0.934,0.902,5.23,3.56,2.89,True,False,False,False,True
+"Watson, John Thomas",BENG 187A ,SP09,65,41,0.9209999999999999,0.868,1.2,4.0,3.79,True,False,False,False,True
+"Watson, John Thomas",BENG 187D ,SP09,79,44,0.884,0.977,2.59,3.95,3.77,True,False,False,False,True
+"Arya, Gaurav",CENG 101C ,SP09,64,40,0.8109999999999999,0.632,7.65,3.3,3.38,True,False,False,False,True
+"Miller, David R.",CENG 102,SP09,83,40,0.872,0.9740000000000001,8.04,3.26,2.93,True,False,False,False,True
+"Chau, Pao C.",CENG 124B ,SP09,42,24,0.87,0.435,15.33,3.48,3.19,True,False,False,False,True
+"Chau, Pao C.",CENG 176B ,SP09,42,14,0.5,0.35700000000000004,9.5,3.36,3.31,True,False,False,False,True
+"Herz, Richard K",CENG 176B ,SP09,42,14,0.5,0.35700000000000004,9.5,3.36,3.31,True,False,False,False,True
+"Tu, Charles",ENG 100,SP09,31,20,0.789,1.0,3.87,3.63,3.47,True,False,False,False,True
+"Tu, Charles",ENG 100A,SP09,31,20,0.789,1.0,3.87,3.63,3.47,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 109,WI09,134,96,0.8420000000000001,0.779,6.29,3.44,3.13,True,False,False,False,True
+"Mc Culloch, Andrew Douglas",BENG 112A ,WI09,99,57,0.47200000000000003,0.509,9.82,3.33,3.41,True,False,False,False,True
+"Gough, David A.",BENG 122A ,WI09,42,32,0.581,0.467,9.69,3.27,3.06,True,False,False,False,True
+"Hasty, Jeff M",BENG 122A ,WI09,42,32,0.6,0.9670000000000001,9.34,3.27,3.06,True,False,False,False,True
+"Palsson, Bernhard O.",BENG 123,WI09,42,27,0.741,0.852,13.54,3.41,2.97,True,False,False,False,True
+"Varghese, Shyni",BENG 130,WI09,83,56,0.4,0.364,6.8,3.16,3.05,True,False,False,False,True
+"Lieber, Richard L",BENG 140A ,WI09,47,31,1.0,0.9229999999999999,4.43,3.5,2.88,True,False,False,False,True
+"Silva, Gabriel",BENG 140A ,WI09,47,22,1.0,1.0,5.41,3.5,2.88,True,False,False,False,True
+"Ward, Samuel R.",BENG 140A ,WI09,47,28,0.9620000000000001,1.0,4.58,3.5,2.88,True,False,False,False,True
+"Baker, Dale Allen",BENG 161B ,WI09,48,39,0.868,1.0,7.31,3.12,3.19,True,False,False,False,True
+"Omens, Jeffrey Howard",BENG 186B ,WI09,88,54,1.0,1.0,7.63,3.43,3.21,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 187C ,WI09,80,51,0.8,0.84,6.07,3.62,3.57,True,False,False,False,True
+"Herz, Richard K",CENG 100,WI09,72,56,0.782,0.5820000000000001,6.57,3.23,2.91,True,False,False,False,True
+"Seshadri, Kalyanasundaram",CENG 101B ,WI09,66,37,0.861,0.8,7.64,3.24,2.61,True,False,False,False,True
+"Herz, Richard K",CENG 113,WI09,60,38,0.868,0.763,6.45,3.23,2.81,True,False,False,False,True
+"Chau, Pao C.",CENG 124A ,WI09,42,15,0.867,0.667,9.83,3.54,2.94,True,False,False,False,True
+"Bratton, Maryann",ENG 100,WI09,47,37,0.917,0.889,2.66,3.73,3.54,True,False,False,False,True
+"Bratton, Maryann",ENG 100A,WI09,47,37,0.917,0.889,2.66,3.73,3.54,True,False,False,False,True
+"Hall, David J",BENG 101,FA08,34,20,0.9,0.85,4.29,3.47,3.02,True,False,False,False,True
+"Silva, Gabriel",BENG 101,FA08,34,18,0.765,0.875,4.75,3.47,3.02,True,False,False,False,True
+"Schmid-Schoenbein, Geert W",BENG 110,FA08,107,78,0.718,0.792,8.86,3.14,2.92,True,False,False,False,True
+"Huang, Xiaohua",BENG 161A ,FA08,46,33,0.813,0.516,6.08,3.37,3.43,True,False,False,False,True
+"Sah, Robert Lie-Yuan",BENG 161A ,FA08,46,34,0.774,0.8390000000000001,6.21,3.37,3.43,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 162,FA08,45,37,0.892,0.865,6.61,3.41,3.38,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 166A ,FA08,52,36,0.971,0.909,5.17,3.28,3.26,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 187B ,FA08,80,53,0.846,0.75,6.5,3.67,3.62,True,False,False,False,True
+"Krasheninnikov, Sergei",CENG 101A ,FA08,110,54,0.865,0.633,7.46,3.37,2.57,True,False,False,False,True
+"Chau, Pao C.",CENG 120,FA08,34,25,0.45799999999999996,0.522,4.5,3.08,2.75,True,False,False,False,True
+"Talbot, Jan B",CENG 122,FA08,46,33,0.9390000000000001,0.97,7.53,3.58,3.13,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 100,SP08,161,73,0.821,0.7759999999999999,4.5,3.66,2.9,True,False,False,False,True
+"Watson, John Thomas",BENG 100,SP08,161,61,0.789,0.621,4.3,3.66,2.9,True,False,False,False,True
+"Gough, David A.",BENG 103B ,SP08,83,52,0.569,0.308,8.85,3.1,3.23,True,False,False,False,True
+"HUANG, WEI",BENG 112B ,SP08,100,53,0.74,0.28,8.8,3.61,3.12,True,False,False,False,True
+"Hasty, Jeff M",BENG 125,SP08,91,44,1.0,1.0,3.73,3.81,3.72,True,False,False,False,True
+"Vera, Carlos J",BENG 140B ,SP08,51,26,1.0,0.8640000000000001,8.1,3.52,3.19,True,False,False,False,True
+"Wagner, Peter D.",BENG 140B ,SP08,51,29,1.0,0.966,7.26,3.52,3.19,True,False,False,False,True
+"Sung, Lanping Amy",BENG 160,SP08,43,28,1.0,0.75,6.21,3.43,3.67,True,False,False,False,True
+"Zhang, Kun",BENG 160,SP08,43,30,1.0,0.778,5.67,3.43,3.67,True,False,False,False,True
+"Sung, Lanping Amy",BENG 168,SP08,38,23,1.0,0.7829999999999999,4.41,3.24,3.2,True,False,False,False,True
+"Omens, Jeffrey Howard",BENG 172,SP08,89,42,0.975,1.0,9.36,3.73,3.36,True,False,False,False,True
+"Christman, Karen",BENG 186A ,SP08,142,85,0.9129999999999999,0.975,4.62,3.6,2.89,True,False,False,False,True
+"Omens, Jeffrey Howard",BENG 187A ,SP08,82,54,0.96,0.98,0.5,3.94,3.83,True,False,False,False,True
+"Arya, Gaurav",CENG 101C ,SP08,48,21,0.8,0.8,6.02,3.29,3.04,True,False,False,False,True
+"Seshadri, Kalyanasundaram",CENG 102,SP08,59,34,0.7190000000000001,0.71,6.91,3.19,2.76,True,False,False,False,True
+"Chau, Pao C.",CENG 124B ,SP08,29,23,0.8640000000000001,0.773,14.85,3.48,3.42,True,False,False,False,True
+"Chau, Pao C.",CENG 176B ,SP08,29,25,0.875,0.75,9.94,3.4,3.46,True,False,False,False,True
+"Herz, Richard K",CENG 176B ,SP08,29,25,0.875,0.75,9.94,3.4,3.46,True,False,False,False,True
+"Bratton, Maryann",ENG 100,SP08,40,33,0.7879999999999999,0.879,2.98,3.84,3.76,True,False,False,False,True
+"Bratton, Maryann",ENG 100A,SP08,40,33,0.7879999999999999,0.879,2.98,3.84,3.76,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 109,WI08,113,68,0.91,0.862,7.84,3.64,3.16,True,False,False,False,True
+"Mc Culloch, Andrew Douglas",BENG 112A ,WI08,101,56,0.8109999999999999,0.7879999999999999,8.32,3.44,3.44,True,False,False,False,True
+"Gough, David A.",BENG 122A ,WI08,29,20,0.9,0.45,7.0,3.2,3.42,True,False,False,False,True
+"Palsson, Bernhard O.",BENG 123,WI08,56,31,0.613,0.742,11.53,3.11,2.97,True,False,False,False,True
+"Varghese, Shyni",BENG 130,WI08,84,52,0.442,0.5770000000000001,5.27,3.35,2.81,True,False,False,False,True
+"Silva, Gabriel",BENG 140A ,WI08,58,35,0.971,1.0,5.3,3.6,3.34,True,False,False,False,True
+"Baker, Dale Allen",BENG 161B ,WI08,64,51,0.68,0.7959999999999999,9.79,3.04,3.17,True,False,False,False,True
+"Chen, Peter Chung-Yick",BENG 186B ,WI08,104,82,0.868,0.935,7.97,3.57,3.2,True,False,False,False,True
+"Omens, Jeffrey Howard",BENG 186B ,WI08,104,62,0.9179999999999999,0.934,7.92,3.57,3.2,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 187C ,WI08,80,68,0.687,0.627,4.01,3.72,3.61,True,False,False,False,True
+"Watson, John Thomas",BENG 191,WI08,24,16,0.938,0.938,1.5,4.0,3.78,True,False,False,False,True
+"Herz, Richard K",CENG 100,WI08,79,51,0.745,0.6940000000000001,6.34,3.39,2.82,True,False,False,False,True
+"Llewellyn Smith, Stefan G.",CENG 101B ,WI08,55,36,0.7140000000000001,0.8059999999999999,10.11,3.09,2.64,True,False,False,False,True
+"Herz, Richard K",CENG 113,WI08,39,20,0.889,0.8240000000000001,9.1,3.26,3.04,True,False,False,False,True
+"Chau, Pao C.",CENG 124A ,WI08,29,18,0.778,0.529,13.61,3.25,3.32,True,False,False,False,True
+"Chau, Pao C.",CENG 176A ,WI08,29,11,1.0,0.909,10.68,3.09,3.11,True,False,False,False,True
+"Talbot, Jan B",CENG 176A ,WI08,29,11,1.0,0.909,10.68,3.09,3.11,True,False,False,False,True
+"Hall, David J",BENG 101,FA07,52,43,0.8,0.615,4.4,3.64,3.31,True,False,False,False,True
+"Silva, Gabriel",BENG 101,FA07,52,43,0.8,0.615,4.4,3.64,3.31,True,False,False,False,True
+"Schmid-Schoenbein, Geert W",BENG 110,FA07,105,85,0.8,0.882,8.62,3.35,3.19,True,False,False,False,True
+"Sah, Robert Lie-Yuan",BENG 161A ,FA07,65,59,0.6729999999999999,0.685,7.64,3.35,3.3,True,False,False,False,True
+"Vera, Carlos J",BENG 162,FA07,63,29,0.9640000000000001,0.815,8.09,3.93,3.8,True,False,False,False,True
+"Micou, Melissa Kurtis",BENG 166A ,FA07,69,55,0.943,0.9620000000000001,6.75,3.42,3.17,True,False,False,False,True
+"Omens, Jeffrey Howard",BENG 187B ,FA07,81,45,0.775,0.86,5.43,3.74,3.56,True,False,False,False,True
+"Krasheninnikov, Sergei",CENG 101A ,FA07,92,43,0.659,0.6829999999999999,9.6,3.24,2.78,True,False,False,False,True
+"Talbot, Jan B",CENG 122,FA07,27,22,0.909,0.8640000000000001,11.14,3.14,2.87,True,False,False,False,True
+"Mah, Silvia Armitano",ENG 100,FA07,39,34,0.75,0.9690000000000001,2.92,3.62,3.5,True,False,False,False,True
+"Mah, Silvia Armitano",ENG 100A,FA07,39,34,0.75,0.9690000000000001,2.92,3.62,3.5,True,False,False,False,True

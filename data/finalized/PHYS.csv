@@ -1,0 +1,1337 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,isPreGPT,isSTEM,isAbstract,isWritten,isUD
+"Green, Daniel Richard",PHYS 105B,SP23,30,7,1.0,1.0,6.79,3.29,3.32,False,False,False,False,True
+"Murphy, Thomas",PHYS 12,SP23,57,14,0.643,0.857,7.64,3.3,3.02,False,False,False,False,False
+"Yang, Liang",PHYS 120,SP23,83,30,0.552,0.9259999999999999,9.3,3.2,3.5,False,False,False,False,True
+"Wright, Shelley Adams",PHYS 13,SP23,67,19,0.895,0.895,5.97,3.45,2.96,False,False,False,False,False
+"Lin, Tongyan",PHYS 130A,SP23,62,19,1.0,0.9440000000000001,7.97,3.32,3.12,False,False,True,False,True
+"Allen, Monica T",PHYS 133,SP23,27,13,1.0,1.0,3.73,3.83,4.0,False,False,False,False,True
+"Duarte, Javier Mauricio",PHYS 141,SP23,27,22,0.8640000000000001,0.9520000000000001,8.23,3.27,3.7,False,False,False,False,True
+"Keating, Brian",PHYS 162,SP23,39,15,0.867,0.857,5.43,3.13,3.26,False,False,False,False,True
+"Gilbert, Dylan Paul",PHYS 1A,SP23,425,147,0.922,0.986,5.9,3.09,2.78,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1AL,SP23,332,103,0.465,0.515,5.55,3.09,2.64,False,False,False,False,False
+"Yagil, Avi",PHYS 1AL,SP23,332,103,0.465,0.485,5.55,3.09,2.64,False,False,False,False,False
+"Gilbert, Dylan Paul",PHYS 1B,SP23,341,114,0.845,0.982,5.95,3.19,2.81,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1BL,SP23,336,104,0.469,0.711,4.58,3.18,2.89,False,False,False,False,False
+"Yagil, Avi",PHYS 1BL,SP23,336,104,0.469,0.691,4.58,3.18,2.89,False,False,False,False,False
+"Popmintchev, Tenio",PHYS 1C,SP23,573,320,0.637,0.696,5.67,3.19,3.37,False,False,False,False,False
+"Popmintchev, Tenio",PHYS 1C,SP23,585,373,0.64,0.642,5.38,3.29,3.45,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1CL,SP23,1055,458,0.345,0.561,5.1,3.13,3.01,False,False,False,False,False
+"Yagil, Avi",PHYS 1CL,SP23,1055,458,0.345,0.527,5.1,3.13,3.01,False,False,False,False,False
+"Keres, Dusan",PHYS 2A,SP23,255,97,0.8059999999999999,0.731,6.65,3.0,2.51,False,False,False,False,False
+"Shotwell, Brian",PHYS 2B,SP23,207,78,0.838,0.946,8.72,3.13,2.81,False,False,False,False,False
+"Shotwell, Brian",PHYS 2B,SP23,319,138,0.7859999999999999,0.9229999999999999,8.15,3.17,2.86,False,False,False,False,False
+"Butov, Leonid",PHYS 2BL,SP23,248,88,0.8,0.774,3.58,3.68,3.44,False,False,False,False,False
+"Yang, Liang",PHYS 2C,SP23,285,124,0.773,0.773,6.13,3.27,3.02,False,False,False,False,False
+"Arlett, Jessica Lynn",PHYS 2CL,SP23,97,31,0.71,0.8390000000000001,4.76,3.55,3.26,False,False,False,False,False
+"Du, Chunhui",PHYS 2CL,SP23,97,31,0.71,0.774,4.76,3.55,3.26,False,False,False,False,False
+"Branson, James G",PHYS 2D,SP23,41,12,0.727,0.545,7.23,3.27,3.39,False,False,False,False,False
+"Frano Pereira, Alex M",PHYS 4E,SP23,97,39,0.972,1.0,8.28,3.27,3.15,False,False,False,False,False
+"Fogler, Michael M.",PHYS 100B,WI23,73,22,0.636,0.591,7.86,2.86,2.79,False,False,False,False,True
+"Lin, Tongyan",PHYS 105A,WI23,68,25,0.958,1.0,8.02,3.44,3.04,False,False,False,False,True
+"Duarte, Javier Mauricio",PHYS 139,WI23,25,8,0.75,1.0,5.25,3.14,3.84,False,False,False,False,True
+"You, Yizhuang",PHYS 152A,WI23,27,10,1.0,1.0,5.9,3.6,3.98,False,False,False,False,True
+"Sandstrom, Karin Marie",PHYS 160,WI23,36,10,1.0,0.7,6.9,3.6,3.21,False,False,False,False,True
+"Konopacky, Quinn Morgan",PHYS 164,WI23,32,27,0.9259999999999999,0.963,8.94,3.26,3.18,False,False,False,False,True
+"Groisman, Alexander",PHYS 1A,WI23,324,114,0.627,0.6,7.42,2.97,3.17,False,False,False,False,False
+"Arlett, Jessica Lynn",PHYS 1AL,WI23,317,123,0.348,0.555,5.6,2.92,2.73,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1AL,WI23,317,123,0.348,0.5429999999999999,5.6,2.92,2.73,False,False,False,False,False
+"Yagil, Avi",PHYS 1AL,WI23,317,123,0.348,0.5379999999999999,5.6,2.92,2.73,False,False,False,False,False
+"Smith, Douglas E",PHYS 1B,WI23,534,244,0.753,0.797,5.72,3.3,3.12,False,False,False,False,False
+"Smith, Douglas E",PHYS 1B,WI23,519,245,0.7390000000000001,0.8270000000000001,5.9,3.27,3.1,False,False,False,False,False
+"Arlett, Jessica Lynn",PHYS 1BL,WI23,1002,414,0.391,0.61,4.83,3.15,3.08,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1BL,WI23,1002,413,0.389,0.609,4.83,3.15,3.08,False,False,False,False,False
+"Yagil, Avi",PHYS 1BL,WI23,1002,413,0.389,0.613,4.83,3.15,3.08,False,False,False,False,False
+"Tytler, David Robert",PHYS 1C,WI23,135,57,0.449,0.521,6.3,2.76,2.66,False,False,False,False,False
+"Arlett, Jessica Lynn",PHYS 1CL,WI23,171,60,0.36200000000000004,0.42100000000000004,4.74,2.89,2.77,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1CL,WI23,171,60,0.36200000000000004,0.536,4.74,2.89,2.77,False,False,False,False,False
+"Yagil, Avi",PHYS 1CL,WI23,171,60,0.36200000000000004,0.446,4.74,2.89,2.77,False,False,False,False,False
+"Meyertholen, Andrew D.",PHYS 2A,WI23,328,207,0.882,0.95,6.56,3.03,2.66,False,False,False,False,False
+"Meyertholen, Andrew D.",PHYS 2A,WI23,212,151,0.872,0.9390000000000001,7.1,3.02,2.76,False,False,False,False,False
+"Keres, Dusan",PHYS 2B,WI23,308,167,0.627,0.564,7.67,3.04,2.7,False,False,False,False,False
+"Yang, Liang",PHYS 2C,WI23,399,173,0.904,0.825,5.9,3.41,3.15,False,False,False,False,False
+"Allen, Monica T",PHYS 2CL,WI23,175,76,0.667,0.726,4.45,3.51,3.25,False,False,False,False,False
+"Arlett, Jessica Lynn",PHYS 2CL,WI23,175,76,0.667,0.836,4.45,3.51,3.25,False,False,False,False,False
+"Shotwell, Brian",PHYS 2D,WI23,62,30,0.9309999999999999,0.966,7.67,3.18,3.29,False,False,False,False,False
+"Chivukula, Raja S",PHYS 4A,WI23,85,41,0.976,0.878,7.75,3.4,2.76,False,False,False,False,False
+"Frano Pereira, Alex M",PHYS 4D,WI23,103,46,0.953,0.953,10.41,3.19,2.86,False,False,False,False,False
+"Coil, Alison",PHYS 7,WI23,160,51,0.898,0.898,4.78,3.03,2.84,False,False,False,False,False
+"Tytler, David Robert",PHYS 10,FA22,58,17,0.33299999999999996,0.467,4.37,2.91,2.46,False,False,False,False,False
+"Shotwell, Brian",PHYS 100A,FA22,67,18,1.0,1.0,6.5,3.44,3.46,False,False,False,False,True
+"Arovas, Daniel P",PHYS 110A,FA22,62,17,0.706,0.41200000000000003,8.97,3.12,2.84,False,False,False,False,True
+"Grover, Tarun",PHYS 130B,FA22,54,21,0.45,0.42100000000000004,10.98,2.48,2.72,False,False,True,False,True
+"Shotwell, Brian",PHYS 140A,FA22,67,19,1.0,0.941,8.62,3.28,3.19,False,False,False,False,True
+"Fuller, George Michael",PHYS 161,FA22,60,21,0.941,0.882,6.29,3.68,3.65,False,False,False,False,True
+"Koslover, Elena F",PHYS 1A,FA22,301,124,0.787,0.86,7.78,3.17,2.89,False,False,False,False,False
+"Koslover, Elena F",PHYS 1A,FA22,335,136,0.802,0.892,7.41,3.11,3.03,False,False,False,False,False
+"Gilbert, Dylan Paul",PHYS 1A,FA22,543,215,0.956,0.995,5.63,3.54,3.35,False,False,False,False,False
+"Arlett, Jessica Lynn",PHYS 1AL,FA22,1101,410,0.445,0.6609999999999999,4.32,3.1,3.23,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1AL,FA22,1101,410,0.445,0.622,4.32,3.1,3.23,False,False,False,False,False
+"Yagil, Avi",PHYS 1AL,FA22,1101,410,0.445,0.621,4.32,3.1,3.23,False,False,False,False,False
+"Groisman, Alexander",PHYS 1B,FA22,312,70,0.631,0.6459999999999999,6.41,3.11,2.81,False,False,False,False,False
+"Arlett, Jessica Lynn",PHYS 1BL,FA22,277,61,0.368,0.5820000000000001,4.39,3.05,3.11,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1BL,FA22,277,61,0.368,0.6609999999999999,4.39,3.05,3.11,False,False,False,False,False
+"Yagil, Avi",PHYS 1BL,FA22,277,61,0.368,0.6,4.39,3.05,3.11,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1C,FA22,334,101,0.758,0.871,6.9,3.33,3.25,False,False,False,False,False
+"Arlett, Jessica Lynn",PHYS 1CL,FA22,280,77,0.366,0.718,5.11,3.07,3.03,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1CL,FA22,280,77,0.366,0.8029999999999999,5.11,3.07,3.03,False,False,False,False,False
+"Yagil, Avi",PHYS 1CL,FA22,280,77,0.366,0.7,5.11,3.07,3.03,False,False,False,False,False
+"Meyertholen, Andrew D.",PHYS 2A,FA22,365,183,0.865,0.972,6.8,3.19,2.73,False,False,False,False,False
+"Branson, James G",PHYS 2B,FA22,137,52,0.235,0.14,9.0,2.63,2.9,False,False,False,False,False
+"Barreiro Guerrero, Julio",PHYS 2C,FA22,235,191,0.78,0.7120000000000001,7.1,3.29,3.36,False,False,False,False,False
+"Barreiro Guerrero, Julio",PHYS 2C,FA22,269,215,0.804,0.723,6.47,3.29,3.41,False,False,False,False,False
+"Du, Chunhui",PHYS 2CL,FA22,284,132,0.774,0.823,4.82,3.62,3.86,False,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 2D,FA22,20,7,0.7140000000000001,0.7140000000000001,9.07,3.0,2.8,False,False,False,False,False
+"Butov, Leonid",PHYS 2DL,FA22,72,14,0.9229999999999999,1.0,4.35,3.69,3.84,False,False,False,False,False
+"Green, Daniel Richard",PHYS 39,FA22,32,16,0.8,0.8,6.9,3.07,3.24,False,False,False,False,False
+"Averitt, Richard Douglas",PHYS 4C,FA22,117,52,0.78,0.76,10.02,2.84,3.02,False,False,False,False,False
+"Konopacky, Quinn Morgan",PHYS 5,FA22,187,115,0.8740000000000001,0.937,4.08,3.14,3.04,False,False,False,False,False
+"Barreiro Guerrero, Julio",PHYS 100C,SP22,26,20,0.9470000000000001,0.9470000000000001,7.1,3.6,3.75,False,False,False,False,True
+"Murphy, Thomas",PHYS 12,SP22,52,38,0.816,0.838,4.71,3.13,3.25,False,False,False,False,False
+"Yang, Liang",PHYS 120,SP22,65,26,0.792,0.9129999999999999,12.9,3.08,3.08,False,False,False,False,True
+"Wright, Shelley Adams",PHYS 13,SP22,73,23,0.905,1.0,3.74,3.5,3.01,False,False,False,False,False
+"Di Ventra, Massimiliano",PHYS 130A,SP22,71,34,0.8240000000000001,0.529,8.68,2.94,2.8,False,False,True,False,True
+"Meyertholen, Andrew D.",PHYS 130A,SP22,71,34,0.8240000000000001,0.971,8.68,2.94,2.8,False,False,True,False,True
+"Keating, Brian",PHYS 162,SP22,43,16,0.8,0.733,5.43,3.36,3.74,False,False,False,False,True
+"Konopacky, Quinn Morgan",PHYS 1A,SP22,391,294,0.8490000000000001,0.89,6.01,3.31,3.23,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1AL,SP22,29,12,0.583,0.583,5.17,3.0,2.92,False,False,False,False,False
+"Yagil, Avi",PHYS 1AL,SP22,29,12,0.583,0.667,5.17,3.0,2.92,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1AL,SP22,30,8,0.16699999999999998,0.16699999999999998,4.83,2.83,2.69,False,False,False,False,False
+"Yagil, Avi",PHYS 1AL,SP22,30,8,0.16699999999999998,0.16699999999999998,4.83,2.83,2.69,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1AL,SP22,28,15,0.308,0.5379999999999999,4.96,3.08,2.89,False,False,False,False,False
+"Yagil, Avi",PHYS 1AL,SP22,28,15,0.308,0.5379999999999999,4.96,3.08,2.89,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1AL,SP22,26,12,0.455,0.545,6.3,3.0,3.08,False,False,False,False,False
+"Yagil, Avi",PHYS 1AL,SP22,26,12,0.455,0.545,6.3,3.0,3.08,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1AL,SP22,29,18,0.588,0.588,3.68,3.29,3.41,False,False,False,False,False
+"Yagil, Avi",PHYS 1AL,SP22,29,18,0.588,0.529,3.68,3.29,3.41,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1AL,SP22,27,9,0.556,0.778,5.61,3.0,2.99,False,False,False,False,False
+"Yagil, Avi",PHYS 1AL,SP22,27,9,0.556,0.667,5.61,3.0,2.99,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1AL,SP22,27,13,0.308,0.615,4.65,2.69,3.16,False,False,False,False,False
+"Yagil, Avi",PHYS 1AL,SP22,27,13,0.308,0.5379999999999999,4.65,2.69,3.16,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1AL,SP22,29,17,0.5,0.688,4.74,3.41,3.47,False,False,False,False,False
+"Yagil, Avi",PHYS 1AL,SP22,29,17,0.5,0.688,4.74,3.41,3.47,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1AL,SP22,29,14,0.857,0.7859999999999999,3.64,3.29,3.14,False,False,False,False,False
+"Yagil, Avi",PHYS 1AL,SP22,29,14,0.857,0.7859999999999999,3.64,3.29,3.14,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1AL,SP22,28,12,0.545,0.455,5.5,3.3,3.34,False,False,False,False,False
+"Yagil, Avi",PHYS 1AL,SP22,28,12,0.545,0.364,5.5,3.3,3.34,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1AL,SP22,27,14,0.5710000000000001,0.643,5.21,3.5,3.49,False,False,False,False,False
+"Yagil, Avi",PHYS 1AL,SP22,27,14,0.5710000000000001,0.7140000000000001,5.21,3.5,3.49,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1AL,SP22,22,12,0.5,0.545,4.0,3.0,3.0,False,False,False,False,False
+"Yagil, Avi",PHYS 1AL,SP22,22,12,0.5,0.636,4.0,3.0,3.0,False,False,False,False,False
+"Gilbert, Dylan Paul",PHYS 1B,SP22,306,132,0.843,0.9520000000000001,6.85,3.2,2.82,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1BL,SP22,26,13,0.583,0.818,5.33,3.42,3.2,False,False,False,False,False
+"Yagil, Avi",PHYS 1BL,SP22,26,13,0.583,0.727,5.33,3.42,3.2,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1BL,SP22,30,14,0.857,0.929,3.07,3.29,3.51,False,False,False,False,False
+"Yagil, Avi",PHYS 1BL,SP22,30,14,0.857,0.929,3.07,3.29,3.51,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1BL,SP22,29,6,0.667,0.833,5.17,3.17,3.48,False,False,False,False,False
+"Yagil, Avi",PHYS 1BL,SP22,29,6,0.667,0.833,5.17,3.17,3.48,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1BL,SP22,25,9,0.33299999999999996,0.667,2.94,3.22,3.36,False,False,False,False,False
+"Yagil, Avi",PHYS 1BL,SP22,25,9,0.33299999999999996,0.778,2.94,3.22,3.36,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1BL,SP22,30,13,0.667,0.833,4.32,3.36,3.34,False,False,False,False,False
+"Yagil, Avi",PHYS 1BL,SP22,30,13,0.667,0.833,4.32,3.36,3.34,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1BL,SP22,27,12,0.545,1.0,5.5,3.55,3.47,False,False,False,False,False
+"Yagil, Avi",PHYS 1BL,SP22,27,12,0.545,0.909,5.5,3.55,3.47,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1BL,SP22,27,6,0.667,0.833,4.5,3.5,3.34,False,False,False,False,False
+"Yagil, Avi",PHYS 1BL,SP22,27,6,0.667,0.833,4.5,3.5,3.34,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1BL,SP22,26,9,0.75,0.875,3.25,3.13,3.39,False,False,False,False,False
+"Yagil, Avi",PHYS 1BL,SP22,26,9,0.75,0.875,3.25,3.13,3.39,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1BL,SP22,26,12,0.727,0.818,4.14,3.64,3.66,False,False,False,False,False
+"Yagil, Avi",PHYS 1BL,SP22,26,12,0.727,0.818,4.14,3.64,3.66,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1BL,SP22,25,8,0.75,0.75,6.0,3.0,3.23,False,False,False,False,False
+"Yagil, Avi",PHYS 1BL,SP22,25,8,0.75,0.75,6.0,3.0,3.23,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1BL,SP22,28,8,0.875,1.0,5.0,3.63,3.49,False,False,False,False,False
+"Yagil, Avi",PHYS 1BL,SP22,28,8,0.875,1.0,5.0,3.63,3.49,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1BL,SP22,24,5,0.6,1.0,3.7,3.4,3.51,False,False,False,False,False
+"Yagil, Avi",PHYS 1BL,SP22,24,6,0.667,0.833,4.5,3.33,3.51,False,False,False,False,False
+"Koslover, Elena F",PHYS 1C,SP22,358,152,0.9259999999999999,0.993,6.03,3.42,3.11,False,False,False,False,False
+"Tytler, David Robert",PHYS 1C,SP22,186,84,0.275,0.1,6.81,2.79,2.49,False,False,False,False,False
+"Coil, Alison",PHYS 1C,SP22,352,129,0.736,0.7020000000000001,5.98,3.3,3.04,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1CL,SP22,883,290,0.486,0.813,5.12,3.12,3.14,False,False,False,False,False
+"Yagil, Avi",PHYS 1CL,SP22,883,290,0.486,0.67,5.12,3.12,3.14,False,False,False,False,False
+"Meyertholen, Andrew D.",PHYS 2A,SP22,290,130,0.922,0.937,6.98,3.15,2.73,False,False,False,False,False
+"Shotwell, Brian",PHYS 2B,SP22,353,156,0.8079999999999999,0.867,8.22,3.13,2.97,False,False,False,False,False
+"Shotwell, Brian",PHYS 2B,SP22,344,158,0.705,0.7390000000000001,7.96,3.16,2.93,False,False,False,False,False
+"Butov, Leonid",PHYS 2BL,SP22,267,108,0.619,0.629,5.08,3.58,3.43,False,False,False,False,False
+"Michelsen, Eric Leonard",PHYS 2C,SP22,302,125,0.5539999999999999,0.45799999999999996,7.84,2.85,2.56,False,False,False,False,False
+"Shpyrko, Oleg",PHYS 2CL,SP22,116,35,0.971,1.0,4.84,3.83,3.46,False,False,False,False,False
+"Branson, James G",PHYS 2D,SP22,71,40,0.583,0.429,6.28,3.2,3.46,False,False,False,False,False
+"Chivukula, Raja S",PHYS 4B,SP22,106,49,0.813,0.787,9.58,3.48,3.41,False,False,False,False,False
+"Frano Pereira, Alex M",PHYS 4E,SP22,77,32,0.938,0.9690000000000001,8.5,3.38,3.12,False,False,False,False,False
+"Sharma, Vivek A.",PHYS 10,WI22,54,39,0.564,0.436,5.53,3.33,2.98,False,False,False,False,False
+"Michelsen, Eric Leonard",PHYS 100B,WI22,62,30,0.7,0.552,7.97,2.85,2.67,False,False,False,False,True
+"Green, Daniel Richard",PHYS 105A,WI22,70,28,0.852,0.852,9.39,2.81,2.59,False,False,False,False,True
+"Serra, Mattia",PHYS 110B,WI22,27,10,0.8,0.6,9.7,3.0,3.09,False,False,False,False,True
+"Keres, Dusan",PHYS 163,WI22,28,14,0.7859999999999999,0.643,8.21,3.14,2.4,False,False,False,False,True
+"Konopacky, Quinn Morgan",PHYS 164,WI22,20,15,0.9329999999999999,1.0,8.77,2.86,2.76,False,False,False,False,True
+"Burgasser, Adam Jonathan",PHYS 1A,WI22,362,295,0.531,0.551,9.04,2.99,3.0,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1AL,WI22,363,176,0.7340000000000001,0.887,4.96,3.25,3.23,False,False,False,False,False
+"Yagil, Avi",PHYS 1AL,WI22,363,175,0.732,0.835,4.92,3.25,3.23,False,False,False,False,False
+"Smith, Douglas E",PHYS 1B,WI22,264,97,0.902,0.978,5.62,3.47,3.16,False,False,False,False,False
+"Smith, Douglas E",PHYS 1B,WI22,380,152,0.912,0.9790000000000001,5.27,3.61,3.16,False,False,False,False,False
+"Smith, Douglas E",PHYS 1B,WI22,384,156,0.872,0.9390000000000001,5.27,3.53,3.19,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1BL,WI22,966,327,0.6809999999999999,0.93,4.86,3.48,3.24,False,False,False,False,False
+"Yagil, Avi",PHYS 1BL,WI22,966,327,0.6809999999999999,0.764,4.86,3.48,3.24,False,False,False,False,False
+"Gilbert, Dylan Paul",PHYS 1C,WI22,302,118,0.941,0.991,4.66,3.62,3.31,False,False,False,False,False
+"Tsai, Philbert S",PHYS 1CL,WI22,268,86,0.373,0.7829999999999999,6.13,3.05,3.03,False,False,False,False,False
+"Yagil, Avi",PHYS 1CL,WI22,268,86,0.373,0.639,6.13,3.05,3.03,False,False,False,False,False
+"Popmintchev, Tenio",PHYS 2A,WI22,340,229,0.81,0.6809999999999999,7.52,3.45,3.48,False,False,False,False,False
+"Popmintchev, Tenio",PHYS 2A,WI22,203,134,0.818,0.74,7.25,3.32,3.37,False,False,False,False,False
+"Popmintchev, Tenio",PHYS 2A,WI22,276,186,0.8,0.6679999999999999,7.34,3.24,3.3,False,False,False,False,False
+"Meyertholen, Andrew D.",PHYS 2B,WI22,381,230,0.907,0.982,7.46,3.17,2.88,False,False,False,False,False
+"Yang, Liang",PHYS 2C,WI22,272,108,0.9129999999999999,0.904,6.13,3.39,3.07,False,False,False,False,False
+"Butov, Leonid",PHYS 2CL,WI22,232,89,0.8,0.847,5.67,3.42,3.5,False,False,False,False,False
+"Branson, James G",PHYS 2D,WI22,56,22,0.762,0.429,7.07,3.52,3.39,False,False,False,False,False
+"Chivukula, Raja S",PHYS 4A,WI22,119,76,0.9590000000000001,0.973,8.45,3.51,3.24,False,False,False,False,False
+"Shotwell, Brian",PHYS 4A,WI22,119,76,0.9590000000000001,1.0,8.45,3.51,3.24,False,False,False,False,False
+"Frano Pereira, Alex M",PHYS 4D,WI22,81,35,0.882,0.882,9.5,3.06,3.04,False,False,False,False,False
+"Norman, Michael L",PHYS 5,WI22,182,84,0.963,0.976,3.87,3.74,3.49,False,False,False,False,False
+"Tytler, David Robert",PHYS 9,WI22,51,17,0.625,0.5,8.13,3.31,3.11,False,False,False,False,False
+"Shotwell, Brian",PHYS 100A,FA21,76,35,0.9690000000000001,0.935,9.06,3.63,3.02,True,False,False,False,True
+"Burgasser, Adam Jonathan",PHYS 110A,FA21,75,37,0.946,0.973,9.42,3.38,3.21,True,False,False,False,True
+"Yang, Liang",PHYS 120,FA21,32,20,1.0,1.0,13.3,3.2,2.82,True,False,False,False,True
+"Meyertholen, Andrew D.",PHYS 130B,FA21,53,31,0.9,1.0,9.03,3.07,2.79,True,False,True,False,True
+"Shotwell, Brian",PHYS 140A,FA21,63,27,0.9620000000000001,0.9620000000000001,8.73,3.44,3.26,True,False,False,False,True
+"Wright, Shelley Adams",PHYS 160,FA21,40,25,0.917,0.875,7.14,3.2,2.53,True,False,False,False,True
+"Tsai, Philbert S",PHYS 1A,FA21,434,168,0.868,0.925,7.05,3.33,3.18,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1A,FA21,386,160,0.7909999999999999,0.8859999999999999,6.68,3.16,3.15,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1A,FA21,370,136,0.818,0.9229999999999999,6.74,3.33,3.14,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1AL,FA21,1050,365,0.675,0.894,3.54,3.39,3.37,True,False,False,False,False
+"Yagil, Avi",PHYS 1AL,FA21,1050,365,0.675,0.774,3.54,3.39,3.37,True,False,False,False,False
+"Schuller, Ivan K",PHYS 1B,FA21,275,117,0.73,0.46799999999999997,6.78,3.25,2.82,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1BL,FA21,277,95,0.636,0.795,3.86,3.28,3.2,True,False,False,False,False
+"Yagil, Avi",PHYS 1BL,FA21,277,94,0.632,0.736,3.81,3.29,3.2,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1CL,FA21,227,79,0.513,0.773,5.19,3.2,3.05,True,False,False,False,False
+"Yagil, Avi",PHYS 1CL,FA21,227,79,0.513,0.73,5.19,3.2,3.05,True,False,False,False,False
+"Meyertholen, Andrew D.",PHYS 2A,FA21,384,224,0.9159999999999999,0.972,7.07,3.2,2.88,True,False,False,False,False
+"Keres, Dusan",PHYS 2B,FA21,191,94,0.7340000000000001,0.713,7.85,3.04,2.83,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2C,FA21,329,158,0.85,0.9079999999999999,6.71,3.11,2.89,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2C,FA21,290,161,0.8220000000000001,0.879,6.64,3.1,2.79,True,False,False,False,False
+"Barreiro Guerrero, Julio",PHYS 2CL,FA21,265,224,0.629,0.7809999999999999,8.34,3.42,3.29,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 2D,FA21,26,10,0.444,0.444,5.0,2.5,1.87,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2DL,FA21,52,41,0.775,0.825,7.94,3.45,3.61,True,False,False,False,False
+"Averitt, Richard Douglas",PHYS 4C,FA21,94,45,0.932,0.818,9.14,2.91,2.98,True,False,False,False,False
+"Konopacky, Quinn Morgan",PHYS 5,FA21,178,130,0.875,0.945,4.19,3.17,2.96,True,False,False,False,False
+"Sandstrom, Karin Marie",PHYS 7,FA21,232,110,0.9329999999999999,0.961,5.08,3.14,2.63,True,False,False,False,False
+"Chivukula, Raja S",PHYS 100C,SP21,44,15,1.0,0.867,9.7,3.71,3.4,True,False,False,False,True
+"Dubin, Daniel Herschel",PHYS 105B,SP21,21,5,0.5,1.0,14.0,1.75,2.72,True,False,False,False,True
+"Meyertholen, Andrew D.",PHYS 130A,SP21,76,33,0.97,1.0,8.98,3.42,3.28,True,False,True,False,True
+"Green, Daniel Richard",PHYS 161,SP21,31,10,0.9,0.9,8.3,3.25,2.31,True,False,False,False,True
+"Keating, Brian",PHYS 162,SP21,37,12,0.75,0.41700000000000004,10.33,3.22,3.28,True,False,False,False,True
+"Tsai, Philbert S",PHYS 1A,SP21,377,155,0.8190000000000001,0.9059999999999999,6.58,3.34,3.26,True,False,False,False,False
+"Yagil, Avi",PHYS 1AL,SP21,331,113,0.618,0.682,5.67,3.22,3.46,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1B,SP21,381,167,0.8759999999999999,0.963,6.84,3.44,3.34,True,False,False,False,False
+"Yagil, Avi",PHYS 1BL,SP21,353,138,0.799,0.8109999999999999,5.75,3.5,3.52,True,False,False,False,False
+"Arnold, Kam S",PHYS 1C,SP21,934,422,0.7140000000000001,0.63,6.42,3.43,3.05,True,False,False,False,False
+"Yagil, Avi",PHYS 1CL,SP21,894,395,0.47600000000000003,0.28800000000000003,7.06,3.39,3.48,True,False,False,False,False
+"Keres, Dusan",PHYS 2A,SP21,295,104,0.647,0.6729999999999999,7.29,2.99,2.7,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2B,SP21,573,233,0.782,0.87,7.12,3.17,3.11,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2B,SP21,74,31,0.867,0.9670000000000001,7.23,3.38,3.24,True,False,False,False,False
+"Butov, Leonid",PHYS 2BL,SP21,328,137,0.733,0.7559999999999999,5.8,3.65,3.69,True,False,False,False,False
+"Duarte, Javier Mauricio",PHYS 2C,SP21,349,287,0.941,0.983,6.12,3.76,3.69,True,False,False,False,False
+"Ni, Kaixuan",PHYS 2CL,SP21,123,58,0.596,0.912,9.03,3.35,3.22,True,False,False,False,False
+"Branson, James G",PHYS 2D,SP21,46,15,0.667,0.5329999999999999,8.9,3.36,3.68,True,False,False,False,False
+"Chivukula, Raja S",PHYS 4B,SP21,106,58,0.948,0.948,7.6,3.83,3.68,True,False,False,False,False
+"Shotwell, Brian",PHYS 4B,SP21,106,58,0.948,0.966,7.6,3.83,3.68,True,False,False,False,False
+"Frano Pereira, Alex M",PHYS 4E,SP21,57,30,0.897,0.966,8.43,3.25,2.95,True,False,False,False,False
+"Tytler, David Robert",PHYS 8,SP21,69,18,0.778,0.778,4.39,3.2,3.02,True,False,False,False,False
+"Wright, Shelley Adams",PHYS 9,SP21,93,31,0.867,0.9309999999999999,4.9,3.64,3.32,True,False,False,False,False
+"Ni, Kaixuan",PHYS 100B,WI21,72,25,1.0,1.0,8.41,3.36,3.33,True,False,False,False,True
+"Green, Daniel Richard",PHYS 105A,WI21,65,16,0.813,0.563,11.3,3.0,2.77,True,False,False,False,True
+"Serra, Mattia",PHYS 110B,WI21,45,9,0.889,0.889,7.39,3.0,2.55,True,False,False,False,True
+"Jenkins, Elizabeth",PHYS 130C,WI21,27,7,0.5710000000000001,0.5,7.07,3.43,3.76,True,False,True,False,True
+"Sandstrom, Karin Marie",PHYS 163,WI21,41,11,1.0,1.0,7.95,3.8,3.03,True,False,False,False,True
+"Tsai, Philbert S",PHYS 1A,WI21,376,167,0.758,0.85,7.03,3.32,3.45,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1AL,WI21,378,155,0.728,0.9129999999999999,5.61,3.22,3.27,True,False,False,False,False
+"Groisman, Alexander",PHYS 1B,WI21,978,426,0.852,0.8240000000000001,6.12,3.57,3.55,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1BL,WI21,952,390,0.8440000000000001,0.9840000000000001,6.27,3.62,3.74,True,False,False,False,False
+"Arnold, Kam S",PHYS 1C,WI21,240,108,0.657,0.562,6.56,3.31,3.13,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1CL,WI21,230,87,0.741,0.914,6.72,3.46,3.51,True,False,False,False,False
+"Meyertholen, Andrew D.",PHYS 2A,WI21,732,531,0.945,0.9790000000000001,5.85,3.37,3.52,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2B,WI21,345,184,0.9329999999999999,0.9890000000000001,7.11,3.49,3.36,True,False,False,False,False
+"Duarte, Javier Mauricio",PHYS 2C,WI21,298,255,0.956,0.98,6.21,3.7,3.67,True,False,False,False,False
+"Du, Chunhui",PHYS 2CL,WI21,235,199,0.628,0.759,8.63,3.35,3.33,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2D,WI21,51,48,0.833,0.8540000000000001,8.71,2.94,3.05,True,False,False,False,False
+"Chivukula, Raja S",PHYS 4A,WI21,124,64,0.917,1.0,8.53,3.62,3.52,True,False,False,False,False
+"Shotwell, Brian",PHYS 4A,WI21,124,64,0.917,0.9329999999999999,8.53,3.62,3.52,True,False,False,False,False
+"Frano Pereira, Alex M",PHYS 4D,WI21,60,33,0.848,0.879,9.35,2.91,2.84,True,False,False,False,False
+"Keres, Dusan",PHYS 7,WI21,159,62,0.951,0.8690000000000001,5.6,3.42,3.06,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 10,FA20,99,83,0.687,0.7709999999999999,5.97,3.39,3.08,True,False,False,False,False
+"Lin, Tongyan",PHYS 100A,FA20,85,27,0.8079999999999999,0.885,9.96,3.24,2.8,True,False,False,False,True
+"Burgasser, Adam Jonathan",PHYS 110A,FA20,88,25,0.88,0.9129999999999999,10.82,3.38,3.38,True,False,False,False,True
+"Konopacky, Quinn Morgan",PHYS 13,FA20,134,45,0.8440000000000001,0.8640000000000001,5.21,3.5,3.05,True,False,False,False,False
+"Meyertholen, Andrew D.",PHYS 130B,FA20,60,26,0.9229999999999999,1.0,9.58,3.46,3.39,True,False,True,False,True
+"Fogler, Michael M.",PHYS 140A,FA20,67,22,0.524,0.429,10.79,3.33,2.84,True,False,False,False,True
+"Wright, Shelley Adams",PHYS 160,FA20,28,7,1.0,1.0,11.36,3.71,2.93,True,False,False,False,True
+"Smith, Douglas E",PHYS 1A,FA20,394,180,0.85,0.971,6.01,3.3,3.08,True,False,False,False,False
+"Smith, Douglas E",PHYS 1A,FA20,382,190,0.93,0.946,5.62,3.43,3.25,True,False,False,False,False
+"Smith, Douglas E",PHYS 1A,FA20,379,213,0.8640000000000001,0.937,5.84,3.48,3.23,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1AL,FA20,1043,480,0.759,0.935,6.58,3.43,3.47,True,False,False,False,False
+"Paddock, Mark",PHYS 1B,FA20,252,109,0.838,0.905,6.12,3.17,3.21,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1BL,FA20,244,96,0.884,0.9470000000000001,5.22,3.32,3.34,True,False,False,False,False
+"Koslover, Elena F",PHYS 1C,FA20,257,117,0.8859999999999999,0.965,6.9,3.57,3.35,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1CL,FA20,263,113,0.789,0.9540000000000001,6.43,3.47,3.35,True,False,False,False,False
+"Keres, Dusan",PHYS 2A,FA20,323,152,0.765,0.789,7.51,3.12,2.59,True,False,False,False,False
+"Branson, James G",PHYS 2B,FA20,28,5,0.8,0.0,6.1,3.6,3.04,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2B,FA20,184,98,0.925,1.0,6.82,3.42,3.21,True,False,False,False,False
+"Shotwell, Brian",PHYS 2C,FA20,395,182,0.951,0.956,6.01,3.68,3.67,True,False,False,False,False
+"Shotwell, Brian",PHYS 2C,FA20,297,141,0.963,0.985,6.72,3.74,3.71,True,False,False,False,False
+"Barreiro Guerrero, Julio",PHYS 2CL,FA20,285,126,0.72,0.92,9.2,3.36,3.25,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 2D,FA20,50,19,0.611,0.278,9.72,2.94,2.63,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2DL,FA20,24,7,0.7140000000000001,0.857,5.93,3.43,3.62,True,False,False,False,False
+"Averitt, Richard Douglas",PHYS 4C,FA20,73,36,0.914,1.0,8.5,3.03,3.2,True,False,False,False,False
+"Coil, Alison",PHYS 5,FA20,154,58,0.981,0.981,4.86,3.4,3.21,True,False,False,False,False
+"Chivukula, Raja S",PHYS 100C,SP20,62,19,1.0,1.0,9.03,3.63,3.61,True,False,False,False,True
+"Dubin, Daniel Herschel",PHYS 105B,SP20,28,6,0.8,0.8,12.5,3.67,3.67,True,False,False,False,True
+"Di Ventra, Massimiliano",PHYS 130A,SP20,70,19,0.9440000000000001,0.941,10.28,3.47,3.4,True,False,True,False,True
+"Meyertholen, Andrew D.",PHYS 130A,SP20,70,19,0.9440000000000001,0.9440000000000001,10.28,3.47,3.4,True,False,True,False,True
+"Anderegg, Francois",PHYS 151,SP20,26,23,0.9570000000000001,1.0,7.28,3.55,3.61,True,False,False,False,True
+"Fuller, George Michael",PHYS 162,SP20,54,17,0.938,1.0,6.25,3.73,3.91,True,False,False,False,True
+"Sandstrom, Karin Marie",PHYS 163,SP20,24,11,0.818,1.0,7.05,3.14,3.55,True,False,False,False,True
+"Paddock, Mark",PHYS 1A,SP20,311,117,0.904,0.922,6.54,3.45,3.49,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1AL,SP20,261,106,0.905,0.9520000000000001,4.58,3.54,3.72,True,False,False,False,False
+"Smith, Douglas E",PHYS 1B,SP20,204,77,0.871,0.9570000000000001,5.97,3.44,3.33,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1BL,SP20,208,77,0.934,0.9740000000000001,5.03,3.62,3.7,True,False,False,False,False
+"Paddock, Mark",PHYS 1C,SP20,167,67,0.7879999999999999,0.833,5.65,3.47,3.56,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1C,SP20,455,213,0.899,0.986,6.43,3.6,3.82,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1C,SP20,448,196,0.917,0.9790000000000001,6.32,3.74,3.76,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1CL,SP20,1016,390,0.8109999999999999,0.987,5.25,3.65,3.79,True,False,False,False,False
+"Burgasser, Adam Jonathan",PHYS 2A,SP20,308,140,0.765,0.785,10.03,3.5,3.57,True,False,False,False,False
+"Meyertholen, Andrew D.",PHYS 2B,SP20,318,175,0.953,1.0,6.45,3.36,3.68,True,False,False,False,False
+"Meyertholen, Andrew D.",PHYS 2B,SP20,261,141,0.929,0.986,6.51,3.34,3.64,True,False,False,False,False
+"Meyertholen, Andrew D.",PHYS 2B,SP20,293,154,0.934,1.0,6.88,3.37,3.66,True,False,False,False,False
+"Yang, Liang",PHYS 2BL,SP20,333,148,0.789,0.9079999999999999,5.08,3.62,3.88,True,False,False,False,False
+"Shotwell, Brian",PHYS 2C,SP20,429,173,0.9229999999999999,0.946,7.01,3.53,3.76,True,False,False,False,False
+"Du, Chunhui",PHYS 2CL,SP20,190,64,0.5870000000000001,0.6509999999999999,8.12,3.6,3.67,True,False,False,False,False
+"Branson, James G",PHYS 2D,SP20,81,33,0.433,0.267,9.65,3.26,3.77,True,False,False,False,False
+"Butov, Leonid",PHYS 2DL,SP20,58,17,0.75,0.875,5.21,3.79,3.56,True,False,False,False,False
+"Chivukula, Raja S",PHYS 4B,SP20,62,27,0.9620000000000001,1.0,7.58,3.74,3.68,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 4E,SP20,41,13,0.769,0.5379999999999999,7.58,3.0,3.23,True,False,False,False,False
+"Ni, Kaixuan",PHYS 8,SP20,133,43,0.9,0.9,4.55,3.56,3.97,True,False,False,False,False
+"Tytler, David Robert",PHYS 9,SP20,77,36,0.19399999999999998,0.371,8.22,2.82,3.45,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 10,WI20,110,95,0.705,0.853,3.49,2.9,3.06,True,False,False,False,False
+"Shotwell, Brian",PHYS 100B,WI20,64,17,1.0,1.0,7.03,3.38,3.25,True,False,False,False,True
+"Green, Daniel Richard",PHYS 105A,WI20,65,18,0.5329999999999999,0.6920000000000001,9.0,2.81,2.8,True,False,False,False,True
+"Intriligator, Kenneth Arthur",PHYS 110B,WI20,39,9,0.778,0.556,6.94,3.0,2.6,True,False,False,False,True
+"Murphy, Thomas",PHYS 12,WI20,40,25,0.833,0.917,5.33,3.65,3.56,True,False,False,False,False
+"Arnold, Kam S",PHYS 124,WI20,28,12,1.0,1.0,9.95,3.7,3.89,True,False,False,False,True
+"Shotwell, Brian",PHYS 130C,WI20,31,10,1.0,1.0,7.39,3.44,3.49,True,False,True,False,True
+"Wright, Shelley Adams",PHYS 160,WI20,32,14,1.0,0.929,7.93,3.14,2.92,True,False,False,False,True
+"Burgasser, Adam Jonathan",PHYS 1A,WI20,177,72,0.764,0.792,7.97,3.23,3.29,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1AL,WI20,189,74,0.632,0.7190000000000001,3.95,3.35,3.45,True,False,False,False,False
+"Yagil, Avi",PHYS 1AL,WI20,189,74,0.632,0.7120000000000001,3.95,3.35,3.45,True,False,False,False,False
+"Smith, Douglas E",PHYS 1B,WI20,212,88,0.8490000000000001,0.965,5.04,3.49,3.44,True,False,False,False,False
+"Smith, Douglas E",PHYS 1B,WI20,360,176,0.879,0.988,4.91,3.26,3.45,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1B,WI20,413,205,0.91,0.985,5.85,3.44,3.52,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1BL,WI20,946,390,0.562,0.858,3.65,3.45,3.58,True,False,False,False,False
+"Yagil, Avi",PHYS 1BL,WI20,946,390,0.562,0.7509999999999999,3.65,3.45,3.58,True,False,False,False,False
+"Paddock, Mark",PHYS 1C,WI20,186,66,0.81,0.8390000000000001,6.18,3.4,3.36,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1CL,WI20,174,50,0.5870000000000001,0.667,4.15,3.18,3.33,True,False,False,False,False
+"Yagil, Avi",PHYS 1CL,WI20,174,50,0.5870000000000001,0.622,4.15,3.18,3.33,True,False,False,False,False
+"Popmintchev, Tenio",PHYS 2A,WI20,290,230,0.8690000000000001,0.872,6.39,3.42,3.51,True,False,False,False,False
+"Popmintchev, Tenio",PHYS 2A,WI20,285,231,0.878,0.856,6.52,3.42,3.45,True,False,False,False,False
+"Popmintchev, Tenio",PHYS 2A,WI20,256,206,0.877,0.8909999999999999,6.51,3.37,3.44,True,False,False,False,False
+"Barreiro Guerrero, Julio",PHYS 2B,WI20,333,288,0.866,0.9229999999999999,8.24,3.05,2.89,True,False,False,False,False
+"Duarte, Javier Mauricio",PHYS 2C,WI20,350,223,0.894,0.981,5.95,3.25,3.32,True,False,False,False,False
+"Du, Chunhui",PHYS 2CL,WI20,181,64,0.6,0.633,6.3,3.53,3.38,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2D,WI20,71,66,0.924,0.97,6.47,3.43,3.69,True,False,False,False,False
+"Lin, Tongyan",PHYS 4A,WI20,76,58,0.9309999999999999,0.9309999999999999,8.02,3.24,3.2,True,False,False,False,False
+"Frano Pereira, Alex M",PHYS 4D,WI20,45,19,0.9470000000000001,1.0,9.03,3.11,2.8,True,False,False,False,False
+"Keres, Dusan",PHYS 7,WI20,135,56,0.885,0.961,4.42,3.06,3.06,True,False,False,False,False
+"Fogler, Michael M.",PHYS 100A,FA19,62,13,0.667,0.667,8.17,3.0,2.9,True,False,False,False,True
+"Averitt, Richard Douglas",PHYS 110A,FA19,68,17,0.938,0.938,6.38,3.5,2.87,True,False,False,False,True
+"Murphy, Thomas",PHYS 122,FA19,26,6,0.833,1.0,10.83,3.0,3.24,True,False,False,False,True
+"Konopacky, Quinn Morgan",PHYS 13,FA19,187,132,0.9390000000000001,0.938,3.45,3.53,3.25,True,False,False,False,False
+"Meyertholen, Andrew D.",PHYS 130B,FA19,67,35,0.914,0.971,7.13,3.2,3.03,True,False,True,False,True
+"Palacci, Jeremie",PHYS 140A,FA19,72,24,0.7829999999999999,0.7829999999999999,5.89,3.17,2.78,True,False,False,False,True
+"Green, Daniel Richard",PHYS 161,FA19,29,9,1.0,0.889,8.06,2.56,2.41,True,False,False,False,True
+"Koslover, Elena F",PHYS 1A,FA19,355,183,0.7440000000000001,0.8420000000000001,6.37,3.07,3.2,True,False,False,False,False
+"Koslover, Elena F",PHYS 1A,FA19,264,127,0.846,0.883,6.95,3.12,3.17,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1A,FA19,352,182,0.7929999999999999,0.919,6.35,3.22,3.19,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1AL,FA19,993,448,0.665,0.833,3.76,3.29,3.43,True,False,False,False,False
+"Yagil, Avi",PHYS 1AL,FA19,993,448,0.665,0.73,3.76,3.29,3.43,True,False,False,False,False
+"Paddock, Mark",PHYS 1B,FA19,179,70,0.721,0.779,5.28,3.19,2.98,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1BL,FA19,184,65,0.633,0.7120000000000001,3.04,3.22,3.15,True,False,False,False,False
+"Yagil, Avi",PHYS 1BL,FA19,184,65,0.633,0.667,3.04,3.22,3.15,True,False,False,False,False
+"Paddock, Mark",PHYS 1C,FA19,202,86,0.61,0.622,6.33,3.02,2.83,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1CL,FA19,214,78,0.639,0.831,4.33,3.36,3.28,True,False,False,False,False
+"Yagil, Avi",PHYS 1CL,FA19,214,79,0.63,0.74,4.31,3.37,3.28,True,False,False,False,False
+"Karmakar, Richa",PHYS 2A,FA19,331,155,0.736,0.304,6.08,3.13,3.25,True,False,False,False,False
+"Groisman, Alexander",PHYS 2B,FA19,331,151,0.6,0.518,6.99,2.89,2.77,True,False,False,False,False
+"Shotwell, Brian",PHYS 2C,FA19,389,190,0.812,0.773,7.17,3.18,3.09,True,False,False,False,False
+"Shotwell, Brian",PHYS 2C,FA19,228,118,0.759,0.732,7.2,2.98,2.72,True,False,False,False,False
+"Ni, Kaixuan",PHYS 2CL,FA19,227,105,0.515,0.835,8.23,3.37,3.42,True,False,False,False,False
+"Branson, James G",PHYS 2D,FA19,43,20,0.737,0.579,8.39,3.26,3.23,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 4C,FA19,55,31,0.966,0.7240000000000001,8.02,2.83,3.08,True,False,False,False,False
+"Coil, Alison",PHYS 5,FA19,184,82,0.9109999999999999,0.9229999999999999,5.07,3.19,3.21,True,False,False,False,False
+"Shotwell, Brian",PHYS 100B,SP19,41,10,0.8,0.9,5.9,3.0,2.3,True,False,False,False,True
+"Chivukula, Raja S",PHYS 100C,SP19,39,16,0.9329999999999999,1.0,7.75,3.31,3.02,True,False,False,False,True
+"Dubin, Daniel Herschel",PHYS 105A,SP19,51,13,0.818,0.727,11.59,2.64,2.33,True,False,False,False,True
+"Flauger, Raphael M",PHYS 110B,SP19,42,18,1.0,1.0,6.5,3.47,3.23,True,False,False,False,True
+"Kleinfeld, David",PHYS 120,SP19,61,23,0.619,0.905,13.64,3.24,3.08,True,False,False,False,True
+"Surko, Clifford M",PHYS 130A,SP19,80,26,0.72,0.52,5.38,3.0,2.55,True,False,True,False,True
+"Branson, James G",PHYS 130C,SP19,20,5,1.0,1.0,12.1,3.5,3.46,True,False,True,False,True
+"Averitt, Richard Douglas",PHYS 133,SP19,24,7,0.857,1.0,7.5,4.0,3.78,True,False,False,False,True
+"Maple, M. Brian",PHYS 133,SP19,24,7,0.857,1.0,7.5,4.0,3.78,True,False,False,False,True
+"Green, Daniel Richard",PHYS 161,SP19,28,11,0.667,0.444,9.17,2.89,2.6,True,False,False,False,True
+"Keres, Dusan",PHYS 162,SP19,27,10,0.8,1.0,8.3,2.8,2.39,True,False,False,False,True
+"Chakraborty, Subrata",PHYS 1A,SP19,182,73,0.721,0.647,4.68,3.16,3.15,True,False,False,False,False
+"Yagil, Avi",PHYS 1AL,SP19,189,63,0.721,0.754,3.58,3.14,3.37,True,False,False,False,False
+"Smith, Douglas E",PHYS 1B,SP19,289,119,0.809,0.973,5.08,3.34,3.2,True,False,False,False,False
+"Yagil, Avi",PHYS 1BL,SP19,284,94,0.373,0.494,4.52,3.27,3.28,True,False,False,False,False
+"Paddock, Mark",PHYS 1C,SP19,406,161,0.72,0.732,5.64,3.31,3.1,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1C,SP19,417,183,0.858,0.977,6.42,3.4,3.23,True,False,False,False,False
+"Paddock, Mark",PHYS 1C,SP19,152,71,0.591,0.621,5.92,3.32,3.1,True,False,False,False,False
+"Yagil, Avi",PHYS 1CL,SP19,976,354,0.41600000000000004,0.5489999999999999,4.49,3.46,3.49,True,False,False,False,False
+"Dudko, Olga",PHYS 2A,SP19,239,115,0.782,0.925,6.77,2.94,2.58,True,False,False,False,False
+"Dudko, Olga",PHYS 2A,SP19,244,103,0.7859999999999999,0.856,7.1,2.91,2.58,True,False,False,False,False
+"Meyertholen, Andrew D.",PHYS 2B,SP19,377,197,0.884,0.968,5.91,3.16,3.07,True,False,False,False,False
+"Rappel, Wouter Jan",PHYS 2B,SP19,184,84,0.8079999999999999,0.91,6.45,2.9,2.73,True,False,False,False,False
+"Rappel, Wouter Jan",PHYS 2B,SP19,133,63,0.69,0.877,7.69,2.89,2.73,True,False,False,False,False
+"Jun, Suckjoon",PHYS 2BL,SP19,176,146,0.695,0.738,7.94,3.28,3.44,True,False,False,False,False
+"Shotwell, Brian",PHYS 2C,SP19,358,154,0.9079999999999999,0.9570000000000001,6.19,3.42,3.16,True,False,False,False,False
+"Barreiro Guerrero, Julio",PHYS 2CL,SP19,154,96,0.653,0.9259999999999999,7.22,3.35,3.24,True,False,False,False,False
+"Branson, James G",PHYS 2D,SP19,74,31,0.778,0.5770000000000001,7.12,3.41,3.22,True,False,False,False,False
+"Butov, Leonid",PHYS 2DL,SP19,41,14,0.727,0.909,4.68,3.55,3.31,True,False,False,False,False
+"Chivukula, Raja S",PHYS 4B,SP19,65,39,0.9490000000000001,0.9740000000000001,8.5,3.38,3.43,True,False,False,False,False
+"Frano Pereira, Alex M",PHYS 4E,SP19,25,9,0.875,0.7140000000000001,7.75,3.25,2.92,True,False,False,False,False
+"Ni, Kaixuan",PHYS 8,SP19,143,47,0.8290000000000001,0.8540000000000001,3.96,3.39,3.31,True,False,False,False,False
+"Tytler, David Robert",PHYS 9,SP19,116,41,0.615,0.605,4.81,3.43,3.02,True,False,False,False,False
+"Tytler, David Robert",PHYS 10,WI19,74,29,0.44799999999999995,0.483,5.5,3.47,3.04,True,False,False,False,False
+"Shotwell, Brian",PHYS 100A,WI19,53,19,0.941,0.941,7.32,2.56,2.25,True,False,False,False,True
+"Shotwell, Brian",PHYS 100B,WI19,43,21,0.905,0.95,7.64,3.19,3.36,True,False,False,False,True
+"Dubin, Daniel Herschel",PHYS 105B,WI19,33,9,0.778,1.0,15.61,3.33,2.91,True,False,False,False,True
+"Burgasser, Adam Jonathan",PHYS 110A,WI19,43,13,0.75,0.818,8.67,2.58,2.25,True,False,False,False,True
+"Arovas, Daniel P",PHYS 110B,WI19,43,10,0.9,0.7,7.1,2.9,2.66,True,False,False,False,True
+"Arnold, Kam S",PHYS 120,WI19,45,15,0.769,0.846,13.07,3.23,2.77,True,False,False,False,True
+"Smith, Douglas E",PHYS 122,WI19,26,15,1.0,1.0,4.23,3.93,3.71,True,False,False,False,True
+"Jenkins, Elizabeth",PHYS 130B,WI19,34,15,0.615,0.308,10.81,2.54,2.8,True,False,True,False,True
+"Intriligator, Kenneth Arthur",PHYS 140A,WI19,47,17,1.0,1.0,7.63,2.88,2.53,True,False,False,False,True
+"Grover, Tarun",PHYS 140B,WI19,25,10,1.0,0.9,9.9,3.1,2.52,True,False,False,False,True
+"Butov, Leonid",PHYS 152A,WI19,32,11,1.0,0.9,5.41,3.18,3.33,True,False,False,False,True
+"Sandstrom, Karin Marie",PHYS 163,WI19,28,8,0.875,0.875,10.5,2.75,2.68,True,False,False,False,True
+"Smith, Douglas E",PHYS 1A,WI19,342,154,0.889,0.951,4.79,3.33,3.17,True,False,False,False,False
+"Yagil, Avi",PHYS 1AL,WI19,329,135,0.43,0.595,4.71,3.09,3.28,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1B,WI19,407,193,0.821,0.9840000000000001,6.59,3.32,3.19,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1B,WI19,350,151,0.83,0.95,6.27,3.4,3.19,True,False,False,False,False
+"Paddock, Mark",PHYS 1B,WI19,286,113,0.784,0.8140000000000001,6.03,3.39,2.95,True,False,False,False,False
+"Yagil, Avi",PHYS 1BL,WI19,1012,371,0.45799999999999996,0.667,4.12,3.41,3.45,True,False,False,False,False
+"Koslover, Elena F",PHYS 1C,WI19,174,70,0.838,0.97,6.21,3.43,3.19,True,False,False,False,False
+"Yagil, Avi",PHYS 1CL,WI19,162,49,0.413,0.609,4.63,3.24,3.28,True,False,False,False,False
+"Jun, Suckjoon",PHYS 2A,WI19,233,103,0.742,0.536,6.37,2.85,2.71,True,False,False,False,False
+"Jun, Suckjoon",PHYS 2A,WI19,160,72,0.843,0.7140000000000001,6.13,2.97,2.71,True,False,False,False,False
+"Popmintchev, Tenio",PHYS 2A,WI19,395,333,0.875,0.914,6.82,3.31,3.32,True,False,False,False,False
+"Barreiro Guerrero, Julio",PHYS 2B,WI19,303,272,0.823,0.9079999999999999,7.47,2.97,2.84,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2BL,WI19,41,37,0.73,0.946,6.82,3.38,3.38,True,False,False,False,False
+"Michelsen, Eric Leonard",PHYS 2C,WI19,339,113,0.833,0.75,6.8,3.03,2.94,True,False,False,False,False
+"Groisman, Alexander",PHYS 2CL,WI19,146,57,0.623,0.623,7.28,3.34,3.19,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2D,WI19,49,44,0.955,0.955,6.95,3.27,3.3,True,False,False,False,False
+"Lin, Tongyan",PHYS 4A,WI19,75,47,0.8140000000000001,0.93,8.41,2.74,2.57,True,False,False,False,False
+"Frano Pereira, Alex M",PHYS 4D,WI19,26,13,1.0,1.0,8.5,3.25,2.75,True,False,False,False,False
+"Keres, Dusan",PHYS 7,WI19,141,60,0.893,0.893,4.03,3.36,3.06,True,False,False,False,False
+"Lin, Tongyan",PHYS 100A,FA18,75,37,0.865,0.8059999999999999,8.28,2.75,1.87,True,False,False,False,True
+"Chivukula, Raja S",PHYS 100C,FA18,33,10,0.9,0.9,7.3,3.4,2.94,True,False,False,False,True
+"Green, Daniel Richard",PHYS 105A,FA18,60,27,0.731,0.769,11.5,2.64,2.33,True,False,False,False,True
+"Tytler, David Robert",PHYS 11,FA18,33,15,0.7140000000000001,0.643,4.79,3.44,3.22,True,False,False,False,False
+"Averitt, Richard Douglas",PHYS 110A,FA18,68,31,0.9329999999999999,0.9670000000000001,7.77,3.1,2.57,True,False,False,False,True
+"Arnold, Kam S",PHYS 124,FA18,41,8,1.0,1.0,8.25,3.38,3.48,True,False,False,False,True
+"Murphy, Thomas",PHYS 124,FA18,41,8,1.0,1.0,8.25,3.38,3.48,True,False,False,False,True
+"Konopacky, Quinn Morgan",PHYS 13,FA18,159,118,0.966,0.991,3.64,3.38,3.09,True,False,False,False,False
+"Fuller, George Michael",PHYS 130A,FA18,37,14,0.7859999999999999,0.929,8.21,2.71,2.85,True,False,True,False,True
+"Surko, Clifford M",PHYS 130B,FA18,89,18,0.938,1.0,7.5,3.2,2.72,True,False,True,False,True
+"Palacci, Jeremie",PHYS 140A,FA18,93,25,0.76,0.64,8.5,2.39,2.6,True,False,False,False,True
+"Dudko, Olga",PHYS 175,FA18,26,10,0.875,0.875,5.83,3.33,2.87,True,False,False,False,True
+"Paddock, Mark",PHYS 1A,FA18,328,168,0.826,0.8220000000000001,6.85,3.26,3.2,True,False,False,False,False
+"Burgasser, Adam Jonathan",PHYS 1A,FA18,371,169,0.823,0.8959999999999999,6.78,3.18,3.37,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1A,FA18,358,165,0.889,0.9940000000000001,6.17,3.34,3.36,True,False,False,False,False
+"Yagil, Avi",PHYS 1AL,FA18,1064,450,0.5329999999999999,0.603,3.86,3.26,3.48,True,False,False,False,False
+"Ni, Kaixuan",PHYS 1B,FA18,184,77,0.863,0.9179999999999999,5.98,3.26,3.07,True,False,False,False,False
+"Yagil, Avi",PHYS 1BL,FA18,177,55,0.75,0.769,4.23,3.46,3.5,True,False,False,False,False
+"Paddock, Mark",PHYS 1C,FA18,176,65,0.738,0.667,5.47,3.19,2.77,True,False,False,False,False
+"Yagil, Avi",PHYS 1CL,FA18,179,59,0.545,0.648,3.65,3.44,3.34,True,False,False,False,False
+"Keres, Dusan",PHYS 2A,FA18,318,134,0.736,0.9259999999999999,7.12,3.01,2.56,True,False,False,False,False
+"Groisman, Alexander",PHYS 2B,FA18,346,127,0.815,0.813,6.52,3.22,2.93,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2BL,FA18,57,20,0.8240000000000001,0.882,6.83,3.67,3.36,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2C,FA18,349,148,0.9209999999999999,0.986,6.68,3.23,2.96,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2C,FA18,349,134,0.9129999999999999,0.976,6.18,3.21,2.96,True,False,False,False,False
+"Ni, Kaixuan",PHYS 2CL,FA18,214,98,0.516,0.774,9.22,3.18,3.34,True,False,False,False,False
+"Branson, James G",PHYS 2D,FA18,48,18,0.706,0.41200000000000003,7.79,3.59,3.44,True,False,False,False,False
+"Shotwell, Brian",PHYS 4C,FA18,25,13,1.0,1.0,8.83,3.27,3.41,True,False,False,False,False
+"Coil, Alison",PHYS 5,FA18,180,78,0.9470000000000001,0.9329999999999999,4.04,3.39,3.03,True,False,False,False,False
+"Tytler, David Robert",PHYS 10,SP18,170,62,0.466,0.491,5.53,3.0,2.85,True,False,False,False,False
+"Ni, Kaixuan",PHYS 100B,SP18,48,18,0.9440000000000001,1.0,6.39,3.12,3.05,True,False,False,False,True
+"Michelsen, Eric Leonard",PHYS 100C,SP18,23,9,1.0,1.0,6.5,2.67,2.62,True,False,False,False,True
+"Dubin, Daniel Herschel",PHYS 105A,SP18,42,10,0.778,0.889,10.9,2.2,1.92,True,False,False,False,True
+"Flauger, Raphael M",PHYS 110B,SP18,80,20,0.95,0.95,5.2,3.35,3.14,True,False,False,False,True
+"Kleinfeld, David",PHYS 120,SP18,77,24,0.708,0.87,11.42,3.21,2.96,True,False,False,False,True
+"Surko, Clifford M",PHYS 130A,SP18,107,30,0.857,0.7859999999999999,7.21,2.79,2.76,True,False,True,False,True
+"Averitt, Richard Douglas",PHYS 133,SP18,23,5,1.0,1.0,9.5,3.75,3.87,True,False,False,False,True
+"Maple, M. Brian",PHYS 133,SP18,23,5,1.0,1.0,9.5,3.75,3.87,True,False,False,False,True
+"Fuller, George Michael",PHYS 161,SP18,50,9,1.0,1.0,5.17,3.33,3.44,True,False,False,False,True
+"Burgasser, Adam Jonathan",PHYS 1A,SP18,176,81,0.784,0.863,6.39,3.23,3.2,True,False,False,False,False
+"Yagil, Avi",PHYS 1AL,SP18,175,59,0.6,0.6,4.29,3.25,3.35,True,False,False,False,False
+"Bott-Suzuki, Simon Charles",PHYS 1B,SP18,179,73,0.662,0.7040000000000001,6.27,3.13,2.74,True,False,False,False,False
+"Yagil, Avi",PHYS 1BL,SP18,189,62,0.508,0.614,5.02,3.3,3.27,True,False,False,False,False
+"Coil, Alison",PHYS 1C,SP18,186,77,0.8,0.851,6.23,3.45,3.19,True,False,False,False,False
+"Paddock, Mark",PHYS 1C,SP18,415,152,0.753,0.815,5.43,3.51,3.52,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1C,SP18,395,140,0.85,0.977,5.76,3.42,3.27,True,False,False,False,False
+"Yagil, Avi",PHYS 1CL,SP18,989,299,0.47700000000000004,0.632,4.12,3.37,3.39,True,False,False,False,False
+"Popmintchev, Tenio",PHYS 2A,SP18,181,136,0.8270000000000001,0.895,6.03,3.35,3.29,True,False,False,False,False
+"Shotwell, Brian",PHYS 2A,SP18,179,58,0.782,0.8909999999999999,7.74,2.89,2.41,True,False,False,False,False
+"Barreiro Guerrero, Julio",PHYS 2B,SP18,239,187,0.7509999999999999,0.8029999999999999,8.22,3.21,2.72,True,False,False,False,False
+"Groisman, Alexander",PHYS 2B,SP18,136,41,0.579,0.342,5.53,2.76,2.5,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2B,SP18,340,129,0.8059999999999999,0.951,6.85,3.13,2.8,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2BL,SP18,116,112,0.745,0.9,6.7,3.47,3.54,True,False,False,False,False
+"Wuerthwein, Frank",PHYS 2C,SP18,402,156,0.789,0.753,6.23,3.29,3.04,True,False,False,False,False
+"Frano Pereira, Alex M",PHYS 2CL,SP18,156,51,0.633,0.9590000000000001,8.17,3.42,3.17,True,False,False,False,False
+"Branson, James G",PHYS 2D,SP18,106,34,0.531,0.469,6.44,3.06,3.0,True,False,False,False,False
+"Butov, Leonid",PHYS 2DL,SP18,88,22,0.75,0.6,5.03,3.33,3.21,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 4B,SP18,37,9,0.778,0.556,7.61,2.86,2.43,True,False,False,False,False
+"Manohar, Aneesh Vasant",PHYS 4E,SP18,39,21,0.9470000000000001,1.0,9.55,3.11,3.21,True,False,False,False,False
+"Shotwell, Brian",PHYS 100A,WI18,49,18,0.706,0.882,9.17,2.76,2.61,True,False,False,False,True
+"Jenkins, Elizabeth",PHYS 100B,WI18,89,35,0.742,0.742,7.35,2.77,2.26,True,False,False,False,True
+"Dubin, Daniel Herschel",PHYS 105B,WI18,41,16,0.813,1.0,15.38,3.06,2.92,True,False,False,False,True
+"Tytler, David Robert",PHYS 11,WI18,42,21,0.6,0.6,3.74,3.62,3.23,True,False,False,False,False
+"Wu, Congjun",PHYS 110A,WI18,62,21,0.75,0.7,7.7,2.5,2.84,True,False,False,False,True
+"Arnold, Kam S",PHYS 120,WI18,41,12,0.75,1.0,9.67,2.92,2.85,True,False,False,False,True
+"Smith, Douglas E",PHYS 122,WI18,25,13,1.0,1.0,6.96,3.85,3.68,True,False,False,False,True
+"Branson, James G",PHYS 130C,WI18,30,13,0.778,0.625,10.1,3.1,3.52,True,False,True,False,True
+"Burgasser, Adam Jonathan",PHYS 160,WI18,44,21,0.85,0.85,10.4,3.1,3.14,True,False,False,False,True
+"Wright, Shelley Adams",PHYS 164,WI18,26,18,0.889,0.9440000000000001,12.06,3.13,2.82,True,False,False,False,True
+"Tsai, Philbert S",PHYS 1A,WI18,186,78,0.9079999999999999,0.934,7.7,3.2,3.16,True,False,False,False,False
+"Yagil, Avi",PHYS 1AL,WI18,195,85,0.633,0.705,5.06,3.09,3.26,True,False,False,False,False
+"Paddock, Mark",PHYS 1B,WI18,355,155,0.6890000000000001,0.757,6.49,3.27,3.13,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1B,WI18,406,178,0.8220000000000001,0.976,5.99,3.23,3.23,True,False,False,False,False
+"Groisman, Alexander",PHYS 1B,WI18,189,76,0.8140000000000001,0.652,5.04,3.28,3.2,True,False,False,False,False
+"Yagil, Avi",PHYS 1BL,WI18,957,360,0.578,0.677,3.96,3.44,3.45,True,False,False,False,False
+"Kritsuk, Alexei",PHYS 1C,WI18,152,69,0.615,0.723,5.3,3.19,3.41,True,False,False,False,False
+"Yagil, Avi",PHYS 1CL,WI18,162,69,0.547,0.516,4.28,3.14,3.33,True,False,False,False,False
+"Popmintchev, Tenio",PHYS 2A,WI18,344,265,0.865,0.83,6.2,3.27,3.42,True,False,False,False,False
+"Keres, Dusan",PHYS 2A,WI18,352,183,0.871,0.8809999999999999,5.14,3.34,3.14,True,False,False,False,False
+"Rappel, Wouter Jan",PHYS 2A,WI18,162,90,0.885,0.932,5.45,3.33,2.83,True,False,False,False,False
+"Shotwell, Brian",PHYS 2B,WI18,313,141,0.8540000000000001,0.9109999999999999,7.35,3.12,2.94,True,False,False,False,False
+"Butov, Leonid",PHYS 2BL,WI18,87,26,0.731,0.769,3.35,3.73,3.67,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 2C,WI18,258,97,0.489,0.308,7.58,2.57,2.6,True,False,False,False,False
+"Frano Pereira, Alex M",PHYS 2CL,WI18,239,91,0.6829999999999999,0.951,7.22,3.46,3.2,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2D,WI18,95,59,0.879,0.914,8.16,3.37,3.38,True,False,False,False,False
+"Lin, Tongyan",PHYS 4A,WI18,48,33,0.8390000000000001,0.8059999999999999,7.81,2.71,2.83,True,False,False,False,False
+"Manohar, Aneesh Vasant",PHYS 4D,WI18,38,20,0.9,1.0,7.7,3.11,2.97,True,False,False,False,False
+"Sandstrom, Karin Marie",PHYS 7,WI18,110,54,0.9229999999999999,0.904,4.19,3.38,3.11,True,False,False,False,False
+"Fogler, Michael M.",PHYS 100A,FA17,113,32,0.8440000000000001,0.71,8.44,2.78,2.75,True,False,False,False,True
+"Intriligator, Kenneth Arthur",PHYS 105A,FA17,104,32,0.613,0.467,12.31,2.61,2.66,True,False,False,False,True
+"Averitt, Richard Douglas",PHYS 110A,FA17,89,24,0.9129999999999999,0.9570000000000001,7.28,3.17,2.55,True,False,False,False,True
+"Barreiro Guerrero, Julio",PHYS 124,FA17,40,32,1.0,1.0,9.27,3.65,3.54,True,False,False,False,True
+"Wright, Shelley Adams",PHYS 13,FA17,56,42,0.925,0.95,4.5,3.46,3.4,True,False,False,False,False
+"Surko, Clifford M",PHYS 130B,FA17,90,26,0.857,0.8420000000000001,8.4,2.9,2.63,True,False,True,False,True
+"Palacci, Jeremie",PHYS 140A,FA17,102,31,0.889,0.889,7.17,3.0,2.34,True,False,False,False,True
+"Keres, Dusan",PHYS 163,FA17,40,15,0.8,0.867,7.64,3.5,2.68,True,False,False,False,True
+"Koslover, Elena F",PHYS 1A,FA17,337,131,0.8079999999999999,0.847,6.5,3.38,3.43,True,False,False,False,False
+"Paddock, Mark",PHYS 1A,FA17,347,149,0.794,0.807,6.27,3.24,3.27,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1A,FA17,344,155,0.882,0.946,7.43,3.38,3.38,True,False,False,False,False
+"Yagil, Avi",PHYS 1AL,FA17,1001,375,0.563,0.595,4.87,3.23,3.46,True,False,False,False,False
+"Smith, Douglas E",PHYS 1B,FA17,190,84,0.927,0.988,4.6,3.59,3.14,True,False,False,False,False
+"Yagil, Avi",PHYS 1BL,FA17,197,65,0.561,0.667,3.99,3.52,3.53,True,False,False,False,False
+"Keating, Brian",PHYS 1C,FA17,187,74,0.653,0.6,5.58,3.17,3.45,True,False,False,False,False
+"Yagil, Avi",PHYS 1CL,FA17,188,69,0.349,0.444,4.75,3.0,3.35,True,False,False,False,False
+"Rappel, Wouter Jan",PHYS 2A,FA17,329,126,0.79,0.828,5.88,3.18,2.78,True,False,False,False,False
+"Ni, Kaixuan",PHYS 2B,FA17,341,142,0.7659999999999999,0.866,7.62,3.21,3.13,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2BL,FA17,45,21,0.263,0.278,7.24,3.21,3.28,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2C,FA17,358,135,0.8759999999999999,0.968,6.31,3.25,3.01,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2C,FA17,354,131,0.915,1.0,6.02,3.34,3.01,True,False,False,False,False
+"Arnold, Kam S",PHYS 2CL,FA17,309,98,0.5479999999999999,0.7390000000000001,7.43,3.07,3.18,True,False,False,False,False
+"Branson, James G",PHYS 2D,FA17,81,30,0.759,0.5,7.6,3.38,3.17,True,False,False,False,False
+"Butov, Leonid",PHYS 2DL,FA17,24,6,1.0,1.0,4.9,3.6,3.25,True,False,False,False,False
+"Manohar, Aneesh Vasant",PHYS 4C,FA17,49,29,0.846,0.9229999999999999,10.43,2.96,2.59,True,False,False,False,False
+"Tytler, David Robert",PHYS 5,FA17,109,42,0.825,0.725,5.5,3.29,2.98,True,False,False,False,False
+"Michelsen, Eric Leonard",PHYS 100C,SP17,56,21,0.9470000000000001,0.9470000000000001,7.76,3.05,2.85,True,False,False,False,True
+"Flauger, Raphael M",PHYS 110B,SP17,40,16,1.0,1.0,6.13,3.63,3.44,True,False,False,False,True
+"Kleinfeld, David",PHYS 120,SP17,81,18,0.8240000000000001,1.0,10.5,3.31,3.35,True,False,False,False,True
+"Abarbanel, Henry Don Isaac",PHYS 130A,SP17,104,34,0.759,0.379,6.57,3.07,3.03,True,False,True,False,True
+"Averitt, Richard Douglas",PHYS 133,SP17,22,4,1.0,0.75,8.0,4.0,3.78,True,False,False,False,True
+"Maple, M. Brian",PHYS 133,SP17,22,3,1.0,1.0,7.83,4.0,3.78,True,False,False,False,True
+"Fuller, George Michael",PHYS 161,SP17,58,13,1.0,1.0,5.33,3.45,3.69,True,False,False,False,True
+"Keres, Dusan",PHYS 162,SP17,26,5,1.0,1.0,6.5,3.5,2.8,True,False,False,False,True
+"Popmintchev, Tenio",PHYS 1A,SP17,202,168,0.8140000000000001,0.826,5.8,3.33,3.57,True,False,False,False,False
+"Yagil, Avi",PHYS 1AL,SP17,189,85,0.84,0.893,3.27,3.53,3.27,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1B,SP17,254,94,0.736,0.966,5.63,3.09,3.09,True,False,False,False,False
+"Yagil, Avi",PHYS 1BL,SP17,205,61,0.679,0.7140000000000001,3.48,3.48,3.3,True,False,False,False,False
+"Coil, Alison",PHYS 1C,SP17,342,126,0.797,0.919,4.7,3.5,3.37,True,False,False,False,False
+"Paddock, Mark",PHYS 1C,SP17,393,316,0.775,0.87,5.75,3.4,3.59,True,False,False,False,False
+"Paddock, Mark",PHYS 1C,SP17,213,172,0.6729999999999999,0.813,4.8,3.57,3.59,True,False,False,False,False
+"Yagil, Avi",PHYS 1CL,SP17,936,337,0.674,0.77,3.26,3.63,3.38,True,False,False,False,False
+"Dudko, Olga",PHYS 2A,SP17,174,74,0.861,0.875,6.17,2.87,2.42,True,False,False,False,False
+"Dudko, Olga",PHYS 2A,SP17,106,37,0.8059999999999999,0.889,5.19,2.94,2.42,True,False,False,False,False
+"Averitt, Richard Douglas",PHYS 2B,SP17,322,107,0.7859999999999999,0.755,7.62,3.04,2.88,True,False,False,False,False
+"Barreiro Guerrero, Julio",PHYS 2B,SP17,347,250,0.862,0.818,6.99,3.17,2.84,True,False,False,False,False
+"Schuller, Ivan K",PHYS 2B,SP17,85,25,0.708,0.41700000000000004,7.72,3.13,2.88,True,False,False,False,False
+"Lombardo, Daniel Marcus",PHYS 2BL,SP17,104,45,0.605,0.907,8.26,3.55,3.35,True,False,False,False,False
+"Branson, James G",PHYS 2C,SP17,293,106,0.693,0.455,6.09,3.13,3.09,True,False,False,False,False
+"Schuller, Ivan K",PHYS 2CL,SP17,190,57,0.627,0.608,6.5,3.22,3.1,True,False,False,False,False
+"Sinha, Sunil K",PHYS 2D,SP17,135,58,0.727,0.873,7.13,3.07,3.16,True,False,False,False,False
+"Butov, Leonid",PHYS 2DL,SP17,93,26,0.7829999999999999,0.7390000000000001,4.67,3.22,3.24,True,False,False,False,False
+"Manohar, Aneesh Vasant",PHYS 4B,SP17,73,35,0.903,0.867,7.9,3.19,2.83,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 4E,SP17,35,14,1.0,0.929,8.36,3.07,3.03,True,False,False,False,False
+"Konopacky, Quinn Morgan",PHYS 9,SP17,42,37,0.973,1.0,4.45,3.5,3.01,True,False,False,False,False
+"Burgasser, Adam Jonathan",PHYS 10,WI17,182,81,0.816,0.882,5.85,3.31,3.6,True,False,False,False,False
+"Jenkins, Elizabeth",PHYS 100B,WI17,107,44,0.9,0.875,7.58,2.92,3.01,True,False,False,False,True
+"Dubin, Daniel Herschel",PHYS 105B,WI17,42,14,0.917,1.0,14.86,3.09,2.8,True,False,False,False,True
+"Wu, Congjun",PHYS 110A,WI17,45,19,0.9470000000000001,0.579,8.61,3.24,3.19,True,False,False,False,True
+"Barreiro Guerrero, Julio",PHYS 124,WI17,27,24,1.0,0.9570000000000001,7.14,3.65,3.57,True,False,False,False,True
+"Murphy, Thomas",PHYS 124,WI17,27,23,1.0,0.95,7.45,3.62,3.57,True,False,False,False,True
+"Konopacky, Quinn Morgan",PHYS 160,WI17,47,40,0.875,0.825,4.85,3.28,3.09,True,False,False,False,True
+"Wright, Shelley Adams",PHYS 164,WI17,27,19,0.889,1.0,11.28,3.11,3.16,True,False,False,False,True
+"Popmintchev, Tenio",PHYS 1A,WI17,316,241,0.722,0.662,6.12,3.17,3.38,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1AL,WI17,328,161,0.852,0.799,3.37,3.55,3.51,True,False,False,False,False
+"Smith, Douglas E",PHYS 1B,WI17,357,167,0.787,0.884,5.32,3.39,3.33,True,False,False,False,False
+"Smith, Douglas E",PHYS 1B,WI17,306,151,0.76,0.884,4.86,3.46,3.33,True,False,False,False,False
+"Paddock, Mark",PHYS 1B,WI17,359,306,0.78,0.879,5.89,3.47,3.44,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,WI17,1007,400,0.6679999999999999,0.768,3.53,3.62,3.45,True,False,False,False,False
+"Paddock, Mark",PHYS 1C,WI17,272,240,0.706,0.794,6.42,3.23,3.17,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,WI17,263,104,0.747,0.813,4.22,3.43,3.36,True,False,False,False,False
+"Ni, Kaixuan",PHYS 2A,WI17,331,190,0.94,0.885,6.63,3.42,3.1,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2A,WI17,314,142,0.8590000000000001,0.904,5.76,3.27,3.05,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2A,WI17,327,133,0.904,0.9520000000000001,5.4,3.28,3.05,True,False,False,False,False
+"Schuller, Ivan K",PHYS 2B,WI17,235,85,0.797,0.38,7.77,3.12,2.94,True,False,False,False,False
+"Anderson, Michael G.",PHYS 2BL,WI17,60,22,0.7140000000000001,0.7140000000000001,6.5,3.65,3.26,True,False,False,False,False
+"Fogler, Michael M.",PHYS 2C,WI17,288,115,0.757,0.441,7.35,3.06,2.76,True,False,False,False,False
+"Maple, M. Brian",PHYS 2CL,WI17,290,91,0.624,0.765,6.98,3.16,3.23,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 2D,WI17,114,40,0.763,0.526,8.83,2.78,2.88,True,False,False,False,False
+"Arnold, Kam S",PHYS 4A,WI17,97,48,0.927,0.8540000000000001,8.29,3.32,3.04,True,False,False,False,False
+"Averitt, Richard Douglas",PHYS 4D,WI17,40,16,1.0,1.0,5.36,3.15,3.03,True,False,False,False,False
+"Sandstrom, Karin Marie",PHYS 7,WI17,47,24,1.0,0.875,3.68,3.21,2.64,True,False,False,False,False
+"Jenkins, Elizabeth",PHYS 100A,FA16,126,80,0.885,0.526,8.53,2.77,2.92,True,False,False,False,True
+"Dubin, Daniel Herschel",PHYS 105A,FA16,117,48,0.894,0.915,12.63,2.98,2.57,True,False,False,False,True
+"Tytler, David Robert",PHYS 11,FA16,143,64,0.41,0.344,5.4,3.07,3.37,True,False,False,False,False
+"Averitt, Richard Douglas",PHYS 110A,FA16,109,38,0.946,0.973,7.56,2.86,2.73,True,False,False,False,True
+"Wright, Shelley Adams",PHYS 13,FA16,24,13,0.9229999999999999,0.6920000000000001,4.81,3.55,3.13,True,False,False,False,False
+"Surko, Clifford M",PHYS 130B,FA16,54,12,1.0,0.7,8.3,3.0,2.72,True,False,True,False,True
+"Fogler, Michael M.",PHYS 140A,FA16,65,21,0.789,0.8420000000000001,7.5,3.33,2.86,True,False,False,False,True
+"Keres, Dusan",PHYS 163,FA16,27,9,0.889,0.778,8.5,2.67,2.88,True,False,False,False,True
+"Paddock, Mark",PHYS 1A,FA16,350,148,0.701,0.6940000000000001,6.74,3.18,3.62,True,False,False,False,False
+"Paddock, Mark",PHYS 1A,FA16,353,168,0.747,0.741,6.42,3.25,3.62,True,False,False,False,False
+"Koslover, Elena F",PHYS 1A,FA16,288,125,0.669,0.61,6.45,3.15,3.12,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1AL,FA16,1000,401,0.7609999999999999,0.799,3.25,3.49,3.46,True,False,False,False,False
+"Bott-Suzuki, Simon Charles",PHYS 1B,FA16,178,75,0.8079999999999999,0.904,6.18,3.36,2.73,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,FA16,173,65,0.695,0.746,4.11,3.49,3.37,True,False,False,False,False
+"Tsai, Philbert S",PHYS 1C,FA16,171,95,0.857,0.9670000000000001,5.36,3.68,3.36,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,FA16,180,69,0.6559999999999999,0.667,3.61,3.52,3.27,True,False,False,False,False
+"Arnold, Kam S",PHYS 2A,FA16,336,144,0.82,0.7909999999999999,7.63,3.17,2.78,True,False,False,False,False
+"Michelsen, Eric Leonard",PHYS 2B,FA16,332,164,0.833,0.795,6.99,3.03,2.83,True,False,False,False,False
+"Anderson, Michael G.",PHYS 2BL,FA16,80,32,0.5329999999999999,0.633,5.7,2.9,3.28,True,False,False,False,False
+"Sinha, Sunil K",PHYS 2BL,FA16,76,32,0.5329999999999999,0.6,5.63,2.9,3.28,True,False,False,False,False
+"Branson, James G",PHYS 2C,FA16,323,127,0.6,0.36700000000000005,6.74,3.13,3.39,True,False,False,False,False
+"Palacci, Jeremie",PHYS 2C,FA16,350,251,0.831,0.795,6.13,3.14,2.89,True,False,False,False,False
+"Meill, Alexander Warren",PHYS 2CL,FA16,323,150,0.653,0.966,6.78,3.29,3.22,True,False,False,False,False
+"Manohar, Aneesh Vasant",PHYS 4C,FA16,34,14,0.846,0.846,9.73,3.08,2.98,True,False,False,False,False
+"Coil, Alison",PHYS 5,FA16,88,42,0.95,0.975,3.95,3.31,3.22,True,False,False,False,False
+"Kleinfeld, David",PHYS 120,SP16,77,62,0.86,0.912,7.92,3.45,3.12,True,False,False,False,True
+"Branson, James G",PHYS 130A,SP16,63,21,0.8420000000000001,0.263,7.17,3.06,2.71,True,False,True,False,True
+"Averitt, Richard Douglas",PHYS 133,SP16,20,9,1.0,1.0,10.06,3.67,3.72,True,False,False,False,True
+"Fuller, George Michael",PHYS 161,SP16,63,20,0.9440000000000001,1.0,5.5,3.38,3.6,True,False,False,False,True
+"Griest, Kim",PHYS 162,SP16,33,7,0.857,1.0,6.21,3.43,3.31,True,False,False,False,True
+"Smith, Douglas E",PHYS 1A,SP16,237,74,0.634,0.634,4.88,3.29,3.06,True,False,False,False,False
+"Diaz Santiago, Sebastian Alejandro",PHYS 1AL,SP16,216,75,0.574,0.662,3.96,3.37,3.31,True,False,False,False,False
+"Ni, Kaixuan",PHYS 1B,SP16,185,71,0.775,0.972,5.63,3.53,3.35,True,False,False,False,False
+"Diaz Santiago, Sebastian Alejandro",PHYS 1BL,SP16,192,61,0.638,0.7929999999999999,3.5,3.54,3.39,True,False,False,False,False
+"Paddock, Mark",PHYS 1C,SP16,406,336,0.753,0.9229999999999999,5.69,3.4,3.31,True,False,False,False,False
+"Coil, Alison",PHYS 1C,SP16,325,238,0.667,0.574,5.8,3.35,3.11,True,False,False,False,False
+"Diaz Santiago, Sebastian Alejandro",PHYS 1CL,SP16,727,289,0.747,0.8079999999999999,3.2,3.53,3.33,True,False,False,False,False
+"Dudko, Olga",PHYS 2A,SP16,283,119,0.863,0.9570000000000001,6.89,3.02,2.86,True,False,False,False,False
+"Dudko, Olga",PHYS 2A,SP16,241,108,0.804,0.922,6.84,3.1,2.86,True,False,False,False,False
+"Schuller, Ivan K",PHYS 2B,SP16,259,112,0.664,0.299,6.25,2.91,2.71,True,False,False,False,False
+"Schuller, Ivan K",PHYS 2B,SP16,199,73,0.638,0.261,6.14,2.99,2.71,True,False,False,False,False
+"Groisman, Alexander",PHYS 2B,SP16,257,103,0.7959999999999999,0.561,5.69,3.09,2.88,True,False,False,False,False
+"Anderson, Michael G.",PHYS 2BL,SP16,133,52,0.76,0.82,7.18,3.35,3.31,True,False,False,False,False
+"Jun, Suckjoon",PHYS 2C,SP16,277,111,0.75,0.654,6.36,2.99,2.75,True,False,False,False,False
+"Keating, Brian",PHYS 2CL,SP16,304,100,0.546,0.773,6.86,3.3,3.24,True,False,False,False,False
+"Branson, James G",PHYS 2D,SP16,185,62,0.789,0.596,6.07,3.23,3.16,True,False,False,False,False
+"Butov, Leonid",PHYS 2DL,SP16,102,25,0.958,0.917,5.37,3.39,3.27,True,False,False,False,False
+"Paar, Hans Peter",PHYS 4B,SP16,69,26,0.885,0.654,6.42,3.21,2.64,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 4E,SP16,38,15,0.846,0.846,9.5,2.92,2.91,True,False,False,False,False
+"Konopacky, Quinn Morgan",PHYS 9,SP16,38,27,1.0,1.0,3.94,3.29,3.11,True,False,False,False,False
+"Song, Jaewon",PHYS 10,WI16,182,68,0.7659999999999999,0.75,3.87,3.1,3.35,True,False,False,False,False
+"Michelsen, Eric Leonard",PHYS 100B,WI16,69,30,1.0,0.9670000000000001,6.64,3.1,2.72,True,False,False,False,True
+"Wu, Congjun",PHYS 110B,WI16,67,27,0.846,0.6920000000000001,7.78,3.15,3.33,True,False,False,False,True
+"Murphy, Thomas",PHYS 124,WI16,33,11,1.0,1.0,8.32,3.73,3.45,True,False,False,False,True
+"Konopacky, Quinn Morgan",PHYS 160,WI16,36,34,0.971,0.971,6.38,3.47,3.13,True,False,False,False,True
+"Collins, Eva-Maria Schoetz",PHYS 1A,WI16,275,239,0.698,0.672,6.97,3.09,2.89,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1AL,WI16,278,141,0.8290000000000001,0.748,3.72,3.53,3.39,True,False,False,False,False
+"Ni, Kaixuan",PHYS 1B,WI16,402,190,0.743,0.9229999999999999,5.61,3.27,3.4,True,False,False,False,False
+"Allen, Grant",PHYS 1B,WI16,185,180,0.878,0.9890000000000001,5.04,3.64,3.48,True,False,False,False,False
+"Markowitz, Alex Gary",PHYS 1B,WI16,155,77,0.622,0.23,5.28,3.03,2.85,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,WI16,735,316,0.7,0.728,3.46,3.52,3.37,True,False,False,False,False
+"Paddock, Mark",PHYS 1C,WI16,287,239,0.785,0.878,6.36,3.31,3.24,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,WI16,268,140,0.789,0.82,3.8,3.57,3.49,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2A,WI16,339,316,0.87,0.655,6.76,3.33,3.06,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2A,WI16,251,232,0.815,0.616,6.78,3.22,3.06,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2A,WI16,166,153,0.843,0.627,6.83,3.32,3.06,True,False,False,False,False
+"Groisman, Alexander",PHYS 2B,WI16,319,156,0.8220000000000001,0.726,7.0,3.11,2.86,True,False,False,False,False
+"Anderson, Michael G.",PHYS 2BL,WI16,89,42,0.78,0.878,6.65,3.63,3.41,True,False,False,False,False
+"Palacci, Jeremie",PHYS 2C,WI16,379,138,0.8859999999999999,0.667,6.18,3.26,2.58,True,False,False,False,False
+"Schuller, Ivan K",PHYS 2CL,WI16,324,130,0.475,0.583,7.89,3.28,3.1,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 2D,WI16,141,56,0.8109999999999999,0.434,7.01,2.78,2.67,True,False,False,False,False
+"Paar, Hans Peter",PHYS 4A,WI16,74,33,0.813,0.75,6.5,3.0,2.72,True,False,False,False,False
+"Averitt, Richard Douglas",PHYS 4D,WI16,42,17,1.0,1.0,6.5,3.29,3.04,True,False,False,False,False
+"Sandstrom, Karin Marie",PHYS 7,WI16,35,22,1.0,1.0,4.5,3.59,3.34,True,False,False,False,False
+"Barreiro Guerrero, Julio",PHYS 100A,FA15,92,24,0.727,0.409,8.5,2.55,2.36,True,False,False,False,True
+"Dubin, Daniel Herschel",PHYS 105A,FA15,91,22,0.9,0.95,9.94,2.95,2.52,True,False,False,False,True
+"Tytler, David Robert",PHYS 11,FA15,150,44,0.7909999999999999,0.767,5.79,3.33,3.44,True,False,False,False,False
+"Averitt, Richard Douglas",PHYS 110A,FA15,93,19,0.9440000000000001,0.9440000000000001,7.21,3.17,2.71,True,False,False,False,True
+"Wright, Shelley Adams",PHYS 13,FA15,25,14,0.929,1.0,6.5,3.21,3.33,True,False,False,False,False
+"Surko, Clifford M",PHYS 130B,FA15,45,8,1.0,0.5710000000000001,8.5,2.67,2.56,True,False,True,False,True
+"Fogler, Michael M.",PHYS 140A,FA15,52,14,0.846,0.6920000000000001,12.67,2.73,2.95,True,False,False,False,True
+"Burgasser, Adam Jonathan",PHYS 1A,FA15,53,24,0.667,0.625,8.33,3.33,3.2,True,False,False,False,False
+"Burgasser, Adam Jonathan",PHYS 1A,FA15,50,25,0.76,0.8,8.26,3.12,3.2,True,False,False,False,False
+"Burgasser, Adam Jonathan",PHYS 1A,FA15,55,26,0.6,0.76,9.42,3.36,3.2,True,False,False,False,False
+"Burgasser, Adam Jonathan",PHYS 1A,FA15,52,23,0.762,0.857,7.26,3.25,3.2,True,False,False,False,False
+"Burgasser, Adam Jonathan",PHYS 1A,FA15,49,18,0.588,0.47100000000000003,10.97,3.29,3.2,True,False,False,False,False
+"Burgasser, Adam Jonathan",PHYS 1A,FA15,44,15,0.8,0.667,9.83,3.33,3.2,True,False,False,False,False
+"Burgasser, Adam Jonathan",PHYS 1A,FA15,52,25,0.56,0.6,8.9,3.12,3.2,True,False,False,False,False
+"Burgasser, Adam Jonathan",PHYS 1A,FA15,50,20,0.42100000000000004,0.579,6.71,3.32,3.2,True,False,False,False,False
+"Burgasser, Adam Jonathan",PHYS 1A,FA15,50,22,0.762,0.667,8.98,3.11,3.2,True,False,False,False,False
+"Burgasser, Adam Jonathan",PHYS 1A,FA15,343,127,0.703,0.737,7.94,3.32,3.2,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1AL,FA15,795,275,0.7170000000000001,0.74,3.21,3.37,3.4,True,False,False,False,False
+"Groisman, Alexander",PHYS 1B,FA15,188,60,0.649,0.632,5.13,3.18,2.9,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,FA15,177,54,0.725,0.667,3.3,3.31,3.37,True,False,False,False,False
+"Conger, Casey J",PHYS 1C,FA15,188,67,0.746,0.73,7.25,3.13,2.88,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,FA15,197,61,0.754,0.807,4.06,3.53,3.37,True,False,False,False,False
+"Rappel, Wouter Jan",PHYS 2A,FA15,326,132,0.937,0.937,5.7,3.37,2.75,True,False,False,False,False
+"Sinha, Sunil K",PHYS 2B,FA15,313,134,0.7709999999999999,0.748,6.88,3.2,3.07,True,False,False,False,False
+"Anderson, Michael G.",PHYS 2BL,FA15,62,22,0.789,0.9470000000000001,7.87,3.58,3.4,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2C,FA15,352,153,0.938,0.986,6.09,3.32,2.96,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2C,FA15,357,122,0.897,0.9740000000000001,5.52,3.41,2.96,True,False,False,False,False
+"Keating, Brian",PHYS 2CL,FA15,269,90,0.41200000000000003,0.647,7.97,3.23,3.05,True,False,False,False,False
+"Paar, Hans Peter",PHYS 4C,FA15,46,20,0.722,0.611,8.28,2.5,2.73,True,False,False,False,False
+"Coil, Alison",PHYS 5,FA15,56,23,0.9129999999999999,1.0,4.14,3.38,3.54,True,False,False,False,False
+"Barreiro Guerrero, Julio",PHYS 100C,SP15,30,23,0.762,0.667,8.2,2.95,3.27,True,False,False,False,True
+"Kleinfeld, David",PHYS 120,SP15,66,48,0.872,0.915,9.73,3.46,3.35,True,False,False,False,True
+"Burgasser, Adam Jonathan",PHYS 13,SP15,23,10,1.0,0.9,6.1,3.0,3.25,True,False,False,False,False
+"Branson, James G",PHYS 130A,SP15,62,30,0.857,0.5,9.64,2.88,3.08,True,False,True,False,True
+"Keating, Brian",PHYS 162,SP15,39,14,0.846,0.615,4.83,3.25,3.26,True,False,False,False,True
+"Anderson, Michael G.",PHYS 1A,SP15,269,100,0.716,0.379,5.99,3.03,2.97,True,False,False,False,False
+"Groisman, Alexander",PHYS 1AL,SP15,256,92,0.721,0.628,3.49,3.33,3.22,True,False,False,False,False
+"Markowitz, Alex Gary",PHYS 1B,SP15,308,104,0.713,0.495,5.8,3.01,2.79,True,False,False,False,False
+"Groisman, Alexander",PHYS 1BL,SP15,294,83,0.75,0.6629999999999999,3.9,3.51,3.27,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1C,SP15,140,42,0.675,0.6,5.3,3.16,3.01,True,False,False,False,False
+"Skibba, Ramin Adrian",PHYS 1C,SP15,182,67,0.6559999999999999,0.469,5.38,3.06,2.91,True,False,False,False,False
+"Paddock, Mark",PHYS 1C,SP15,412,342,0.851,0.9620000000000001,5.5,3.52,3.48,True,False,False,False,False
+"Groisman, Alexander",PHYS 1CL,SP15,734,280,0.713,0.682,3.53,3.46,3.31,True,False,False,False,False
+"Dudko, Olga",PHYS 2A,SP15,278,103,0.8590000000000001,0.9490000000000001,7.13,3.01,2.62,True,False,False,False,False
+"Dudko, Olga",PHYS 2A,SP15,165,74,0.9179999999999999,0.986,7.18,2.84,2.62,True,False,False,False,False
+"Schuller, Ivan K",PHYS 2B,SP15,224,93,0.8,0.42200000000000004,5.91,3.19,2.65,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2B,SP15,409,153,0.919,0.993,5.65,3.36,2.86,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2B,SP15,384,150,0.917,0.986,5.54,3.32,2.86,True,False,False,False,False
+"Yagil, Avi",PHYS 2BL,SP15,164,61,0.8,0.8,5.22,3.4,2.94,True,False,False,False,False
+"Michelsen, Eric Leonard",PHYS 2C,SP15,353,141,0.8320000000000001,0.759,6.54,3.23,2.95,True,False,False,False,False
+"Keating, Brian",PHYS 2CL,SP15,260,88,0.451,0.659,7.13,3.28,3.09,True,False,False,False,False
+"Collins, Eva-Maria Schoetz",PHYS 2D,SP15,134,111,0.9640000000000001,0.955,6.33,3.23,2.92,True,False,False,False,False
+"Butov, Leonid",PHYS 2DL,SP15,50,23,0.909,0.818,5.07,3.71,3.3,True,False,False,False,False
+"Paar, Hans Peter",PHYS 4B,SP15,80,35,0.8290000000000001,0.5429999999999999,6.97,3.26,2.59,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 4E,SP15,30,14,0.857,0.5710000000000001,6.64,2.77,3.04,True,False,False,False,False
+"Tytler, David Robert",PHYS 9,SP15,37,8,0.625,0.75,3.25,3.38,3.12,True,False,False,False,False
+"Tytler, David Robert",PHYS 10,WI15,185,61,0.6829999999999999,0.7,4.81,3.2,3.18,True,False,False,False,False
+"Surko, Clifford M",PHYS 100B,WI15,60,18,0.9440000000000001,0.9440000000000001,6.83,3.22,2.79,True,False,False,False,True
+"Dubin, Daniel Herschel",PHYS 105B,WI15,20,8,1.0,1.0,14.25,3.13,3.11,True,False,False,False,True
+"Wu, Congjun",PHYS 110B,WI15,40,11,1.0,1.0,9.77,3.6,3.44,True,False,False,False,True
+"Murphy, Thomas",PHYS 124,WI15,21,7,1.0,1.0,10.17,3.83,3.32,True,False,False,False,True
+"McGreevy, John A.",PHYS 130C,WI15,24,10,0.7,1.0,10.5,3.0,3.01,True,False,True,False,True
+"Konopacky, Quinn Morgan",PHYS 160,WI15,23,20,0.95,0.95,5.66,3.39,2.87,True,False,False,False,True
+"Fuller, George Michael",PHYS 161,WI15,26,7,0.857,1.0,4.5,3.71,3.78,True,False,False,False,True
+"Yagil, Avi",PHYS 1A,WI15,280,109,0.7759999999999999,0.7290000000000001,6.48,3.08,2.58,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1AL,WI15,271,93,0.826,0.7829999999999999,4.07,3.56,3.45,True,False,False,False,False
+"Groisman, Alexander",PHYS 1B,WI15,142,43,0.738,0.7140000000000001,5.21,3.17,2.8,True,False,False,False,False
+"Wuerthwein, Frank",PHYS 1B,WI15,338,126,0.7829999999999999,0.861,5.92,3.19,3.15,True,False,False,False,False
+"Wuerthwein, Frank",PHYS 1B,WI15,341,140,0.7440000000000001,0.85,5.16,3.2,3.15,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,WI15,805,271,0.732,0.736,3.74,3.46,3.42,True,False,False,False,False
+"Burgasser, Adam Jonathan",PHYS 1C,WI15,187,73,0.8059999999999999,0.847,5.83,3.38,3.28,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,WI15,174,52,0.7140000000000001,0.7140000000000001,3.93,3.71,3.56,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2A,WI15,338,199,0.8140000000000001,0.43799999999999994,7.12,3.11,2.96,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2A,WI15,323,185,0.84,0.434,7.23,3.06,2.96,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2A,WI15,303,157,0.8170000000000001,0.503,7.23,3.24,2.96,True,False,False,False,False
+"Shotwell, Brian",PHYS 2B,WI15,311,115,0.815,0.87,7.98,3.06,2.67,True,False,False,False,False
+"Butov, Leonid",PHYS 2BL,WI15,108,36,0.8290000000000001,0.8859999999999999,3.36,3.71,3.65,True,False,False,False,False
+"Michelsen, Eric Leonard",PHYS 2C,WI15,328,127,0.765,0.48700000000000004,5.86,3.03,2.79,True,False,False,False,False
+"Maple, M. Brian",PHYS 2CL,WI15,293,99,0.43,0.667,6.83,3.36,2.96,True,False,False,False,False
+"Branson, James G",PHYS 2D,WI15,189,53,0.784,0.804,5.75,3.43,3.42,True,False,False,False,False
+"Sinha, Sunil K",PHYS 4A,WI15,79,41,0.878,0.732,5.99,3.46,3.51,True,False,False,False,False
+"Intriligator, Kenneth Arthur",PHYS 4D,WI15,36,17,1.0,0.941,6.85,3.25,3.41,True,False,False,False,False
+"Keres, Dusan",PHYS 7,WI15,41,23,1.0,1.0,4.12,3.58,3.39,True,False,False,False,False
+"Surko, Clifford M",PHYS 100A,FA14,82,16,1.0,0.769,9.0,3.17,2.57,True,False,False,False,True
+"Dubin, Daniel Herschel",PHYS 105A,FA14,72,16,0.7140000000000001,0.7859999999999999,14.96,2.75,2.76,True,False,False,False,True
+"Tytler, David Robert",PHYS 11,FA14,141,43,0.628,0.5579999999999999,4.6,3.41,3.3,True,False,False,False,False
+"Branson, James G",PHYS 110A,FA14,81,15,1.0,0.25,10.33,3.0,2.94,True,False,False,False,True
+"Keating, Brian",PHYS 130B,FA14,38,11,0.909,0.636,6.68,3.3,2.98,True,False,True,False,True
+"Fogler, Michael M.",PHYS 140A,FA14,42,12,0.917,0.833,7.5,3.09,2.59,True,False,False,False,True
+"Keres, Dusan",PHYS 163,FA14,22,6,1.0,1.0,4.83,3.67,2.72,True,False,False,False,True
+"Smith, Douglas E",PHYS 1A,FA14,178,73,0.7829999999999999,0.725,4.88,3.24,3.1,True,False,False,False,False
+"Smith, Douglas E",PHYS 1A,FA14,344,114,0.7709999999999999,0.6609999999999999,5.42,3.17,3.1,True,False,False,False,False
+"Yagil, Avi",PHYS 1A,FA14,329,130,0.787,0.74,5.78,3.14,2.62,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1AL,FA14,840,321,0.745,0.7829999999999999,4.2,3.44,3.4,True,False,False,False,False
+"Groisman, Alexander",PHYS 1B,FA14,180,54,0.6859999999999999,0.431,5.88,3.02,2.92,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,FA14,173,47,0.762,0.81,4.06,3.23,3.35,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1C,FA14,174,46,0.795,0.614,5.31,3.21,3.01,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,FA14,176,37,0.875,0.813,3.73,3.71,3.5,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2A,FA14,344,145,0.902,0.9470000000000001,6.12,3.09,2.79,True,False,False,False,False
+"Schuller, Ivan K",PHYS 2B,FA14,332,120,0.6759999999999999,0.405,6.94,2.88,2.99,True,False,False,False,False
+"Butov, Leonid",PHYS 2BL,FA14,115,42,0.73,0.703,4.34,3.51,3.52,True,False,False,False,False
+"Intriligator, Kenneth Arthur",PHYS 2C,FA14,330,109,0.782,0.693,5.9,3.4,3.09,True,False,False,False,False
+"Intriligator, Kenneth Arthur",PHYS 2C,FA14,347,118,0.833,0.546,6.08,3.39,3.09,True,False,False,False,False
+"Schuller, Ivan K",PHYS 2CL,FA14,224,94,0.289,0.37799999999999995,7.7,3.2,2.99,True,False,False,False,False
+"Paar, Hans Peter",PHYS 4C,FA14,41,21,0.857,0.857,7.07,3.2,2.95,True,False,False,False,False
+"Coil, Alison",PHYS 5,FA14,54,21,0.9,0.95,3.83,3.36,3.3,True,False,False,False,False
+"Sinha, Sunil K",PHYS 100C,SP14,22,12,0.636,0.727,8.7,3.6,3.29,True,False,False,False,True
+"Kleinfeld, David",PHYS 120A,SP14,53,43,0.8370000000000001,0.884,9.85,3.43,3.31,True,False,False,False,True
+"Surko, Clifford M",PHYS 130A,SP14,46,23,0.857,0.81,8.6,3.22,2.73,True,False,True,False,True
+"Griest, Kim",PHYS 161,SP14,21,6,1.0,1.0,6.9,3.6,3.1,True,False,False,False,True
+"Keating, Brian",PHYS 162,SP14,30,6,1.0,1.0,5.17,3.33,3.41,True,False,False,False,True
+"Sutterley, Christel Johanna",PHYS 1A,SP14,323,125,0.8859999999999999,0.951,5.28,3.26,2.84,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1AL,SP14,331,116,0.7609999999999999,0.805,4.29,3.28,3.28,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1B,SP14,290,104,0.637,0.402,7.73,3.0,2.86,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,SP14,287,79,0.89,0.7120000000000001,4.19,3.61,3.37,True,False,False,False,False
+"Coil, Alison",PHYS 1C,SP14,305,90,0.7290000000000001,0.741,4.88,3.56,3.13,True,False,False,False,False
+"Wuerthwein, Frank",PHYS 1C,SP14,339,91,0.828,0.7929999999999999,4.96,3.3,2.98,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP14,622,156,0.743,0.833,3.81,3.66,3.42,True,False,False,False,False
+"Dudko, Olga",PHYS 2A,SP14,302,112,0.899,0.917,6.9,3.07,2.8,True,False,False,False,False
+"Dudko, Olga",PHYS 2A,SP14,253,79,0.8859999999999999,0.9620000000000001,6.02,3.25,2.8,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2B,SP14,285,93,0.843,0.888,5.89,3.11,2.75,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2B,SP14,347,114,0.813,0.902,6.5,3.21,2.75,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2B,SP14,323,110,0.9059999999999999,0.953,5.99,3.29,2.75,True,False,False,False,False
+"Yagil, Avi",PHYS 2BL,SP14,270,82,0.526,0.48700000000000004,5.34,3.16,2.73,True,False,False,False,False
+"Jun, Suckjoon",PHYS 2C,SP14,289,88,0.667,0.345,5.88,2.84,2.48,True,False,False,False,False
+"Sharpee, Tatyana",PHYS 2CL,SP14,190,60,0.569,0.5,8.0,3.18,3.01,True,False,False,False,False
+"Branson, James G",PHYS 2D,SP14,171,37,0.73,0.649,5.72,3.38,3.17,True,False,False,False,False
+"Butov, Leonid",PHYS 2DL,SP14,41,14,0.7859999999999999,0.929,4.5,3.23,3.02,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 4B,SP14,62,27,0.88,0.32,7.5,3.0,2.68,True,False,False,False,False
+"Manohar, Aneesh Vasant",PHYS 4E,SP14,28,8,1.0,1.0,7.25,3.38,3.31,True,False,False,False,False
+"Tytler, David Robert",PHYS 9,SP14,33,14,0.643,0.5710000000000001,4.93,3.22,3.25,True,False,False,False,False
+"Tytler, David Robert",PHYS 10,WI14,177,74,0.521,0.575,4.42,3.23,3.23,True,False,False,False,False
+"Surko, Clifford M",PHYS 100B,WI14,44,18,0.941,0.765,5.83,3.07,2.9,True,False,False,False,True
+"Branson, James G",PHYS 110B,WI14,28,11,1.0,0.545,6.5,3.3,3.07,True,False,False,False,True
+"McGreevy, John A.",PHYS 130C,WI14,22,9,1.0,1.0,8.5,3.22,3.33,True,False,True,False,True
+"Keres, Dusan",PHYS 163,WI14,21,7,1.0,1.0,8.5,3.57,2.64,True,False,False,False,True
+"Anderson, Michael G.",PHYS 1A,WI14,312,123,0.87,0.8170000000000001,6.36,3.21,2.88,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1AL,WI14,313,111,0.767,0.7959999999999999,4.4,3.36,3.31,True,False,False,False,False
+"Groisman, Alexander",PHYS 1B,WI14,358,126,0.74,0.545,5.42,3.18,2.73,True,False,False,False,False
+"Groisman, Alexander",PHYS 1B,WI14,138,56,0.75,0.589,5.24,3.25,2.73,True,False,False,False,False
+"Kishimoto, Chad T.",PHYS 1B,WI14,207,81,0.938,0.975,6.92,3.49,3.23,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,WI14,685,234,0.802,0.841,3.43,3.52,3.39,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1C,WI14,182,55,0.654,0.654,6.54,3.26,2.94,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,WI14,178,53,0.529,0.667,4.26,3.47,3.32,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2A,WI14,349,296,0.863,0.816,6.46,3.21,2.87,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2A,WI14,343,297,0.852,0.8109999999999999,6.25,3.07,2.87,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2A,WI14,338,280,0.866,0.812,6.17,3.18,2.87,True,False,False,False,False
+"Michelsen, Eric Leonard",PHYS 2B,WI14,338,142,0.8370000000000001,0.807,6.07,3.14,2.79,True,False,False,False,False
+"Yagil, Avi",PHYS 2BL,WI14,118,51,0.66,0.66,5.32,3.39,3.02,True,False,False,False,False
+"Di Ventra, Massimiliano",PHYS 2C,WI14,288,92,0.865,0.865,5.21,3.35,3.2,True,False,False,False,False
+"Maple, M. Brian",PHYS 2CL,WI14,252,90,0.316,0.608,9.01,3.04,2.98,True,False,False,False,False
+"Branson, James G",PHYS 2D,WI14,174,62,0.7829999999999999,0.517,6.78,3.28,3.41,True,False,False,False,False
+"Griest, Kim",PHYS 4A,WI14,80,39,1.0,0.9490000000000001,5.97,3.5,2.83,True,False,False,False,False
+"Manohar, Aneesh Vasant",PHYS 4D,WI14,28,11,1.0,1.0,7.9,3.5,3.32,True,False,False,False,False
+"Coil, Alison",PHYS 5,WI14,39,15,0.9329999999999999,1.0,4.23,3.92,3.12,True,False,False,False,False
+"Surko, Clifford M",PHYS 100A,FA13,54,16,0.7859999999999999,0.7140000000000001,7.88,3.08,2.62,True,False,False,False,True
+"Dubin, Daniel Herschel",PHYS 105A,FA13,49,14,0.7140000000000001,0.5,14.81,3.08,2.71,True,False,False,False,True
+"Tytler, David Robert",PHYS 11,FA13,157,52,0.423,0.442,3.98,3.34,3.24,True,False,False,False,False
+"Michelsen, Eric Leonard",PHYS 110A,FA13,49,14,0.929,0.929,8.81,3.08,2.42,True,False,False,False,True
+"Keating, Brian",PHYS 130B,FA13,42,19,1.0,0.895,7.45,3.32,3.16,True,False,True,False,True
+"Fogler, Michael M.",PHYS 140A,FA13,56,24,0.75,0.958,9.67,2.92,2.77,True,False,False,False,True
+"Kritsuk, Alexei",PHYS 1A,FA13,166,133,0.677,0.331,6.42,2.98,3.19,True,False,False,False,False
+"Kishimoto, Chad T.",PHYS 1A,FA13,276,128,0.87,0.919,6.77,3.27,3.05,True,False,False,False,False
+"Paddock, Mark",PHYS 1A,FA13,343,239,0.782,0.8590000000000001,6.53,3.04,3.1,True,False,False,False,False
+"Groisman, Alexander",PHYS 1AL,FA13,803,365,0.748,0.705,4.08,3.31,3.27,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1B,FA13,182,67,0.778,0.762,6.75,3.31,2.85,True,False,False,False,False
+"Groisman, Alexander",PHYS 1BL,FA13,22,9,0.667,0.667,5.83,3.67,3.2,True,False,False,False,False
+"Groisman, Alexander",PHYS 1BL,FA13,24,4,1.0,1.0,2.5,3.75,3.2,True,False,False,False,False
+"Groisman, Alexander",PHYS 1BL,FA13,25,7,0.7140000000000001,0.7140000000000001,3.93,3.57,3.2,True,False,False,False,False
+"Groisman, Alexander",PHYS 1BL,FA13,25,8,0.5710000000000001,0.5710000000000001,4.79,3.0,3.2,True,False,False,False,False
+"Groisman, Alexander",PHYS 1BL,FA13,24,12,0.583,0.75,3.95,3.73,3.2,True,False,False,False,False
+"Groisman, Alexander",PHYS 1BL,FA13,25,6,1.0,1.0,2.9,3.0,3.2,True,False,False,False,False
+"Groisman, Alexander",PHYS 1BL,FA13,25,6,0.667,0.667,3.17,3.67,3.2,True,False,False,False,False
+"Branson, James G",PHYS 1C,FA13,92,23,0.696,0.391,5.98,3.09,3.01,True,False,False,False,False
+"Groisman, Alexander",PHYS 1CL,FA13,94,18,0.8240000000000001,0.941,4.03,3.24,3.25,True,False,False,False,False
+"Paar, Hans Peter",PHYS 2A,FA13,334,162,0.843,0.5660000000000001,7.86,3.12,2.75,True,False,False,False,False
+"Rappel, Wouter Jan",PHYS 2B,FA13,347,129,0.905,0.889,6.14,3.18,2.57,True,False,False,False,False
+"Yagil, Avi",PHYS 2BL,FA13,148,47,0.532,0.7020000000000001,6.46,3.02,2.9,True,False,False,False,False
+"Intriligator, Kenneth Arthur",PHYS 2C,FA13,188,63,0.85,0.633,5.26,3.37,2.96,True,False,False,False,False
+"Intriligator, Kenneth Arthur",PHYS 2C,FA13,347,138,0.8740000000000001,0.669,5.72,3.2,2.96,True,False,False,False,False
+"Anderson, Michael G.",PHYS 2CL,FA13,261,88,0.523,0.75,8.66,3.27,2.99,True,False,False,False,False
+"Manohar, Aneesh Vasant",PHYS 4C,FA13,27,12,0.727,0.636,9.77,2.8,3.12,True,False,False,False,False
+"Keres, Dusan",PHYS 7,FA13,46,19,1.0,0.9470000000000001,4.08,3.59,3.01,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 100C,SP13,31,10,0.889,0.889,6.28,3.89,3.54,True,False,False,False,True
+"Murphy, Thomas",PHYS 12,SP13,44,22,0.682,0.8640000000000001,3.77,3.44,3.15,True,False,False,False,False
+"Kleinfeld, David",PHYS 120A,SP13,44,16,0.5,0.125,12.9,3.53,3.33,True,False,False,False,True
+"Anderson, Michael G.",PHYS 130A,SP13,56,22,0.955,0.591,9.14,3.43,2.89,True,False,True,False,True
+"Kritsuk, Alexei",PHYS 1A,SP13,254,79,0.667,0.449,5.89,2.99,2.97,True,False,False,False,False
+"Yagil, Avi",PHYS 1AL,SP13,261,75,0.743,0.6890000000000001,3.81,3.55,3.39,True,False,False,False,False
+"Sinha, Sunil K",PHYS 1B,SP13,138,44,0.581,0.7440000000000001,5.9,3.26,2.9,True,False,False,False,False
+"Yagil, Avi",PHYS 1BL,SP13,126,38,0.789,0.895,3.89,3.53,3.34,True,False,False,False,False
+"Kishimoto, Chad T.",PHYS 1C,SP13,192,101,0.752,0.644,5.82,3.24,3.1,True,False,False,False,False
+"Kishimoto, Chad T.",PHYS 1C,SP13,78,40,0.775,0.725,6.15,3.13,3.1,True,False,False,False,False
+"Paddock, Mark",PHYS 1C,SP13,189,125,0.8540000000000001,0.976,4.78,3.52,3.18,True,False,False,False,False
+"Yagil, Avi",PHYS 1CL,SP13,446,161,0.711,0.7609999999999999,3.52,3.5,3.42,True,False,False,False,False
+"Dudko, Olga",PHYS 2A,SP13,324,120,0.899,0.9329999999999999,6.88,3.17,2.92,True,False,False,False,False
+"Lin, Shiowhwa",PHYS 2A,SP13,128,36,0.857,0.5429999999999999,5.17,3.0,2.63,True,False,False,False,False
+"Anderson, Michael G.",PHYS 2B,SP13,340,118,0.9309999999999999,0.966,6.29,3.11,2.76,True,False,False,False,False
+"Michelsen, Eric Leonard",PHYS 2B,SP13,354,149,0.919,0.892,5.5,3.28,2.95,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2BL,SP13,243,88,0.568,0.818,6.25,3.24,2.96,True,False,False,False,False
+"Wuerthwein, Frank",PHYS 2C,SP13,295,94,0.894,0.904,6.05,3.47,3.17,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2CL,SP13,292,95,0.45299999999999996,0.884,7.46,3.39,3.16,True,False,False,False,False
+"Schoetz, Eva-Maria",PHYS 2D,SP13,194,56,0.429,0.46399999999999997,9.63,2.59,2.54,True,False,False,False,False
+"Butov, Leonid",PHYS 2DL,SP13,44,13,0.846,0.846,5.5,3.75,3.33,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 4B,SP13,35,15,0.929,0.35700000000000004,9.36,2.83,3.22,True,False,False,False,False
+"Tytler, David Robert",PHYS 9,SP13,34,12,0.5,0.33299999999999996,3.17,3.8,3.7,True,False,False,False,False
+"Tytler, David Robert",PHYS 10,WI13,193,90,0.58,0.58,4.69,3.29,3.08,True,False,False,False,False
+"Surko, Clifford M",PHYS 100B,WI13,61,23,0.9129999999999999,0.652,8.5,3.04,2.88,True,False,False,False,True
+"Dubin, Daniel Herschel",PHYS 105B,WI13,23,11,0.909,1.0,14.9,3.4,2.82,True,False,False,False,True
+"Wu, Congjun",PHYS 110B,WI13,36,17,0.941,0.765,6.62,3.67,3.15,True,False,False,False,True
+"McGreevy, John A.",PHYS 130C,WI13,22,20,0.95,0.95,8.92,3.41,3.35,True,False,True,False,True
+"Griest, Kim",PHYS 161,WI13,28,17,1.0,1.0,6.97,3.29,3.22,True,False,False,False,True
+"Smith, Douglas E",PHYS 1A,WI13,172,76,0.7070000000000001,0.667,5.69,3.11,2.92,True,False,False,False,False
+"Yagil, Avi",PHYS 1AL,WI13,171,75,0.6859999999999999,0.8,4.2,3.27,3.24,True,False,False,False,False
+"Groisman, Alexander",PHYS 1B,WI13,341,137,0.659,0.593,5.74,3.03,2.75,True,False,False,False,False
+"Groisman, Alexander",PHYS 1B,WI13,142,59,0.603,0.569,5.48,3.14,2.75,True,False,False,False,False
+"Kishimoto, Chad T.",PHYS 1B,WI13,90,55,0.722,0.833,7.73,3.21,3.05,True,False,False,False,False
+"Yagil, Avi",PHYS 1BL,WI13,547,216,0.7340000000000001,0.79,3.63,3.46,3.28,True,False,False,False,False
+"Branson, James G",PHYS 1C,WI13,121,48,0.5529999999999999,0.298,5.39,3.15,2.72,True,False,False,False,False
+"Yagil, Avi",PHYS 1CL,WI13,121,46,0.659,0.682,3.88,3.51,3.35,True,False,False,False,False
+"Grinstein, Benjamin",PHYS 2A,WI13,193,97,0.747,0.305,6.91,2.82,2.82,True,False,False,False,False
+"Grinstein, Benjamin",PHYS 2A,WI13,346,147,0.807,0.359,6.6,3.13,2.82,True,False,False,False,False
+"Grinstein, Benjamin",PHYS 2A,WI13,338,137,0.741,0.43700000000000006,6.74,3.02,2.82,True,False,False,False,False
+"Sinha, Sunil K",PHYS 2B,WI13,342,148,0.8009999999999999,0.8220000000000001,6.92,3.35,3.1,True,False,False,False,False
+"Yagil, Avi",PHYS 2BL,WI13,106,45,0.444,0.622,6.37,3.04,2.91,True,False,False,False,False
+"Lin, Shiowhwa",PHYS 2C,WI13,266,110,0.6609999999999999,0.294,5.69,3.0,2.83,True,False,False,False,False
+"Maple, M. Brian",PHYS 2CL,WI13,223,91,0.322,0.633,8.34,3.15,3.04,True,False,False,False,False
+"Branson, James G",PHYS 2D,WI13,138,51,0.68,0.4,6.08,3.04,2.72,True,False,False,False,False
+"Griest, Kim",PHYS 4A,WI13,48,17,0.941,0.941,5.68,3.18,2.98,True,False,False,False,False
+"Keres, Dusan",PHYS 7,WI13,21,15,0.867,0.9329999999999999,4.5,3.36,3.11,True,False,False,False,False
+"Surko, Clifford M",PHYS 100A,FA12,71,29,0.9259999999999999,0.667,7.69,2.96,2.78,True,False,False,False,True
+"Dubin, Daniel Herschel",PHYS 105A,FA12,66,25,0.682,0.909,12.21,2.95,2.67,True,False,False,False,True
+"Tytler, David Robert",PHYS 11,FA12,167,54,0.846,0.8079999999999999,4.54,3.64,3.06,True,False,False,False,False
+"Murphy, Thomas",PHYS 110A,FA12,70,32,0.966,0.862,8.84,3.22,2.85,True,False,False,False,True
+"Smith, Douglas E",PHYS 121,FA12,21,14,1.0,1.0,4.83,3.67,3.65,True,False,False,False,True
+"Keating, Brian",PHYS 130B,FA12,48,46,0.956,0.778,6.36,3.09,3.08,True,False,True,False,True
+"Arovas, Daniel P",PHYS 140A,FA12,48,28,0.9129999999999999,0.826,7.68,3.09,3.01,True,False,False,False,True
+"Wolfe, Arthur Michael",PHYS 160,FA12,22,11,0.909,0.818,6.86,3.27,2.88,True,False,False,False,True
+"Sutterley, Christel Johanna",PHYS 1A,FA12,319,116,0.83,0.83,5.83,3.17,2.99,True,False,False,False,False
+"Burgasser, Adam Jonathan",PHYS 1A,FA12,172,137,0.8220000000000001,0.8809999999999999,6.47,3.14,3.14,True,False,False,False,False
+"Burgasser, Adam Jonathan",PHYS 1A,FA12,228,192,0.818,0.893,7.66,3.15,3.14,True,False,False,False,False
+"Groisman, Alexander",PHYS 1AL,FA12,694,311,0.71,0.696,4.14,3.25,3.2,True,False,False,False,False
+"Maple, M. Brian",PHYS 1B,FA12,174,65,0.8140000000000001,0.5760000000000001,5.82,3.4,2.89,True,False,False,False,False
+"Groisman, Alexander",PHYS 1BL,FA12,22,11,1.0,0.778,4.5,3.56,3.15,True,False,False,False,False
+"Groisman, Alexander",PHYS 1BL,FA12,20,7,0.857,0.5710000000000001,2.79,3.57,3.15,True,False,False,False,False
+"Groisman, Alexander",PHYS 1BL,FA12,21,7,0.667,0.833,4.1,3.83,3.15,True,False,False,False,False
+"Groisman, Alexander",PHYS 1BL,FA12,20,7,0.5710000000000001,0.7140000000000001,3.36,3.29,3.15,True,False,False,False,False
+"Groisman, Alexander",PHYS 1BL,FA12,25,7,0.7140000000000001,0.5710000000000001,3.36,3.71,3.15,True,False,False,False,False
+"Groisman, Alexander",PHYS 1BL,FA12,20,5,1.0,1.0,3.7,3.8,3.15,True,False,False,False,False
+"Smith, Douglas E",PHYS 1C,FA12,175,65,0.733,0.867,5.52,3.56,2.94,True,False,False,False,False
+"Groisman, Alexander",PHYS 1CL,FA12,163,55,0.6729999999999999,0.531,4.24,3.5,3.21,True,False,False,False,False
+"Sinha, Sunil K",PHYS 2A,FA12,344,162,0.8029999999999999,0.718,7.26,3.21,3.28,True,False,False,False,False
+"Rappel, Wouter Jan",PHYS 2B,FA12,342,126,0.7559999999999999,0.84,6.69,3.24,2.48,True,False,False,False,False
+"Wuerthwein, Frank",PHYS 2BL,FA12,161,60,0.621,0.569,6.09,3.37,2.95,True,False,False,False,False
+"Griest, Kim",PHYS 2C,FA12,210,74,0.833,0.889,5.74,3.29,2.67,True,False,False,False,False
+"Anderson, Michael G.",PHYS 2C,FA12,295,127,0.868,0.95,5.57,3.34,2.95,True,False,False,False,False
+"Anderson, Michael G.",PHYS 2CL,FA12,221,92,0.264,0.6890000000000001,8.61,2.99,3.03,True,False,False,False,False
+"Coil, Alison",PHYS 5,FA12,52,20,0.85,0.85,4.9,3.44,3.16,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 100C ,SP12,32,12,1.0,0.909,5.05,3.5,3.37,True,False,False,False,True
+"Driscoll, Charles F.",PHYS 120A ,SP12,41,18,0.941,1.0,12.39,3.5,3.51,True,False,False,False,True
+"Branson, James G",PHYS 130A ,SP12,56,23,0.87,0.696,9.02,3.09,2.86,True,False,False,False,True
+"Coil, Alison",PHYS 162  ,SP12,28,12,0.917,1.0,7.33,3.33,3.35,True,False,False,False,True
+"Kishimoto, Chad T.",PHYS 1A ,SP12,197,97,0.773,0.701,7.81,3.16,3.01,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1AL,SP12,24,9,0.778,0.667,3.61,3.67,3.34,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1AL,SP12,20,10,1.0,0.9,4.3,3.4,3.34,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1AL,SP12,26,15,0.867,0.867,3.64,3.64,3.34,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1AL,SP12,23,9,0.667,0.667,5.61,3.38,3.34,True,False,False,False,False
+"Michelsen, Eric Leonard",PHYS 1B ,SP12,184,86,0.655,0.6629999999999999,7.67,3.01,2.85,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,SP12,20,9,0.556,0.556,3.39,3.5,3.29,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,SP12,21,9,0.444,0.33299999999999996,3.61,3.5,3.29,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,SP12,25,13,0.9229999999999999,0.846,5.58,3.46,3.29,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,SP12,23,5,0.4,0.2,6.9,2.4,3.29,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,SP12,21,9,0.778,0.875,3.17,3.22,3.29,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,SP12,24,6,0.667,0.667,5.17,3.67,3.29,True,False,False,False,False
+"Smith, Douglas E",PHYS 1C ,SP12,338,118,0.8290000000000001,0.828,4.67,3.45,3.16,True,False,False,False,False
+"Smith, Douglas E",PHYS 1C ,SP12,161,59,0.828,0.7929999999999999,5.84,3.46,3.16,True,False,False,False,False
+"Hicks, J. Charles",PHYS 1C ,SP12,119,50,0.7,0.52,5.62,3.19,2.7,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP12,21,11,0.818,0.8,4.14,3.73,3.45,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP12,23,7,0.7140000000000001,0.857,2.21,4.0,3.45,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP12,21,9,0.778,0.889,3.39,3.67,3.45,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP12,24,12,0.917,0.917,2.17,3.92,3.45,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP12,26,11,0.909,0.909,3.05,3.73,3.45,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP12,26,6,0.2,0.4,2.17,3.5,3.45,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP12,26,8,0.875,1.0,4.75,3.57,3.45,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP12,22,10,0.9,0.9,4.3,3.5,3.45,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP12,23,8,0.857,1.0,4.21,4.0,3.45,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP12,24,10,0.5,0.8,4.1,3.5,3.45,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP12,23,11,0.8,1.0,3.77,3.45,3.45,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP12,26,13,0.769,0.846,3.73,3.58,3.45,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP12,24,8,0.875,0.875,4.21,3.75,3.45,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP12,24,4,0.75,0.75,2.0,4.0,3.45,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP12,25,6,1.0,0.8,5.5,3.83,3.45,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP12,24,9,0.778,0.778,3.83,3.0,3.45,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP12,25,6,0.833,0.8,4.17,3.0,3.45,True,False,False,False,False
+"Dudko, Olga",PHYS 2A ,SP12,325,127,0.8320000000000001,0.904,8.23,3.08,2.81,True,False,False,False,False
+"Anderson, Michael G.",PHYS 2B ,SP12,345,157,0.8170000000000001,0.903,6.65,3.13,2.84,True,False,False,False,False
+"Anderson, Michael G.",PHYS 2B ,SP12,352,152,0.82,0.873,7.41,3.09,2.84,True,False,False,False,False
+"Paddock, Mark",PHYS 2BL,SP12,234,119,0.72,0.669,6.64,3.42,3.37,True,False,False,False,False
+"Wuerthwein, Frank",PHYS 2C ,SP12,254,114,0.894,0.902,6.59,3.43,3.09,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2CL,SP12,217,95,0.452,0.915,7.9,3.24,3.03,True,False,False,False,False
+"Sutterley, Christel Johanna",PHYS 2D ,SP12,288,135,0.828,0.94,6.74,3.39,3.3,True,False,False,False,False
+"Butov, Leonid",PHYS 2DL,SP12,48,13,0.9229999999999999,0.846,7.58,3.62,3.18,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 4E ,SP12,32,7,1.0,0.7140000000000001,12.21,3.29,2.98,True,False,False,False,False
+"Burgasser, Adam Jonathan",PHYS 9  ,SP12,64,24,0.917,0.958,5.42,3.47,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 10  ,WI12,187,81,0.877,0.914,4.77,3.53,3.21,True,False,False,False,False
+"Wu, Congjun",PHYS 100B ,WI12,46,19,0.895,0.474,6.06,3.17,3.18,True,False,False,False,True
+"Hicks, J. Charles",PHYS 110B ,WI12,39,17,0.941,0.529,7.32,3.12,2.8,True,False,False,False,True
+"Murphy, Thomas",PHYS 121  ,WI12,22,8,1.0,1.0,7.25,3.75,3.25,True,False,False,False,True
+"Sutterley, Christel Johanna",PHYS 1A ,WI12,186,78,0.782,0.9490000000000001,5.96,3.22,3.06,True,False,False,False,False
+"Yagil, Avi",PHYS 1AL,WI12,166,63,0.746,0.758,4.56,3.35,3.41,True,False,False,False,False
+"Levine, Herbert",PHYS 1B ,WI12,57,26,0.792,0.68,5.38,3.48,3.05,True,False,False,False,False
+"Groisman, Alexander",PHYS 1B ,WI12,295,125,0.64,0.677,5.68,3.24,2.95,True,False,False,False,False
+"Wuerthwein, Frank",PHYS 1B ,WI12,296,140,0.812,0.904,5.87,3.32,3.23,True,False,False,False,False
+"Yagil, Avi",PHYS 1BL,WI12,618,275,0.732,0.813,3.64,3.58,3.36,True,False,False,False,False
+"Branson, James G",PHYS 1C ,WI12,186,89,0.655,0.494,5.37,3.32,2.9,True,False,False,False,False
+"Yagil, Avi",PHYS 1CL,WI12,175,72,0.732,0.7,3.16,3.55,3.42,True,False,False,False,False
+"Grinstein, Benjamin",PHYS 2A ,WI12,162,89,0.802,0.395,7.51,3.09,2.77,True,False,False,False,False
+"Grinstein, Benjamin",PHYS 2A ,WI12,333,153,0.7240000000000001,0.503,6.73,3.07,2.77,True,False,False,False,False
+"Grinstein, Benjamin",PHYS 2A ,WI12,331,146,0.745,0.45799999999999996,8.04,2.96,2.77,True,False,False,False,False
+"Uttayarat, Patipan",PHYS 2B ,WI12,336,178,0.644,0.298,7.11,2.98,2.54,True,False,False,False,False
+"Yagil, Avi",PHYS 2BL,WI12,101,54,0.63,0.778,5.94,3.27,3.06,True,False,False,False,False
+"Surko, Clifford M",PHYS 2C ,WI12,202,85,0.8240000000000001,0.405,6.43,3.28,2.82,True,False,False,False,False
+"Anderson, Michael G.",PHYS 2CL,WI12,210,82,0.38299999999999995,0.617,8.89,3.09,3.07,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 2D ,WI12,168,83,0.642,0.405,8.45,2.67,2.64,True,False,False,False,False
+"Griest, Kim",PHYS 4A ,WI12,22,9,1.0,1.0,5.75,3.63,3.06,True,False,False,False,False
+"Wu, Congjun",PHYS 4D ,WI12,29,13,0.9229999999999999,0.231,4.35,3.62,3.25,True,False,False,False,False
+"Tytler, David Robert",PHYS 7  ,WI12,41,15,0.5329999999999999,0.667,4.5,3.1,3.17,True,False,False,False,False
+"Wu, Congjun",PHYS 100A ,FA11,67,27,0.889,0.48100000000000004,7.17,3.19,2.81,True,False,False,False,True
+"Dubin, Daniel Herschel",PHYS 105A ,FA11,65,31,0.871,0.871,10.89,3.43,2.8,True,False,False,False,True
+"Hicks, J. Charles",PHYS 11  ,FA11,80,26,0.44,0.36,5.62,3.0,2.89,True,False,False,False,False
+"Intriligator, Kenneth Arthur",PHYS 110A ,FA11,71,33,1.0,0.97,8.26,3.38,2.83,True,False,False,False,True
+"Driscoll, Charles F.",PHYS 120B ,FA11,30,17,1.0,1.0,10.62,3.63,3.58,True,False,False,False,True
+"Michelsen, Eric Leonard",PHYS 130B ,FA11,41,28,0.852,0.963,6.43,3.23,2.98,True,False,False,False,True
+"Arovas, Daniel P",PHYS 140A ,FA11,53,34,0.794,0.8240000000000001,8.74,3.18,3.03,True,False,False,False,True
+"Burgasser, Adam Jonathan",PHYS 160  ,FA11,21,11,1.0,0.818,7.41,3.27,3.31,True,False,False,False,True
+"Kishimoto, Chad T.",PHYS 1A ,FA11,203,107,0.642,0.66,7.53,2.98,3.02,True,False,False,False,False
+"Kishimoto, Chad T.",PHYS 1A ,FA11,283,136,0.75,0.726,7.72,3.05,3.02,True,False,False,False,False
+"Rappel, Wouter Jan",PHYS 1A ,FA11,260,111,0.7659999999999999,0.815,5.64,3.13,2.75,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1AL,FA11,734,329,0.8170000000000001,0.831,3.6,3.53,3.38,True,False,False,False,False
+"Levine, Herbert",PHYS 1B ,FA11,210,80,0.6579999999999999,0.5379999999999999,6.23,3.06,2.99,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,FA11,25,12,0.455,0.727,4.5,3.42,3.26,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,FA11,24,9,0.667,0.667,4.5,3.56,3.26,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,FA11,26,8,0.875,1.0,2.75,3.63,3.26,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,FA11,23,9,0.667,0.889,4.72,3.22,3.26,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,FA11,22,5,0.6,0.8,2.1,3.6,3.26,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,FA11,23,10,0.9,0.9,3.5,3.7,3.26,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,FA11,24,10,0.6,0.8,4.1,3.2,3.26,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,FA11,24,7,0.7140000000000001,1.0,3.5,3.29,3.26,True,False,False,False,False
+"Paddock, Mark",PHYS 1C ,FA11,220,134,0.8809999999999999,0.9620000000000001,6.32,3.38,3.07,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,FA11,201,91,0.9109999999999999,0.865,3.63,3.53,3.39,True,False,False,False,False
+"Griest, Kim",PHYS 2A ,FA11,346,171,0.895,0.929,6.24,3.31,2.69,True,False,False,False,False
+"Surko, Clifford M",PHYS 2B ,FA11,267,139,0.633,0.209,7.82,2.99,2.73,True,False,False,False,False
+"Wuerthwein, Frank",PHYS 2BL,FA11,142,67,0.642,0.652,5.44,3.3,2.86,True,False,False,False,False
+"Groisman, Alexander",PHYS 2C ,FA11,248,124,0.762,0.545,6.21,3.25,2.89,True,False,False,False,False
+"Groisman, Alexander",PHYS 2C ,FA11,221,97,0.823,0.563,6.31,3.17,2.89,True,False,False,False,False
+"Anderson, Michael G.",PHYS 2CL,FA11,268,127,0.317,0.54,7.66,2.98,3.07,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 4C ,FA11,34,15,0.8,0.667,10.63,3.07,2.82,True,False,False,False,False
+"Coil, Alison",PHYS 5  ,FA11,37,28,0.893,0.9640000000000001,5.02,3.4,3.3,True,False,False,False,False
+"Anderson, Michael G.",PHYS 100C ,SP11,35,19,1.0,0.9470000000000001,5.66,3.39,3.16,True,False,False,False,True
+"Griest, Kim",PHYS 12  ,SP11,28,16,0.938,1.0,3.17,3.6,3.14,True,False,False,False,False
+"Driscoll, Charles F.",PHYS 120A ,SP11,58,27,0.9620000000000001,0.9620000000000001,9.42,3.59,3.25,True,False,False,False,True
+"Abarbanel, Henry Don Isaac",PHYS 130A ,SP11,58,30,0.867,0.667,8.43,3.11,2.55,True,False,False,False,True
+"Coil, Alison",PHYS 162  ,SP11,36,25,0.92,0.92,7.3,3.57,3.4,True,False,False,False,True
+"Wolfe, Arthur Michael",PHYS 1A ,SP11,221,86,0.741,0.529,5.91,3.23,2.73,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1AL,SP11,23,8,0.875,1.0,4.5,3.88,3.46,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1AL,SP11,22,9,0.889,0.625,3.61,3.44,3.46,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1AL,SP11,22,5,0.4,0.8,2.9,3.8,3.46,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1AL,SP11,24,7,0.5710000000000001,0.857,3.64,3.29,3.46,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1AL,SP11,23,10,0.8,0.7,4.1,3.6,3.46,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1AL,SP11,23,6,0.8,0.8,2.9,3.2,3.46,True,False,False,False,False
+"Fogler, Michael M.",PHYS 1B ,SP11,187,68,0.561,0.369,5.66,3.05,2.77,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,SP11,21,6,0.833,0.667,3.17,3.8,3.44,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,SP11,21,7,0.7140000000000001,0.857,1.93,3.57,3.44,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,SP11,22,8,0.75,0.875,3.07,3.29,3.44,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,SP11,25,10,0.6,0.9,3.61,3.4,3.44,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1BL,SP11,21,10,0.889,0.889,2.5,3.7,3.44,True,False,False,False,False
+"Wuerthwein, Frank",PHYS 1C ,SP11,329,157,0.745,0.868,5.15,3.38,3.03,True,False,False,False,False
+"Paddock, Mark",PHYS 1C ,SP11,344,268,0.8490000000000001,0.958,5.19,3.44,3.19,True,False,False,False,False
+"Levine, Herbert",PHYS 1C ,SP11,139,57,0.696,0.518,4.93,3.2,2.89,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,22,12,0.583,0.583,5.0,3.83,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,25,15,0.867,0.867,3.3,3.47,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,25,16,0.25,0.625,4.5,3.56,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,26,16,0.625,0.875,3.25,3.69,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,23,12,0.818,0.909,3.33,3.58,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,25,14,0.5,0.7140000000000001,2.79,3.79,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,23,10,0.7,0.9,2.1,3.6,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,26,13,0.769,0.846,4.04,3.23,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,25,15,0.6,0.8,4.63,3.53,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,26,16,0.813,0.938,2.79,3.8,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,26,13,0.818,1.0,3.67,3.77,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,26,7,0.7140000000000001,0.857,3.64,3.71,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,25,14,0.857,1.0,3.93,3.43,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,24,10,0.778,0.889,2.72,3.89,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,24,15,0.733,0.867,3.97,3.4,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,24,10,0.667,0.889,3.61,3.56,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,26,17,0.8240000000000001,0.875,3.32,3.56,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,25,7,1.0,1.0,4.21,3.43,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,26,16,1.0,1.0,3.03,3.75,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,26,10,1.0,0.9,3.5,3.6,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,25,13,0.6920000000000001,0.583,2.96,3.77,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,24,7,0.7140000000000001,0.857,4.21,3.71,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,26,13,0.769,0.846,3.12,3.92,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,21,11,1.0,1.0,2.5,3.55,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,23,12,0.727,0.909,3.41,3.4,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,23,12,0.583,1.0,3.83,3.73,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,22,12,0.667,0.833,4.17,3.42,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,24,13,0.846,0.846,3.73,3.69,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,25,11,1.0,1.0,3.41,3.73,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,26,16,0.733,0.867,4.25,3.6,3.52,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1CL,SP11,24,15,0.7859999999999999,0.7140000000000001,4.23,3.73,3.52,True,False,False,False,False
+"Dudko, Olga",PHYS 2A ,SP11,340,143,0.852,0.972,7.34,3.01,2.74,True,False,False,False,False
+"Sinha, Sunil K",PHYS 2B ,SP11,338,150,0.887,0.873,6.71,3.4,3.18,True,False,False,False,False
+"Sinha, Sunil K",PHYS 2B ,SP11,328,145,0.6970000000000001,0.669,7.24,3.11,3.18,True,False,False,False,False
+"Butov, Leonid",PHYS 2BL,SP11,262,104,0.657,0.51,4.46,3.54,3.32,True,False,False,False,False
+"Michelsen, Eric Leonard",PHYS 2C ,SP11,219,107,0.8859999999999999,0.9329999999999999,6.21,3.21,2.73,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2CL,SP11,266,119,0.619,0.898,5.33,3.56,3.58,True,False,False,False,False
+"Hwa, Terence T.",PHYS 2D ,SP11,171,86,0.631,0.845,8.19,3.02,2.84,True,False,False,False,False
+"Branson, James G",PHYS 2DL,SP11,38,16,0.625,0.43799999999999994,7.3,3.57,3.62,True,False,False,False,False
+"Smith, Douglas E",PHYS 4B ,SP11,41,20,0.95,0.8,4.5,3.7,3.54,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 4E ,SP11,30,10,0.9,0.9,7.9,3.6,2.76,True,False,False,False,False
+"Coil, Alison",PHYS 5  ,SP11,60,30,0.833,0.767,5.37,3.39,3.39,True,False,False,False,False
+"Tytler, David Robert",PHYS 9  ,SP11,53,19,0.684,0.667,4.39,3.0,3.06,True,False,False,False,False
+"Smith, Douglas E",PHYS 10  ,WI11,187,82,0.79,0.9009999999999999,4.3,3.41,3.4,True,False,False,False,False
+"Wu, Congjun",PHYS 100B ,WI11,51,29,0.857,0.607,6.07,3.28,3.29,True,False,False,False,True
+"Branson, James G",PHYS 110B ,WI11,48,31,0.903,0.419,7.53,3.13,3.05,True,False,False,False,True
+"Griest, Kim",PHYS 161  ,WI11,34,24,1.0,1.0,6.83,3.71,3.49,True,False,False,False,True
+"Hicks, J. Charles",PHYS 1A ,WI11,173,79,0.6409999999999999,0.282,6.42,2.95,2.53,True,False,False,False,False
+"Groisman, Alexander",PHYS 1B ,WI11,239,97,0.629,0.598,5.52,3.13,2.73,True,False,False,False,False
+"Levine, Herbert",PHYS 1B ,WI11,278,144,0.653,0.486,6.63,3.04,2.83,True,False,False,False,False
+"Smith, Christel Johanna",PHYS 1B ,WI11,293,160,0.853,0.9359999999999999,4.84,3.62,3.54,True,False,False,False,False
+"Kritsuk, Alexei",PHYS 1C ,WI11,185,75,0.813,0.813,5.41,3.41,3.05,True,False,False,False,False
+"Grinstein, Benjamin",PHYS 2A ,WI11,258,142,0.62,0.33799999999999997,8.46,2.83,2.6,True,False,False,False,False
+"Grinstein, Benjamin",PHYS 2A ,WI11,264,144,0.7340000000000001,0.46799999999999997,7.74,2.94,2.6,True,False,False,False,False
+"Grinstein, Benjamin",PHYS 2A ,WI11,237,112,0.759,0.402,7.4,2.99,2.6,True,False,False,False,False
+"Sinha, Sunil K",PHYS 2B ,WI11,335,155,0.6859999999999999,0.825,7.1,3.15,2.8,True,False,False,False,False
+"Paddock, Mark",PHYS 2BL,WI11,103,42,0.667,0.7859999999999999,5.52,3.43,3.07,True,False,False,False,False
+"Michelsen, Eric Leonard",PHYS 2C ,WI11,214,136,0.8440000000000001,0.8740000000000001,6.92,3.12,2.63,True,False,False,False,False
+"Butov, Leonid",PHYS 2CL,WI11,223,108,0.664,0.664,5.55,3.47,3.34,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 2D ,WI11,150,69,0.691,0.662,8.77,3.05,2.82,True,False,False,False,False
+"Surko, Clifford M",PHYS 4A ,WI11,49,34,0.765,0.47100000000000003,6.79,3.13,2.91,True,False,False,False,False
+"Shevchenko, Valentin I",PHYS 4D ,WI11,31,15,0.8,1.0,4.37,3.87,3.39,True,False,False,False,False
+"Tytler, David Robert",PHYS 7  ,WI11,31,13,0.6920000000000001,0.615,5.73,3.11,3.47,True,False,False,False,False
+"Surko, Clifford M",PHYS 100A ,FA10,64,38,1.0,0.8420000000000001,6.61,3.32,2.88,True,False,False,False,True
+"Dubin, Daniel Herschel",PHYS 105A ,FA10,61,25,0.76,0.88,10.74,3.04,2.5,True,False,False,False,True
+"Anderson, Michael G.",PHYS 11,FA10,138,46,0.696,0.8909999999999999,5.41,3.29,2.96,True,False,False,False,False
+"Arovas, Daniel P",PHYS 110A ,FA10,70,36,0.9440000000000001,0.9440000000000001,7.89,3.4,2.9,True,False,False,False,True
+"Sham, Lu Jeu",PHYS 130B ,FA10,39,19,0.895,0.895,7.87,3.11,2.97,True,False,False,False,True
+"Hirsch, Jorge Eduardo",PHYS 140A ,FA10,38,19,1.0,0.579,8.08,2.89,3.1,True,False,False,False,True
+"Burgasser, Adam Jonathan",PHYS 160,FA10,22,8,0.875,1.0,6.75,3.25,3.28,True,False,False,False,True
+"Onuchic, Jose N",PHYS 1A ,FA10,272,132,0.769,0.631,6.73,3.09,2.86,True,False,False,False,False
+"Onuchic, Jose N",PHYS 1A ,FA10,289,138,0.743,0.63,6.49,3.14,2.86,True,False,False,False,False
+"Onuchic, Jose N",PHYS 1A ,FA10,302,142,0.693,0.741,6.37,3.19,2.86,True,False,False,False,False
+"Markowitz, Alex Gary",PHYS 1B ,FA10,196,94,0.67,0.457,5.92,3.21,2.93,True,False,False,False,False
+"Kritsuk, Alexei",PHYS 1C ,FA10,279,114,0.779,0.652,4.85,3.39,3.06,True,False,False,False,False
+"Intriligator, Kenneth Arthur",PHYS 2A ,FA10,334,158,0.812,0.708,7.09,3.27,3.03,True,False,False,False,False
+"Hicks, J. Charles",PHYS 2B ,FA10,253,123,0.537,0.325,8.98,2.84,2.46,True,False,False,False,False
+"Butov, Leonid",PHYS 2BL,FA10,164,87,0.7909999999999999,0.7290000000000001,4.75,3.4,3.29,True,False,False,False,False
+"Groisman, Alexander",PHYS 2C ,FA10,285,136,0.8370000000000001,0.612,5.63,3.18,2.93,True,False,False,False,False
+"Groisman, Alexander",PHYS 2C ,FA10,221,105,0.7979999999999999,0.631,6.03,3.32,2.93,True,False,False,False,False
+"Keating, Brian",PHYS 2CL,FA10,254,123,0.47200000000000003,0.525,6.68,3.05,2.99,True,False,False,False,False
+"Jenkins, Elizabeth",PHYS 4C ,FA10,30,13,0.9229999999999999,1.0,5.88,3.54,3.21,True,False,False,False,False
+"Tytler, David Robert",PHYS 5,FA10,53,25,0.88,0.76,5.0,3.32,3.11,True,False,False,False,False
+"Burgasser, Adam Jonathan",PHYS 9,FA10,52,30,0.862,0.897,3.81,3.8,3.74,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 100C ,SP10,37,18,0.889,1.0,7.5,3.28,3.49,True,False,False,False,True
+"Murphy, Thomas",PHYS 12,SP10,36,31,0.935,0.968,4.1,3.48,3.42,True,False,False,False,False
+"Driscoll, Charles F.",PHYS 120A ,SP10,39,24,0.87,0.9570000000000001,11.63,3.61,3.17,True,False,False,False,True
+"Abarbanel, Henry Don Isaac",PHYS 130A ,SP10,51,28,0.846,0.92,10.13,3.04,2.93,True,False,False,False,True
+"Driscoll, Charles F.",PHYS 151,SP10,20,9,0.889,1.0,5.17,3.71,2.76,True,False,False,False,True
+"Coil, Alison",PHYS 162,SP10,22,11,1.0,0.818,6.32,3.55,2.99,True,False,False,False,True
+"Wolfe, Arthur Michael",PHYS 1A ,SP10,232,96,0.688,0.358,5.91,3.09,2.77,True,False,False,False,False
+"Onuchic, Jose N",PHYS 1B ,SP10,310,127,0.698,0.54,4.93,3.26,2.96,True,False,False,False,False
+"Okamura, Melvin Y.",PHYS 1C ,SP10,340,138,0.73,0.701,4.41,3.34,2.84,True,False,False,False,False
+"Levine, Herbert",PHYS 1C ,SP10,352,169,0.76,0.826,4.13,3.46,2.96,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1C ,SP10,180,78,0.9079999999999999,0.987,4.66,3.41,2.93,True,False,False,False,False
+"Dudko, Olga",PHYS 2A ,SP10,297,121,0.86,0.917,6.95,3.16,2.84,True,False,False,False,False
+"Onuchic, Jose N",PHYS 2B ,SP10,311,171,0.657,0.7120000000000001,6.21,3.03,2.87,True,False,False,False,False
+"Sinha, Sunil K",PHYS 2B ,SP10,341,143,0.7709999999999999,0.703,5.77,3.26,2.94,True,False,False,False,False
+"Butov, Leonid",PHYS 2BL,SP10,243,96,0.821,0.695,4.31,3.66,3.43,True,False,False,False,False
+"Groisman, Alexander",PHYS 2C ,SP10,190,65,0.797,0.81,4.97,3.22,2.88,True,False,False,False,False
+"HICKS, JAY C",PHYS 2CL,SP10,159,72,0.515,0.529,6.53,3.18,2.87,True,False,False,False,False
+"Hwa, Terence T.",PHYS 2D ,SP10,90,46,0.6509999999999999,0.909,6.77,3.05,2.91,True,False,False,False,False
+"Keating, Brian",PHYS 2DL,SP10,43,17,0.8240000000000001,0.765,5.91,3.65,3.33,True,False,False,False,False
+"Surko, Clifford M",PHYS 4B ,SP10,37,19,0.789,0.526,5.94,3.26,2.86,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 4E ,SP10,28,12,1.0,0.25,6.83,2.75,3.0,True,False,False,False,False
+"Burgasser, Adam Jonathan",PHYS 9,SP10,95,48,0.9570000000000001,0.87,3.41,3.72,3.93,True,False,False,False,False
+"Anderson, Michael G.",PHYS 10,WI10,181,81,0.848,0.873,4.63,3.33,3.05,True,False,False,False,False
+"Surko, Clifford M",PHYS 100B ,WI10,43,25,0.92,0.8,7.06,3.13,2.88,True,False,False,False,True
+"Wu, Congjun",PHYS 110B ,WI10,34,13,0.9229999999999999,0.9229999999999999,7.42,3.69,3.22,True,False,False,False,True
+"Murphy, Thomas",PHYS 121,WI10,22,10,1.0,1.0,6.3,3.5,3.44,True,False,False,False,True
+"Pathria, Raj K.",PHYS 140B ,WI10,21,5,1.0,1.0,8.9,3.4,3.02,True,False,False,False,True
+"Griest, Kim",PHYS 161,WI10,28,13,0.9229999999999999,0.9229999999999999,9.27,3.75,2.91,True,False,False,False,True
+"Burgasser, Adam Jonathan",PHYS 1A ,WI10,259,132,0.84,0.9309999999999999,5.44,3.27,3.47,True,False,False,False,False
+"Levine, Herbert",PHYS 1B ,WI10,299,107,0.85,0.963,4.33,3.34,2.97,True,False,False,False,False
+"Dynes, Robert C.",PHYS 1B ,WI10,292,111,0.667,0.865,4.5,3.35,3.03,True,False,False,False,False
+"Groisman, Alexander",PHYS 1B ,WI10,282,105,0.8079999999999999,0.846,4.98,3.4,2.93,True,False,False,False,False
+"Okamura, Melvin Y.",PHYS 1C ,WI10,182,60,0.763,0.61,4.33,3.29,2.81,True,False,False,False,False
+"Schuller, Ivan K",PHYS 2A ,WI10,245,113,0.777,0.518,5.79,2.94,2.9,True,False,False,False,False
+"Schuller, Ivan K",PHYS 2A ,WI10,254,103,0.835,0.49,5.56,3.08,2.9,True,False,False,False,False
+"Schuller, Ivan K",PHYS 2A ,WI10,262,112,0.847,0.55,6.12,3.18,2.9,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 2B ,WI10,204,85,0.588,0.447,7.4,2.69,2.26,True,False,False,False,False
+"Yagil, Avi",PHYS 2BL,WI10,129,48,0.792,0.833,5.75,3.34,2.8,True,False,False,False,False
+"Fogler, Michael M.",PHYS 2C ,WI10,187,64,0.73,0.349,5.34,3.29,2.82,True,False,False,False,False
+"Sharpee, Tatyana",PHYS 2CL,WI10,167,69,0.523,0.47,6.41,3.27,3.08,True,False,False,False,False
+"Sinha, Sunil K",PHYS 2D ,WI10,124,44,0.841,0.8859999999999999,4.77,3.4,3.33,True,False,False,False,False
+"Keating, Brian",PHYS 4A ,WI10,41,20,0.895,0.6,6.1,3.45,3.17,True,False,False,False,False
+"Jenkins, Elizabeth",PHYS 4D ,WI10,30,9,1.0,0.556,4.28,3.44,3.17,True,False,False,False,False
+"Tytler, David Robert",PHYS 7,WI10,62,25,0.6,0.52,4.1,3.31,3.09,True,False,False,False,False
+"Surko, Clifford M",PHYS 100A ,FA09,51,39,0.919,0.73,6.14,3.11,2.58,True,False,False,False,True
+"Dubin, Daniel Herschel",PHYS 105A ,FA09,33,19,0.737,0.9470000000000001,11.03,3.22,2.81,True,False,False,False,True
+"Anderson, Michael G.",PHYS 11,FA09,131,64,0.778,0.905,3.39,3.2,3.2,True,False,False,False,False
+"Hicks, J. Charles",PHYS 110A ,FA09,45,30,0.867,1.0,10.17,2.92,2.57,True,False,False,False,True
+"Driscoll, Charles F.",PHYS 120B ,FA09,27,11,1.0,0.909,11.77,3.55,3.58,True,False,False,False,True
+"Broida, Joel Gary",PHYS 130B ,FA09,41,30,0.69,0.679,15.88,3.21,2.55,True,False,False,False,True
+"Jenkins, Elizabeth",PHYS 140A ,FA09,48,30,0.75,0.39299999999999996,4.02,3.25,3.3,True,False,False,False,True
+"Smith, Douglas E",PHYS 1A ,FA09,300,121,0.45399999999999996,0.042,3.98,3.13,2.94,True,False,False,False,False
+"Smith, Douglas E",PHYS 1A ,FA09,299,125,0.456,0.08,4.66,3.2,2.94,True,False,False,False,False
+"Smith, Douglas E",PHYS 1A ,FA09,287,108,0.44799999999999995,0.113,4.13,3.28,2.94,True,False,False,False,False
+"Keating, Brian",PHYS 1B ,FA09,187,135,0.622,0.42200000000000004,4.84,3.15,2.84,True,False,False,False,False
+"Okamura, Melvin Y.",PHYS 1C ,FA09,243,89,0.655,0.435,3.57,3.36,2.87,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2A ,FA09,135,62,0.823,0.934,6.92,3.08,2.41,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2A ,FA09,139,67,0.866,0.985,6.44,3.11,2.41,True,False,False,False,False
+"Sinha, Sunil K",PHYS 2B ,FA09,263,123,0.8540000000000001,0.74,5.23,3.27,2.82,True,False,False,False,False
+"Yagil, Avi",PHYS 2BL,FA09,146,55,0.727,0.9640000000000001,4.79,3.34,2.71,True,False,False,False,False
+"Fogler, Michael M.",PHYS 2C ,FA09,231,17,0.813,0.75,5.44,3.0,2.86,True,False,False,False,False
+"Fogler, Michael M.",PHYS 2C ,FA09,186,57,0.7020000000000001,0.643,4.25,3.16,2.86,True,False,False,False,False
+"Butov, Leonid",PHYS 2CL,FA09,262,80,0.705,0.6409999999999999,4.8,3.59,3.35,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 2D ,FA09,64,33,0.727,0.6970000000000001,6.38,2.78,2.7,True,False,False,False,False
+"Groisman, Alexander",PHYS 4C ,FA09,30,20,1.0,0.9470000000000001,4.9,3.2,3.22,True,False,False,False,False
+"Coil, Alison",PHYS 5,FA09,68,40,0.9,0.95,4.1,3.46,2.98,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 100C ,SP09,28,16,1.0,1.0,6.1,3.27,3.41,True,False,False,False,True
+"Murphy, Thomas",PHYS 12,SP09,79,42,0.7559999999999999,0.902,2.7,3.32,3.3,True,False,False,False,False
+"Driscoll, Charles F.",PHYS 120A ,SP09,42,33,0.818,0.9390000000000001,10.8,3.59,3.31,True,False,False,False,True
+"Sham, Lu Jeu",PHYS 130A ,SP09,53,35,0.765,0.235,8.26,2.85,2.52,True,False,False,False,True
+"Yagil, Avi",PHYS 1A ,SP09,229,42,0.725,0.795,5.52,3.39,2.46,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1B ,SP09,340,173,0.773,0.878,4.63,3.37,2.85,True,False,False,False,False
+"Smith, Douglas E",PHYS 1C ,SP09,161,88,0.624,0.44,3.31,3.63,2.78,True,False,False,False,False
+"Smith, Douglas E",PHYS 1C ,SP09,343,210,0.603,0.488,3.54,3.55,2.78,True,False,False,False,False
+"Smith, Douglas E",PHYS 1C ,SP09,360,194,0.613,0.49700000000000005,2.9,3.59,2.78,True,False,False,False,False
+"Dudko, Olga",PHYS 2A ,SP09,223,111,0.847,0.8740000000000001,5.45,3.18,2.75,True,False,False,False,False
+"Grinstein, Benjamin",PHYS 2B ,SP09,205,113,0.721,0.613,6.23,3.07,2.17,True,False,False,False,False
+"Griest, Kim",PHYS 2B ,SP09,339,224,0.805,0.9129999999999999,5.1,3.24,2.7,True,False,False,False,False
+"Yagil, Avi",PHYS 2BL,SP09,265,93,0.5489999999999999,0.78,4.91,3.18,2.85,True,False,False,False,False
+"Okamura, Melvin Y.",PHYS 2C ,SP09,237,53,0.843,0.588,4.54,3.44,2.68,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2CL,SP09,174,42,0.738,1.0,4.26,3.65,3.35,True,False,False,False,False
+"Sinha, Sunil K",PHYS 2D ,SP09,138,62,0.6,0.85,5.58,3.4,2.82,True,False,False,False,False
+"Butov, Leonid",PHYS 2DL,SP09,43,9,1.0,1.0,5.17,3.75,3.21,True,False,False,False,False
+"Fogler, Michael M.",PHYS 4B ,SP09,37,15,0.867,0.8,4.5,3.53,2.81,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 4E ,SP09,20,15,0.733,0.733,5.43,3.07,2.44,True,False,False,False,False
+"Coil, Alison",PHYS 5,SP09,75,49,0.917,0.958,4.58,3.36,3.05,True,False,False,False,False
+"Anderson, Michael G.",PHYS 10,WI09,129,70,0.929,0.929,2.64,3.47,3.24,True,False,False,False,False
+"Surko, Clifford M",PHYS 100B ,WI09,38,26,1.0,0.96,6.19,3.48,2.9,True,False,False,False,True
+"Branson, James G",PHYS 110B ,WI09,34,23,0.909,0.85,6.59,3.15,3.04,True,False,False,False,True
+"Wolfe, Arthur Michael",PHYS 161,WI09,26,15,0.9329999999999999,0.667,4.9,3.5,2.95,True,False,False,False,True
+"Wuerthwein, Frank",PHYS 1A ,WI09,254,140,0.716,0.775,5.32,3.17,2.87,True,False,False,False,False
+"Bassov, Dmitri N.",PHYS 1B ,WI09,346,80,0.611,0.461,5.24,3.28,3.29,True,False,False,False,False
+"Bassov, Dmitri N.",PHYS 1B ,WI09,316,58,0.545,0.259,4.82,3.36,3.29,True,False,False,False,False
+"Levine, Herbert",PHYS 1B ,WI09,190,96,0.83,0.9470000000000001,5.17,3.4,2.97,True,False,False,False,False
+"Okamura, Melvin Y.",PHYS 1C ,WI09,174,60,0.737,0.6609999999999999,4.4,3.39,2.76,True,False,False,False,False
+"Schuller, Ivan K",PHYS 2A ,WI09,205,86,0.929,0.753,4.43,3.2,2.86,True,False,False,False,False
+"Schuller, Ivan K",PHYS 2A ,WI09,216,89,0.809,0.787,5.23,2.91,2.86,True,False,False,False,False
+"Schuller, Ivan K",PHYS 2A ,WI09,226,90,0.795,0.713,4.68,3.15,2.86,True,False,False,False,False
+"Grinstein, Benjamin",PHYS 2B ,WI09,175,121,0.863,0.8640000000000001,6.82,3.08,2.29,True,False,False,False,False
+"Sinha, Sunil K",PHYS 2B ,WI09,182,97,0.804,0.826,4.88,3.62,3.19,True,False,False,False,False
+"Yagil, Avi",PHYS 2BL,WI09,169,59,0.759,0.9259999999999999,4.47,3.39,2.96,True,False,False,False,False
+"Groisman, Alexander",PHYS 2C ,WI09,155,46,0.841,0.818,5.02,3.35,3.01,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2CL,WI09,196,118,0.757,0.973,4.84,3.58,3.5,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 2D ,WI09,49,22,0.727,0.682,6.05,3.0,2.55,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 4A ,WI09,31,19,1.0,1.0,3.97,3.42,3.36,True,False,False,False,False
+"Jenkins, Elizabeth",PHYS 4D ,WI09,21,14,1.0,0.7140000000000001,4.5,3.31,3.16,True,False,False,False,False
+"Tytler, David Robert",PHYS 7,WI09,68,33,0.636,0.6970000000000001,3.23,3.32,2.81,True,False,False,False,False
+"Tytler, David Robert",PHYS 8,WI09,67,26,0.72,0.76,2.74,3.29,3.32,True,False,False,False,False
+"Surko, Clifford M",PHYS 100A ,FA08,52,43,0.977,0.907,6.26,3.22,2.57,True,False,False,False,True
+"Padoan, Paolo",PHYS 105A ,FA08,45,22,0.818,0.955,8.32,3.18,3.14,True,False,False,False,True
+"Hicks, J. Charles",PHYS 11,FA08,134,45,0.42200000000000004,0.4,3.21,3.38,3.06,True,False,False,False,False
+"Intriligator, Kenneth Arthur",PHYS 110A ,FA08,53,29,0.966,0.9309999999999999,6.78,3.14,2.77,True,False,False,False,True
+"Driscoll, Charles F.",PHYS 120B ,FA08,28,11,1.0,1.0,8.32,3.73,3.48,True,False,False,False,True
+"Branson, James G",PHYS 130B ,FA08,32,25,0.84,0.88,8.25,3.26,3.05,True,False,False,False,True
+"Arovas, Daniel P",PHYS 140A ,FA08,37,25,0.9129999999999999,0.81,8.18,2.96,3.14,True,False,False,False,True
+"Wolfe, Arthur Michael",PHYS 160,FA08,20,15,0.8,0.6,4.1,3.47,3.16,True,False,False,False,True
+"Onuchic, Jose N",PHYS 1A ,FA08,286,52,0.843,0.8240000000000001,5.13,3.12,2.91,True,False,False,False,False
+"Onuchic, Jose N",PHYS 1A ,FA08,321,175,0.8140000000000001,0.898,4.65,3.36,2.91,True,False,False,False,False
+"Onuchic, Jose N",PHYS 1A ,FA08,321,181,0.8,0.8690000000000001,5.39,3.27,2.91,True,False,False,False,False
+"Keating, Brian",PHYS 1B ,FA08,187,56,0.815,0.745,4.97,3.35,2.78,True,False,False,False,False
+"Levine, Herbert",PHYS 1C ,FA08,244,71,0.8059999999999999,0.545,3.8,3.53,2.96,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2A ,FA08,164,82,0.802,0.878,6.35,3.26,2.73,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2A ,FA08,158,88,0.7929999999999999,0.9179999999999999,5.85,3.28,2.73,True,False,False,False,False
+"Grinstein, Benjamin",PHYS 2B ,FA08,222,110,0.7,0.6729999999999999,7.5,3.01,2.03,True,False,False,False,False
+"Yagil, Avi",PHYS 2BL,FA08,159,42,0.738,0.905,4.93,3.5,2.88,True,False,False,False,False
+"Fogler, Michael M.",PHYS 2C ,FA08,191,63,0.825,0.79,5.21,3.48,2.81,True,False,False,False,False
+"Wuerthwein, Frank",PHYS 2C ,FA08,243,85,0.915,0.89,5.44,3.51,3.18,True,False,False,False,False
+"Goodkind, John M.",PHYS 2CL,FA08,219,146,0.5539999999999999,0.36700000000000005,4.5,3.24,3.0,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 2D ,FA08,60,27,0.556,0.741,6.2,2.96,2.58,True,False,False,False,False
+"Groisman, Alexander",PHYS 4C ,FA08,28,12,0.917,0.667,4.67,3.33,3.01,True,False,False,False,False
+"Shu, Frank H.",PHYS 5,FA08,35,23,0.652,0.696,2.33,3.2,2.82,True,False,False,False,False
+"Griest, Kim",PHYS 9,FA08,166,114,0.91,0.982,3.24,3.4,2.9,True,False,False,False,False
+"Murphy, Thomas",PHYS 10,SP08,153,66,0.9079999999999999,0.938,3.15,3.43,3.13,True,False,False,False,False
+"Sinha, Sunil K",PHYS 100C ,SP08,31,16,0.467,0.625,7.13,2.93,3.16,True,False,False,False,True
+"Griest, Kim",PHYS 12,SP08,106,61,0.7170000000000001,0.917,3.16,3.45,3.01,True,False,False,False,False
+"Driscoll, Charles F.",PHYS 120A ,SP08,50,36,0.971,0.971,8.85,3.61,3.44,True,False,False,False,True
+"Intriligator, Kenneth Arthur",PHYS 130A ,SP08,47,32,0.871,0.968,9.5,3.03,3.04,True,False,False,False,True
+"Keating, Brian",PHYS 162,SP08,23,18,0.889,0.9440000000000001,5.17,3.33,3.46,True,False,False,False,True
+"Padoan, Paolo",PHYS 1A ,SP08,201,38,0.778,0.784,4.82,3.51,3.22,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1B ,SP08,301,168,0.8320000000000001,0.914,4.7,3.4,2.95,True,False,False,False,False
+"Smith, Douglas E",PHYS 1C ,SP08,394,266,0.6990000000000001,0.7170000000000001,3.46,3.55,2.89,True,False,False,False,False
+"Smith, Douglas E",PHYS 1C ,SP08,387,197,0.7829999999999999,0.809,3.39,3.55,2.89,True,False,False,False,False
+"Dudko, Olga",PHYS 2A ,SP08,214,96,0.88,0.8490000000000001,5.07,3.24,3.07,True,False,False,False,False
+"Schuller, Ivan K",PHYS 2B ,SP08,118,61,0.833,0.867,6.37,3.34,2.97,True,False,False,False,False
+"Schuller, Ivan K",PHYS 2B ,SP08,205,35,0.8859999999999999,0.971,6.33,3.29,2.97,True,False,False,False,False
+"Bassov, Dmitri N.",PHYS 2B ,SP08,167,58,0.7240000000000001,0.621,4.81,3.02,2.27,True,False,False,False,False
+"Yagil, Avi",PHYS 2BL,SP08,241,51,0.652,0.826,5.36,3.66,2.69,True,False,False,False,False
+"Wuerthwein, Frank",PHYS 2C ,SP08,196,73,0.8190000000000001,0.917,5.0,3.3,2.79,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2CL,SP08,219,33,0.6970000000000001,0.9690000000000001,4.68,3.57,3.49,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 2D ,SP08,89,51,0.44,0.36,7.38,2.96,2.32,True,False,False,False,False
+"Butov, Leonid",PHYS 2DL,SP08,42,14,0.7859999999999999,0.857,4.21,3.67,3.33,True,False,False,False,False
+"Surko, Clifford M",PHYS 4B ,SP08,35,12,0.75,0.917,4.67,3.33,2.72,True,False,False,False,False
+"Jenkins, Elizabeth",PHYS 4E ,SP08,21,14,1.0,0.929,5.5,3.64,3.24,True,False,False,False,False
+"Tytler, David Robert",PHYS 5,SP08,61,29,0.552,0.643,3.33,3.1,3.19,True,False,False,False,False
+"Wuerthwein, Frank",PHYS 100B ,WI08,43,26,0.9620000000000001,0.9620000000000001,6.19,3.36,2.98,True,False,False,False,True
+"Arovas, Daniel P",PHYS 110B ,WI08,36,23,0.8640000000000001,0.955,6.67,3.11,2.94,True,False,False,False,True
+"Murphy, Thomas",PHYS 121,WI08,26,11,1.0,1.0,9.23,4.0,3.48,True,False,False,False,True
+"Branson, James G",PHYS 130C ,WI08,23,8,1.0,0.875,7.75,3.86,3.7,True,False,False,False,True
+"Pathria, Raj K.",PHYS 140B ,WI08,25,15,1.0,1.0,7.83,3.08,2.84,True,False,False,False,True
+"Griest, Kim",PHYS 161,WI08,25,15,1.0,1.0,4.5,3.33,3.29,True,False,False,False,True
+"Anderson, Michael G.",PHYS 1A ,WI08,179,108,0.868,0.867,5.04,3.29,2.88,True,False,False,False,False
+"Anderson, Michael G.",PHYS 1A ,WI08,74,33,0.9690000000000001,0.97,4.63,3.2,2.88,True,False,False,False,False
+"Levine, Herbert",PHYS 1B ,WI08,265,51,0.6729999999999999,0.8370000000000001,4.7,3.55,3.02,True,False,False,False,False
+"Levine, Herbert",PHYS 1B ,WI08,278,135,0.74,0.792,3.83,3.46,3.02,True,False,False,False,False
+"Bassov, Dmitri N.",PHYS 1B ,WI08,256,75,0.7290000000000001,0.6809999999999999,4.12,3.48,3.14,True,False,False,False,False
+"Okamura, Melvin Y.",PHYS 1C ,WI08,171,76,0.684,0.526,3.87,3.56,2.77,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2A ,WI08,123,50,0.76,0.8,5.64,3.17,2.73,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2A ,WI08,197,81,0.821,0.91,6.09,3.29,2.73,True,False,False,False,False
+"Sharma, Vivek A.",PHYS 2A ,WI08,229,103,0.9420000000000001,0.951,5.22,3.28,2.73,True,False,False,False,False
+"Grinstein, Benjamin",PHYS 2B ,WI08,150,110,0.705,0.846,6.63,3.11,2.02,True,False,False,False,False
+"Grinstein, Benjamin",PHYS 2B ,WI08,161,90,0.667,0.759,6.92,3.11,2.02,True,False,False,False,False
+"Fogler, Michael M.",PHYS 2C ,WI08,242,29,0.893,0.857,5.88,3.52,2.92,True,False,False,False,False
+"Shpyrko, Oleg",PHYS 2CL,WI08,226,51,0.725,0.922,5.68,3.48,3.42,True,False,False,False,False
+"Sinha, Sunil K",PHYS 2D ,WI08,114,52,0.5770000000000001,0.769,5.92,3.32,3.24,True,False,False,False,False
+"Surko, Clifford M",PHYS 4A ,WI08,39,20,0.95,0.95,4.2,3.26,2.86,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 4D ,WI08,23,15,1.0,0.8,5.5,3.33,3.22,True,False,False,False,False
+"Norman, Michael L",PHYS 7,WI08,154,41,0.95,0.925,3.23,3.62,3.43,True,False,False,False,False
+"Tytler, David Robert",PHYS 8,WI08,91,48,0.574,0.511,2.24,3.37,3.01,True,False,False,False,False
+"Surko, Clifford M",PHYS 100A ,FA07,53,35,0.882,0.853,7.41,3.0,2.59,True,False,False,False,True
+"Padoan, Paolo",PHYS 105A ,FA07,53,24,0.75,0.958,9.25,3.18,3.2,True,False,False,False,True
+"Branson, James G",PHYS 11,FA07,205,146,0.517,0.569,2.03,3.38,3.22,True,False,False,False,False
+"Arovas, Daniel P",PHYS 110A ,FA07,54,43,0.93,0.953,7.45,3.23,2.96,True,False,False,False,True
+"Driscoll, Charles F.",PHYS 120B ,FA07,27,9,1.0,1.0,10.5,3.75,3.64,True,False,False,False,True
+"Sham, Lu Jeu",PHYS 130B ,FA07,53,28,0.9259999999999999,0.64,9.21,3.13,2.8,True,False,False,False,True
+"Intriligator, Kenneth Arthur",PHYS 140A ,FA07,56,39,0.889,0.973,7.13,3.26,3.06,True,False,False,False,True
+"Onuchic, Jose N",PHYS 1A ,FA07,270,81,0.792,0.897,5.05,3.19,2.93,True,False,False,False,False
+"Onuchic, Jose N",PHYS 1A ,FA07,301,152,0.846,0.9129999999999999,4.59,3.38,2.93,True,False,False,False,False
+"Onuchic, Jose N",PHYS 1A ,FA07,288,159,0.8490000000000001,0.897,4.25,3.39,2.93,True,False,False,False,False
+"Keating, Brian",PHYS 1B ,FA07,179,80,0.795,0.6920000000000001,4.15,3.58,3.34,True,False,False,False,False
+"Okamura, Melvin Y.",PHYS 1C ,FA07,231,108,0.68,0.34299999999999997,4.06,3.47,2.96,True,False,False,False,False
+"Hicks, J. Charles",PHYS 2A ,FA07,132,51,0.667,0.451,7.3,2.94,2.42,True,False,False,False,False
+"Anderson, Michael G.",PHYS 2A ,FA07,178,95,0.87,0.935,5.74,3.26,2.93,True,False,False,False,False
+"Chalmers, Joseph S.",PHYS 2B ,FA07,235,110,0.667,0.519,4.67,3.05,2.8,True,False,False,False,False
+"Yagil, Avi",PHYS 2BL,FA07,165,69,0.716,0.773,3.74,3.51,3.25,True,False,False,False,False
+"Groisman, Alexander",PHYS 2C ,FA07,230,114,0.8109999999999999,0.722,5.15,3.17,2.95,True,False,False,False,False
+"Groisman, Alexander",PHYS 2C ,FA07,206,71,0.768,0.623,5.03,3.24,2.95,True,False,False,False,False
+"Goodkind, John M.",PHYS 2CL,FA07,230,85,0.488,0.325,3.46,3.34,2.89,True,False,False,False,False
+"Pathria, Raj K.",PHYS 2D ,FA07,90,60,0.75,0.6779999999999999,5.53,3.25,2.83,True,False,False,False,False
+"Hirsch, Jorge Eduardo",PHYS 4C ,FA07,34,21,0.75,0.667,6.2,3.05,2.35,True,False,False,False,False
+"Shu, Frank H.",PHYS 5,FA07,50,29,0.759,0.897,3.05,3.3,3.13,True,False,False,False,False
+"Norman, Michael L",PHYS 9,FA07,167,44,0.767,0.929,3.77,3.32,2.84,True,False,False,False,False

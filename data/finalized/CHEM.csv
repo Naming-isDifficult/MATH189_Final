@@ -1,0 +1,1847 @@
+Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,isPreGPT,isSTEM,isAbstract,isWritten,isUD
+"Li, Shaowei",CHEM 100A,SP23,102,41,0.667,0.6940000000000001,10.56,3.24,3.35,False,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B,SP23,30,13,0.833,0.833,8.96,3.23,3.04,False,False,False,False,True
+"Sinha, Amitabha",CHEM 105A,SP23,37,11,0.727,0.909,9.41,2.91,2.87,False,False,False,False,True
+"Jennings, Patricia A.",CHEM 108,SP23,48,16,0.813,0.563,7.5,3.31,3.61,False,False,False,False,True
+"Jennings, Patricia A.",CHEM 108,SP23,42,17,0.588,0.5,6.38,3.65,3.57,False,False,False,False,True
+"Muller, Ulrich K.",CHEM 109,SP23,47,17,0.8240000000000001,0.647,8.03,3.67,3.73,False,False,False,False,True
+"Muller, Ulrich K.",CHEM 109,SP23,44,13,0.917,0.917,7.73,3.69,3.5,False,False,False,False,True
+"Mrse, Anthony Adrian",CHEM 11,SP23,237,84,0.8270000000000001,0.875,4.65,3.14,2.64,False,False,False,False,False
+"Thiemens, Mark H",CHEM 111,SP23,96,34,0.833,0.966,4.3,3.59,3.25,False,False,False,False,True
+"Mishanina, Tatiana V",CHEM 114B,SP23,80,49,0.878,1.0,8.83,3.06,3.01,False,False,False,False,True
+"Donoghue, Daniel J.",CHEM 118,SP23,236,76,0.9440000000000001,0.8590000000000001,5.2,3.56,3.17,False,False,False,False,True
+"Joseph, Simpson",CHEM 119,SP23,29,13,0.917,1.0,7.58,3.31,3.07,False,False,False,False,True
+"Rinehart, Jeffrey Dennis",CHEM 120B,SP23,99,29,0.8079999999999999,0.8079999999999999,5.04,3.42,2.85,False,False,False,False,True
+"Kim, Judy E.",CHEM 126B,SP23,97,31,0.833,0.9,10.11,3.0,2.88,False,False,False,False,True
+"Xiong, Wei",CHEM 132,SP23,85,27,0.64,0.958,7.22,3.0,2.78,False,False,False,False,True
+"Weizman, Haim",CHEM 143B,SP23,28,12,0.75,1.0,6.32,2.82,3.24,False,False,False,False,True
+"Burkart, Michael D",CHEM 157,SP23,56,38,0.73,0.865,5.99,3.09,2.94,False,False,False,False,True
+"Herzik, Mark Anthony",CHEM 165,SP23,21,7,0.857,1.0,3.93,3.43,3.72,False,False,False,False,True
+"Deshmukh, Lalit",CHEM 167,SP23,137,78,0.909,0.909,5.49,3.24,3.05,False,False,False,False,True
+"Young, Mark",CHEM 173,SP23,34,12,0.833,0.75,4.5,3.27,3.2,False,False,False,False,True
+"Pomeroy, Robert S.",CHEM 174,SP23,38,8,1.0,1.0,3.75,3.38,3.05,False,False,False,False,True
+"Albizati, Kim F.",CHEM 40A,SP23,278,102,0.8759999999999999,0.9690000000000001,7.71,2.96,2.66,False,False,False,False,False
+"Jazzar, Rodolphe",CHEM 40B,SP23,301,147,0.718,0.857,6.3,3.02,2.95,False,False,False,False,False
+"Jazzar, Rodolphe",CHEM 40B,SP23,285,131,0.782,0.895,6.75,3.05,2.93,False,False,False,False,False
+"Tor, Yitzhak",CHEM 40C,SP23,118,52,0.49,0.706,9.15,2.74,2.9,False,False,False,False,False
+"Romero, Nathan A",CHEM 41C,SP23,234,217,0.591,0.629,8.42,2.75,3.1,False,False,False,False,False
+"Lam, Tin Yiu",CHEM 43A,SP23,271,127,0.815,0.863,8.42,3.39,3.27,False,False,False,False,False
+"Lam, Tin Yiu",CHEM 43A,SP23,249,116,0.8,0.9179999999999999,8.7,3.41,3.2,False,False,False,False,False
+"Deshmukh, Lalit",CHEM 6A,SP23,261,209,0.861,0.769,6.34,3.02,2.69,False,False,False,False,False
+"Young, Mark",CHEM 6B,SP23,218,103,0.545,0.34,7.73,2.69,2.63,False,False,False,False,False
+"Hopkins, Patrycja Anna",CHEM 6B,SP23,233,120,0.687,0.711,7.28,2.9,2.81,False,False,False,False,False
+"Albizati, Kim F.",CHEM 6C,SP23,230,94,0.9329999999999999,0.9890000000000001,7.39,3.11,2.74,False,False,False,False,False
+"Hopkins, Patrycja Anna",CHEM 6C,SP23,208,94,0.8440000000000001,0.807,6.61,3.32,2.96,False,False,False,False,False
+"Brydges, Stacey",CHEM 6C,SP23,276,128,0.825,0.895,6.94,3.25,3.03,False,False,False,False,False
+"Stallings, Dontarie M",CHEM 6C,SP23,280,140,0.9470000000000001,0.9620000000000001,7.06,3.57,3.12,False,False,False,False,False
+"Bussey, Thomas J",CHEM 6C,SP23,204,104,0.95,0.97,6.3,3.42,3.02,False,False,False,False,False
+"Kubiak, Clifford Paul",CHEM 6CH,SP23,26,15,0.9329999999999999,1.0,7.3,3.93,3.74,False,False,False,False,False
+"Schurmeier, Kimberly",CHEM 7L,SP23,235,105,0.902,0.902,6.46,3.52,3.22,False,False,False,False,False
+"Schurmeier, Kimberly",CHEM 7L,SP23,232,91,0.8640000000000001,0.943,6.57,3.56,3.34,False,False,False,False,False
+"Leigh, Brian",CHEM 7LM,SP23,177,83,0.9359999999999999,0.987,7.32,3.29,3.33,False,False,False,False,False
+"Slade, Jonathan",CHEM 100A,WI23,143,72,0.845,0.845,7.74,3.34,3.64,False,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B,WI23,27,10,0.9,0.9,7.3,2.6,3.06,False,False,False,False,True
+"Young, Mark",CHEM 105A,WI23,41,14,0.7140000000000001,0.9229999999999999,9.79,3.36,2.89,False,False,False,False,True
+"Young, Mark",CHEM 105A,WI23,40,20,0.526,0.647,11.7,3.05,3.2,False,False,False,False,True
+"Haack, Daniel Brian",CHEM 108,WI23,49,28,0.667,0.7040000000000001,9.02,3.46,3.16,False,False,False,False,True
+"Haack, Daniel Brian",CHEM 108,WI23,39,20,0.65,0.85,7.7,3.35,3.11,False,False,False,False,True
+"Ghosh, Gairika",CHEM 109,WI23,48,23,0.826,0.7390000000000001,12.07,3.48,3.75,False,False,False,False,True
+"Ghosh, Gairika",CHEM 109,WI23,36,20,0.9,0.85,8.2,3.7,3.89,False,False,False,False,True
+"Huang, Xuemei",CHEM 11,WI23,301,139,0.789,0.725,3.87,3.29,2.83,False,False,False,False,False
+"Bussey, Thomas J",CHEM 114A,WI23,106,43,0.976,1.0,7.48,3.13,2.32,False,False,False,False,True
+"Budin, Itay",CHEM 114B,WI23,115,69,0.971,0.986,7.69,3.22,3.39,False,False,False,False,True
+"Ghosh, Partho",CHEM 114B,WI23,77,51,0.96,0.96,7.52,2.96,2.8,False,False,False,False,True
+"Komives, Elizabeth A",CHEM 114C,WI23,95,41,0.919,0.865,6.55,3.24,3.08,False,False,False,False,True
+"Stauber, Julia Megan",CHEM 120A,WI23,81,74,0.865,0.892,6.97,3.01,2.7,False,False,False,False,True
+"Amaro, Rommie E",CHEM 126A,WI23,81,37,0.914,0.971,6.84,3.36,3.35,False,False,False,False,True
+"Kim, Judy E.",CHEM 126B,WI23,172,84,0.72,0.914,10.09,2.84,2.84,False,False,False,False,True
+"Galperin, Michael",CHEM 131,WI23,103,36,0.6970000000000001,0.9059999999999999,7.83,3.0,2.71,False,False,False,False,True
+"Pokorski, Jonathan Kyle",CHEM 134,WI23,20,9,1.0,1.0,4.72,3.67,3.43,False,False,False,False,True
+"Weizman, Haim",CHEM 143B,WI23,92,40,0.625,0.775,6.8,2.68,3.02,False,False,False,False,True
+"Donoghue, Daniel J.",CHEM 151,WI23,86,36,0.972,0.972,4.06,3.94,3.72,False,False,False,False,True
+"Romero, Nathan A",CHEM 154,WI23,20,7,1.0,1.0,6.5,3.43,2.96,False,False,False,False,True
+"Schmidt, Valerie A",CHEM 154,WI23,20,7,1.0,1.0,6.5,3.43,2.96,False,False,False,False,True
+"Devaraj, Neal Krishna",CHEM 168,WI23,238,200,0.975,0.97,4.69,3.39,3.38,False,False,False,False,True
+"Thiemens, Mark H",CHEM 172,WI23,47,13,0.917,0.917,3.17,3.58,3.41,False,False,False,False,True
+"Klosterman, Jeremy K",CHEM 40A,WI23,177,147,0.575,0.466,9.34,2.7,2.62,False,False,False,False,False
+"Albizati, Kim F.",CHEM 40A,WI23,207,90,0.92,0.9890000000000001,8.18,2.96,2.78,False,False,False,False,False
+"Romero, Erik Anthony",CHEM 40B,WI23,218,191,0.518,0.584,9.46,2.59,2.59,False,False,False,False,False
+"Weizman, Haim",CHEM 40B,WI23,288,251,0.758,0.919,8.51,2.99,2.96,False,False,False,False,False
+"Burkart, Michael D",CHEM 40B,WI23,293,277,0.7290000000000001,0.7929999999999999,8.46,2.97,2.87,False,False,False,False,False
+"Godula, Kamil",CHEM 40C,WI23,363,320,0.8029999999999999,0.972,7.07,3.08,2.94,False,False,False,False,False
+"Klosterman, Jeremy K",CHEM 41B,WI23,264,232,0.638,0.569,9.11,2.74,2.76,False,False,False,False,False
+"Lam, Tin Yiu",CHEM 43A,WI23,214,106,0.875,0.823,8.54,3.37,3.1,False,False,False,False,False
+"Lam, Tin Yiu",CHEM 43A,WI23,220,95,0.802,0.9,8.57,3.19,3.03,False,False,False,False,False
+"Tezcan, Faik",CHEM 6A,WI23,298,162,0.768,0.7120000000000001,6.54,2.64,2.15,False,False,False,False,False
+"Hopkins, Patrycja Anna",CHEM 6A,WI23,379,171,0.9079999999999999,0.938,5.88,3.13,2.77,False,False,False,False,False
+"Schurmeier, Kimberly",CHEM 6B,WI23,174,104,0.9390000000000001,0.99,7.05,3.34,3.13,False,False,False,False,False
+"Leigh, Brian",CHEM 6B,WI23,235,134,0.9390000000000001,0.992,7.63,3.35,3.17,False,False,False,False,False
+"Young, Mark",CHEM 6B,WI23,30,15,0.5329999999999999,0.4,6.5,3.0,2.79,False,False,False,False,False
+"Kummel, Andrew C",CHEM 6B,WI23,147,78,0.878,0.8240000000000001,6.87,3.22,2.74,False,False,False,False,False
+"Leigh, Brian",CHEM 6B,WI23,234,139,0.925,0.978,7.14,3.39,3.1,False,False,False,False,False
+"Stallings, Dontarie M",CHEM 6B,WI23,246,144,0.9570000000000001,1.0,7.45,3.38,3.08,False,False,False,False,False
+"Sailor, Michael Joseph",CHEM 6B,WI23,202,113,0.6729999999999999,0.5,7.72,3.05,2.91,False,False,False,False,False
+"Yuen Zhou, Joel",CHEM 6BH,WI23,32,24,0.667,0.41700000000000004,8.17,2.96,3.4,False,False,False,False,False
+"Albizati, Kim F.",CHEM 6C,WI23,252,84,0.872,0.9490000000000001,7.39,2.96,2.66,False,False,False,False,False
+"Jazzar, Rodolphe",CHEM 7L,WI23,233,107,0.79,0.904,6.8,3.04,2.94,False,False,False,False,False
+"Jazzar, Rodolphe",CHEM 7L,WI23,230,105,0.81,0.92,7.5,3.12,2.99,False,False,False,False,False
+"Pomeroy, Robert S.",CHEM 100A,FA22,140,59,0.847,0.932,8.81,3.17,3.2,False,False,False,False,True
+"Young, Mark",CHEM 105A,FA22,42,12,0.818,0.818,7.41,3.18,2.82,False,False,False,False,True
+"Young, Mark",CHEM 105A,FA22,39,11,0.727,0.818,9.77,3.5,3.15,False,False,False,False,True
+"Ghosh, Gourisankar",CHEM 108,FA22,46,17,0.882,0.47100000000000003,5.91,3.24,3.25,False,False,False,False,True
+"Ghosh, Gourisankar",CHEM 108,FA22,47,10,1.0,0.889,6.75,3.5,3.04,False,False,False,False,True
+"Button, Aileen C",CHEM 109,FA22,48,23,0.955,0.818,10.59,3.39,3.73,False,False,False,False,True
+"Button, Aileen C",CHEM 109,FA22,45,25,0.833,0.958,10.25,3.67,3.85,False,False,False,False,True
+"Toor, Navtej",CHEM 114A,FA22,248,102,0.768,0.758,6.46,3.04,2.75,False,False,False,False,True
+"Ferguson, Fleur",CHEM 116,FA22,89,38,0.737,0.684,7.97,3.05,3.39,False,False,False,False,True
+"Schimpf, Alina M",CHEM 120A,FA22,162,61,0.951,0.9840000000000001,5.78,3.1,2.73,False,False,False,False,True
+"Schoeneberg, Johannes",CHEM 126A,FA22,192,115,0.684,0.737,7.24,2.89,2.76,False,False,False,False,True
+"Sinha, Amitabha",CHEM 130,FA22,106,38,0.605,0.6579999999999999,9.13,2.79,2.91,False,False,False,False,True
+"Esko, Jeffrey D.",CHEM 142,FA22,81,71,0.972,1.0,5.99,3.42,3.73,False,False,False,False,True
+"Gagneux, Pascal",CHEM 142,FA22,81,71,0.972,0.972,5.99,3.42,3.73,False,False,False,False,True
+"Godula, Kamil",CHEM 142,FA22,81,71,0.972,1.0,5.99,3.42,3.73,False,False,False,False,True
+"Gordts, Philip",CHEM 142,FA22,81,71,0.972,0.986,5.99,3.42,3.73,False,False,False,False,True
+"Klosterman, Jeremy K",CHEM 143C,FA22,49,15,0.9229999999999999,0.846,7.58,3.31,3.19,False,False,False,False,True
+"Romero, Nathan A",CHEM 152,FA22,37,15,0.9329999999999999,0.7859999999999999,5.3,3.67,3.65,False,False,False,False,True
+"Schmidt, Valerie A",CHEM 152,FA22,37,15,0.9329999999999999,0.929,5.3,3.67,3.65,False,False,False,False,True
+"Slade, Jonathan",CHEM 171,FA22,108,38,0.9740000000000001,0.9740000000000001,4.34,3.42,3.12,False,False,False,False,True
+"Bussey, Thomas J",CHEM 4,FA22,429,221,0.868,0.9309999999999999,5.81,2.99,2.86,False,False,False,False,False
+"Schmidt, Valerie A",CHEM 40A,FA22,210,84,0.8809999999999999,0.94,8.29,3.09,2.84,False,False,False,False,False
+"Lam, Tin Yiu",CHEM 40A,FA22,234,111,0.905,0.8540000000000001,7.09,3.3,2.97,False,False,False,False,False
+"Albizati, Kim F.",CHEM 40A,FA22,269,105,0.816,0.941,8.48,3.21,2.88,False,False,False,False,False
+"Yang, Jerry",CHEM 40A,FA22,262,112,0.609,0.636,8.88,2.82,2.98,False,False,False,False,False
+"Oconnor, Joseph M.",CHEM 40B,FA22,297,108,0.451,0.451,8.8,2.64,2.51,False,False,False,False,False
+"Lam, Tin Yiu",CHEM 40C,FA22,134,53,0.608,0.725,8.54,2.84,2.63,False,False,False,False,False
+"Hopkins, Patrycja Anna",CHEM 41A,FA22,288,117,0.825,0.9470000000000001,8.45,3.1,3.23,False,False,False,False,False
+"Klosterman, Jeremy K",CHEM 43A,FA22,224,188,0.7040000000000001,0.7040000000000001,8.77,3.24,3.09,False,False,False,False,False
+"Klosterman, Jeremy K",CHEM 43A,FA22,230,181,0.74,0.68,9.14,3.16,2.97,False,False,False,False,False
+"Pomeroy, Robert S.",CHEM 6A,FA22,135,62,0.8390000000000001,0.721,7.5,2.93,2.92,False,False,False,False,False
+"Schurmeier, Kimberly",CHEM 6A,FA22,217,114,0.861,0.888,6.95,3.11,3.05,False,False,False,False,False
+"Schurmeier, Kimberly",CHEM 6A,FA22,310,130,0.9259999999999999,0.9229999999999999,6.84,3.16,3.15,False,False,False,False,False
+"Stallings, Dontarie M",CHEM 6A,FA22,312,172,0.9329999999999999,0.9690000000000001,6.83,3.17,3.09,False,False,False,False,False
+"Brydges, Stacey",CHEM 6A,FA22,315,180,0.897,0.903,6.83,3.15,2.98,False,False,False,False,False
+"Brydges, Stacey",CHEM 6A,FA22,318,193,0.8959999999999999,0.9059999999999999,6.42,3.33,3.06,False,False,False,False,False
+"Zid, Brian M",CHEM 6A,FA22,317,154,0.885,0.9179999999999999,6.22,3.45,3.32,False,False,False,False,False
+"Stallings, Dontarie M",CHEM 6A,FA22,317,182,0.955,0.978,6.67,3.26,3.3,False,False,False,False,False
+"Paesani, Francesco",CHEM 6AH,FA22,81,53,0.8270000000000001,0.96,6.92,3.35,3.27,False,False,False,False,False
+"Hopkins, Patrycja Anna",CHEM 6B,FA22,257,84,0.797,0.8959999999999999,6.13,2.95,2.97,False,False,False,False,False
+"Albizati, Kim F.",CHEM 6C,FA22,347,122,0.9129999999999999,0.983,7.76,3.16,2.84,False,False,False,False,False
+"Leigh, Brian",CHEM 7L,FA22,231,100,0.745,0.851,7.91,3.04,3.08,False,False,False,False,False
+"Leigh, Brian",CHEM 7L,FA22,227,72,0.794,0.853,7.9,3.1,3.07,False,False,False,False,False
+"Leigh, Brian",CHEM 7L,FA22,230,81,0.792,0.818,8.21,3.03,3.09,False,False,False,False,False
+"Li, Shaowei",CHEM 100A,SP22,106,36,0.882,0.912,9.56,3.29,3.1,False,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B,SP22,28,14,1.0,1.0,9.88,3.14,3.01,False,False,False,False,True
+"Sinha, Amitabha",CHEM 105A,SP22,45,15,0.733,0.733,11.83,3.07,2.95,False,False,False,False,True
+"Sinha, Amitabha",CHEM 105A,SP22,41,15,0.667,0.9329999999999999,10.37,2.71,2.85,False,False,False,False,True
+"Jennings, Patricia A.",CHEM 108,SP22,48,18,0.765,0.647,4.74,3.59,3.88,False,False,False,False,True
+"Jennings, Patricia A.",CHEM 108,SP22,47,15,0.867,0.733,8.23,3.13,3.6,False,False,False,False,True
+"Muller, Ulrich K.",CHEM 109,SP22,35,8,0.875,0.875,7.5,3.5,3.77,False,False,False,False,True
+"Muller, Ulrich K.",CHEM 109,SP22,45,15,0.9329999999999999,0.9329999999999999,8.77,3.53,3.83,False,False,False,False,True
+"Mrse, Anthony Adrian",CHEM 11,SP22,257,115,0.7170000000000001,0.8759999999999999,5.01,2.96,2.68,False,False,False,False,False
+"Komives, Elizabeth A",CHEM 114B,SP22,81,28,0.929,1.0,6.71,3.32,3.11,False,False,False,False,True
+"Joseph, Simpson",CHEM 114C,SP22,232,83,0.878,0.753,6.55,3.24,2.82,False,False,False,False,True
+"Donoghue, Daniel J.",CHEM 118,SP22,281,97,0.914,0.914,5.62,3.41,3.02,False,False,False,False,True
+"Sailor, Michael Joseph",CHEM 120B,SP22,121,40,0.816,0.8109999999999999,6.76,3.03,2.66,False,False,False,False,True
+"Tauber, Michael",CHEM 126B,SP22,96,32,0.7040000000000001,0.889,7.33,2.72,2.78,False,False,False,False,True
+"Galperin, Michael",CHEM 132,SP22,82,23,0.522,0.696,7.2,2.65,2.53,False,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B,SP22,73,26,0.8079999999999999,0.654,7.73,3.12,3.2,False,False,False,False,True
+"Burkart, Michael D",CHEM 157,SP22,67,47,0.7659999999999999,0.851,7.39,2.8,2.79,False,False,False,False,True
+"Young, Mark",CHEM 173,SP22,58,14,0.7859999999999999,0.769,6.93,2.85,2.93,False,False,False,False,True
+"Dickson, Andrew Gilmore",CHEM 174,SP22,36,12,0.75,0.833,7.33,2.92,3.01,False,False,False,False,True
+"Albizati, Kim F.",CHEM 40A,SP22,265,102,0.773,0.9690000000000001,7.34,2.96,2.69,False,False,False,False,False
+"Albizati, Kim F.",CHEM 40B,SP22,323,115,0.8440000000000001,0.963,7.93,3.1,2.65,False,False,False,False,False
+"Siegel, Dionicio R.",CHEM 40B,SP22,352,147,0.862,0.956,7.16,3.12,2.56,False,False,False,False,False
+"Lam, Tin Yiu",CHEM 40C,SP22,247,111,0.519,0.59,8.42,2.93,2.69,False,False,False,False,False
+"Ternansky, Robert J.",CHEM 40C,SP22,144,68,0.682,0.7879999999999999,7.59,2.76,2.64,False,False,False,False,False
+"Romero, Nathan A",CHEM 40CH,SP22,45,26,0.769,0.8079999999999999,6.88,3.04,3.52,False,False,False,False,False
+"Klosterman, Jeremy K",CHEM 43A,SP22,207,176,0.665,0.6709999999999999,8.71,3.16,2.91,False,False,False,False,False
+"Klosterman, Jeremy K",CHEM 43A,SP22,200,175,0.746,0.7979999999999999,8.63,3.14,2.95,False,False,False,False,False
+"Buyanin, Alex",CHEM 6A,SP22,234,112,0.7020000000000001,0.602,6.96,2.6,2.05,False,False,False,False,False
+"Young, Mark",CHEM 6B,SP22,221,84,0.526,0.34600000000000003,7.66,2.7,2.59,False,False,False,False,False
+"Lam, Tin Yiu",CHEM 6B,SP22,231,115,0.772,0.735,7.55,2.9,2.62,False,False,False,False,False
+"Pomeroy, Robert S.",CHEM 6C,SP22,168,121,0.884,0.785,6.57,3.21,2.65,False,False,False,False,False
+"Brydges, Stacey",CHEM 6C,SP22,330,174,0.8240000000000001,0.865,7.23,3.33,3.51,False,False,False,False,False
+"Jazzar, Rodolphe",CHEM 6C,SP22,277,148,0.925,0.903,6.85,3.16,2.98,False,False,False,False,False
+"Stallings, Dontarie M",CHEM 6C,SP22,313,277,0.9420000000000001,0.971,6.52,3.38,2.77,False,False,False,False,False
+"Leigh, Brian",CHEM 6C,SP22,317,263,0.912,0.9109999999999999,6.85,3.33,2.8,False,False,False,False,False
+"Kubiak, Clifford Paul",CHEM 6CH,SP22,45,22,0.818,0.905,5.5,3.52,3.61,False,False,False,False,False
+"Schurmeier, Kimberly",CHEM 7L,SP22,227,201,0.64,0.66,7.37,3.06,2.97,False,False,False,False,False
+"Schurmeier, Kimberly",CHEM 7L,SP22,230,201,0.685,0.755,7.34,3.15,3.07,False,False,False,False,False
+"Brydges, Stacey",CHEM 7LM,SP22,173,98,0.845,0.9259999999999999,10.78,3.43,3.53,False,False,False,False,False
+"Slade, Jonathan",CHEM 100A,WI22,152,76,0.92,0.9329999999999999,8.69,3.41,3.41,False,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B,WI22,29,11,0.727,0.818,11.23,3.18,3.09,False,False,False,False,True
+"Young, Mark",CHEM 105A,WI22,36,13,0.636,0.909,9.17,3.5,3.01,False,False,False,False,True
+"Young, Mark",CHEM 105A,WI22,37,18,0.389,0.833,9.28,2.89,3.23,False,False,False,False,True
+"Hamaoka, Brent Y",CHEM 108,WI22,45,18,0.833,0.9440000000000001,10.83,3.28,3.32,False,False,False,False,True
+"Hamaoka, Brent Y",CHEM 108,WI22,25,11,1.0,0.909,12.68,3.36,3.67,False,False,False,False,True
+"McHugh, Colleen A",CHEM 109,WI22,50,29,0.897,0.966,9.33,3.76,3.67,False,False,False,False,True
+"McHugh, Colleen A",CHEM 109,WI22,43,18,0.882,0.941,10.15,3.53,3.5,False,False,False,False,True
+"Muller, Ulrich K.",CHEM 114A,WI22,158,69,0.809,0.7759999999999999,6.82,3.22,2.96,False,False,False,False,True
+"Budin, Itay",CHEM 114B,WI22,284,129,0.96,0.9840000000000001,7.55,3.23,3.01,False,False,False,False,True
+"Bodai, Zsolt",CHEM 115,WI22,22,13,0.846,0.9229999999999999,9.27,3.54,3.52,False,False,False,False,True
+"Huang, Xuemei",CHEM 12,WI22,70,28,0.917,0.958,5.08,3.29,3.15,False,False,False,False,False
+"Stauber, Julia Megan",CHEM 120A,WI22,47,36,0.917,0.917,6.39,3.06,2.32,False,False,False,False,True
+"Amaro, Rommie E",CHEM 126A,WI22,114,46,0.9129999999999999,0.9570000000000001,6.07,3.49,3.19,False,False,False,False,True
+"Paesani, Francesco",CHEM 126B,WI22,187,89,0.67,0.92,6.84,2.94,2.76,False,False,False,False,True
+"Galperin, Michael",CHEM 131,WI22,93,47,0.745,0.851,8.33,2.57,2.59,False,False,False,False,True
+"Weizman, Haim",CHEM 143B,WI22,136,56,0.618,0.655,6.75,2.96,3.41,False,False,False,False,True
+"Donoghue, Daniel J.",CHEM 151,WI22,102,36,1.0,1.0,4.04,3.89,3.84,False,False,False,False,True
+"Devaraj, Neal Krishna",CHEM 168,WI22,198,163,0.988,0.988,5.28,3.46,3.44,False,False,False,False,True
+"Thiemens, Mark H",CHEM 172,WI22,81,25,1.0,0.96,3.25,3.54,3.33,False,False,False,False,True
+"Oconnor, Joseph M.",CHEM 40A,WI22,192,65,0.5329999999999999,0.583,8.74,2.71,2.28,False,False,False,False,False
+"Oconnor, Joseph M.",CHEM 40A,WI22,216,88,0.40700000000000003,0.47600000000000003,7.99,2.59,2.57,False,False,False,False,False
+"Romero, Erik Anthony",CHEM 40B,WI22,302,156,0.40299999999999997,0.37200000000000005,9.04,2.76,2.7,False,False,False,False,False
+"Klosterman, Jeremy K",CHEM 40B,WI22,323,299,0.586,0.573,9.93,2.71,2.74,False,False,False,False,False
+"Molinski, Tadeusz",CHEM 40B,WI22,149,61,0.35100000000000003,0.21100000000000002,9.52,2.85,2.43,False,False,False,False,False
+"Weizman, Haim",CHEM 40BH,WI22,77,44,0.929,0.976,7.96,3.44,3.67,False,False,False,False,False
+"Godula, Kamil",CHEM 40C,WI22,205,181,0.856,0.978,6.53,3.29,2.9,False,False,False,False,False
+"Albizati, Kim F.",CHEM 40C,WI22,71,25,0.84,1.0,7.08,3.09,2.75,False,False,False,False,False
+"Ternansky, Robert J.",CHEM 43A,WI22,199,97,0.5479999999999999,0.441,7.6,2.84,3.24,False,False,False,False,False
+"Ternansky, Robert J.",CHEM 43A,WI22,199,108,0.57,0.415,7.1,2.72,3.25,False,False,False,False,False
+"Tezcan, Faik",CHEM 6A,WI22,285,175,0.669,0.58,6.71,2.75,2.5,False,False,False,False,False
+"Jazzar, Rodolphe",CHEM 6A,WI22,304,149,0.93,0.9209999999999999,6.21,3.28,2.76,False,False,False,False,False
+"Young, Mark",CHEM 6B,WI22,166,89,0.583,0.512,7.03,2.65,2.72,False,False,False,False,False
+"Lam, Tin Yiu",CHEM 6B,WI22,230,124,0.9420000000000001,0.873,6.53,3.33,3.03,False,False,False,False,False
+"Komor, Alexis C",CHEM 6B,WI22,270,226,0.9420000000000001,0.96,6.58,3.5,3.43,False,False,False,False,False
+"Lam, Tin Yiu",CHEM 6B,WI22,234,145,0.892,0.862,6.79,3.3,3.09,False,False,False,False,False
+"Nesbit, Mark Allen",CHEM 6B,WI22,241,156,0.742,0.693,6.29,3.2,3.54,False,False,False,False,False
+"Stallings, Dontarie M",CHEM 6B,WI22,238,208,0.971,0.981,6.32,3.51,2.93,False,False,False,False,False
+"Kummel, Andrew C",CHEM 6B,WI22,258,151,0.789,0.7959999999999999,7.19,3.23,2.9,False,False,False,False,False
+"Paesani, Francesco",CHEM 6BH,WI22,63,47,0.9329999999999999,1.0,6.9,3.42,3.61,False,False,False,False,False
+"Ghosh, Partho",CHEM 6C,WI22,240,105,0.825,0.932,6.33,2.9,2.12,False,False,False,False,False
+"Leigh, Brian",CHEM 7L,WI22,245,109,0.779,0.865,7.65,3.13,3.1,False,False,False,False,False
+"Leigh, Brian",CHEM 7L,WI22,247,125,0.787,0.852,7.76,3.26,3.08,False,False,False,False,False
+"Pomeroy, Robert S.",CHEM 100A,FA21,153,81,0.934,0.9470000000000001,8.5,3.09,3.0,True,False,False,False,True
+"Young, Mark",CHEM 105A,FA21,45,20,0.35,0.6,11.6,3.1,3.21,True,False,False,False,True
+"Young, Mark",CHEM 105A,FA21,45,12,0.625,0.7140000000000001,7.83,2.78,2.93,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 108,FA21,46,18,0.882,0.706,7.68,3.41,3.53,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 108,FA21,47,23,0.727,0.7140000000000001,6.05,3.45,3.51,True,False,False,False,True
+"Hamaoka, Brent Y",CHEM 109,FA21,47,34,0.912,0.912,10.68,3.56,3.73,True,False,False,False,True
+"Hamaoka, Brent Y",CHEM 109,FA21,45,16,1.0,1.0,11.03,3.53,3.52,True,False,False,False,True
+"Wang, Wei",CHEM 11,FA21,249,139,0.883,0.821,3.94,3.73,3.62,True,False,False,False,False
+"Mishanina, Tatiana V",CHEM 113,FA21,82,71,0.93,1.0,6.47,3.42,3.35,True,False,False,False,True
+"Toor, Navtej",CHEM 114A,FA21,280,134,0.775,0.721,6.56,3.06,3.02,True,False,False,False,True
+"Godula, Kamil",CHEM 116,FA21,55,25,0.909,0.955,6.41,3.17,3.3,True,False,False,False,True
+"Rinehart, Jeffrey Dennis",CHEM 120A,FA21,215,96,0.946,0.946,6.33,3.46,2.95,True,False,False,False,True
+"Yuen Zhou, Joel",CHEM 126A,FA21,182,115,0.5589999999999999,0.591,9.1,2.83,2.85,True,False,False,False,True
+"Sinha, Amitabha",CHEM 130,FA21,110,51,0.627,0.56,9.21,2.62,2.7,True,False,False,False,True
+"Esko, Jeffrey D.",CHEM 142,FA21,43,19,0.8240000000000001,0.941,6.85,3.41,3.73,True,False,False,False,True
+"Godula, Kamil",CHEM 142,FA21,43,19,0.8240000000000001,1.0,6.85,3.41,3.73,True,False,False,False,True
+"Gordts, Philip",CHEM 142,FA21,43,19,0.8240000000000001,0.882,6.85,3.41,3.73,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143C,FA21,77,27,0.92,0.92,7.3,3.38,3.3,True,False,False,False,True
+"Theodorakis, Emmanuel",CHEM 152,FA21,30,18,1.0,1.0,6.28,3.39,3.38,True,False,False,False,True
+"Slade, Jonathan",CHEM 171,FA21,131,63,0.937,0.937,4.47,3.7,3.32,True,False,False,False,True
+"Bussey, Thomas J",CHEM 4,FA21,406,215,0.9129999999999999,0.951,5.74,3.04,2.85,True,False,False,False,False
+"Hopkins, Patrycja Anna",CHEM 40A,FA21,200,89,0.828,0.897,7.08,3.1,2.76,True,False,False,False,False
+"Bertrand, Guy",CHEM 40A,FA21,242,115,0.9,0.963,7.58,3.27,2.95,True,False,False,False,False
+"Bertrand, Guy",CHEM 40A,FA21,315,150,0.9079999999999999,0.986,7.13,3.48,3.02,True,False,False,False,False
+"Albizati, Kim F.",CHEM 40A,FA21,339,159,0.8029999999999999,0.8740000000000001,8.62,3.01,2.91,True,False,False,False,False
+"Albizati, Kim F.",CHEM 40A,FA21,195,81,0.779,0.909,9.01,3.04,2.79,True,False,False,False,False
+"Theodorakis, Emmanuel",CHEM 40B,FA21,320,136,0.654,0.877,7.77,2.5,2.75,True,False,False,False,False
+"Ternansky, Robert J.",CHEM 40C,FA21,76,35,0.5760000000000001,0.636,8.63,2.5,2.53,True,False,False,False,False
+"Klosterman, Jeremy K",CHEM 43A,FA21,272,250,0.7559999999999999,0.8270000000000001,8.36,3.13,2.9,True,False,False,False,False
+"Klosterman, Jeremy K",CHEM 43A,FA21,244,218,0.7340000000000001,0.748,9.06,3.13,2.96,True,False,False,False,False
+"Pomeroy, Robert S.",CHEM 6A,FA21,321,186,0.691,0.618,8.36,2.98,2.52,True,False,False,False,False
+"Schurmeier, Kimberly",CHEM 6A,FA21,307,231,0.858,0.92,6.48,3.0,2.71,True,False,False,False,False
+"Brydges, Stacey",CHEM 6A,FA21,314,164,0.8540000000000001,0.879,6.6,3.18,3.22,True,False,False,False,False
+"Stallings, Dontarie M",CHEM 6A,FA21,312,258,0.922,0.9490000000000001,6.6,3.12,2.77,True,False,False,False,False
+"Brydges, Stacey",CHEM 6A,FA21,309,179,0.8740000000000001,0.8740000000000001,7.21,3.07,3.15,True,False,False,False,False
+"Schurmeier, Kimberly",CHEM 6A,FA21,334,274,0.88,0.8540000000000001,6.29,3.22,2.92,True,False,False,False,False
+"Zid, Brian M",CHEM 6A,FA21,334,184,0.872,0.898,6.9,3.26,3.2,True,False,False,False,False
+"Stallings, Dontarie M",CHEM 6A,FA21,341,284,0.893,0.907,6.41,3.23,2.98,True,False,False,False,False
+"Bussey, Thomas J",CHEM 6A,FA21,351,195,0.93,0.9520000000000001,5.64,3.48,3.3,True,False,False,False,False
+"Kim, Judy E.",CHEM 6AH,FA21,102,62,0.738,0.9179999999999999,8.3,3.17,3.31,True,False,False,False,False
+"Lam, Tin Yiu",CHEM 6B,FA21,250,113,0.78,0.787,6.63,3.16,2.72,True,False,False,False,False
+"Lam, Tin Yiu",CHEM 6C,FA21,358,146,0.6409999999999999,0.638,7.3,2.82,2.59,True,False,False,False,False
+"Leigh, Brian",CHEM 7L,FA21,307,156,0.765,0.866,6.93,2.98,3.09,True,False,False,False,False
+"Leigh, Brian",CHEM 7L,FA21,306,122,0.698,0.821,7.17,2.92,2.93,True,False,False,False,False
+"Leigh, Brian",CHEM 7L,FA21,109,52,0.74,0.86,7.32,3.0,2.94,True,False,False,False,False
+"Li, Shaowei",CHEM 100A,SP21,97,36,0.6859999999999999,0.7140000000000001,10.78,3.38,3.33,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B,SP21,28,8,0.7140000000000001,1.0,9.75,3.29,3.33,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B,SP21,26,4,0.75,1.0,7.5,2.75,3.57,True,False,False,False,True
+"Sinha, Amitabha",CHEM 105A,SP21,43,25,0.48,0.64,11.7,3.0,3.01,True,False,False,False,True
+"Sinha, Amitabha",CHEM 105A,SP21,40,24,0.45799999999999996,0.792,11.58,3.29,3.26,True,False,False,False,True
+"Jennings, Patricia A.",CHEM 108,SP21,62,30,0.414,0.207,9.83,3.54,3.62,True,False,False,False,True
+"Jennings, Patricia A.",CHEM 108,SP21,69,23,0.364,0.22699999999999998,9.05,3.11,3.67,True,False,False,False,True
+"Mishanina, Tatiana V",CHEM 109,SP21,45,23,0.81,0.81,10.02,3.8,3.84,True,False,False,False,True
+"Mishanina, Tatiana V",CHEM 109,SP21,42,16,0.938,1.0,9.38,3.5,3.83,True,False,False,False,True
+"Wang, Wei",CHEM 11,SP21,247,146,0.938,0.917,4.69,3.64,3.6,True,False,False,False,False
+"Komives, Elizabeth A",CHEM 114C,SP21,252,115,0.825,0.726,7.5,3.32,3.66,True,False,False,False,True
+"Donoghue, Daniel J.",CHEM 118,SP21,272,119,0.897,0.922,6.53,3.51,3.5,True,False,False,False,True
+"Kim, Judy E.",CHEM 126B,SP21,91,39,0.763,0.9470000000000001,8.72,3.28,3.02,True,False,False,False,True
+"Hoeger, Carl",CHEM 13,SP21,30,9,1.0,0.889,7.83,3.22,2.98,True,False,False,False,False
+"Xiong, Wei",CHEM 132,SP21,92,31,0.8,0.9329999999999999,8.91,2.84,3.0,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B,SP21,108,43,0.698,0.535,6.45,2.89,3.35,True,False,False,False,True
+"Burkart, Michael D",CHEM 157,SP21,50,36,0.9440000000000001,0.972,6.89,3.44,3.54,True,False,False,False,True
+"Deshmukh, Lalit",CHEM 167,SP21,151,122,0.893,0.902,6.5,3.16,3.11,True,False,False,False,True
+"Mayer, Kathryn Jeanette",CHEM 173,SP21,90,38,1.0,1.0,4.28,3.94,3.83,True,False,False,False,True
+"Dickson, Andrew Gilmore",CHEM 174,SP21,37,16,0.875,0.938,6.38,3.23,3.05,True,False,False,False,True
+"Albizati, Kim F.",CHEM 40A,SP21,259,106,0.79,0.95,7.4,3.16,2.78,True,False,False,False,False
+"Hoeger, Carl",CHEM 40B,SP21,137,37,0.73,0.703,9.42,2.87,2.7,True,False,False,False,False
+"Schmidt, Valerie A",CHEM 40B,SP21,181,168,0.7020000000000001,0.774,7.63,3.01,3.35,True,False,False,False,False
+"Ferguson, Fleur",CHEM 40B,SP21,168,115,0.583,0.557,8.91,2.78,3.09,True,False,False,False,False
+"Romero, Nathan A",CHEM 40C,SP21,337,177,0.743,0.871,7.83,3.09,3.22,True,False,False,False,False
+"Ternansky, Robert J.",CHEM 40C,SP21,215,99,0.617,0.6809999999999999,8.42,2.83,2.93,True,False,False,False,False
+"Tor, Yitzhak",CHEM 40CH,SP21,84,46,0.935,1.0,7.26,3.52,3.48,True,False,False,False,False
+"Klosterman, Jeremy K",CHEM 43A,SP21,347,318,0.855,0.8140000000000001,8.39,3.32,3.11,True,False,False,False,False
+"Klosterman, Jeremy K",CHEM 43A,SP21,352,323,0.8420000000000001,0.8640000000000001,8.25,3.33,3.22,True,False,False,False,False
+"Deshmukh, Lalit",CHEM 6A,SP21,221,168,0.909,0.915,5.38,3.12,3.03,True,False,False,False,False
+"Young, Mark",CHEM 6B,SP21,219,97,0.742,0.753,6.84,2.94,2.79,True,False,False,False,False
+"Young, Mark",CHEM 6B,SP21,254,122,0.675,0.726,7.63,2.95,2.9,True,False,False,False,False
+"Debelouchina, Galia T",CHEM 6C,SP21,319,200,0.8809999999999999,0.985,6.5,3.43,3.44,True,False,False,False,False
+"Brydges, Stacey",CHEM 6C,SP21,306,170,0.861,0.867,7.27,3.33,3.47,True,False,False,False,False
+"Stallings, Dontarie M",CHEM 6C,SP21,288,237,0.9229999999999999,0.9229999999999999,5.86,3.4,3.07,True,False,False,False,False
+"Stallings, Dontarie M",CHEM 6C,SP21,277,225,0.9329999999999999,0.9059999999999999,5.76,3.4,3.14,True,False,False,False,False
+"Brydges, Stacey",CHEM 6C,SP21,290,173,0.8420000000000001,0.871,6.72,3.18,3.42,True,False,False,False,False
+"Kubiak, Clifford Paul",CHEM 6CH,SP21,53,32,0.8059999999999999,0.833,6.24,3.46,3.84,True,False,False,False,False
+"Schurmeier, Kimberly",CHEM 7L,SP21,272,241,0.649,0.762,8.76,3.2,3.09,True,False,False,False,False
+"Schurmeier, Kimberly",CHEM 7L,SP21,286,254,0.606,0.768,8.59,3.31,3.11,True,False,False,False,False
+"Pomeroy, Robert S.",CHEM 100A,WI21,149,74,0.847,0.831,10.69,3.49,3.12,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B,WI21,32,12,0.75,0.833,9.33,3.09,3.4,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B,WI21,27,9,0.7140000000000001,1.0,12.5,3.5,3.42,True,False,False,False,True
+"Young, Mark",CHEM 105A,WI21,34,11,0.364,0.636,10.5,2.63,3.29,True,False,False,False,True
+"Young, Mark",CHEM 105A,WI21,40,14,0.231,0.462,10.5,3.3,3.43,True,False,False,False,True
+"Hamaoka, Brent Y",CHEM 109,WI21,54,19,0.9470000000000001,0.8420000000000001,9.76,3.79,3.88,True,False,False,False,True
+"Hamaoka, Brent Y",CHEM 109,WI21,47,18,1.0,0.9440000000000001,10.94,3.83,3.68,True,False,False,False,True
+"Muller, Ulrich K.",CHEM 114A,WI21,141,80,0.9209999999999999,0.907,6.99,3.18,3.14,True,False,False,False,True
+"Budin, Itay",CHEM 114B,WI21,190,118,0.975,0.991,7.43,3.29,3.22,True,False,False,False,True
+"Joseph, Simpson",CHEM 114C,WI21,60,28,0.885,0.8,7.73,3.0,2.78,True,False,False,False,True
+"Komor, Alexis C",CHEM 115,WI21,23,9,1.0,1.0,8.5,3.44,3.59,True,False,False,False,True
+"Huang, Xuemei",CHEM 12,WI21,59,15,0.857,0.857,4.36,3.8,3.52,True,False,False,False,False
+"Figueroa, Joshua",CHEM 120A,WI21,68,46,0.956,0.955,6.54,3.12,2.78,True,False,False,False,True
+"Sailor, Michael Joseph",CHEM 120B,WI21,117,39,0.917,0.972,7.15,3.25,3.39,True,False,False,False,True
+"Tezcan, Faik",CHEM 125,WI21,27,10,1.0,1.0,4.5,3.22,3.23,True,False,False,False,True
+"Schoeneberg, Johannes",CHEM 126A,WI21,78,64,0.8440000000000001,0.8909999999999999,6.78,3.02,3.01,True,False,False,False,True
+"Paesani, Francesco",CHEM 126B,WI21,264,113,0.586,0.847,8.29,2.96,2.97,True,False,False,False,True
+"Galperin, Michael",CHEM 131,WI21,114,41,0.8290000000000001,0.902,8.21,3.08,2.81,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B,WI21,134,62,0.593,0.475,7.96,2.9,3.53,True,False,False,False,True
+"Donoghue, Daniel J.",CHEM 151,WI21,80,31,0.968,1.0,3.66,3.97,3.95,True,False,False,False,True
+"Herzik, Mark Anthony",CHEM 165,WI21,22,10,0.8,0.889,8.7,3.17,3.47,True,False,False,False,True
+"Devaraj, Neal Krishna",CHEM 168,WI21,119,104,0.971,0.971,5.27,3.29,3.22,True,False,False,False,True
+"Thiemens, Mark H",CHEM 172,WI21,55,14,0.7859999999999999,0.929,5.21,3.36,3.01,True,False,False,False,True
+"Bertrand, Guy",CHEM 40A,WI21,241,120,0.9570000000000001,1.0,6.43,3.45,2.93,True,False,False,False,False
+"Bertrand, Guy",CHEM 40A,WI21,244,123,0.9420000000000001,0.983,6.47,3.39,2.92,True,False,False,False,False
+"Ternansky, Robert J.",CHEM 40B,WI21,164,87,0.723,0.6829999999999999,8.99,2.83,2.79,True,False,False,False,False
+"Klosterman, Jeremy K",CHEM 40B,WI21,302,257,0.816,0.8859999999999999,8.59,3.08,2.99,True,False,False,False,False
+"Hoeger, Carl",CHEM 40B,WI21,280,111,0.619,0.657,9.17,2.93,3.06,True,False,False,False,False
+"Burkart, Michael D",CHEM 40B,WI21,214,188,0.785,0.941,8.26,2.97,3.09,True,False,False,False,False
+"Weizman, Haim",CHEM 40BH,WI21,80,49,0.898,0.9390000000000001,8.21,3.23,3.67,True,False,False,False,False
+"Godula, Kamil",CHEM 40C,WI21,388,360,0.722,0.858,8.23,3.29,3.44,True,False,False,False,False
+"Weizman, Haim",CHEM 43A,WI21,258,143,0.373,0.44,12.56,3.15,3.48,True,False,False,False,False
+"Weizman, Haim",CHEM 43A,WI21,344,213,0.34299999999999997,0.41600000000000004,13.9,3.03,3.52,True,False,False,False,False
+"Tezcan, Faik",CHEM 6A,WI21,302,150,0.836,0.804,6.73,3.14,2.94,True,False,False,False,False
+"Albizati, Kim F.",CHEM 6A,WI21,297,144,0.816,0.797,6.36,3.02,2.87,True,False,False,False,False
+"Stallings, Dontarie M",CHEM 6B,WI21,311,274,0.8079999999999999,0.8029999999999999,7.43,3.04,2.69,True,False,False,False,False
+"Hoeger, Carl",CHEM 6B,WI21,222,128,0.728,0.504,7.81,2.81,3.33,True,False,False,False,False
+"Komor, Alexis C",CHEM 6B,WI21,291,253,0.897,0.9009999999999999,6.71,3.44,3.43,True,False,False,False,False
+"Lam, Tin Yiu",CHEM 6B,WI21,217,113,0.85,0.792,6.52,3.19,3.03,True,False,False,False,False
+"Lam, Tin Yiu",CHEM 6B,WI21,217,120,0.889,0.879,7.03,3.23,3.16,True,False,False,False,False
+"Schurmeier, Kimberly",CHEM 6B,WI21,237,216,0.843,0.8009999999999999,6.55,3.32,3.11,True,False,False,False,False
+"Stallings, Dontarie M",CHEM 6B,WI21,231,213,0.8490000000000001,0.816,6.92,3.26,3.04,True,False,False,False,False
+"Paesani, Francesco",CHEM 6BH,WI21,76,53,0.8270000000000001,0.904,7.27,3.22,3.42,True,False,False,False,False
+"Ghosh, Partho",CHEM 6C,WI21,222,114,0.82,0.9009999999999999,7.07,2.98,2.7,True,False,False,False,False
+"Leigh, Brian",CHEM 7L,WI21,242,131,0.9129999999999999,0.976,8.12,3.22,3.26,True,False,False,False,False
+"Leigh, Brian",CHEM 7L,WI21,240,134,0.867,0.9690000000000001,7.96,3.28,3.29,True,False,False,False,False
+"Pomeroy, Robert S.",CHEM 100A,FA20,165,71,0.797,0.899,9.22,3.39,3.3,True,False,False,False,True
+"Young, Mark",CHEM 105A,FA20,37,14,0.7140000000000001,0.7859999999999999,13.5,3.21,3.23,True,False,False,False,True
+"Young, Mark",CHEM 105A,FA20,39,12,1.0,1.0,11.83,3.5,2.83,True,False,False,False,True
+"Stallings, Dontarie M",CHEM 108,FA20,72,61,0.667,0.6829999999999999,12.67,3.41,3.44,True,False,False,False,True
+"Stallings, Dontarie M",CHEM 108,FA20,47,39,0.615,0.6920000000000001,15.78,3.38,3.29,True,False,False,False,True
+"Mrse, Anthony Adrian",CHEM 11,FA20,344,161,0.943,0.981,5.39,3.55,3.55,True,False,False,False,False
+"Herzik, Mark Anthony",CHEM 114A,FA20,288,151,0.884,0.789,9.22,3.01,2.9,True,False,False,False,True
+"Mishanina, Tatiana V",CHEM 114B,FA20,77,48,0.884,0.907,8.36,3.51,3.45,True,False,False,False,True
+"Godula, Kamil",CHEM 116,FA20,51,22,1.0,1.0,6.32,3.43,3.56,True,False,False,False,True
+"Rinehart, Jeffrey Dennis",CHEM 120A,FA20,339,173,0.83,0.888,7.29,3.29,3.2,True,False,False,False,True
+"Yuen Zhou, Joel",CHEM 126A,FA20,289,181,0.711,0.828,8.59,3.09,3.11,True,False,False,False,True
+"Yuen Zhou, Joel",CHEM 126A,FA20,21,9,0.889,0.889,8.28,3.56,3.11,True,False,False,False,True
+"Sinha, Amitabha",CHEM 130,FA20,129,106,0.575,0.6,9.99,2.67,2.53,True,False,False,False,True
+"Esko, Jeffrey D.",CHEM 142,FA20,32,13,1.0,1.0,6.5,3.33,3.68,True,False,False,False,True
+"Godula, Kamil",CHEM 142,FA20,32,13,1.0,1.0,6.5,3.33,3.68,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143C,FA20,101,48,0.7659999999999999,0.723,8.37,2.98,3.33,True,False,False,False,True
+"Theodorakis, Emmanuel",CHEM 152,FA20,28,9,0.778,0.889,7.83,3.0,3.14,True,False,False,False,True
+"Tor, Yitzhak",CHEM 154,FA20,49,18,0.9440000000000001,0.9440000000000001,7.39,3.19,3.4,True,False,False,False,True
+"Slade, Jonathan",CHEM 171,FA20,121,65,0.9329999999999999,0.95,5.47,3.46,3.23,True,False,False,False,True
+"Hoeger, Carl",CHEM 4,FA20,393,211,0.847,0.764,6.28,2.91,3.18,True,False,False,False,False
+"Oconnor, Joseph M.",CHEM 40A,FA20,159,76,0.613,0.56,9.57,2.51,2.43,True,False,False,False,False
+"Hoeger, Carl",CHEM 40A,FA20,340,161,0.725,0.6890000000000001,9.02,2.84,2.78,True,False,False,False,False
+"Albizati, Kim F.",CHEM 40A,FA20,268,133,0.828,0.945,8.04,2.98,2.87,True,False,False,False,False
+"Albizati, Kim F.",CHEM 40A,FA20,411,207,0.8690000000000001,0.955,7.64,3.07,2.93,True,False,False,False,False
+"Perrin, Charles L.",CHEM 40A,FA20,102,57,0.732,0.691,7.48,2.82,2.32,True,False,False,False,False
+"Theodorakis, Emmanuel",CHEM 40B,FA20,303,133,0.6509999999999999,0.784,7.96,2.8,2.73,True,False,False,False,False
+"Ternansky, Robert J.",CHEM 40C,FA20,163,78,0.447,0.513,9.89,2.7,2.71,True,False,False,False,False
+"Klosterman, Jeremy K",CHEM 43A,FA20,405,394,0.802,0.86,7.18,3.37,3.27,True,False,False,False,False
+"Klosterman, Jeremy K",CHEM 43AM,FA20,41,35,0.914,0.943,6.84,3.34,2.91,True,False,False,False,False
+"Pomeroy, Robert S.",CHEM 6A,FA20,274,153,0.9259999999999999,0.885,6.06,3.24,3.37,True,False,False,False,False
+"Schurmeier, Kimberly",CHEM 6A,FA20,319,274,0.857,0.8390000000000001,5.88,3.24,2.81,True,False,False,False,False
+"Brydges, Stacey",CHEM 6A,FA20,270,166,0.92,0.975,6.37,3.46,3.43,True,False,False,False,False
+"Brydges, Stacey",CHEM 6A,FA20,315,184,0.9229999999999999,0.927,6.41,3.55,3.33,True,False,False,False,False
+"Bussey, Thomas J",CHEM 6A,FA20,271,173,0.988,0.9940000000000001,6.23,3.49,3.35,True,False,False,False,False
+"Lam, Tin Yiu",CHEM 6A,FA20,264,161,0.8959999999999999,0.856,5.73,3.34,3.21,True,False,False,False,False
+"Zid, Brian M",CHEM 6A,FA20,318,188,0.973,0.9890000000000001,5.43,3.76,3.6,True,False,False,False,False
+"Crowell, John E",CHEM 6A,FA20,318,198,0.608,0.295,5.85,3.35,3.34,True,False,False,False,False
+"Bussey, Thomas J",CHEM 6A,FA20,315,219,0.976,0.986,6.06,3.53,3.46,True,False,False,False,False
+"Tauber, Michael",CHEM 6AH,FA20,109,72,0.797,0.87,7.62,3.13,3.15,True,False,False,False,False
+"Crowell, John E",CHEM 6B,FA20,236,99,0.633,0.439,7.57,2.99,2.81,True,False,False,False,False
+"Lam, Tin Yiu",CHEM 6C,FA20,304,120,0.752,0.77,7.55,2.86,2.61,True,False,False,False,False
+"Leigh, Brian",CHEM 7L,FA20,346,191,0.902,0.94,7.43,3.39,3.12,True,False,False,False,False
+"Leigh, Brian",CHEM 7L,FA20,349,173,0.8909999999999999,0.958,8.19,3.25,2.96,True,False,False,False,False
+"Pomeroy, Robert S.",CHEM 100A,SP20,65,19,0.9440000000000001,1.0,9.83,3.69,3.59,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B,SP20,26,9,0.556,0.875,10.06,3.13,3.5,True,False,False,False,True
+"Sinha, Amitabha",CHEM 105A,SP20,36,8,0.429,0.429,7.93,2.6,2.86,True,False,False,False,True
+"Sinha, Amitabha",CHEM 105A,SP20,33,13,0.5379999999999999,0.833,11.27,3.18,3.19,True,False,False,False,True
+"Jennings, Patricia A.",CHEM 108,SP20,53,24,0.7390000000000001,0.7829999999999999,5.5,3.26,3.67,True,False,False,False,True
+"Jennings, Patricia A.",CHEM 108,SP20,47,9,0.875,0.75,4.75,3.88,3.78,True,False,False,False,True
+"Wang, Wei",CHEM 11,SP20,302,169,0.929,0.917,4.33,3.68,3.7,True,False,False,False,False
+"Komives, Elizabeth A",CHEM 113,SP20,73,32,1.0,1.0,6.88,3.84,3.86,True,False,False,False,True
+"Mishanina, Tatiana V",CHEM 114B,SP20,102,39,1.0,1.0,7.37,3.69,3.55,True,False,False,False,True
+"Toor, Navtej",CHEM 114C,SP20,266,97,0.8390000000000001,0.785,7.47,3.23,3.33,True,False,False,False,True
+"Donoghue, Daniel J.",CHEM 118,SP20,252,100,0.938,0.9279999999999999,7.59,3.53,3.67,True,False,False,False,True
+"Sailor, Michael Joseph",CHEM 120B,SP20,94,33,0.875,1.0,7.06,3.36,3.45,True,False,False,False,True
+"Gibbard, Jemma Alice",CHEM 132,SP20,94,23,0.652,0.565,7.2,3.05,3.23,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B,SP20,110,48,0.7170000000000001,0.591,7.42,2.88,3.5,True,False,False,False,True
+"Burkart, Michael D",CHEM 157,SP20,50,42,0.951,1.0,5.91,3.31,3.42,True,False,False,False,True
+"Deshmukh, Lalit",CHEM 167,SP20,113,93,0.8170000000000001,0.774,7.66,3.11,3.16,True,False,False,False,True
+"Prather, Kimberly A",CHEM 173,SP20,92,31,1.0,0.9670000000000001,4.89,3.87,3.77,True,False,False,False,True
+"Dickson, Andrew Gilmore",CHEM 174,SP20,36,14,0.5710000000000001,0.7140000000000001,7.5,3.1,3.27,True,False,False,False,True
+"Hoeger, Carl",CHEM 40A,SP20,190,78,0.608,0.595,8.45,2.85,3.2,True,False,False,False,False
+"Schmidt, Valerie A",CHEM 40B,SP20,309,137,0.7390000000000001,0.746,8.49,3.23,3.66,True,False,False,False,False
+"Albizati, Kim F.",CHEM 40B,SP20,419,185,0.8640000000000001,0.972,7.68,3.01,3.27,True,False,False,False,False
+"Ternansky, Robert J.",CHEM 40C,SP20,163,83,0.7090000000000001,0.7090000000000001,10.03,2.98,3.09,True,False,False,False,False
+"Hoeger, Carl",CHEM 40C,SP20,313,139,0.765,0.6970000000000001,9.1,3.1,3.49,True,False,False,False,False
+"Tor, Yitzhak",CHEM 40CH,SP20,89,45,0.9329999999999999,0.956,7.61,3.4,3.89,True,False,False,False,False
+"Klosterman, Jeremy K",CHEM 43A,SP20,195,173,0.8490000000000001,0.866,6.82,3.36,3.31,True,False,False,False,False
+"Klosterman, Jeremy K",CHEM 43A,SP20,211,195,0.887,0.897,7.34,3.42,3.29,True,False,False,False,False
+"Deshmukh, Lalit",CHEM 6A,SP20,144,87,0.7440000000000001,0.698,6.2,3.03,3.07,True,False,False,False,False
+"Schurmeier, Kimberly",CHEM 6A,SP20,110,69,0.9570000000000001,0.986,7.25,3.28,3.34,True,False,False,False,False
+"Young, Mark",CHEM 6B,SP20,221,106,0.687,0.633,7.04,2.92,3.01,True,False,False,False,False
+"Young, Mark",CHEM 6B,SP20,280,129,0.7240000000000001,0.574,6.53,2.79,2.96,True,False,False,False,False
+"Debelouchina, Galia T",CHEM 6C,SP20,396,217,0.948,0.986,5.41,3.43,3.43,True,False,False,False,False
+"Brydges, Stacey",CHEM 6C,SP20,342,184,0.9229999999999999,0.9390000000000001,7.49,3.32,3.65,True,False,False,False,False
+"Lam, Tin Yiu",CHEM 6C,SP20,228,124,0.847,0.746,6.57,3.22,3.23,True,False,False,False,False
+"Stallings, Dontarie M",CHEM 6C,SP20,165,144,0.895,0.951,5.61,3.27,3.5,True,False,False,False,False
+"Stallings, Dontarie M",CHEM 6C,SP20,153,125,0.9359999999999999,0.9359999999999999,5.67,3.34,3.5,True,False,False,False,False
+"Kubiak, Clifford Paul",CHEM 6CH,SP20,44,26,0.846,0.9229999999999999,6.96,3.29,3.79,True,False,False,False,False
+"Leigh, Brian",CHEM 7L,SP20,321,176,0.9079999999999999,0.971,6.83,3.31,3.47,True,False,False,False,False
+"Leigh, Brian",CHEM 7L,SP20,295,173,0.9359999999999999,0.982,7.62,3.3,3.37,True,False,False,False,False
+"Leigh, Brian",CHEM 7LM,SP20,78,47,0.809,0.9570000000000001,7.9,3.23,3.54,True,False,False,False,False
+"Slade, Jonathan",CHEM 100A,WI20,143,86,0.866,0.9259999999999999,7.73,3.48,3.64,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B,WI20,30,10,0.778,0.889,8.3,3.3,3.39,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B,WI20,28,9,0.75,1.0,12.25,3.13,3.29,True,False,False,False,True
+"Young, Mark",CHEM 105A,WI20,38,14,0.35700000000000004,0.5710000000000001,11.64,2.86,3.24,True,False,False,False,True
+"Young, Mark",CHEM 105A,WI20,34,10,0.667,0.667,9.39,2.78,3.45,True,False,False,False,True
+"McHugh, Colleen A",CHEM 109,WI20,47,27,0.9620000000000001,1.0,8.42,3.62,3.71,True,False,False,False,True
+"McHugh, Colleen A",CHEM 109,WI20,45,12,1.0,0.909,9.83,3.5,3.47,True,False,False,False,True
+"Muller, Ulrich K.",CHEM 114A,WI20,109,64,0.9,0.867,6.8,3.27,3.02,True,False,False,False,True
+"Komives, Elizabeth A",CHEM 114B,WI20,284,133,0.953,0.9690000000000001,7.19,3.4,3.18,True,False,False,False,True
+"Devaraj, Neal Krishna",CHEM 116,WI20,35,22,0.8640000000000001,0.818,3.59,3.33,3.68,True,False,False,False,True
+"Huang, Xuemei",CHEM 12,WI20,54,19,0.833,0.889,6.39,3.0,3.14,True,False,False,False,False
+"Tezcan, Faik",CHEM 125,WI20,35,17,0.813,0.875,4.63,2.87,2.98,True,False,False,False,True
+"Paesani, Francesco",CHEM 126B,WI20,182,64,0.8029999999999999,0.951,7.17,3.1,2.66,True,False,False,False,True
+"Galperin, Michael",CHEM 131,WI20,112,38,0.75,0.857,8.5,3.03,2.54,True,False,False,False,True
+"Weizman, Haim",CHEM 143B,WI20,130,54,0.5579999999999999,0.804,6.85,2.98,3.25,True,False,False,False,True
+"Donoghue, Daniel J.",CHEM 151,WI20,68,27,0.92,1.0,4.58,3.64,3.88,True,False,False,False,True
+"Yang, Jerry",CHEM 156,WI20,20,4,0.75,1.0,5.0,3.25,3.43,True,False,False,False,True
+"McHugh, Colleen A",CHEM 164,WI20,44,20,0.95,1.0,4.8,3.7,3.43,True,False,False,False,True
+"Devaraj, Neal Krishna",CHEM 168,WI20,142,58,0.741,0.769,5.55,3.06,3.08,True,False,False,False,True
+"Thiemens, Mark H",CHEM 172,WI20,63,24,0.9129999999999999,0.87,5.41,3.05,2.94,True,False,False,False,True
+"Bertrand, Guy",CHEM 40A,WI20,264,137,0.9229999999999999,0.977,6.22,3.26,3.52,True,False,False,False,False
+"Bertrand, Guy",CHEM 40A,WI20,299,147,0.9570000000000001,0.978,6.01,3.36,3.63,True,False,False,False,False
+"Hoeger, Carl",CHEM 40A,WI20,134,57,0.745,0.88,7.93,2.65,3.28,True,False,False,False,False
+"Ternansky, Robert J.",CHEM 40B,WI20,234,137,0.7090000000000001,0.857,9.74,2.75,2.71,True,False,False,False,False
+"Klosterman, Jeremy K",CHEM 40B,WI20,298,190,0.807,0.935,8.56,3.04,2.87,True,False,False,False,False
+"Ternansky, Robert J.",CHEM 40B,WI20,133,68,0.785,0.922,8.65,3.23,2.79,True,False,False,False,False
+"Hoeger, Carl",CHEM 40B,WI20,188,83,0.638,0.759,9.02,2.75,3.26,True,False,False,False,False
+"Weizman, Haim",CHEM 40BH,WI20,85,47,0.9129999999999999,0.956,7.85,3.3,3.67,True,False,False,False,False
+"Godula, Kamil",CHEM 40C,WI20,322,304,0.8079999999999999,0.934,8.09,3.11,3.3,True,False,False,False,False
+"Figueroa, Joshua",CHEM 43A,WI20,286,229,0.741,0.627,7.23,3.42,3.8,True,False,False,False,False
+"Figueroa, Joshua",CHEM 43A,WI20,273,219,0.7040000000000001,0.544,7.9,3.31,3.74,True,False,False,False,False
+"Tezcan, Faik",CHEM 6A,WI20,352,168,0.863,0.899,5.42,2.76,2.64,True,False,False,False,False
+"Sailor, Michael Joseph",CHEM 6A,WI20,366,179,0.8640000000000001,0.7809999999999999,6.08,2.88,2.9,True,False,False,False,False
+"Albizati, Kim F.",CHEM 6B,WI20,305,169,0.9059999999999999,0.892,5.09,3.13,3.12,True,False,False,False,False
+"Kummel, Andrew C",CHEM 6B,WI20,116,74,0.8859999999999999,0.826,6.3,3.09,3.0,True,False,False,False,False
+"Komor, Alexis C",CHEM 6B,WI20,194,142,0.899,0.9279999999999999,5.15,3.22,3.16,True,False,False,False,False
+"Crowell, John E",CHEM 6B,WI20,81,39,0.737,0.474,7.34,2.89,2.65,True,False,False,False,False
+"Crowell, John E",CHEM 6B,WI20,54,34,0.7809999999999999,0.613,6.88,3.13,2.83,True,False,False,False,False
+"Bussey, Thomas J",CHEM 6B,WI20,399,235,0.8959999999999999,0.945,6.19,3.11,2.86,True,False,False,False,False
+"Lam, Tin Yiu",CHEM 6B,WI20,392,217,0.748,0.662,7.42,2.98,2.82,True,False,False,False,False
+"Paesani, Francesco",CHEM 6BH,WI20,53,36,0.917,0.972,7.06,3.44,3.43,True,False,False,False,False
+"Ghosh, Partho",CHEM 6C,WI20,178,89,0.812,0.871,6.17,3.05,2.58,True,False,False,False,False
+"Leigh, Brian",CHEM 7L,WI20,286,134,0.9620000000000001,0.992,6.22,3.24,3.06,True,False,False,False,False
+"Leigh, Brian",CHEM 7L,WI20,295,150,0.9009999999999999,0.972,6.5,3.37,3.16,True,False,False,False,False
+"Pomeroy, Robert S.",CHEM 100A,FA19,140,62,0.9640000000000001,0.9440000000000001,7.94,3.27,3.04,True,False,False,False,True
+"Crowell, John E",CHEM 105A,FA19,39,19,0.667,0.889,8.17,3.39,3.22,True,False,False,False,True
+"Crowell, John E",CHEM 105A,FA19,36,18,0.529,0.706,11.09,3.06,2.92,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 108,FA19,48,30,0.69,0.44799999999999995,5.33,3.38,3.39,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 108,FA19,48,23,0.8640000000000001,0.545,5.2,3.48,3.36,True,False,False,False,True
+"Mishanina, Tatiana V",CHEM 109,FA19,35,15,1.0,0.929,7.79,3.36,3.42,True,False,False,False,True
+"Mrse, Anthony Adrian",CHEM 11,FA19,297,141,0.862,0.9309999999999999,3.83,3.02,2.84,True,False,False,False,False
+"Herzik, Mark Anthony",CHEM 114A,FA19,223,104,0.758,0.789,8.44,2.89,3.0,True,False,False,False,True
+"Rinehart, Jeffrey Dennis",CHEM 120A,FA19,299,139,0.8759999999999999,0.977,7.28,3.17,2.93,True,False,False,False,True
+"Yuen Zhou, Joel",CHEM 126A,FA19,201,144,0.657,0.887,8.6,2.88,2.88,True,False,False,False,True
+"Sinha, Amitabha",CHEM 130,FA19,104,38,0.526,0.605,9.71,2.92,2.49,True,False,False,False,True
+"Esko, Jeffrey D.",CHEM 142,FA19,21,8,1.0,1.0,4.0,3.38,3.89,True,False,False,False,True
+"Godula, Kamil",CHEM 142,FA19,21,8,1.0,1.0,4.0,3.38,3.89,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143C,FA19,60,28,1.0,0.9620000000000001,5.35,3.6,3.29,True,False,False,False,True
+"Theodorakis, Emmanuel",CHEM 152,FA19,35,17,1.0,1.0,4.97,3.27,3.25,True,False,False,False,True
+"Tor, Yitzhak",CHEM 154,FA19,52,21,0.95,1.0,6.71,3.11,3.23,True,False,False,False,True
+"Slade, Jonathan",CHEM 171,FA19,113,62,0.81,0.768,3.33,3.38,3.27,True,False,False,False,True
+"Hoeger, Carl",CHEM 4,FA19,343,183,0.753,0.7490000000000001,6.29,2.55,2.83,True,False,False,False,False
+"Oconnor, Joseph M.",CHEM 40A,FA19,300,159,0.718,0.716,8.69,2.98,2.49,True,False,False,False,False
+"Oconnor, Joseph M.",CHEM 40A,FA19,112,51,0.792,0.813,8.2,2.85,2.44,True,False,False,False,False
+"Yang, Jerry",CHEM 40A,FA19,144,79,0.7659999999999999,0.792,8.71,2.96,2.66,True,False,False,False,False
+"Albizati, Kim F.",CHEM 40A,FA19,404,210,0.858,0.9640000000000001,7.94,3.09,2.66,True,False,False,False,False
+"Perrin, Charles L.",CHEM 40A,FA19,294,140,0.7070000000000001,0.6890000000000001,8.03,2.88,2.46,True,False,False,False,False
+"Weizman, Haim",CHEM 40B,FA19,307,163,0.8009999999999999,0.929,8.15,2.83,2.71,True,False,False,False,False
+"Ternansky, Robert J.",CHEM 40C,FA19,135,59,0.764,0.873,7.98,2.94,2.7,True,False,False,False,False
+"Lam, Tin Yiu",CHEM 43A,FA19,306,159,0.5720000000000001,0.7,7.93,3.24,3.07,True,False,False,False,False
+"Lam, Tin Yiu",CHEM 43A,FA19,283,126,0.6940000000000001,0.775,7.87,3.32,3.12,True,False,False,False,False
+"Pomeroy, Robert S.",CHEM 6A,FA19,180,87,0.875,0.805,6.8,2.95,2.67,True,False,False,False,False
+"Schnoebelen, Carly Lynn",CHEM 6A,FA19,363,210,0.965,0.9329999999999999,5.19,3.23,2.88,True,False,False,False,False
+"Brydges, Stacey",CHEM 6A,FA19,411,250,0.845,0.894,6.45,3.1,2.98,True,False,False,False,False
+"Young, Mark",CHEM 6A,FA19,150,78,0.753,0.625,6.5,2.82,2.77,True,False,False,False,False
+"Brydges, Stacey",CHEM 6A,FA19,411,235,0.872,0.856,6.65,2.98,2.92,True,False,False,False,False
+"Bussey, Thomas J",CHEM 6A,FA19,410,215,0.95,0.965,5.9,3.16,2.84,True,False,False,False,False
+"Young, Mark",CHEM 6A,FA19,85,46,0.568,0.5579999999999999,5.64,2.65,2.75,True,False,False,False,False
+"Hoeger, Carl",CHEM 6A,FA19,389,211,0.872,0.8320000000000001,6.14,2.98,3.01,True,False,False,False,False
+"Albizati, Kim F.",CHEM 6A,FA19,123,78,0.986,0.986,4.94,3.54,3.1,True,False,False,False,False
+"Tauber, Michael",CHEM 6AH,FA19,106,67,0.615,0.831,7.85,3.09,3.13,True,False,False,False,False
+"Crowell, John E",CHEM 6B,FA19,193,105,0.586,0.515,7.35,2.74,2.75,True,False,False,False,False
+"Bussey, Thomas J",CHEM 6C,FA19,392,220,0.856,0.945,7.23,2.92,2.42,True,False,False,False,False
+"Leigh, Brian",CHEM 7L,FA19,354,204,0.872,0.9890000000000001,6.74,3.2,3.0,True,False,False,False,False
+"Leigh, Brian",CHEM 7L,FA19,347,182,0.883,0.982,6.14,3.21,3.01,True,False,False,False,False
+"Slade, Jonathan",CHEM 100A,SP19,94,42,0.81,0.976,8.5,3.26,3.45,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B,SP19,30,13,0.846,0.846,8.5,2.77,3.33,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B,SP19,23,13,0.75,0.917,9.83,3.33,3.33,True,False,False,False,True
+"Sinha, Amitabha",CHEM 105A,SP19,38,15,0.769,1.0,10.65,3.08,3.42,True,False,False,False,True
+"Sinha, Amitabha",CHEM 105A,SP19,38,17,0.875,0.938,8.9,3.33,3.42,True,False,False,False,True
+"Jennings, Patricia A.",CHEM 108,SP19,46,18,0.941,0.588,6.5,3.41,3.68,True,False,False,False,True
+"Jennings, Patricia A.",CHEM 108,SP19,38,17,0.765,0.765,7.44,3.53,3.68,True,False,False,False,True
+"Wang, Wei",CHEM 11,SP19,276,159,0.805,0.805,4.12,3.21,3.05,True,False,False,False,False
+"Debelouchina, Galia T",CHEM 113,SP19,28,8,0.875,0.875,7.75,4.0,3.91,True,False,False,False,True
+"Komives, Elizabeth A",CHEM 113,SP19,28,8,0.875,0.875,7.75,4.0,3.91,True,False,False,False,True
+"Opella, Stanley J",CHEM 114A,SP19,103,77,0.868,0.711,4.24,3.58,3.19,True,False,False,False,True
+"Joseph, Simpson",CHEM 114C,SP19,252,103,0.713,0.723,7.09,3.11,2.5,True,False,False,False,True
+"Sailor, Michael Joseph",CHEM 120B,SP19,75,34,0.935,0.968,6.18,3.29,3.17,True,False,False,False,True
+"Crowell, John E",CHEM 126,SP19,64,22,0.636,0.591,9.14,3.05,2.98,True,False,False,False,True
+"Yuen Zhou, Joel",CHEM 127,SP19,165,107,0.774,0.887,8.12,3.09,2.95,True,False,False,False,True
+"Xiong, Wei",CHEM 132,SP19,80,27,0.7040000000000001,0.9229999999999999,8.04,2.62,2.78,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B,SP19,129,62,0.754,0.544,7.45,3.0,3.25,True,False,False,False,True
+"Weizman, Haim",CHEM 151,SP19,77,28,0.9620000000000001,0.963,3.19,3.54,3.48,True,False,False,False,True
+"Burkart, Michael D",CHEM 157,SP19,39,25,1.0,1.0,5.17,3.3,3.26,True,False,False,False,True
+"Devaraj, Neal Krishna",CHEM 168,SP19,98,48,0.917,0.958,3.99,3.3,3.1,True,False,False,False,True
+"Prather, Kimberly A",CHEM 173,SP19,64,24,0.9129999999999999,0.826,6.07,2.82,3.15,True,False,False,False,True
+"Dickson, Andrew Gilmore",CHEM 174,SP19,26,12,0.636,0.636,6.86,2.73,3.23,True,False,False,False,True
+"Albizati, Kim F.",CHEM 40A,SP19,245,96,0.91,0.9890000000000001,6.54,3.0,2.67,True,False,False,False,False
+"Weizman, Haim",CHEM 40B,SP19,301,125,0.812,0.912,7.44,2.88,2.86,True,False,False,False,False
+"Siegel, Dionicio R.",CHEM 40B,SP19,301,140,0.909,0.9620000000000001,6.11,3.13,3.1,True,False,False,False,False
+"Ternansky, Robert J.",CHEM 40C,SP19,142,65,0.759,0.929,8.15,2.91,2.72,True,False,False,False,False
+"Hoeger, Carl",CHEM 40C,SP19,368,135,0.6509999999999999,0.73,8.75,2.88,2.82,True,False,False,False,False
+"Tor, Yitzhak",CHEM 40CH,SP19,95,49,0.9570000000000001,0.978,6.54,3.67,3.55,True,False,False,False,False
+"Klosterman, Jeremy K",CHEM 43A,SP19,244,216,0.743,0.7759999999999999,8.11,3.23,3.14,True,False,False,False,False
+"Klosterman, Jeremy K",CHEM 43A,SP19,215,195,0.7709999999999999,0.792,8.09,3.34,3.14,True,False,False,False,False
+"Deshmukh, Lalit",CHEM 6A,SP19,238,145,0.8,0.8059999999999999,5.34,2.92,2.17,True,False,False,False,False
+"Young, Mark",CHEM 6B,SP19,336,165,0.7240000000000001,0.5820000000000001,6.5,2.75,2.62,True,False,False,False,False
+"Crowell, John E",CHEM 6B,SP19,181,66,0.597,0.426,7.05,2.77,2.45,True,False,False,False,False
+"Debelouchina, Galia T",CHEM 6C,SP19,394,315,0.9359999999999999,0.981,5.41,3.32,3.15,True,False,False,False,False
+"Brydges, Stacey",CHEM 6C,SP19,422,215,0.873,0.9359999999999999,5.58,3.28,3.14,True,False,False,False,False
+"Lam, Tin Yiu",CHEM 6C,SP19,417,222,0.84,0.889,6.17,3.17,2.88,True,False,False,False,False
+"Hoeger, Carl",CHEM 6C,SP19,184,101,0.8190000000000001,0.753,7.36,2.9,2.82,True,False,False,False,False
+"Bussey, Thomas J",CHEM 6C,SP19,88,47,0.9129999999999999,1.0,5.37,3.15,2.97,True,False,False,False,False
+"Kubiak, Clifford Paul",CHEM 6CH,SP19,59,31,0.833,0.9,6.44,3.42,3.28,True,False,False,False,False
+"Schnoebelen, Carly Lynn",CHEM 7L,SP19,277,157,0.9670000000000001,0.96,4.54,3.81,3.8,True,False,False,False,False
+"Leigh, Brian",CHEM 7L,SP19,327,172,0.8909999999999999,0.982,6.89,3.22,3.05,True,False,False,False,False
+"Brydges, Stacey",CHEM 7LM,SP19,95,53,0.8270000000000001,0.981,7.67,3.62,3.73,True,False,False,False,False
+"Makale, Milan Theodore",CHEM 93,SP19,26,8,1.0,1.0,1.93,4.0,3.51,True,False,False,False,False
+"Bussey, Thomas J",CHEM 96,SP19,23,10,1.0,1.0,3.61,3.75,3.58,True,False,False,False,False
+"Pomeroy, Robert S.",CHEM 100A,WI19,130,52,0.816,0.87,8.85,3.25,3.18,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B,WI19,29,11,0.9,1.0,9.5,3.6,3.33,True,False,False,False,True
+"Young, Mark",CHEM 105A,WI19,40,13,0.6,0.6,11.5,3.5,2.86,True,False,False,False,True
+"Young, Mark",CHEM 105A,WI19,24,9,0.375,0.375,7.25,3.13,2.86,True,False,False,False,True
+"McHugh, Colleen A",CHEM 109,WI19,44,20,0.9440000000000001,1.0,10.82,3.16,3.44,True,False,False,False,True
+"McHugh, Colleen A",CHEM 109,WI19,22,11,1.0,1.0,9.23,3.36,3.44,True,False,False,False,True
+"Komives, Elizabeth A",CHEM 114B,WI19,265,120,0.991,0.991,7.58,3.5,3.24,True,False,False,False,True
+"Amaro, Rommie E",CHEM 118,WI19,118,59,0.9620000000000001,0.9059999999999999,5.73,3.45,3.14,True,False,False,False,True
+"Huang, Xuemei",CHEM 12,WI19,60,25,0.773,0.8640000000000001,4.95,3.35,2.96,True,False,False,False,False
+"Figueroa, Joshua",CHEM 120A,WI19,206,142,0.9209999999999999,0.95,7.0,3.16,2.83,True,False,False,False,True
+"Paesani, Francesco",CHEM 126,WI19,172,75,0.775,0.9309999999999999,8.5,2.87,2.7,True,False,False,False,True
+"Weare, John H.",CHEM 131,WI19,92,40,0.243,0.162,7.36,2.28,2.98,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B,WI19,89,36,0.8859999999999999,0.8240000000000001,7.7,3.06,3.37,True,False,False,False,True
+"McHugh, Colleen A",CHEM 164,WI19,26,10,0.7,0.7,5.7,3.3,3.08,True,False,False,False,True
+"Amaro, Rommie E",CHEM 167,WI19,110,37,0.794,0.765,6.03,3.18,2.96,True,False,False,False,True
+"Thiemens, Mark H",CHEM 172,WI19,46,19,0.8420000000000001,0.8420000000000001,6.39,3.47,3.27,True,False,False,False,True
+"Bertrand, Guy",CHEM 40A,WI19,359,156,0.922,0.9790000000000001,6.44,3.22,2.89,True,False,False,False,False
+"Hoeger, Carl",CHEM 40A,WI19,189,80,0.8240000000000001,0.77,7.78,2.83,2.59,True,False,False,False,False
+"Ternansky, Robert J.",CHEM 40B,WI19,58,32,0.633,0.759,8.83,2.6,2.69,True,False,False,False,False
+"Weizman, Haim",CHEM 40B,WI19,351,163,0.805,0.927,7.61,2.94,2.99,True,False,False,False,False
+"Schmidt, Valerie A",CHEM 40B,WI19,382,333,0.8059999999999999,0.915,8.07,2.93,2.63,True,False,False,False,False
+"Hoeger, Carl",CHEM 40B,WI19,205,90,0.852,0.8859999999999999,8.35,2.9,2.7,True,False,False,False,False
+"Weizman, Haim",CHEM 40BH,WI19,67,42,0.9740000000000001,0.9740000000000001,7.71,3.53,3.5,True,False,False,False,False
+"Godula, Kamil",CHEM 40C,WI19,189,169,0.8690000000000001,0.9640000000000001,7.58,3.08,2.89,True,False,False,False,False
+"Klosterman, Jeremy K",CHEM 43A,WI19,266,223,0.7390000000000001,0.7879999999999999,8.07,3.14,2.88,True,False,False,False,False
+"Klosterman, Jeremy K",CHEM 43A,WI19,179,138,0.6990000000000001,0.691,8.33,3.07,2.88,True,False,False,False,False
+"Tezcan, Faik",CHEM 6A,WI19,248,129,0.8859999999999999,0.858,5.95,2.82,2.26,True,False,False,False,False
+"Albizati, Kim F.",CHEM 6A,WI19,425,208,0.8859999999999999,0.8590000000000001,5.37,3.18,2.68,True,False,False,False,False
+"Brydges, Stacey",CHEM 6B,WI19,411,237,0.912,0.888,5.87,3.23,3.01,True,False,False,False,False
+"Kummel, Andrew C",CHEM 6B,WI19,246,172,0.821,0.784,7.06,3.1,2.78,True,False,False,False,False
+"Komor, Alexis C",CHEM 6B,WI19,178,158,0.8320000000000001,0.838,4.99,3.13,2.79,True,False,False,False,False
+"Crowell, John E",CHEM 6B,WI19,125,65,0.6890000000000001,0.574,6.6,3.03,2.75,True,False,False,False,False
+"Lam, Tin Yiu",CHEM 6B,WI19,410,254,0.728,0.718,6.44,2.99,2.83,True,False,False,False,False
+"Young, Mark",CHEM 6B,WI19,182,117,0.655,0.514,7.06,2.85,2.73,True,False,False,False,False
+"Schnoebelen, Carly Lynn",CHEM 6B,WI19,244,153,0.932,0.966,4.68,3.32,2.72,True,False,False,False,False
+"Paesani, Francesco",CHEM 6BH,WI19,70,53,0.857,0.9390000000000001,7.26,3.24,3.39,True,False,False,False,False
+"Ghosh, Partho",CHEM 6C,WI19,185,98,0.779,0.815,6.9,2.78,2.48,True,False,False,False,False
+"Leigh, Brian",CHEM 7L,WI19,257,139,0.8,0.961,6.12,3.13,3.02,True,False,False,False,False
+"Leigh, Brian",CHEM 7L,WI19,306,139,0.8640000000000001,0.992,6.23,3.13,3.02,True,False,False,False,False
+"Leigh, Brian",CHEM 100A,FA18,142,60,0.845,0.9309999999999999,10.3,3.14,3.05,True,False,False,False,True
+"Crowell, John E",CHEM 105A,FA18,33,8,1.0,0.75,10.75,3.5,3.48,True,False,False,False,True
+"Crowell, John E",CHEM 105A,FA18,21,7,0.857,1.0,10.79,3.29,3.48,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 108,FA18,47,32,0.935,0.867,4.76,3.71,3.61,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 108,FA18,48,19,0.875,0.867,4.38,3.82,3.61,True,False,False,False,True
+"Mrse, Anthony Adrian",CHEM 11,FA18,250,117,0.858,0.919,4.68,3.2,2.76,True,False,False,False,False
+"Toor, Navtej",CHEM 114A,FA18,286,142,0.765,0.7090000000000001,6.06,3.16,3.12,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 114D,FA18,20,8,0.875,0.875,6.25,3.38,3.35,True,False,False,False,True
+"Galperin, Michael",CHEM 127,FA18,104,39,0.43200000000000005,0.444,9.2,2.76,2.57,True,False,False,False,True
+"Sinha, Amitabha",CHEM 130,FA18,111,47,0.5329999999999999,0.644,10.02,2.5,2.51,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143C,FA18,63,25,0.875,0.9129999999999999,6.58,3.5,3.38,True,False,False,False,True
+"Theodorakis, Emmanuel",CHEM 152,FA18,59,21,1.0,1.0,4.5,3.1,3.23,True,False,False,False,True
+"Tor, Yitzhak",CHEM 154,FA18,64,17,0.929,1.0,7.17,3.36,3.49,True,False,False,False,True
+"Grassian, Vicki Helene",CHEM 171,FA18,77,32,0.897,0.897,4.43,3.31,2.98,True,False,False,False,True
+"Sullivan, Michael N",CHEM 171,FA18,80,31,0.893,0.821,4.5,3.32,2.98,True,False,False,False,True
+"Hoeger, Carl",CHEM 4,FA18,332,188,0.75,0.759,6.18,2.6,2.96,True,False,False,False,False
+"Oconnor, Joseph M.",CHEM 40A,FA18,280,145,0.711,0.736,9.15,2.98,2.52,True,False,False,False,False
+"Hirschauer, Sonia S",CHEM 40A,FA18,227,130,0.8440000000000001,0.983,7.42,2.92,2.62,True,False,False,False,False
+"Klosterman, Jeremy K",CHEM 40A,FA18,126,96,0.9159999999999999,0.9470000000000001,7.64,2.97,2.79,True,False,False,False,False
+"Perrin, Charles L.",CHEM 40A,FA18,232,100,0.75,0.728,8.61,2.98,2.63,True,False,False,False,False
+"Hoeger, Carl",CHEM 40A,FA18,341,167,0.7859999999999999,0.816,9.47,3.01,3.03,True,False,False,False,False
+"Theodorakis, Emmanuel",CHEM 40B,FA18,360,134,0.81,0.851,7.64,2.72,2.42,True,False,False,False,False
+"Albizati, Kim F.",CHEM 40C,FA18,352,115,0.785,0.9329999999999999,8.63,2.97,2.68,True,False,False,False,False
+"Ternansky, Robert J.",CHEM 43A,FA18,460,194,0.809,0.935,7.69,3.23,3.11,True,False,False,False,False
+"Hirschauer, Sonia S",CHEM 6A,FA18,281,211,0.92,0.9640000000000001,5.95,2.97,2.67,True,False,False,False,False
+"Zid, Brian M",CHEM 6A,FA18,413,244,0.94,0.927,5.08,3.2,3.11,True,False,False,False,False
+"Brydges, Stacey",CHEM 6A,FA18,416,244,0.879,0.905,6.95,3.1,2.83,True,False,False,False,False
+"Lam, Tin Yiu",CHEM 6A,FA18,389,235,0.9640000000000001,0.9590000000000001,5.4,3.29,3.0,True,False,False,False,False
+"Lam, Tin Yiu",CHEM 6A,FA18,352,214,0.915,0.92,5.45,3.2,3.0,True,False,False,False,False
+"Bussey, Thomas J",CHEM 6A,FA18,409,251,0.932,0.9570000000000001,5.94,3.22,3.04,True,False,False,False,False
+"Crowell, John E",CHEM 6A,FA18,186,105,0.6729999999999999,0.408,6.54,2.82,2.79,True,False,False,False,False
+"Albizati, Kim F.",CHEM 6A,FA18,407,244,0.934,0.924,5.04,3.5,2.77,True,False,False,False,False
+"Swift, Robert Vernon",CHEM 6A,FA18,140,80,0.892,0.892,5.11,3.17,2.4,True,False,False,False,False
+"Tauber, Michael",CHEM 6AH,FA18,114,92,0.775,0.862,8.08,3.09,3.17,True,False,False,False,False
+"Young, Mark",CHEM 6B,FA18,228,116,0.735,0.779,6.8,2.83,2.63,True,False,False,False,False
+"Bussey, Thomas J",CHEM 6C,FA18,395,202,0.922,0.995,6.7,3.01,2.49,True,False,False,False,False
+"Kim, Judy E.",CHEM 7L,FA18,285,149,0.6759999999999999,0.741,6.82,2.99,2.87,True,False,False,False,False
+"Kim, Judy E.",CHEM 7L,FA18,335,156,0.649,0.721,7.22,2.99,2.87,True,False,False,False,False
+"Pomeroy, Robert S.",CHEM 100A,SP18,87,40,0.8059999999999999,0.971,9.94,3.22,3.04,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B,SP18,30,11,0.7,0.8,8.3,3.3,3.02,True,False,False,False,True
+"Sinha, Amitabha",CHEM 105A,SP18,77,27,0.731,0.9229999999999999,8.96,3.42,3.32,True,False,False,False,True
+"Jennings, Patricia A.",CHEM 108,SP18,48,18,0.722,0.389,8.28,3.72,3.7,True,False,False,False,True
+"Jennings, Patricia A.",CHEM 108,SP18,31,11,0.818,0.364,6.68,3.73,3.7,True,False,False,False,True
+"Wang, Wei",CHEM 11,SP18,242,197,0.8420000000000001,0.888,3.92,3.27,3.13,True,False,False,False,False
+"Debelouchina, Galia T",CHEM 113,SP18,21,9,0.889,1.0,6.5,3.89,4.0,True,False,False,False,True
+"Komives, Elizabeth A",CHEM 113,SP18,21,9,0.889,1.0,6.5,3.89,4.0,True,False,False,False,True
+"Joseph, Simpson",CHEM 114C,SP18,214,67,0.769,0.75,7.39,3.22,2.54,True,False,False,False,True
+"Amaro, Rommie E",CHEM 118,SP18,194,74,0.875,0.8059999999999999,5.77,3.61,3.42,True,False,False,False,True
+"Crowell, John E",CHEM 126,SP18,57,16,0.643,0.769,9.3,3.0,2.99,True,False,False,False,True
+"Yuen Zhou, Joel",CHEM 127,SP18,71,53,0.755,0.943,6.81,3.11,3.47,True,False,False,False,True
+"Opella, Stanley J",CHEM 13,SP18,60,25,0.625,0.667,3.94,2.8,2.59,True,False,False,False,False
+"Xiong, Wei",CHEM 132,SP18,72,26,0.846,0.9620000000000001,6.65,3.27,3.06,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B,SP18,77,26,0.9129999999999999,0.75,7.54,3.08,3.38,True,False,False,False,True
+"Weizman, Haim",CHEM 151,SP18,56,21,0.85,0.85,2.6,3.4,3.47,True,False,False,False,True
+"Burkart, Michael D",CHEM 157,SP18,45,25,0.792,0.875,5.92,2.95,3.22,True,False,False,False,True
+"Amaro, Rommie E",CHEM 167,SP18,89,34,0.941,0.882,5.89,3.42,3.27,True,False,False,False,True
+"Kristensen, Louise J",CHEM 173,SP18,53,18,0.706,0.688,4.38,3.0,3.15,True,False,False,False,True
+"Dickson, Andrew Gilmore",CHEM 174,SP18,22,9,0.5,0.5,3.0,3.25,2.87,True,False,False,False,True
+"Hoeger, Carl",CHEM 40A,SP18,242,98,0.773,0.7609999999999999,8.28,2.87,2.73,True,False,False,False,False
+"Weizman, Haim",CHEM 40B,SP18,386,148,0.727,0.8240000000000001,7.99,2.79,2.75,True,False,False,False,False
+"Molinski, Tadeusz",CHEM 40B,SP18,101,35,0.433,0.3,8.69,2.28,2.42,True,False,False,False,False
+"Ternansky, Robert J.",CHEM 40C,SP18,124,56,0.904,0.9420000000000001,8.62,3.15,2.84,True,False,False,False,False
+"Hoeger, Carl",CHEM 40C,SP18,261,110,0.644,0.767,8.98,2.87,2.86,True,False,False,False,False
+"Tor, Yitzhak",CHEM 40CH,SP18,72,34,0.97,0.97,7.26,3.47,3.44,True,False,False,False,False
+"Klosterman, Jeremy K",CHEM 43A,SP18,194,162,0.6809999999999999,0.469,7.74,3.01,3.0,True,False,False,False,False
+"Klosterman, Jeremy K",CHEM 43A,SP18,193,161,0.591,0.5660000000000001,7.93,3.01,3.0,True,False,False,False,False
+"Zid, Brian M",CHEM 6A,SP18,100,41,0.872,0.919,6.6,3.05,2.7,True,False,False,False,False
+"Deshmukh, Lalit",CHEM 6A,SP18,102,64,0.873,0.903,5.61,2.98,2.3,True,False,False,False,False
+"Bussey, Thomas J",CHEM 6B,SP18,275,125,0.899,0.958,7.19,2.75,2.4,True,False,False,False,False
+"Albizati, Kim F.",CHEM 6B,SP18,257,118,0.81,0.7979999999999999,6.38,2.97,2.76,True,False,False,False,False
+"Debelouchina, Galia T",CHEM 6C,SP18,250,214,0.9670000000000001,0.981,5.68,3.22,3.33,True,False,False,False,False
+"Johnson, Christina A",CHEM 6C,SP18,319,159,0.8540000000000001,0.9259999999999999,7.57,2.98,2.78,True,False,False,False,False
+"Johnson, Christina A",CHEM 6C,SP18,361,163,0.8540000000000001,0.883,8.0,2.94,2.78,True,False,False,False,False
+"Lam, Tin Yiu",CHEM 6C,SP18,410,198,0.8809999999999999,0.9470000000000001,6.6,3.25,2.86,True,False,False,False,False
+"Kubiak, Clifford Paul",CHEM 6CH,SP18,72,37,0.861,0.8059999999999999,5.47,3.49,3.23,True,False,False,False,False
+"Kim, Judy E.",CHEM 7L,SP18,270,125,0.802,0.792,7.13,3.19,3.01,True,False,False,False,False
+"Kim, Judy E.",CHEM 7L,SP18,270,107,0.8,0.82,6.6,3.44,3.01,True,False,False,False,False
+"Bussey, Thomas J",CHEM 96,SP18,23,13,1.0,1.0,3.12,4.0,3.7,True,False,False,False,False
+"Pena, Ignacio Lopez",CHEM 100A,WI18,81,52,0.26,0.245,12.38,3.2,2.84,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B,WI18,23,12,0.75,0.917,7.17,2.92,2.87,True,False,False,False,True
+"Crowell, John E",CHEM 105A,WI18,31,12,0.5,0.583,9.0,3.08,3.05,True,False,False,False,True
+"McHugh, Colleen A",CHEM 109,WI18,29,9,0.75,1.0,11.5,3.22,2.98,True,False,False,False,True
+"Johnson, Christina A",CHEM 109,WI18,41,15,0.846,1.0,12.81,3.31,3.21,True,False,False,False,True
+"Thiemens, Mark H",CHEM 111,WI18,60,24,0.81,0.81,4.4,3.45,2.94,True,False,False,False,True
+"Muller, Ulrich K.",CHEM 114A,WI18,90,34,0.8440000000000001,0.875,6.19,3.41,2.58,True,False,False,False,True
+"Komives, Elizabeth A",CHEM 114B,WI18,201,86,0.925,0.9620000000000001,6.7,3.33,3.32,True,False,False,False,True
+"Huang, Xuemei",CHEM 12,WI18,73,35,0.727,0.848,5.03,3.11,3.33,True,False,False,False,False
+"Sailor, Michael Joseph",CHEM 120B,WI18,122,54,0.94,0.98,5.58,3.34,3.21,True,False,False,False,True
+"Paesani, Francesco",CHEM 126,WI18,163,69,0.821,0.985,7.49,2.94,2.83,True,False,False,False,True
+"Weare, John H.",CHEM 131,WI18,85,36,0.371,0.257,5.81,2.97,3.08,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B,WI18,94,47,0.7909999999999999,0.7909999999999999,6.95,3.11,3.41,True,False,False,False,True
+"Devaraj, Neal Krishna",CHEM 168,WI18,135,45,0.857,0.8290000000000001,5.14,3.45,3.06,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 172,WI18,63,27,0.92,0.958,5.62,2.81,2.8,True,False,False,False,True
+"Bertrand, Guy",CHEM 40A,WI18,362,196,0.9359999999999999,0.9840000000000001,6.05,3.39,2.84,True,False,False,False,False
+"Albizati, Kim F.",CHEM 40A,WI18,340,134,0.9209999999999999,0.968,7.17,3.02,2.69,True,False,False,False,False
+"Ternansky, Robert J.",CHEM 40B,WI18,110,69,0.7879999999999999,0.9229999999999999,9.06,2.84,2.73,True,False,False,False,False
+"Hoeger, Carl",CHEM 40B,WI18,168,85,0.838,0.9620000000000001,8.7,2.96,2.81,True,False,False,False,False
+"Schmidt, Valerie A",CHEM 40B,WI18,361,327,0.865,0.9570000000000001,8.15,3.08,3.16,True,False,False,False,False
+"Weizman, Haim",CHEM 40B,WI18,272,139,0.835,0.917,8.42,2.9,2.69,True,False,False,False,False
+"Weizman, Haim",CHEM 40BH,WI18,54,33,0.9690000000000001,0.9690000000000001,7.81,3.44,3.62,True,False,False,False,False
+"Godula, Kamil",CHEM 40C,WI18,201,183,0.754,0.8740000000000001,8.23,3.01,2.8,True,False,False,False,False
+"Klosterman, Jeremy K",CHEM 43A,WI18,202,121,0.736,0.598,8.34,3.23,2.86,True,False,False,False,False
+"Klosterman, Jeremy K",CHEM 43A,WI18,192,114,0.67,0.486,8.44,3.08,2.86,True,False,False,False,False
+"Schimpf, Alina M",CHEM 6A,WI18,413,318,0.946,0.917,5.56,3.12,2.33,True,False,False,False,False
+"Tezcan, Faik",CHEM 6A,WI18,292,199,0.867,0.8859999999999999,5.77,2.76,2.35,True,False,False,False,False
+"Komor, Alexis C",CHEM 6B,WI18,241,154,0.8079999999999999,0.713,6.3,2.91,2.53,True,False,False,False,False
+"Kummel, Andrew C",CHEM 6B,WI18,142,81,0.8440000000000001,0.792,7.11,3.11,2.78,True,False,False,False,False
+"Hoeger, Carl",CHEM 6B,WI18,306,216,0.841,0.782,7.4,2.87,2.91,True,False,False,False,False
+"Johnson, Christina A",CHEM 6B,WI18,412,269,0.904,0.919,8.16,3.1,3.04,True,False,False,False,False
+"Crowell, John E",CHEM 6B,WI18,167,98,0.758,0.618,6.19,3.11,2.71,True,False,False,False,False
+"Lam, Tin Yiu",CHEM 6B,WI18,380,240,0.9009999999999999,0.937,6.54,3.32,3.07,True,False,False,False,False
+"Paesani, Francesco",CHEM 6BH,WI18,63,38,0.914,1.0,6.33,3.29,3.48,True,False,False,False,False
+"Ghosh, Partho",CHEM 6C,WI18,182,104,0.755,0.653,7.07,2.92,2.31,True,False,False,False,False
+"Cohen, Seth M",CHEM 7L,WI18,313,178,0.782,0.914,6.18,3.27,3.04,True,False,False,False,False
+"Cohen, Seth M",CHEM 7L,WI18,279,154,0.7879999999999999,0.924,6.55,3.31,3.04,True,False,False,False,False
+"Pena, Ignacio Lopez",CHEM 100A,FA17,94,43,0.419,0.605,11.12,2.98,2.81,True,False,False,False,True
+"Crowell, John E",CHEM 105A,FA17,41,14,0.857,1.0,9.93,3.29,2.98,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 108,FA17,48,24,1.0,0.85,3.98,3.65,3.6,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 108,FA17,46,11,1.0,0.818,5.23,3.82,3.6,True,False,False,False,True
+"Mrse, Anthony Adrian",CHEM 11,FA17,210,89,0.877,0.877,5.42,3.24,2.79,True,False,False,False,False
+"Toor, Navtej",CHEM 114A,FA17,233,101,0.722,0.573,6.26,3.14,2.96,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 114D,FA17,29,6,0.833,1.0,6.5,3.67,3.55,True,False,False,False,True
+"Rinehart, Jeffrey Dennis",CHEM 120A,FA17,250,100,0.856,0.958,6.11,3.24,3.19,True,False,False,False,True
+"Galperin, Michael",CHEM 127,FA17,119,48,0.37799999999999995,0.489,7.61,2.76,2.62,True,False,False,False,True
+"Sinha, Amitabha",CHEM 130,FA17,94,41,0.775,0.875,7.45,3.15,2.76,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143C,FA17,66,33,0.8390000000000001,0.9,6.13,2.97,3.4,True,False,False,False,True
+"Theodorakis, Emmanuel",CHEM 152,FA17,59,20,0.8420000000000001,0.8420000000000001,4.1,3.45,3.15,True,False,False,False,True
+"Tor, Yitzhak",CHEM 154,FA17,60,25,0.792,0.875,6.83,3.17,3.11,True,False,False,False,True
+"Grassian, Vicki Helene",CHEM 171,FA17,80,38,0.895,0.9470000000000001,4.66,3.29,2.96,True,False,False,False,True
+"Ray, Amelia W",CHEM 171,FA17,80,37,0.892,0.973,4.66,3.27,2.96,True,False,False,False,True
+"Hoeger, Carl",CHEM 4,FA17,310,172,0.768,0.785,6.78,2.58,2.92,True,False,False,False,False
+"Oconnor, Joseph M.",CHEM 40A,FA17,319,151,0.84,0.787,10.49,2.97,2.53,True,False,False,False,False
+"Yang, Jerry",CHEM 40A,FA17,105,45,0.75,0.682,8.41,2.98,2.66,True,False,False,False,False
+"Klosterman, Jeremy K",CHEM 40A,FA17,137,63,0.733,0.65,8.3,2.76,2.62,True,False,False,False,False
+"Perrin, Charles L.",CHEM 40A,FA17,341,146,0.737,0.809,8.31,2.92,2.45,True,False,False,False,False
+"Hoeger, Carl",CHEM 40A,FA17,317,142,0.8109999999999999,0.838,9.63,3.06,3.02,True,False,False,False,False
+"Theodorakis, Emmanuel",CHEM 40B,FA17,135,67,0.8,0.862,8.78,3.0,2.67,True,False,False,False,False
+"Weizman, Haim",CHEM 40B,FA17,224,85,0.924,0.9109999999999999,7.23,3.22,2.79,True,False,False,False,False
+"Albizati, Kim F.",CHEM 40C,FA17,277,119,0.777,0.9279999999999999,7.69,3.18,2.72,True,False,False,False,False
+"Ternansky, Robert J.",CHEM 43A,FA17,413,230,0.778,0.862,7.43,3.29,3.08,True,False,False,False,False
+"Bussey, Thomas J",CHEM 6A,FA17,404,219,0.9309999999999999,0.955,6.27,3.02,2.98,True,False,False,False,False
+"Lam, Tin Yiu",CHEM 6A,FA17,375,212,0.872,0.898,5.8,3.11,3.13,True,False,False,False,False
+"Lam, Tin Yiu",CHEM 6A,FA17,405,259,0.91,0.852,5.88,3.13,3.13,True,False,False,False,False
+"Johnson, Christina A",CHEM 6A,FA17,419,261,0.951,0.958,6.85,3.21,3.05,True,False,False,False,False
+"Johnson, Christina A",CHEM 6A,FA17,418,249,0.9,0.929,7.11,2.94,3.05,True,False,False,False,False
+"Ray, Amelia W",CHEM 6A,FA17,415,265,0.977,0.9840000000000001,5.5,3.49,3.18,True,False,False,False,False
+"Crowell, John E",CHEM 6A,FA17,205,105,0.6970000000000001,0.485,6.78,3.01,2.81,True,False,False,False,False
+"Holland, Ryan Lynn",CHEM 6A,FA17,149,89,0.9,0.75,5.32,3.63,3.24,True,False,False,False,False
+"Tauber, Michael",CHEM 6AH,FA17,106,66,0.594,0.73,8.5,2.97,3.26,True,False,False,False,False
+"Buyanin, Alex",CHEM 6B,FA17,190,90,0.705,0.69,7.57,3.0,2.71,True,False,False,False,False
+"Bussey, Thomas J",CHEM 6C,FA17,356,175,0.951,0.981,7.71,3.05,2.59,True,False,False,False,False
+"Kim, Judy E.",CHEM 7L,FA17,301,133,0.659,0.626,7.32,3.15,2.91,True,False,False,False,False
+"Kim, Judy E.",CHEM 7L,FA17,299,140,0.618,0.537,8.34,3.01,2.91,True,False,False,False,False
+"Tauber, Michael",CHEM 100A,SP17,82,39,0.568,0.595,11.42,3.19,2.95,True,False,False,False,True
+"Sinha, Amitabha",CHEM 105A,SP17,69,29,0.5770000000000001,0.769,8.19,3.29,3.35,True,False,False,False,True
+"Jennings, Patricia A.",CHEM 108,SP17,45,14,1.0,0.833,7.95,3.67,3.34,True,False,False,False,True
+"Huang, Xuemei",CHEM 108,SP17,24,10,1.0,1.0,6.5,3.33,3.28,True,False,False,False,True
+"Wang, Wei",CHEM 11,SP17,204,145,0.8109999999999999,0.79,4.59,3.35,3.0,True,False,False,False,False
+"Joseph, Simpson",CHEM 114C,SP17,191,56,0.86,0.84,6.24,3.14,2.71,True,False,False,False,True
+"Cohen, Seth M",CHEM 125,SP17,21,13,0.833,0.917,6.32,3.08,2.97,True,False,False,False,True
+"Tezcan, Faik",CHEM 125,SP17,21,12,0.818,0.909,6.3,3.09,2.97,True,False,False,False,True
+"Crowell, John E",CHEM 126,SP17,63,28,0.778,0.9259999999999999,6.58,3.5,3.02,True,False,False,False,True
+"Ray, Amelia W",CHEM 127,SP17,90,40,0.895,0.9740000000000001,6.66,3.42,2.91,True,False,False,False,True
+"Galperin, Michael",CHEM 132,SP17,49,23,0.609,0.9129999999999999,8.85,2.82,2.61,True,False,False,False,True
+"Hoeger, Carl",CHEM 140A,SP17,242,93,0.856,0.878,8.22,2.99,2.85,True,False,False,False,True
+"Weizman, Haim",CHEM 140B,SP17,343,145,0.8170000000000001,0.863,7.99,2.92,2.93,True,False,False,False,True
+"Schmidt, Valerie A",CHEM 140B,SP17,357,155,0.7609999999999999,0.8170000000000001,8.27,2.91,3.31,True,False,False,False,True
+"Hermann, Thomas",CHEM 140C,SP17,228,89,0.871,0.882,7.23,3.2,2.81,True,False,False,False,True
+"Albizati, Kim F.",CHEM 140C,SP17,358,116,0.7909999999999999,0.9179999999999999,8.37,3.09,2.69,True,False,False,False,True
+"Tor, Yitzhak",CHEM 140CH,SP17,63,33,0.938,0.9059999999999999,6.38,3.68,3.71,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143A,SP17,418,173,0.82,0.851,6.53,3.24,3.09,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B,SP17,58,18,0.706,0.882,8.5,2.71,3.23,True,False,False,False,True
+"Weizman, Haim",CHEM 151,SP17,76,33,0.9390000000000001,0.97,3.59,3.53,3.48,True,False,False,False,True
+"Burkart, Michael D",CHEM 157,SP17,61,29,0.893,0.9640000000000001,5.71,3.29,3.15,True,False,False,False,True
+"Baker, Timothy Stanley",CHEM 164,SP17,22,8,0.75,1.0,4.5,3.0,2.84,True,False,False,False,True
+"Amaro, Rommie E",CHEM 167,SP17,99,37,0.935,0.968,5.34,3.47,3.53,True,False,False,False,True
+"Evan, Amato Tomas",CHEM 173,SP17,35,15,0.867,0.8,4.93,3.5,3.31,True,False,False,False,True
+"Prather, Kimberly A",CHEM 173,SP17,35,15,0.867,0.867,5.07,3.5,3.31,True,False,False,False,True
+"Ramanathan, Veerabhadran",CHEM 173,SP17,35,15,0.867,0.8,4.93,3.5,3.31,True,False,False,False,True
+"Dickson, Andrew Gilmore",CHEM 174,SP17,28,15,0.7140000000000001,0.7140000000000001,5.64,2.92,2.94,True,False,False,False,True
+"Tezcan, Faik",CHEM 6A,SP17,161,68,0.7909999999999999,0.821,6.26,2.73,2.13,True,False,False,False,False
+"Hoeger, Carl",CHEM 6B,SP17,269,133,0.885,0.91,8.12,2.78,2.89,True,False,False,False,False
+"Trogler, William C",CHEM 6B,SP17,261,127,0.828,0.741,7.05,2.94,2.65,True,False,False,False,False
+"Lam, Tin Yiu",CHEM 6C,SP17,288,142,0.9159999999999999,0.87,6.94,3.22,2.95,True,False,False,False,False
+"Brydges, Stacey",CHEM 6C,SP17,364,166,0.898,0.924,6.36,3.32,3.18,True,False,False,False,False
+"Johnson, Christina A",CHEM 6C,SP17,272,130,0.8859999999999999,0.894,8.14,3.08,2.83,True,False,False,False,False
+"Johnson, Christina A",CHEM 6C,SP17,393,186,0.83,0.8690000000000001,8.42,2.98,2.83,True,False,False,False,False
+"Kim, Judy E.",CHEM 7L,SP17,283,136,0.667,0.465,6.74,3.07,2.94,True,False,False,False,False
+"Kim, Judy E.",CHEM 7L,SP17,241,100,0.701,0.474,6.67,3.1,2.94,True,False,False,False,False
+"Brydges, Stacey",CHEM 7LM,SP17,90,48,0.8859999999999999,0.932,9.34,3.42,3.57,True,False,False,False,False
+"Tauber, Michael",CHEM 100A,WI17,86,48,0.467,0.489,9.3,3.02,2.92,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B,WI17,20,4,1.0,1.0,11.0,3.67,2.62,True,False,False,False,True
+"Crowell, John E",CHEM 105A,WI17,33,14,0.583,0.833,9.83,2.92,2.94,True,False,False,False,True
+"Johnson, Christina A",CHEM 109,WI17,37,14,0.833,0.917,10.83,2.58,3.31,True,False,False,False,True
+"Johnson, Christina A",CHEM 109,WI17,20,10,0.778,1.0,10.72,3.22,3.31,True,False,False,False,True
+"Muller, Ulrich K.",CHEM 114A,WI17,107,39,0.9229999999999999,0.846,6.18,3.19,2.49,True,False,False,False,True
+"Komives, Elizabeth A",CHEM 114B,WI17,154,56,0.963,1.0,7.82,3.21,3.15,True,False,False,False,True
+"Amaro, Rommie E",CHEM 118,WI17,178,64,0.9840000000000001,0.9840000000000001,5.21,3.56,3.49,True,False,False,False,True
+"Hoeger, Carl",CHEM 12,WI17,84,39,0.821,0.897,5.24,3.0,3.34,True,False,False,False,False
+"Figueroa, Joshua",CHEM 120A,WI17,97,38,0.865,0.946,7.61,3.24,2.61,True,False,False,False,True
+"Sailor, Michael Joseph",CHEM 120B,WI17,79,42,0.976,0.976,6.45,3.44,3.09,True,False,False,False,True
+"Xiong, Wei",CHEM 126,WI17,153,55,0.38,0.58,8.5,2.94,2.88,True,False,False,False,True
+"Weare, John H.",CHEM 131,WI17,63,30,0.379,0.10300000000000001,8.98,2.59,3.08,True,False,False,False,True
+"Bertrand, Guy",CHEM 140A,WI17,365,194,0.968,0.978,6.51,3.41,2.83,True,False,False,False,True
+"Gianneschi, Nathan",CHEM 140A,WI17,263,123,0.7390000000000001,0.713,8.52,2.84,2.6,True,False,False,False,True
+"Albizati, Kim F.",CHEM 140B,WI17,404,184,0.845,0.92,8.38,3.05,2.77,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 140B,WI17,128,68,0.9259999999999999,0.941,9.31,2.88,2.67,True,False,False,False,True
+"Hoeger, Carl",CHEM 140B,WI17,201,99,0.8190000000000001,0.9359999999999999,9.73,3.02,2.86,True,False,False,False,True
+"Albizati, Kim F.",CHEM 140B,WI17,221,89,0.805,0.902,9.53,3.03,2.77,True,False,False,False,True
+"Weizman, Haim",CHEM 140BH,WI17,76,35,0.9229999999999999,0.9229999999999999,7.35,3.65,3.65,True,False,False,False,True
+"Godula, Kamil",CHEM 140C,WI17,203,193,0.855,0.8759999999999999,7.36,2.96,2.47,True,False,False,False,True
+"Weizman, Haim",CHEM 143A,WI17,449,200,0.7809999999999999,0.82,6.88,3.2,2.98,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B,WI17,74,35,0.765,0.912,7.62,3.15,3.32,True,False,False,False,True
+"Devaraj, Neal Krishna",CHEM 168,WI17,63,25,0.917,0.958,4.5,3.52,3.36,True,False,False,False,True
+"Estillore, Armando D",CHEM 171,WI17,82,35,0.909,0.909,5.05,3.32,2.95,True,False,False,False,True
+"Grassian, Vicki Helene",CHEM 171,WI17,81,34,0.9059999999999999,0.875,5.13,3.3,2.95,True,False,False,False,True
+"Schimpf, Alina M",CHEM 6A,WI17,375,175,0.866,0.637,6.44,3.03,2.59,True,False,False,False,False
+"Zid, Brian M",CHEM 6A,WI17,191,97,0.826,0.6409999999999999,6.81,2.85,2.71,True,False,False,False,False
+"Buyanin, Alex",CHEM 6B,WI17,345,223,0.828,0.612,7.07,2.82,2.55,True,False,False,False,False
+"Kummel, Andrew C",CHEM 6B,WI17,211,111,0.9209999999999999,0.812,6.6,3.21,2.69,True,False,False,False,False
+"Lam, Tin Yiu",CHEM 6B,WI17,285,148,0.91,0.903,7.2,3.27,2.86,True,False,False,False,False
+"Bussey, Thomas J",CHEM 6B,WI17,407,209,0.9229999999999999,0.9179999999999999,6.35,3.23,2.73,True,False,False,False,False
+"Johnson, Christina A",CHEM 6B,WI17,426,232,0.9359999999999999,0.9179999999999999,7.89,3.13,3.05,True,False,False,False,False
+"Crowell, John E",CHEM 6B,WI17,195,76,0.8059999999999999,0.556,7.53,2.94,2.73,True,False,False,False,False
+"Paesani, Francesco",CHEM 6BH,WI17,88,69,0.818,0.97,7.75,3.25,3.45,True,False,False,False,False
+"Brydges, Stacey",CHEM 6C,WI17,173,79,0.8590000000000001,0.872,6.37,3.22,2.87,True,False,False,False,False
+"Cohen, Seth M",CHEM 7L,WI17,260,158,0.888,0.9470000000000001,4.71,3.52,3.49,True,False,False,False,False
+"Cohen, Seth M",CHEM 7L,WI17,269,154,0.951,0.972,5.06,3.54,3.49,True,False,False,False,False
+"Shaheen, Robina",CHEM 100A,FA16,95,53,0.6459999999999999,0.125,8.12,3.17,3.18,True,False,False,False,True
+"Crowell, John E",CHEM 105A,FA16,29,11,0.727,0.818,10.5,2.73,3.0,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 108,FA16,73,39,0.9470000000000001,0.816,5.76,3.45,3.48,True,False,False,False,True
+"Mrse, Anthony Adrian",CHEM 11,FA16,202,86,0.705,0.769,5.06,3.13,3.17,True,False,False,False,False
+"Toor, Navtej",CHEM 114A,FA16,232,113,0.892,0.7120000000000001,6.65,3.29,2.9,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 114D,FA16,27,11,0.9,1.0,6.72,3.5,3.49,True,False,False,False,True
+"Rinehart, Jeffrey Dennis",CHEM 120A,FA16,161,86,0.941,0.976,7.31,3.25,2.74,True,False,False,False,True
+"Yuen Zhou, Joel",CHEM 127,FA16,126,101,0.64,0.62,8.02,2.86,2.94,True,False,False,False,True
+"Sinha, Amitabha",CHEM 130,FA16,80,34,0.727,0.667,9.25,2.94,2.7,True,False,False,False,True
+"Oconnor, Joseph M.",CHEM 140A,FA16,381,195,0.8109999999999999,0.767,9.47,2.95,2.76,True,False,False,False,True
+"Yang, Jerry",CHEM 140A,FA16,193,86,0.765,0.667,8.38,2.91,2.65,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 140A,FA16,188,128,0.863,0.863,9.79,2.92,2.7,True,False,False,False,True
+"Perrin, Charles L.",CHEM 140A,FA16,349,192,0.8270000000000001,0.8320000000000001,8.49,3.03,2.66,True,False,False,False,True
+"Albizati, Kim F.",CHEM 140A,FA16,158,81,0.9620000000000001,0.987,7.73,3.04,2.61,True,False,False,False,True
+"Theodorakis, Emmanouil",CHEM 140B,FA16,142,77,0.865,0.892,7.13,3.05,2.66,True,False,False,False,True
+"Hoeger, Carl",CHEM 140B,FA16,136,61,0.755,0.8490000000000001,9.62,3.06,2.63,True,False,False,False,True
+"Hermann, Thomas",CHEM 140C,FA16,283,116,0.9,0.9640000000000001,6.63,3.23,3.01,True,False,False,False,True
+"Cao, Kevin Jay",CHEM 143A,FA16,460,236,0.868,0.895,5.93,3.28,3.21,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143C,FA16,53,23,0.909,0.727,8.39,2.89,3.2,True,False,False,False,True
+"Theodorakis, Emmanouil",CHEM 152,FA16,44,22,0.773,0.818,3.95,3.27,3.48,True,False,False,False,True
+"Tor, Yitzhak",CHEM 154,FA16,39,22,0.9470000000000001,1.0,6.71,3.67,3.58,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 172,FA16,69,26,1.0,1.0,5.62,2.92,2.78,True,False,False,False,True
+"Hoeger, Carl",CHEM 4,FA16,235,139,0.857,0.865,6.96,2.8,2.75,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 6A,FA16,397,220,0.937,0.879,6.35,3.15,3.06,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 6A,FA16,205,121,0.955,0.9359999999999999,6.5,3.13,3.06,True,False,False,False,False
+"Brydges, Stacey",CHEM 6A,FA16,329,190,0.961,0.956,6.96,3.42,3.1,True,False,False,False,False
+"Johnson, Christina A",CHEM 6A,FA16,425,245,0.935,0.978,7.88,3.0,3.18,True,False,False,False,False
+"Johnson, Christina A",CHEM 6A,FA16,433,275,0.927,0.943,7.35,3.1,3.18,True,False,False,False,False
+"Crowell, John E",CHEM 6A,FA16,326,188,0.873,0.53,7.67,3.02,2.72,True,False,False,False,False
+"Moore, Amy Lea",CHEM 6A,FA16,327,197,0.945,0.9009999999999999,6.3,3.31,3.08,True,False,False,False,False
+"Lam, Tin Yiu",CHEM 6A,FA16,193,116,0.91,0.856,6.68,3.26,2.88,True,False,False,False,False
+"Albizati, Kim F.",CHEM 6A,FA16,217,120,0.929,0.92,5.77,3.49,3.01,True,False,False,False,False
+"Tauber, Michael",CHEM 6AH,FA16,125,86,0.785,0.759,8.35,3.3,3.34,True,False,False,False,False
+"Bussey, Thomas J",CHEM 6B,FA16,210,106,0.8909999999999999,0.99,5.79,3.19,2.7,True,False,False,False,False
+"Bussey, Thomas J",CHEM 6C,FA16,385,172,0.97,0.982,6.61,3.21,2.81,True,False,False,False,False
+"Kim, Judy E.",CHEM 7L,FA16,347,182,0.7659999999999999,0.743,7.17,3.2,2.97,True,False,False,False,False
+"Kim, Judy E.",CHEM 7L,FA16,336,165,0.765,0.81,6.33,3.22,2.97,True,False,False,False,False
+"Pomeroy, Robert S.",CHEM 100A,SP16,80,41,0.6920000000000001,0.897,7.83,3.03,2.8,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B,SP16,20,6,1.0,1.0,5.3,3.2,2.98,True,False,False,False,True
+"Xiong, Wei",CHEM 105A,SP16,46,20,0.556,0.889,8.5,3.06,3.23,True,False,False,False,True
+"Huang, Xuemei",CHEM 108,SP16,51,18,1.0,1.0,9.43,3.47,3.48,True,False,False,False,True
+"Mrse, Anthony Adrian",CHEM 108,SP16,51,17,1.0,1.0,9.43,3.47,3.48,True,False,False,False,True
+"Wang, Wei",CHEM 11,SP16,199,170,0.812,0.7290000000000001,4.05,3.36,3.13,True,False,False,False,False
+"Wollman, Roy",CHEM 114B,SP16,38,15,1.0,0.7140000000000001,5.93,3.64,3.2,True,False,False,False,True
+"Joseph, Simpson",CHEM 114C,SP16,148,44,0.773,0.614,6.95,3.0,2.7,True,False,False,False,True
+"Crowell, John E",CHEM 126,SP16,44,16,0.733,0.8,8.23,2.73,2.97,True,False,False,False,True
+"Villa Rodriguez, Elizabeth",CHEM 127,SP16,90,62,0.82,0.902,5.71,3.15,2.91,True,False,False,False,True
+"Opella, Stanley J",CHEM 13,SP16,60,29,0.444,0.556,4.57,3.07,2.91,True,False,False,False,False
+"Galperin, Michael",CHEM 132,SP16,42,23,0.7390000000000001,0.826,7.77,2.85,2.77,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 140A,SP16,209,109,0.7859999999999999,0.825,9.85,2.86,2.67,True,False,False,False,True
+"Siegel, Dionicio R.",CHEM 140B,SP16,387,276,0.9259999999999999,0.9590000000000001,6.94,3.16,2.34,True,False,False,False,True
+"Weizman, Haim",CHEM 140B,SP16,323,119,0.722,0.852,8.48,2.76,2.63,True,False,False,False,True
+"Albizati, Kim F.",CHEM 140C,SP16,403,144,0.858,0.9329999999999999,7.97,3.13,2.72,True,False,False,False,True
+"Hoeger, Carl",CHEM 140C,SP16,195,84,0.833,0.8079999999999999,8.53,2.99,3.04,True,False,False,False,True
+"Tor, Yitzhak",CHEM 140CH,SP16,70,36,0.943,0.971,6.96,3.65,3.67,True,False,False,False,True
+"Albizati, Kim F.",CHEM 143A,SP16,458,167,0.88,0.98,6.51,3.33,3.03,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B,SP16,82,30,0.963,0.9259999999999999,6.81,3.12,3.3,True,False,False,False,True
+"Weizman, Haim",CHEM 151,SP16,64,36,0.879,0.909,3.77,3.42,3.57,True,False,False,False,True
+"Burkart, Michael D",CHEM 157,SP16,26,10,0.9,1.0,4.7,3.2,3.26,True,False,False,False,True
+"Baker, Timothy Stanley",CHEM 164,SP16,30,12,0.75,0.917,5.83,3.33,3.24,True,False,False,False,True
+"Dickson, Andrew Gilmore",CHEM 174,SP16,34,12,0.778,0.889,4.72,3.44,2.79,True,False,False,False,True
+"Tezcan, Faik",CHEM 6A,SP16,108,43,0.85,0.675,6.19,3.08,2.54,True,False,False,False,False
+"Fisher, Kaitlin Mallory",CHEM 6B,SP16,350,173,0.941,0.988,7.11,3.23,3.23,True,False,False,False,False
+"Fisher, Kaitlin Mallory",CHEM 6B,SP16,185,87,0.9179999999999999,0.988,6.55,3.17,3.2,True,False,False,False,False
+"Hoeger, Carl",CHEM 6C,SP16,197,94,0.9329999999999999,0.843,6.91,3.26,2.88,True,False,False,False,False
+"Brydges, Stacey",CHEM 6C,SP16,356,169,0.929,0.955,6.7,3.21,3.2,True,False,False,False,False
+"Johnson, Christina A",CHEM 6C,SP16,353,165,0.86,0.809,8.14,2.89,2.86,True,False,False,False,False
+"Johnson, Christina A",CHEM 6C,SP16,400,202,0.872,0.857,8.25,2.82,2.83,True,False,False,False,False
+"Kubiak, Clifford Paul",CHEM 6CH,SP16,91,44,0.7859999999999999,0.905,6.55,3.56,3.53,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,SP16,273,107,0.8059999999999999,0.922,5.01,3.41,3.06,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,SP16,273,119,0.7959999999999999,0.8320000000000001,5.82,3.24,3.03,True,False,False,False,False
+"Brydges, Stacey",CHEM 7LM,SP16,93,50,0.9570000000000001,0.9570000000000001,10.85,3.45,3.54,True,False,False,False,False
+"Tauber, Michael",CHEM 100A,WI16,57,28,0.679,0.643,8.29,3.04,2.83,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B,WI16,21,9,1.0,0.889,8.06,3.33,3.13,True,False,False,False,True
+"Crowell, John E",CHEM 105A,WI16,25,14,0.7140000000000001,0.7859999999999999,11.58,3.08,3.14,True,False,False,False,True
+"Johnson, Christina A",CHEM 109,WI16,61,17,0.813,0.875,12.5,3.56,3.33,True,False,False,False,True
+"Bussey, Thomas J",CHEM 114A,WI16,91,48,0.909,0.932,8.09,3.3,2.99,True,False,False,False,True
+"Komives, Elizabeth A",CHEM 114B,WI16,123,66,0.927,0.945,7.59,3.24,3.22,True,False,False,False,True
+"Amaro, Rommie E",CHEM 118,WI16,97,36,1.0,0.971,5.13,3.4,3.49,True,False,False,False,True
+"Dibrov, Sergey M",CHEM 12,WI16,152,137,0.75,0.787,4.4,3.2,2.64,True,False,False,False,False
+"Figueroa, Joshua",CHEM 120A,WI16,80,43,0.875,0.825,8.24,2.92,2.78,True,False,False,False,True
+"Sailor, Michael Joseph",CHEM 120B,WI16,43,21,1.0,1.0,4.71,3.5,3.54,True,False,False,False,True
+"Paesani, Francesco",CHEM 126,WI16,130,62,0.789,0.9470000000000001,7.94,3.11,2.84,True,False,False,False,True
+"Weare, John H.",CHEM 131,WI16,54,32,0.531,0.344,7.47,2.81,3.22,True,False,False,False,True
+"Bertrand, Guy",CHEM 140A,WI16,376,189,0.9059999999999999,0.972,6.83,3.25,2.75,True,False,False,False,True
+"Gianneschi, Nathan",CHEM 140A,WI16,272,131,0.8,0.62,8.33,2.74,2.78,True,False,False,False,True
+"Albizati, Kim F.",CHEM 140B,WI16,407,193,0.909,0.978,8.2,3.09,2.72,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 140B,WI16,196,127,0.87,0.878,9.39,3.1,2.68,True,False,False,False,True
+"Burkart, Michael D",CHEM 140B,WI16,376,199,0.877,0.9440000000000001,8.56,3.1,2.72,True,False,False,False,True
+"Weizman, Haim",CHEM 140BH,WI16,64,43,0.93,0.93,8.31,3.49,3.66,True,False,False,False,True
+"Godula, Kamil",CHEM 140C,WI16,184,171,0.871,0.929,7.36,3.09,2.72,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143A,WI16,404,197,0.787,0.649,7.17,2.99,3.11,True,False,False,False,True
+"Weizman, Haim",CHEM 143AM,WI16,64,36,0.912,0.941,8.09,3.29,2.97,True,False,False,False,True
+"Albizati, Kim F.",CHEM 143B,WI16,86,38,0.941,0.971,5.83,3.45,3.14,True,False,False,False,True
+"Devaraj, Neal Krishna",CHEM 168,WI16,52,21,0.9520000000000001,0.9520000000000001,5.36,3.24,3.26,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 172,WI16,39,17,0.941,1.0,6.26,3.18,2.95,True,False,False,False,True
+"Dibrov, Sergey M",CHEM 6A,WI16,128,87,0.7829999999999999,0.47,6.25,2.44,2.24,True,False,False,False,False
+"Dembinski, Holly",CHEM 6A,WI16,248,125,0.826,0.461,6.19,2.47,2.78,True,False,False,False,False
+"Fisher, Kaitlin Mallory",CHEM 6A,WI16,211,103,0.9279999999999999,0.938,6.64,3.08,3.19,True,False,False,False,False
+"Trogler, William C",CHEM 6B,WI16,384,225,0.9259999999999999,0.7959999999999999,6.28,3.39,3.24,True,False,False,False,False
+"Kummel, Andrew C",CHEM 6B,WI16,378,242,0.909,0.9129999999999999,6.25,3.26,2.86,True,False,False,False,False
+"Hamaoka, Brent Y",CHEM 6B,WI16,153,85,0.833,0.513,5.29,3.08,2.79,True,False,False,False,False
+"Hoeger, Carl",CHEM 6B,WI16,375,227,0.925,0.868,7.57,3.12,2.83,True,False,False,False,False
+"Johnson, Christina A",CHEM 6B,WI16,428,261,0.894,0.9209999999999999,7.65,3.1,3.03,True,False,False,False,False
+"Paesani, Francesco",CHEM 6BH,WI16,104,79,0.882,0.9740000000000001,7.37,3.57,3.46,True,False,False,False,False
+"Hoeger, Carl",CHEM 6C,WI16,155,73,0.875,0.861,7.97,2.69,2.73,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,WI16,225,94,0.8170000000000001,0.878,6.06,3.12,3.05,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,WI16,205,111,0.846,0.875,5.94,3.26,3.05,True,False,False,False,False
+"Fisher, Kaitlin Mallory",CHEM 7L,WI16,131,76,0.833,0.986,6.09,3.43,3.32,True,False,False,False,False
+"Brydges, Stacey",CHEM 7LM,WI16,77,42,0.976,1.0,8.83,3.55,3.65,True,False,False,False,False
+"Pomeroy, Robert S.",CHEM 100A,FA15,121,60,0.759,0.81,7.64,3.26,3.0,True,False,False,False,True
+"Xiong, Wei",CHEM 105A,FA15,30,5,1.0,1.0,8.5,3.6,3.06,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 108,FA15,57,20,1.0,0.75,5.17,3.53,3.42,True,False,False,False,True
+"Brydges, Stacey",CHEM 11,FA15,197,91,0.909,0.9890000000000001,4.91,3.31,3.22,True,False,False,False,False
+"Toor, Navtej",CHEM 114A,FA15,190,83,0.889,0.852,6.53,3.26,3.09,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 114D,FA15,29,4,0.5,0.75,5.5,3.25,3.47,True,False,False,False,True
+"Rinehart, Jeffrey Dennis",CHEM 120A,FA15,116,58,0.9059999999999999,0.925,5.13,3.33,2.91,True,False,False,False,True
+"Yuen Zhou, Joel",CHEM 127,FA15,113,55,0.49,0.33299999999999996,8.62,3.04,2.77,True,False,False,False,True
+"Sinha, Amitabha",CHEM 130,FA15,85,44,0.628,0.674,8.75,2.8,2.4,True,False,False,False,True
+"Oconnor, Joseph M.",CHEM 140A,FA15,392,161,0.8390000000000001,0.879,9.65,3.07,2.72,True,False,False,False,True
+"Yang, Jerry",CHEM 140A,FA15,257,108,0.868,0.84,8.44,3.13,2.79,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 140A,FA15,248,146,0.804,0.696,10.78,2.68,2.68,True,False,False,False,True
+"Perrin, Charles L.",CHEM 140A,FA15,341,171,0.82,0.919,8.71,2.99,2.75,True,False,False,False,True
+"Theodorakis, Emmanouil",CHEM 140B,FA15,347,118,0.7979999999999999,0.9079999999999999,8.09,2.89,2.78,True,False,False,False,True
+"Hermann, Thomas",CHEM 140C,FA15,204,128,0.8390000000000001,0.895,7.95,3.17,2.76,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143A,FA15,410,186,0.8270000000000001,0.851,6.63,3.21,3.09,True,False,False,False,True
+"Albizati, Kim F.",CHEM 143C,FA15,66,31,0.9670000000000001,1.0,6.17,3.3,3.29,True,False,False,False,True
+"Theodorakis, Emmanouil",CHEM 152,FA15,22,10,1.0,1.0,4.5,3.63,3.92,True,False,False,False,True
+"Tor, Yitzhak",CHEM 154,FA15,38,14,0.9229999999999999,1.0,5.83,3.33,3.41,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 171,FA15,110,46,0.867,0.889,5.8,3.07,2.72,True,False,False,False,True
+"Hoeger, Carl",CHEM 4,FA15,245,146,0.889,0.8959999999999999,6.89,2.73,2.96,True,False,False,False,False
+"Zimmermann, Joerg",CHEM 6A,FA15,342,229,0.858,0.647,6.72,3.03,3.09,True,False,False,False,False
+"Crowell, John E",CHEM 6A,FA15,413,228,0.8170000000000001,0.349,6.99,2.98,2.79,True,False,False,False,False
+"Dembinski, Holly",CHEM 6A,FA15,355,183,0.866,0.555,6.25,3.02,2.94,True,False,False,False,False
+"Johnson, Christina A",CHEM 6A,FA15,422,230,0.943,0.981,6.86,3.26,3.16,True,False,False,False,False
+"Bussey, Thomas J",CHEM 6A,FA15,404,246,0.953,0.953,6.46,3.28,2.97,True,False,False,False,False
+"Crowell, John E",CHEM 6A,FA15,352,191,0.769,0.387,7.22,3.04,2.79,True,False,False,False,False
+"Bussey, Thomas J",CHEM 6A,FA15,359,195,0.93,0.973,6.2,3.27,2.97,True,False,False,False,False
+"Kim, Judy E.",CHEM 6AH,FA15,157,98,0.63,0.9129999999999999,8.74,3.12,3.17,True,False,False,False,False
+"Hoeger, Carl",CHEM 6B,FA15,220,89,0.89,0.89,7.83,2.91,2.64,True,False,False,False,False
+"Johnson, Christina A",CHEM 6C,FA15,356,144,0.8959999999999999,0.948,8.29,2.91,2.64,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,FA15,268,121,0.8,0.89,5.88,3.25,3.04,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,FA15,266,105,0.835,0.8759999999999999,6.5,3.35,3.04,True,False,False,False,False
+"Hamaoka, Brent Y",CHEM 7L,FA15,132,60,0.946,0.821,7.01,3.35,3.42,True,False,False,False,False
+"Leigh, Brian",CHEM 100A,SP15,62,28,0.833,0.833,7.28,3.05,2.79,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B,SP15,25,9,0.875,0.875,12.5,3.13,2.98,True,False,False,False,True
+"Crowell, John E",CHEM 105A,SP15,42,16,0.5329999999999999,0.6,10.1,3.0,2.97,True,False,False,False,True
+"Mrse, Anthony Adrian",CHEM 108,SP15,46,18,0.8240000000000001,0.941,8.85,3.56,3.4,True,False,False,False,True
+"Wang, Wei",CHEM 11,SP15,158,58,0.754,0.561,4.08,3.64,2.95,True,False,False,False,False
+"Komives, Elizabeth A",CHEM 113,SP15,21,6,1.0,1.0,7.3,4.0,3.8,True,False,False,False,True
+"Wollman, Roy",CHEM 114B,SP15,32,23,0.773,0.818,6.5,3.33,3.06,True,False,False,False,True
+"Joseph, Simpson",CHEM 114C,SP15,174,55,0.88,0.86,6.24,3.38,2.81,True,False,False,False,True
+"Rinehart, Jeffrey Dennis",CHEM 120A,SP15,103,50,0.875,0.958,7.0,3.31,2.88,True,False,False,False,True
+"Sailor, Michael Joseph",CHEM 120B,SP15,48,22,0.8640000000000001,0.909,5.26,3.45,3.17,True,False,False,False,True
+"Crowell, John E",CHEM 126,SP15,63,25,0.56,0.48,6.95,3.0,2.59,True,False,False,False,True
+"Tauber, Michael",CHEM 127,SP15,59,27,0.889,0.852,6.57,3.08,2.66,True,False,False,False,True
+"Opella, Stanley J",CHEM 13,SP15,51,18,0.625,0.875,4.0,2.88,2.95,True,False,False,False,False
+"Galperin, Michael",CHEM 132,SP15,35,14,0.7140000000000001,1.0,6.65,3.0,2.67,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 140A,SP15,218,89,0.7440000000000001,0.7909999999999999,9.86,2.77,2.6,True,False,False,False,True
+"Molinski, Tadeusz",CHEM 140B,SP15,118,38,0.605,0.289,8.55,2.59,2.63,True,False,False,False,True
+"Whitesell, James K.",CHEM 140B,SP15,389,153,0.7190000000000001,0.489,5.8,3.25,2.73,True,False,False,False,True
+"Albizati, Kim F.",CHEM 140C,SP15,383,128,0.88,0.9490000000000001,8.21,3.22,2.74,True,False,False,False,True
+"Hoeger, Carl",CHEM 140C,SP15,111,49,0.723,0.83,8.23,2.93,2.89,True,False,False,False,True
+"Tor, Yitzhak",CHEM 140CH,SP15,48,25,0.9129999999999999,0.9570000000000001,7.68,3.43,3.72,True,False,False,False,True
+"Albizati, Kim F.",CHEM 143A,SP15,367,130,0.9079999999999999,0.9670000000000001,6.42,3.39,3.05,True,False,False,False,True
+"Albizati, Kim F.",CHEM 143A,SP15,89,31,0.966,1.0,8.22,3.27,3.05,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B,SP15,84,36,0.882,0.941,6.85,3.09,3.25,True,False,False,False,True
+"Burkart, Michael D",CHEM 157,SP15,36,11,0.909,0.727,5.59,2.82,3.06,True,False,False,False,True
+"Baker, Timothy Stanley",CHEM 164,SP15,43,17,0.813,1.0,5.3,3.63,3.21,True,False,False,False,True
+"Swift, Robert Vernon",CHEM 167,SP15,24,10,1.0,1.0,6.06,3.56,3.2,True,False,False,False,True
+"Zimmermann, Joerg",CHEM 6A,SP15,125,47,0.841,0.591,4.59,3.0,2.64,True,False,False,False,False
+"Johnson, Christina A",CHEM 6B,SP15,373,165,0.848,0.9179999999999999,7.67,2.83,2.64,True,False,False,False,False
+"Hamaoka, Brent Y",CHEM 6B,SP15,176,61,0.857,0.7140000000000001,5.88,2.82,2.46,True,False,False,False,False
+"Hoeger, Carl",CHEM 6C,SP15,247,109,0.897,0.8690000000000001,7.29,2.98,2.85,True,False,False,False,False
+"Brydges, Stacey",CHEM 6C,SP15,400,177,0.9009999999999999,0.983,6.28,3.2,3.11,True,False,False,False,False
+"Pomeroy, Robert S.",CHEM 6C,SP15,300,139,0.843,0.642,6.19,3.11,2.94,True,False,False,False,False
+"Johnson, Christina A",CHEM 6C,SP15,396,184,0.888,0.9159999999999999,8.31,3.07,2.95,True,False,False,False,False
+"Kubiak, Clifford Paul",CHEM 6CH,SP15,71,39,0.919,0.919,6.93,3.25,3.27,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,SP15,266,91,0.8390000000000001,0.851,5.66,3.29,2.96,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,SP15,270,96,0.835,0.89,6.25,3.05,2.96,True,False,False,False,False
+"Brydges, Stacey",CHEM 7LM,SP15,94,57,0.9109999999999999,0.9109999999999999,9.75,3.38,3.58,True,False,False,False,False
+"Tauber, Michael",CHEM 100A,WI15,45,25,0.682,0.455,9.55,2.76,2.78,True,False,False,False,True
+"Magde, Douglas",CHEM 105A,WI15,45,14,0.833,0.917,9.59,3.09,3.01,True,False,False,False,True
+"Zimmermann, Joerg",CHEM 105A,WI15,45,14,0.833,0.833,9.59,3.09,3.01,True,False,False,False,True
+"Johnson, Christina A",CHEM 109,WI15,79,29,0.963,0.963,9.54,3.46,3.39,True,False,False,False,True
+"Toor, Navtej",CHEM 114A,WI15,104,53,0.941,0.961,6.15,3.24,2.99,True,False,False,False,True
+"Komives, Elizabeth A",CHEM 114B,WI15,134,58,0.852,0.963,6.96,3.21,3.26,True,False,False,False,True
+"Devaraj, Neal Krishna",CHEM 116,WI15,25,6,0.833,1.0,6.5,3.6,3.4,True,False,False,False,True
+"Tukey, Robert H",CHEM 118,WI15,118,45,0.9209999999999999,0.868,5.87,3.34,2.84,True,False,False,False,True
+"Dibrov, Sergey M",CHEM 12,WI15,149,125,0.696,0.752,4.6,2.94,2.78,True,False,False,False,False
+"Figueroa, Joshua",CHEM 120A,WI15,123,62,0.867,0.9329999999999999,6.31,3.23,2.71,True,False,False,False,True
+"Paesani, Francesco",CHEM 126,WI15,149,65,0.645,0.903,8.57,3.08,2.58,True,False,False,False,True
+"Weare, John H.",CHEM 131,WI15,62,32,0.633,0.2,8.09,3.0,2.93,True,False,False,False,True
+"Bertrand, Guy",CHEM 140A,WI15,408,175,0.9259999999999999,0.9690000000000001,6.18,3.35,2.78,True,False,False,False,True
+"Gianneschi, Nathan",CHEM 140A,WI15,320,129,0.861,0.754,7.41,2.76,2.45,True,False,False,False,True
+"Guerrero, Carlos Ariel",CHEM 140B,WI15,278,108,0.775,0.735,8.82,3.0,2.55,True,False,False,False,True
+"Whitesell, James K.",CHEM 140B,WI15,267,92,0.8740000000000001,0.621,6.71,3.36,2.73,True,False,False,False,True
+"Theodorakis, Emmanouil",CHEM 140B,WI15,306,145,0.7559999999999999,0.8809999999999999,7.61,2.72,3.0,True,False,False,False,True
+"Weizman, Haim",CHEM 140BH,WI15,42,21,1.0,0.9520000000000001,7.55,3.76,3.74,True,False,False,False,True
+"Godula, Kamil",CHEM 140C,WI15,118,48,0.83,0.872,6.72,3.11,2.75,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143A,WI15,306,131,0.877,0.877,6.5,3.17,3.08,True,False,False,False,True
+"Albizati, Kim F.",CHEM 143A,WI15,106,40,0.895,0.9470000000000001,7.74,3.24,3.11,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B,WI15,88,42,0.95,0.9,6.5,3.28,3.37,True,False,False,False,True
+"Theodorakis, Emmanouil",CHEM 151,WI15,48,18,0.882,0.294,3.56,3.29,3.7,True,False,False,False,True
+"Weizman, Haim",CHEM 151,WI15,49,18,0.882,1.0,3.56,3.29,3.7,True,False,False,False,True
+"Devaraj, Neal Krishna",CHEM 168,WI15,22,5,1.0,1.0,3.7,3.6,3.4,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 172,WI15,32,12,0.818,0.909,8.68,3.18,2.93,True,False,False,False,True
+"Bussey, Thomas J",CHEM 6A,WI15,262,148,0.9,0.9209999999999999,6.49,3.15,2.7,True,False,False,False,False
+"Hoeger, Carl",CHEM 6A,WI15,101,43,0.927,0.951,7.01,2.78,2.56,True,False,False,False,False
+"Johnson, Christina A",CHEM 6A,WI15,284,128,0.902,0.951,6.65,2.82,2.69,True,False,False,False,False
+"Trogler, William C",CHEM 6B,WI15,352,181,0.9109999999999999,0.757,5.9,3.3,2.98,True,False,False,False,False
+"Kummel, Andrew C",CHEM 6B,WI15,388,211,0.9129999999999999,0.835,6.81,3.09,2.75,True,False,False,False,False
+"Muller, Ulrich K.",CHEM 6B,WI15,372,196,0.9109999999999999,0.861,5.05,3.42,2.87,True,False,False,False,False
+"Leigh, Brian",CHEM 6B,WI15,356,175,0.9129999999999999,0.953,6.28,3.2,2.77,True,False,False,False,False
+"Hoeger, Carl",CHEM 6B,WI15,399,201,0.9059999999999999,0.833,7.54,3.05,2.84,True,False,False,False,False
+"Paesani, Francesco",CHEM 6BH,WI15,97,61,0.8420000000000001,0.93,7.21,3.22,3.28,True,False,False,False,False
+"Ghosh, Partho",CHEM 6C,WI15,305,126,0.8320000000000001,0.857,6.48,2.94,2.63,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,WI15,260,96,0.924,0.826,6.1,3.29,3.02,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,WI15,267,103,0.863,0.8420000000000001,5.87,3.34,3.02,True,False,False,False,False
+"Brydges, Stacey",CHEM 7LM,WI15,87,47,0.83,0.894,8.5,3.11,3.31,True,False,False,False,False
+"Pomeroy, Robert S.",CHEM 100A,FA14,88,36,0.848,0.879,8.94,3.19,2.8,True,False,False,False,True
+"Xiong, Wei",CHEM 105A,FA14,37,18,0.875,0.688,8.0,3.5,3.01,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 108,FA14,78,29,1.0,0.88,5.54,3.72,3.5,True,False,False,False,True
+"Dibrov, Sergey M",CHEM 11,FA14,266,133,0.696,0.643,4.68,3.24,3.14,True,False,False,False,False
+"Jennings, Patricia A.",CHEM 114A,FA14,245,91,0.767,0.302,6.23,3.31,3.26,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 114D,FA14,33,12,1.0,1.0,9.17,3.82,3.64,True,False,False,False,True
+"Tauber, Michael",CHEM 127,FA14,149,60,0.778,0.759,8.58,3.15,2.71,True,False,False,False,True
+"Sinha, Amitabha",CHEM 130,FA14,79,42,0.6,0.8,8.24,2.92,2.58,True,False,False,False,True
+"Oconnor, Joseph M.",CHEM 140A,FA14,362,162,0.7709999999999999,0.807,10.08,3.06,2.81,True,False,False,False,True
+"Yang, Jerry",CHEM 140A,FA14,264,102,0.84,0.638,7.98,2.98,2.62,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 140A,FA14,214,114,0.862,0.899,10.01,2.92,2.74,True,False,False,False,True
+"Reyes-Rodriguez, Gabriel J",CHEM 140A,FA14,352,190,0.882,0.9109999999999999,8.28,3.07,2.71,True,False,False,False,True
+"Albizati, Kim F.",CHEM 140B,FA14,311,105,0.856,0.9890000000000001,7.56,3.03,2.57,True,False,False,False,True
+"Hermann, Thomas",CHEM 140C,FA14,275,169,0.86,0.917,7.32,3.11,2.76,True,False,False,False,True
+"Albizati, Kim F.",CHEM 143A,FA14,335,133,0.87,0.983,7.45,3.29,2.99,True,False,False,False,True
+"Albizati, Kim F.",CHEM 143A,FA14,117,30,0.893,1.0,6.35,3.37,2.99,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143C,FA14,73,30,0.9229999999999999,1.0,8.35,3.35,3.29,True,False,False,False,True
+"Guerrero, Carlos Ariel",CHEM 152,FA14,26,6,0.833,0.833,8.17,3.0,3.15,True,False,False,False,True
+"Tor, Yitzhak",CHEM 154,FA14,49,18,1.0,1.0,7.61,3.39,3.34,True,False,False,False,True
+"Collins, Douglas Bradford",CHEM 171,FA14,64,28,0.9620000000000001,0.885,7.14,3.08,2.69,True,False,False,False,True
+"Hoeger, Carl",CHEM 4,FA14,304,168,0.889,0.917,6.12,2.78,2.76,True,False,False,False,False
+"Hoeger, Carl",CHEM 6A,FA14,404,254,0.9490000000000001,0.899,7.2,3.1,2.96,True,False,False,False,False
+"Crowell, John E",CHEM 6A,FA14,407,220,0.83,0.521,6.83,3.14,2.95,True,False,False,False,False
+"Bussey, Thomas J",CHEM 6A,FA14,419,266,0.953,0.9570000000000001,6.12,3.35,3.24,True,False,False,False,False
+"Johnson, Christina A",CHEM 6A,FA14,413,226,0.907,0.9590000000000001,7.72,3.14,3.07,True,False,False,False,False
+"Zimmermann, Joerg",CHEM 6A,FA14,319,204,0.875,0.648,6.29,3.16,2.94,True,False,False,False,False
+"Hamaoka, Brent Y",CHEM 6A,FA14,316,204,0.941,0.888,5.57,3.51,3.11,True,False,False,False,False
+"Crowell, John E",CHEM 6A,FA14,349,190,0.86,0.446,6.68,3.14,2.95,True,False,False,False,False
+"Kim, Judy E.",CHEM 6AH,FA14,179,116,0.6940000000000001,0.857,8.17,3.3,3.16,True,False,False,False,False
+"Hamaoka, Brent Y",CHEM 6B,FA14,310,127,0.922,0.8,7.04,3.04,2.62,True,False,False,False,False
+"Johnson, Christina A",CHEM 6C,FA14,415,169,0.8340000000000001,0.945,8.15,2.85,2.68,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,FA14,269,101,0.862,0.862,6.13,3.4,3.01,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,FA14,262,91,0.7709999999999999,0.831,6.94,3.43,3.01,True,False,False,False,False
+"Martz, Todd R.",CHEM 100A,SP14,73,32,0.7140000000000001,0.7859999999999999,7.14,3.5,3.31,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B,SP14,22,9,0.875,1.0,6.25,2.88,2.77,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100BL,SP14,22,7,0.7140000000000001,1.0,10.21,2.86,2.97,True,False,False,False,True
+"Kim, Judy E.",CHEM 105A,SP14,38,12,0.667,1.0,7.17,3.33,2.92,True,False,False,False,True
+"Crowell, John E",CHEM 105A,SP14,43,13,0.833,0.583,6.86,3.36,2.89,True,False,False,False,True
+"Huang, Xuemei",CHEM 108,SP14,59,23,0.9,0.95,11.3,3.5,3.37,True,False,False,False,True
+"Brydges, Stacey",CHEM 11,SP14,184,92,0.897,0.9890000000000001,4.38,3.26,3.3,True,False,False,False,False
+"Komives, Elizabeth A",CHEM 113,SP14,24,12,1.0,1.0,5.83,3.67,3.88,True,False,False,False,True
+"Walker, Ross Charles",CHEM 113,SP14,24,10,1.0,1.0,5.83,3.6,3.88,True,False,False,False,True
+"Wollman, Roy",CHEM 114B,SP14,52,26,0.955,0.909,7.59,3.45,3.22,True,False,False,False,True
+"Joseph, Simpson",CHEM 114C,SP14,204,59,0.768,0.768,8.03,3.24,2.65,True,False,False,False,True
+"Tezcan, Faik",CHEM 120A,SP14,111,39,0.703,0.784,6.68,3.03,2.26,True,False,False,False,True
+"Opella, Stanley J",CHEM 13,SP14,63,20,0.75,0.75,4.4,3.25,2.81,True,False,False,False,False
+"Galperin, Michael",CHEM 133,SP14,81,31,0.5479999999999999,0.742,11.63,2.6,2.49,True,False,False,False,True
+"Whitesell, James K.",CHEM 140A,SP14,245,69,0.7809999999999999,0.516,6.56,3.11,2.54,True,False,False,False,True
+"Theodorakis, Emmanouil",CHEM 140B,SP14,371,106,0.816,0.9490000000000001,7.59,2.99,2.65,True,False,False,False,True
+"Whitesell, James K.",CHEM 140B,SP14,389,103,0.768,0.484,6.52,3.11,2.65,True,False,False,False,True
+"Hoeger, Carl",CHEM 140C,SP14,299,96,0.8370000000000001,0.848,9.65,3.14,3.04,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 140C,SP14,120,64,0.953,0.938,10.23,3.04,2.69,True,False,False,False,True
+"Tor, Yitzhak",CHEM 140CH,SP14,62,26,0.9229999999999999,1.0,7.88,3.48,3.65,True,False,False,False,True
+"Weizman, Haim",CHEM 143A,SP14,335,115,0.922,0.8540000000000001,6.32,3.28,2.97,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B,SP14,108,40,0.861,0.861,8.16,3.0,3.25,True,False,False,False,True
+"Perrin, Charles L.",CHEM 146,SP14,22,8,0.75,0.875,3.25,2.88,3.42,True,False,False,False,True
+"Burkart, Michael D",CHEM 157,SP14,70,21,0.857,0.9520000000000001,5.74,3.29,2.97,True,False,False,False,True
+"Baker, Timothy Stanley",CHEM 164,SP14,33,12,0.833,0.917,6.33,3.27,3.1,True,False,False,False,True
+"AMARO, ROMMIE",CHEM 167,SP14,67,48,0.9129999999999999,0.87,5.26,3.3,3.47,True,False,False,False,True
+"Dickson, Andrew Gilmore",CHEM 174,SP14,32,7,1.0,0.857,5.64,3.57,2.87,True,False,False,False,True
+"Johnson, Christina A",CHEM 6A,SP14,261,85,0.9259999999999999,0.951,7.46,2.82,2.66,True,False,False,False,False
+"Crowell, John E",CHEM 6B,SP14,372,140,0.721,0.544,7.31,2.91,2.58,True,False,False,False,False
+"Johnson, Christina A",CHEM 6B,SP14,440,187,0.852,0.934,7.48,2.92,2.75,True,False,False,False,False
+"Albizati, Kim F.",CHEM 6C,SP14,409,199,0.9009999999999999,0.995,6.17,3.19,2.57,True,False,False,False,False
+"Hoeger, Carl",CHEM 6C,SP14,208,100,0.9059999999999999,0.885,7.48,3.04,2.96,True,False,False,False,False
+"Brydges, Stacey",CHEM 6C,SP14,423,201,0.922,0.922,6.74,3.15,3.0,True,False,False,False,False
+"Ghosh, Gourisankar",CHEM 6C,SP14,260,122,0.8079999999999999,0.225,6.52,2.88,2.76,True,False,False,False,False
+"Kubiak, Clifford Paul",CHEM 6CH,SP14,85,45,0.8220000000000001,0.889,6.32,3.34,3.42,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,SP14,266,101,0.872,0.862,6.39,3.17,2.89,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,SP14,224,82,0.838,0.738,6.47,3.41,2.89,True,False,False,False,False
+"Lingner, David W",CHEM 100A,WI14,77,37,0.7140000000000001,0.34299999999999997,7.01,3.03,2.94,True,False,False,False,True
+"Continetti, Robert E.",CHEM 105A,WI14,67,28,0.852,0.852,9.73,3.48,3.0,True,False,False,False,True
+"Johnson, Christina A",CHEM 109,WI14,95,43,0.951,0.976,7.96,3.24,3.34,True,False,False,False,True
+"Toor, Navtej",CHEM 114A,WI14,114,56,0.963,1.0,6.84,3.49,2.86,True,False,False,False,True
+"Komives, Elizabeth A",CHEM 114B,WI14,230,85,0.889,0.963,7.64,3.25,2.9,True,False,False,False,True
+"Devaraj, Neal Krishna",CHEM 116,WI14,36,11,1.0,0.9,8.3,3.2,3.41,True,False,False,False,True
+"Dorrestein, Pieter",CHEM 116,WI14,36,10,0.9,0.9,8.3,3.0,3.41,True,False,False,False,True
+"Tukey, Robert H",CHEM 118,WI14,154,62,0.9329999999999999,0.7829999999999999,4.6,3.32,2.88,True,False,False,False,True
+"Fry, Nicole L",CHEM 12,WI14,152,68,0.636,0.591,4.5,3.43,3.24,True,False,False,False,False
+"Sailor, Michael Joseph",CHEM 120B,WI14,67,36,0.8859999999999999,0.914,5.95,3.53,3.18,True,False,False,False,True
+"Tauber, Michael",CHEM 127,WI14,270,99,0.685,0.815,7.1,3.1,2.72,True,False,False,False,True
+"Lindenberg, Katja",CHEM 132,WI14,80,37,0.735,0.853,8.32,3.09,2.48,True,False,False,False,True
+"Bertrand, Guy",CHEM 140A,WI14,303,101,0.937,0.968,6.94,3.28,2.74,True,False,False,False,True
+"Albizati, Kim F.",CHEM 140A,WI14,413,165,0.91,0.9940000000000001,7.57,3.16,2.63,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 140B,WI14,285,145,0.82,0.899,10.39,2.95,2.67,True,False,False,False,True
+"Hoeger, Carl",CHEM 140B,WI14,327,132,0.754,0.831,8.67,3.02,2.9,True,False,False,False,True
+"Hoeger, Carl",CHEM 140B,WI14,211,87,0.8,0.925,10.09,2.94,2.9,True,False,False,False,True
+"Weizman, Haim",CHEM 140BH,WI14,80,37,0.972,1.0,8.06,3.57,3.61,True,False,False,False,True
+"Whitesell, James K.",CHEM 140C,WI14,113,46,0.7909999999999999,0.767,5.45,3.51,2.87,True,False,False,False,True
+"Albizati, Kim F.",CHEM 143A,WI14,415,158,0.9540000000000001,0.9670000000000001,6.97,3.56,3.02,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B,WI14,98,45,0.956,0.8440000000000001,7.15,3.16,3.32,True,False,False,False,True
+"Whitesell, James K.",CHEM 151,WI14,69,24,0.958,0.917,2.85,3.96,4.0,True,False,False,False,True
+"Devaraj, Neal Krishna",CHEM 168,WI14,43,20,1.0,1.0,3.55,3.89,3.5,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 172,WI14,41,12,0.917,1.0,6.17,3.25,2.68,True,False,False,False,True
+"Sinha, Amitabha",CHEM 6A,WI14,293,154,0.8220000000000001,0.637,6.36,2.89,2.49,True,False,False,False,False
+"Trogler, William C",CHEM 6A,WI14,346,196,0.932,0.758,5.9,3.16,2.85,True,False,False,False,False
+"Johnson, Christina A",CHEM 6A,WI14,409,237,0.912,0.956,7.06,2.91,2.88,True,False,False,False,False
+"Crowell, John E",CHEM 6B,WI14,429,245,0.8909999999999999,0.525,6.73,3.19,2.75,True,False,False,False,False
+"Kummel, Andrew C",CHEM 6B,WI14,416,229,0.882,0.85,7.11,3.07,2.7,True,False,False,False,False
+"Muller, Ulrich K.",CHEM 6B,WI14,408,267,0.8740000000000001,0.912,5.42,3.36,2.98,True,False,False,False,False
+"Crowell, John E",CHEM 6B,WI14,425,244,0.838,0.479,6.88,3.16,2.75,True,False,False,False,False
+"Paesani, Francesco",CHEM 6BH,WI14,114,68,0.846,0.9540000000000001,6.38,3.38,3.19,True,False,False,False,False
+"Ghosh, Partho",CHEM 6C,WI14,186,76,0.973,0.904,6.14,3.08,2.58,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,WI14,262,96,0.83,0.841,7.27,3.26,2.78,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,WI14,224,91,0.838,0.813,6.42,3.4,2.78,True,False,False,False,False
+"Pomeroy, Robert S.",CHEM 100A,FA13,117,50,0.6940000000000001,0.857,7.31,3.42,3.18,True,False,False,False,True
+"Magde, Douglas",CHEM 105A,FA13,39,18,0.765,0.941,7.79,3.25,3.29,True,False,False,False,True
+"Hamaoka, Brent Y",CHEM 108,FA13,46,22,0.9520000000000001,1.0,8.79,3.43,3.13,True,False,False,False,True
+"Hamaoka, Brent Y",CHEM 108,FA13,25,10,1.0,0.889,7.17,3.63,3.13,True,False,False,False,True
+"Lennox, Joseph",CHEM 11,FA13,204,177,0.8240000000000001,0.795,4.78,3.45,3.27,True,False,False,False,False
+"Jennings, Patricia A.",CHEM 114A,FA13,240,106,0.86,0.58,6.89,3.5,2.88,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 114D,FA13,31,13,0.769,0.846,7.27,3.55,3.12,True,False,False,False,True
+"Figueroa, Joshua",CHEM 120A,FA13,167,88,0.81,0.833,7.51,3.32,2.55,True,False,False,False,True
+"Kim, Judy E.",CHEM 126,FA13,268,104,0.657,0.899,8.77,3.04,2.66,True,False,False,False,True
+"Paesani, Francesco",CHEM 131,FA13,135,65,0.769,0.862,7.78,3.25,2.64,True,False,False,False,True
+"Oconnor, Joseph M.",CHEM 140A,FA13,388,189,0.8059999999999999,0.88,9.51,3.2,2.8,True,False,False,False,True
+"Yang, Jerry",CHEM 140A,FA13,341,163,0.8190000000000001,0.742,8.75,3.06,2.6,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 140A,FA13,244,142,0.929,0.915,10.9,2.94,2.66,True,False,False,False,True
+"Perrin, Charles L.",CHEM 140A,FA13,193,92,0.888,0.843,8.93,3.21,2.62,True,False,False,False,True
+"Guerrero, Carlos Ariel",CHEM 140B,FA13,229,105,0.7240000000000001,0.551,8.52,2.8,2.58,True,False,False,False,True
+"Hermann, Thomas",CHEM 140C,FA13,173,132,0.785,0.877,6.87,3.07,2.6,True,False,False,False,True
+"Weizman, Haim",CHEM 143A,FA13,391,150,0.8690000000000001,0.91,7.36,3.24,3.0,True,False,False,False,True
+"Albizati, Kim F.",CHEM 143AH,FA13,76,35,0.9690000000000001,0.938,8.3,3.56,3.49,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143C,FA13,83,46,0.976,0.9520000000000001,8.01,3.33,3.43,True,False,False,False,True
+"Guerrero, Carlos Ariel",CHEM 152,FA13,21,8,0.75,0.75,8.0,3.0,2.75,True,False,False,False,True
+"Tor, Yitzhak",CHEM 154,FA13,47,15,1.0,1.0,7.3,3.53,3.3,True,False,False,False,True
+"Bertram, Timothy",CHEM 171,FA13,73,34,0.7809999999999999,0.813,6.13,3.0,3.04,True,False,False,False,True
+"Hoeger, Carl",CHEM 4,FA13,346,221,0.89,0.9,6.77,2.95,2.8,True,False,False,False,False
+"Hoeger, Carl",CHEM 6A,FA13,426,263,0.9440000000000001,0.8959999999999999,7.9,3.11,2.78,True,False,False,False,False
+"Czworkowski, John",CHEM 6A,FA13,423,227,0.899,0.7709999999999999,6.29,3.28,2.66,True,False,False,False,False
+"Czworkowski, John",CHEM 6A,FA13,419,255,0.895,0.787,6.06,3.28,2.66,True,False,False,False,False
+"Lennox, Joseph",CHEM 6A,FA13,407,372,0.879,0.677,7.33,3.02,3.07,True,False,False,False,False
+"Johnson, Christina A",CHEM 6A,FA13,381,221,0.9440000000000001,0.9670000000000001,6.89,3.08,3.03,True,False,False,False,False
+"Zimmermann, Joerg",CHEM 6A,FA13,334,269,0.932,0.617,6.28,3.15,2.98,True,False,False,False,False
+"Weare, John H.",CHEM 6AH,FA13,189,128,0.496,0.317,8.65,3.33,3.45,True,False,False,False,False
+"Albizati, Kim F.",CHEM 6B,FA13,222,97,0.914,0.9570000000000001,5.98,3.21,2.76,True,False,False,False,False
+"Johnson, Christina A",CHEM 6C,FA13,381,168,0.943,0.975,7.71,3.08,2.76,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,FA13,273,107,0.8079999999999999,0.8170000000000001,6.31,3.28,2.84,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,FA13,272,110,0.8690000000000001,0.8590000000000001,5.56,3.3,2.84,True,False,False,False,False
+"Williams, Renee T",CHEM 100A,SP13,97,44,0.614,0.25,9.95,3.19,3.24,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B,SP13,29,13,0.9229999999999999,1.0,5.12,3.15,2.99,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100BL,SP13,29,13,0.9229999999999999,1.0,7.27,3.46,3.33,True,False,False,False,True
+"Magde, Douglas",CHEM 105A,SP13,79,20,0.526,0.789,9.76,3.21,3.18,True,False,False,False,True
+"Hamaoka, Brent Y",CHEM 108,SP13,46,18,0.765,0.882,9.32,3.24,3.09,True,False,False,False,True
+"Hamaoka, Brent Y",CHEM 108,SP13,41,14,1.0,1.0,8.36,3.43,3.09,True,False,False,False,True
+"Lennox, Joseph",CHEM 11,SP13,148,118,0.873,0.847,5.15,3.21,3.19,True,False,False,False,False
+"Komives, Elizabeth A",CHEM 113,SP13,37,13,0.9229999999999999,1.0,8.5,4.0,3.75,True,False,False,False,True
+"Walker, Ross Charles",CHEM 113,SP13,37,13,0.9229999999999999,1.0,5.83,4.0,3.75,True,False,False,False,True
+"Joseph, Simpson",CHEM 114C,SP13,337,133,0.93,0.922,6.09,3.51,2.45,True,False,False,False,True
+"Tezcan, Faik",CHEM 120A,SP13,179,72,0.915,0.831,6.65,3.28,2.61,True,False,False,False,True
+"Tezcan, Faik",CHEM 125,SP13,44,15,0.667,0.733,7.17,2.86,2.52,True,False,False,False,True
+"Swift, Robert Vernon",CHEM 13,SP13,81,36,0.722,0.9440000000000001,3.7,3.29,3.49,True,False,False,False,False
+"Galperin, Michael",CHEM 133,SP13,102,33,0.424,0.545,9.63,2.82,2.58,True,False,False,False,True
+"Albizati, Kim F.",CHEM 140A,SP13,336,123,0.919,0.9840000000000001,7.05,3.07,2.73,True,False,False,False,True
+"Molinski, Tadeusz",CHEM 140B,SP13,82,29,0.7929999999999999,0.24100000000000002,8.71,3.11,2.01,True,False,False,False,True
+"Whitesell, James K.",CHEM 140B,SP13,334,116,0.7909999999999999,0.38299999999999995,7.91,3.03,2.34,True,False,False,False,True
+"Albizati, Kim F.",CHEM 140C,SP13,394,133,0.8859999999999999,0.955,7.17,3.28,2.66,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 140C,SP13,77,47,0.872,1.0,9.03,3.16,2.67,True,False,False,False,True
+"Tor, Yitzhak",CHEM 140CH,SP13,28,17,0.941,0.941,9.44,3.47,3.65,True,False,False,False,True
+"Weizman, Haim",CHEM 143A,SP13,438,149,0.877,0.903,7.02,3.3,3.05,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B,SP13,120,53,0.8109999999999999,0.9059999999999999,6.77,3.14,3.49,True,False,False,False,True
+"Hermann, Thomas",CHEM 157,SP13,73,21,0.81,0.9520000000000001,6.12,2.95,2.74,True,False,False,False,True
+"Perrin, Charles L.",CHEM 158,SP13,21,10,0.8,1.0,6.3,2.89,3.29,True,False,False,False,True
+"Baker, Timothy Stanley",CHEM 164,SP13,37,17,0.882,1.0,4.75,3.5,3.15,True,False,False,False,True
+"AMARO, ROMMIE",CHEM 167,SP13,47,29,0.9640000000000001,1.0,5.21,3.73,3.32,True,False,False,False,True
+"Dickson, Andrew Gilmore",CHEM 174,SP13,39,14,0.643,0.7140000000000001,5.58,3.31,2.73,True,False,False,False,True
+"Crowell, John E",CHEM 6A,SP13,177,53,0.5660000000000001,0.28300000000000003,6.23,2.67,2.37,True,False,False,False,False
+"Johnson, Christina A",CHEM 6B,SP13,306,108,0.848,0.971,7.67,2.89,2.71,True,False,False,False,False
+"Johnson, Christina A",CHEM 6B,SP13,350,120,0.898,0.958,7.01,3.0,2.71,True,False,False,False,False
+"Hoeger, Carl",CHEM 6C,SP13,319,142,0.897,0.89,7.93,3.11,2.69,True,False,False,False,False
+"Hoeger, Carl",CHEM 6C,SP13,274,108,0.8490000000000001,0.604,7.59,3.0,2.69,True,False,False,False,False
+"Ghosh, Gourisankar",CHEM 6C,SP13,242,88,0.8370000000000001,0.581,4.62,3.35,2.77,True,False,False,False,False
+"Bertram, Timothy",CHEM 6C,SP13,249,106,0.971,0.9620000000000001,6.5,3.24,2.66,True,False,False,False,False
+"Kubiak, Clifford Paul",CHEM 6CH,SP13,56,26,0.8079999999999999,0.885,7.12,3.32,3.15,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,SP13,271,102,0.91,0.88,6.07,3.41,2.9,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,SP13,274,95,0.7959999999999999,0.828,6.37,3.33,2.9,True,False,False,False,False
+"Williams, Renee T",CHEM 100A,WI13,108,62,0.49200000000000005,0.28800000000000003,8.64,3.08,2.78,True,False,False,False,True
+"Huang, Xuemei",CHEM 100B,WI13,23,9,0.889,0.667,3.83,2.67,3.26,True,False,False,False,True
+"Mrse, Anthony Adrian",CHEM 100B,WI13,23,9,1.0,0.778,4.28,2.67,3.26,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100BL,WI13,22,8,1.0,0.875,8.25,3.0,3.28,True,False,False,False,True
+"Kim, Judy E.",CHEM 105A,WI13,69,42,0.61,0.902,7.1,3.24,2.86,True,False,False,False,True
+"Johnson, Christina A",CHEM 109,WI13,50,33,0.909,1.0,8.14,3.28,3.4,True,False,False,False,True
+"Johnson, Christina A",CHEM 109,WI13,44,21,0.9520000000000001,0.9520000000000001,9.26,3.25,3.4,True,False,False,False,True
+"Toor, Navtej",CHEM 114A,WI13,132,63,0.8640000000000001,0.8809999999999999,6.68,3.36,2.92,True,False,False,False,True
+"Komives, Elizabeth A",CHEM 114B,WI13,337,168,0.7659999999999999,0.802,8.09,3.26,3.15,True,False,False,False,True
+"Devaraj, Neal Krishna",CHEM 116,WI13,25,13,0.769,0.9229999999999999,5.88,3.38,3.21,True,False,False,False,True
+"Dorrestein, Pieter",CHEM 116,WI13,25,14,0.7140000000000001,0.7859999999999999,7.36,3.43,3.21,True,False,False,False,True
+"Tukey, Robert H",CHEM 118,WI13,178,83,0.902,0.805,5.25,2.99,2.86,True,False,False,False,True
+"Lennox, Joseph",CHEM 12,WI13,152,92,0.446,0.598,5.23,3.05,3.17,True,False,False,False,False
+"Rheingold, Arnold L",CHEM 120B,WI13,79,40,0.757,0.649,6.72,3.19,2.78,True,False,False,False,True
+"Tauber, Michael",CHEM 127,WI13,308,178,0.618,0.685,7.8,2.92,2.65,True,False,False,False,True
+"Galperin, Michael",CHEM 132,WI13,92,45,0.841,0.795,8.31,2.95,2.61,True,False,False,False,True
+"Whitesell, James K.",CHEM 140A,WI13,198,85,0.8079999999999999,0.526,7.88,3.09,2.08,True,False,False,False,True
+"Bertrand, Guy",CHEM 140A,WI13,328,148,0.887,0.937,6.16,3.23,2.74,True,False,False,False,True
+"Guerrero, Carlos Ariel",CHEM 140B,WI13,241,119,0.7929999999999999,0.698,8.85,2.97,2.6,True,False,False,False,True
+"Hoeger, Carl",CHEM 140B,WI13,234,124,0.7829999999999999,0.867,9.58,2.98,2.87,True,False,False,False,True
+"Whitesell, James K.",CHEM 140B,WI13,209,84,0.6990000000000001,0.42200000000000004,7.47,2.86,2.35,True,False,False,False,True
+"Weizman, Haim",CHEM 140BH,WI13,62,42,0.833,0.905,7.23,3.5,3.8,True,False,False,False,True
+"Jennings, Patricia A.",CHEM 140C,WI13,248,90,0.778,0.478,7.24,3.19,3.07,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143A,WI13,398,213,0.868,0.873,7.0,3.23,3.1,True,False,False,False,True
+"Albizati, Kim F.",CHEM 143AH,WI13,60,40,0.9,0.975,9.01,3.67,3.39,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B,WI13,124,74,0.878,0.919,6.11,3.13,3.49,True,False,False,False,True
+"Nicolaou, Kyriacos C",CHEM 151,WI13,53,21,0.905,0.857,4.1,3.65,3.79,True,False,False,False,True
+"Baker, Timothy Stanley",CHEM 165,WI13,21,10,0.8,0.9,6.3,3.11,2.97,True,False,False,False,True
+"Viadiu, Hector",CHEM 165,WI13,21,10,0.7,0.9,6.5,3.11,2.97,True,False,False,False,True
+"Devaraj, Neal Krishna",CHEM 168,WI13,20,10,1.0,1.0,4.7,3.89,3.39,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 172,WI13,57,24,1.0,1.0,5.83,3.3,2.74,True,False,False,False,True
+"Sinha, Amitabha",CHEM 6A,WI13,264,125,0.836,0.541,6.87,2.71,2.37,True,False,False,False,False
+"Johnson, Christina A",CHEM 6A,WI13,361,188,0.9390000000000001,0.972,7.28,3.02,2.85,True,False,False,False,False
+"Trogler, William C",CHEM 6A,WI13,248,108,0.922,0.8540000000000001,5.98,3.34,2.92,True,False,False,False,False
+"Muller, Ulrich K.",CHEM 6B,WI13,358,205,0.92,0.93,5.37,3.47,3.25,True,False,False,False,False
+"Hoeger, Carl",CHEM 6B,WI13,352,171,0.88,0.838,8.09,3.02,2.79,True,False,False,False,False
+"Crowell, John E",CHEM 6B,WI13,329,141,0.862,0.5579999999999999,6.52,3.32,2.88,True,False,False,False,False
+"Kummel, Andrew C",CHEM 6B,WI13,319,138,0.85,0.835,7.5,2.94,2.64,True,False,False,False,False
+"Paesani, Francesco",CHEM 6BH,WI13,79,54,0.87,0.981,7.65,3.46,3.23,True,False,False,False,False
+"Ghosh, Partho",CHEM 6C,WI13,258,131,0.898,0.875,5.78,3.35,2.64,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,WI13,254,117,0.8420000000000001,0.868,7.05,3.31,2.94,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,WI13,260,120,0.8909999999999999,0.882,5.9,3.3,2.94,True,False,False,False,False
+"Pomeroy, Robert S.",CHEM 100A,FA12,91,44,0.7140000000000001,0.833,7.64,3.15,3.15,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B,FA12,24,11,0.9,0.9,6.1,3.2,2.86,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100BL,FA12,23,8,0.875,0.875,7.25,3.5,3.2,True,False,False,False,True
+"Tauber, Michael",CHEM 105A,FA12,29,19,0.778,0.889,8.39,3.06,2.9,True,False,False,False,True
+"Hamaoka, Brent Y",CHEM 108,FA12,32,14,1.0,1.0,8.07,3.36,3.06,True,False,False,False,True
+"Hamaoka, Brent Y",CHEM 108,FA12,46,28,0.8079999999999999,0.9229999999999999,8.25,3.4,3.06,True,False,False,False,True
+"Brydges, Stacey",CHEM 11,FA12,159,81,0.882,0.9470000000000001,4.5,3.36,3.36,True,False,False,False,False
+"Brydges, Stacey",CHEM 11,FA12,146,81,0.972,0.972,5.4,3.48,3.36,True,False,False,False,False
+"Viadiu, Hector",CHEM 114A,FA12,350,187,0.9259999999999999,0.88,6.49,3.49,2.61,True,False,False,False,True
+"Figueroa, Joshua",CHEM 120A,FA12,182,85,0.7090000000000001,0.848,7.77,3.16,2.72,True,False,False,False,True
+"Kim, Judy E.",CHEM 126,FA12,301,239,0.7859999999999999,0.92,8.06,3.16,2.61,True,False,False,False,True
+"Paesani, Francesco",CHEM 131,FA12,139,67,0.813,0.922,8.08,2.97,2.58,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 140A,FA12,244,146,0.9009999999999999,0.858,9.95,3.02,2.72,True,False,False,False,True
+"Oconnor, Joseph M.",CHEM 140A,FA12,318,145,0.93,0.8909999999999999,9.73,3.26,2.74,True,False,False,False,True
+"Perrin, Charles L.",CHEM 140A,FA12,320,144,0.774,0.88,8.39,2.96,2.59,True,False,False,False,True
+"Opella, Stanley J",CHEM 140A,FA12,61,30,0.893,0.75,7.07,3.64,2.58,True,False,False,False,True
+"Theodorakis, Emmanouil",CHEM 140B,FA12,293,108,0.772,0.861,7.69,2.84,2.68,True,False,False,False,True
+"Hermann, Thomas",CHEM 140C,FA12,297,211,0.86,0.879,7.24,3.24,3.01,True,False,False,False,True
+"Weizman, Haim",CHEM 143A,FA12,439,177,0.853,0.941,6.86,3.32,3.03,True,False,False,False,True
+"Albizati, Kim F.",CHEM 143AH,FA12,68,34,0.879,0.9390000000000001,7.41,3.56,3.41,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143C,FA12,86,62,0.877,0.93,7.37,3.2,3.4,True,False,False,False,True
+"Guerrero, Carlos Ariel",CHEM 152,FA12,35,9,0.667,0.778,5.61,3.0,3.4,True,False,False,False,True
+"Theodorakis, Emmanouil",CHEM 152,FA12,35,9,0.889,0.889,5.39,3.11,3.4,True,False,False,False,True
+"Tor, Yitzhak",CHEM 154,FA12,65,29,0.8079999999999999,0.885,7.5,3.04,3.36,True,False,False,False,True
+"Bertram, Timothy",CHEM 171,FA12,93,45,0.905,0.8809999999999999,5.36,3.22,2.93,True,False,False,False,True
+"Hoeger, Carl",CHEM 4,FA12,318,185,0.9109999999999999,0.8690000000000001,6.74,2.75,3.04,True,False,False,False,False
+"Hoeger, Carl",CHEM 6A,FA12,427,235,0.9059999999999999,0.9059999999999999,7.48,3.15,2.87,True,False,False,False,False
+"Czworkowski, John",CHEM 6A,FA12,367,186,0.9109999999999999,0.708,6.22,3.25,2.68,True,False,False,False,False
+"Czworkowski, John",CHEM 6A,FA12,376,191,0.9059999999999999,0.7879999999999999,6.13,3.1,2.68,True,False,False,False,False
+"Crowell, John E",CHEM 6A,FA12,390,197,0.737,0.368,7.88,2.85,2.67,True,False,False,False,False
+"Crowell, John E",CHEM 6A,FA12,393,212,0.816,0.374,7.22,2.97,2.67,True,False,False,False,False
+"Weare, John H.",CHEM 6AH,FA12,161,98,0.528,0.315,8.43,3.34,3.39,True,False,False,False,False
+"Albizati, Kim F.",CHEM 6B,FA12,321,163,0.9309999999999999,0.938,7.47,3.14,2.74,True,False,False,False,False
+"Johnson, Christina A",CHEM 6C,FA12,157,68,0.8590000000000001,0.9690000000000001,7.15,3.0,2.75,True,False,False,False,False
+"Johnson, Christina A",CHEM 6C,FA12,187,84,0.9259999999999999,1.0,8.6,3.05,2.75,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,FA12,264,110,0.845,0.8640000000000001,6.13,3.3,2.9,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L,FA12,271,132,0.878,0.902,6.47,3.4,2.9,True,False,False,False,False
+"Limtiaco, John Francis Kup",CHEM 100A ,SP12,129,62,0.774,0.8390000000000001,7.32,3.56,3.24,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B ,SP12,24,9,1.0,0.889,9.17,3.0,2.76,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100BL,SP12,24,9,0.889,0.889,8.28,3.33,3.04,True,False,False,False,True
+"Magde, Douglas",CHEM 105A ,SP12,80,29,0.759,0.966,9.71,3.33,3.17,True,False,False,False,True
+"Johnson, Christina A",CHEM 109  ,SP12,40,10,0.9,1.0,6.5,3.5,3.35,True,False,False,False,True
+"Johnson, Christina A",CHEM 109  ,SP12,39,17,0.941,1.0,7.21,3.24,3.35,True,False,False,False,True
+"Rubinshtein, Mark",CHEM 11  ,SP12,151,50,0.9390000000000001,0.898,4.63,3.24,3.12,True,False,False,False,False
+"Joseph, Simpson",CHEM 114C ,SP12,299,116,0.9309999999999999,0.888,6.68,3.48,2.91,True,False,False,False,True
+"Tukey, Robert H",CHEM 118  ,SP12,155,64,0.9840000000000001,0.9520000000000001,6.44,3.49,2.83,True,False,False,False,True
+"Cohen, Seth M",CHEM 120A ,SP12,196,94,0.777,0.617,7.12,2.9,2.5,True,False,False,False,True
+"Cohen, Seth M",CHEM 125  ,SP12,26,11,0.909,0.909,5.41,3.5,2.88,True,False,False,False,True
+"Tezcan, Faik",CHEM 125  ,SP12,26,10,0.9,0.6,5.5,3.5,2.88,True,False,False,False,True
+"Hoeger, Carl",CHEM 13  ,SP12,137,51,0.647,0.84,5.64,3.09,3.1,True,False,False,False,False
+"Galperin, Michael",CHEM 132  ,SP12,96,28,0.75,0.821,7.5,3.26,2.51,True,False,False,False,True
+"Yang, Jerry",CHEM 140A ,SP12,227,65,0.857,0.794,9.26,2.92,2.57,True,False,False,False,True
+"Whitesell, James K.",CHEM 140B ,SP12,158,50,0.857,0.531,8.74,3.35,2.1,True,False,False,False,True
+"Whitesell, James K.",CHEM 140B ,SP12,359,115,0.752,0.531,7.13,3.11,2.1,True,False,False,False,True
+"Albizati, Kim F.",CHEM 140C ,SP12,410,161,0.8440000000000001,0.981,8.13,3.25,2.68,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 140C ,SP12,315,243,0.8390000000000001,0.88,9.58,3.02,2.71,True,False,False,False,True
+"Weizman, Haim",CHEM 140CH,SP12,59,34,0.912,0.971,6.56,3.59,3.8,True,False,False,False,True
+"Weizman, Haim",CHEM 143A ,SP12,441,172,0.865,0.919,8.3,3.21,2.99,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B ,SP12,121,70,0.914,0.929,6.9,3.19,3.31,True,False,False,False,True
+"Burkart, Michael D",CHEM 157  ,SP12,66,21,0.905,1.0,5.93,3.25,3.4,True,False,False,False,True
+"Dickson, Andrew Gilmore",CHEM 174  ,SP12,35,12,0.667,0.727,5.0,3.33,2.88,True,False,False,False,True
+"Tezcan, Faik",CHEM 6A ,SP12,178,114,0.8,0.882,7.26,2.93,2.38,True,False,False,False,False
+"Crowell, John E",CHEM 6B ,SP12,251,96,0.826,0.674,7.53,2.82,2.31,True,False,False,False,False
+"Johnson, Christina A",CHEM 6B ,SP12,311,151,0.861,0.94,8.63,3.01,2.83,True,False,False,False,False
+"Hoeger, Carl",CHEM 6C ,SP12,299,129,0.883,0.875,7.61,3.03,2.95,True,False,False,False,False
+"Brydges, Stacey",CHEM 6C ,SP12,305,150,0.897,0.966,7.04,3.43,3.03,True,False,False,False,False
+"Ghosh, Gourisankar",CHEM 6C ,SP12,60,28,0.7140000000000001,0.536,5.71,3.3,2.58,True,False,False,False,False
+"Bertram, Timothy",CHEM 6C ,SP12,254,135,0.879,0.838,6.82,3.08,2.58,True,False,False,False,False
+"Kubiak, Clifford Paul",CHEM 6CH,SP12,75,34,0.794,0.882,7.79,3.61,3.34,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L ,SP12,263,114,0.73,0.7929999999999999,7.63,3.17,2.76,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L ,SP12,275,101,0.85,0.82,6.72,3.22,2.76,True,False,False,False,False
+"Limtiaco, John Francis Kup",CHEM 100A ,WI12,125,73,0.589,0.603,8.88,3.34,3.16,True,False,False,False,True
+"Prather, Kimberly A",CHEM 100B ,WI12,20,10,0.9,0.9,7.3,2.7,2.21,True,False,False,False,True
+"Tauber, Michael",CHEM 105A ,WI12,47,24,0.522,0.826,8.33,3.14,2.76,True,False,False,False,True
+"Pickham, Kathleen M",CHEM 108  ,WI12,33,15,0.867,0.9329999999999999,8.9,3.5,3.06,True,False,False,False,True
+"Pickham, Kathleen M",CHEM 108  ,WI12,32,15,0.9329999999999999,0.867,6.77,3.2,3.06,True,False,False,False,True
+"Toor, Navtej",CHEM 114A ,WI12,140,69,0.882,0.851,7.78,3.45,2.64,True,False,False,False,True
+"Wang, Wei",CHEM 114B ,WI12,305,159,0.8320000000000001,0.581,7.91,3.35,2.76,True,False,False,False,True
+"Nakagawa, Terunaga",CHEM 12  ,WI12,191,81,0.494,0.397,5.46,3.0,3.56,True,False,False,False,False
+"Rheingold, Arnold L",CHEM 120B ,WI12,68,37,0.8109999999999999,0.8109999999999999,7.69,3.17,2.55,True,False,False,False,True
+"Kim, Judy E.",CHEM 126  ,WI12,219,103,0.725,0.912,8.75,3.15,2.69,True,False,False,False,True
+"Paesani, Francesco",CHEM 131  ,WI12,127,67,0.785,0.754,8.47,2.98,2.47,True,False,False,False,True
+"Gianneschi, Nathan",CHEM 140A ,WI12,303,133,0.88,0.8420000000000001,8.35,2.86,2.72,True,False,False,False,True
+"Gianneschi, Nathan",CHEM 140A ,WI12,195,80,0.883,0.87,9.75,2.96,2.72,True,False,False,False,True
+"Opella, Stanley J",CHEM 140A ,WI12,85,32,0.875,0.6559999999999999,6.69,3.44,2.54,True,False,False,False,True
+"Burkart, Michael D",CHEM 140B ,WI12,386,211,0.813,0.9570000000000001,9.37,3.26,2.6,True,False,False,False,True
+"Hoeger, Carl",CHEM 140B ,WI12,205,95,0.853,0.937,8.67,3.05,2.89,True,False,False,False,True
+"Johnson, Christina A",CHEM 140B ,WI12,373,163,0.846,0.907,9.84,3.05,2.79,True,False,False,False,True
+"Weizman, Haim",CHEM 140BH,WI12,49,35,0.943,0.971,7.07,3.59,3.61,True,False,False,False,True
+"Jennings, Patricia A.",CHEM 140C ,WI12,284,110,0.7909999999999999,0.564,5.91,3.32,3.11,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143A ,WI12,442,204,0.847,0.813,7.52,3.27,3.1,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B ,WI12,104,53,0.868,0.792,6.73,3.17,3.29,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 149B ,WI12,32,20,1.0,1.0,5.9,3.45,3.09,True,False,False,False,True
+"Rubinshtein, Mark",CHEM 15  ,WI12,44,22,1.0,0.955,3.68,3.2,3.21,True,False,False,False,False
+"Yang, Jerry",CHEM 156  ,WI12,22,8,0.875,0.75,9.25,3.5,3.27,True,False,False,False,True
+"Viadiu, Hector",CHEM 165  ,WI12,25,9,0.778,1.0,4.94,3.67,3.52,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 172,WI12,32,20,1.0,1.0,5.9,3.45,3.09,True,False,False,False,True
+"Sinha, Amitabha",CHEM 6A ,WI12,186,80,0.797,0.633,7.06,2.68,2.41,True,False,False,False,False
+"Johnson, Christina A",CHEM 6A ,WI12,297,141,0.8909999999999999,0.9490000000000001,8.4,3.1,2.81,True,False,False,False,False
+"Trogler, William C",CHEM 6A ,WI12,267,129,0.857,0.8240000000000001,6.88,3.02,2.8,True,False,False,False,False
+"Muller, Ulrich K.",CHEM 6B ,WI12,166,77,0.9470000000000001,0.9209999999999999,5.45,3.55,2.84,True,False,False,False,False
+"Brydges, Stacey",CHEM 6B ,WI12,306,162,0.907,0.9440000000000001,7.36,3.13,2.86,True,False,False,False,False
+"Crowell, John E",CHEM 6B ,WI12,266,146,0.841,0.593,8.5,3.2,2.66,True,False,False,False,False
+"Crowell, John E",CHEM 6B ,WI12,278,138,0.846,0.507,7.49,3.17,2.66,True,False,False,False,False
+"Kummel, Andrew C",CHEM 6B ,WI12,210,125,0.82,0.9079999999999999,8.61,3.05,2.76,True,False,False,False,False
+"Hoeger, Carl",CHEM 6BH,WI12,80,39,0.9470000000000001,1.0,8.45,3.85,3.06,True,False,False,False,False
+"Ghosh, Partho",CHEM 6C ,WI12,266,125,0.885,0.754,6.58,3.03,2.45,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L ,WI12,267,115,0.809,0.748,7.2,3.35,2.72,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L ,WI12,260,104,0.7120000000000001,0.731,8.03,3.41,2.72,True,False,False,False,False
+"Pomeroy, Robert S.",CHEM 100A ,FA11,89,49,0.813,0.875,7.48,3.33,3.01,True,False,False,False,True
+"Tauber, Michael",CHEM 105A ,FA11,32,15,0.667,0.867,11.83,2.92,2.65,True,False,False,False,True
+"Pickham, Kathleen M",CHEM 108  ,FA11,33,15,0.9329999999999999,0.9329999999999999,9.3,3.0,3.04,True,False,False,False,True
+"Pickham, Kathleen M",CHEM 108  ,FA11,31,15,0.9329999999999999,1.0,9.97,3.27,3.04,True,False,False,False,True
+"Brydges, Stacey",CHEM 11  ,FA11,167,98,0.8370000000000001,0.9390000000000001,4.93,3.2,3.23,True,False,False,False,False
+"Brydges, Stacey",CHEM 11  ,FA11,193,105,0.8059999999999999,0.932,5.82,3.15,3.23,True,False,False,False,False
+"Viadiu, Hector",CHEM 114A ,FA11,297,156,0.9420000000000001,0.857,6.86,3.55,2.97,True,False,False,False,True
+"Dorrestein, Pieter",CHEM 116  ,FA11,29,15,0.867,1.0,6.63,3.47,3.3,True,False,False,False,True
+"Komives, Elizabeth A",CHEM 116  ,FA11,29,15,0.867,0.929,5.83,3.47,3.3,True,False,False,False,True
+"Figueroa, Joshua",CHEM 120A ,FA11,176,98,0.898,0.8370000000000001,8.91,3.17,2.87,True,False,False,False,True
+"Kim, Judy E.",CHEM 127  ,FA11,248,125,0.852,0.934,7.93,3.21,2.71,True,False,False,False,True
+"Galperin, Michael",CHEM 133  ,FA11,68,34,0.5760000000000001,0.735,10.21,2.61,2.67,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 140A ,FA11,219,114,0.823,0.7609999999999999,11.79,2.85,2.66,True,False,False,False,True
+"Whitesell, James K.",CHEM 140A ,FA11,127,53,0.731,0.529,8.07,3.02,2.32,True,False,False,False,True
+"Oconnor, Joseph M.",CHEM 140A ,FA11,397,191,0.858,0.905,9.46,3.17,2.69,True,False,False,False,True
+"Hoeger, Carl",CHEM 140A ,FA11,374,192,0.875,0.875,8.94,3.06,2.8,True,False,False,False,True
+"Theodorakis, Emmanouil",CHEM 140B ,FA11,334,158,0.879,0.955,7.54,3.0,2.62,True,False,False,False,True
+"Hermann, Thomas",CHEM 140C ,FA11,348,135,0.835,0.857,8.0,3.26,2.55,True,False,False,False,True
+"Weizman, Haim",CHEM 143A ,FA11,453,184,0.895,0.9059999999999999,8.53,3.38,3.04,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143C ,FA11,82,43,0.902,0.976,7.79,3.29,3.37,True,False,False,False,True
+"Bertram, Timothy",CHEM 149A ,FA11,72,36,0.941,0.853,6.79,3.13,3.02,True,False,False,False,True
+"Guerrero, Carlos Ariel",CHEM 152  ,FA11,30,13,0.5379999999999999,0.769,4.83,3.29,3.0,True,False,False,False,True
+"Theodorakis, Emmanouil",CHEM 152  ,FA11,30,11,0.6,0.9,3.5,3.4,3.0,True,False,False,False,True
+"Tor, Yitzhak",CHEM 154  ,FA11,52,29,1.0,1.0,6.5,3.3,3.33,True,False,False,False,True
+"Bertram, Timothy",CHEM 171,FA11,72,36,0.941,0.853,6.79,3.13,3.02,True,False,False,False,True
+"Hoeger, Carl",CHEM 4  ,FA11,295,175,0.879,0.843,7.58,2.9,2.87,True,False,False,False,False
+"Magde, Douglas",CHEM 6A ,FA11,314,174,0.855,0.42200000000000004,6.85,3.24,2.64,True,False,False,False,False
+"Czworkowski, John",CHEM 6A ,FA11,306,183,0.818,0.685,7.47,3.0,2.59,True,False,False,False,False
+"Czworkowski, John",CHEM 6A ,FA11,277,155,0.8640000000000001,0.556,7.69,2.99,2.59,True,False,False,False,False
+"Sailor, Michael Joseph",CHEM 6A ,FA11,327,176,0.9540000000000001,0.937,6.09,3.65,3.26,True,False,False,False,False
+"Crowell, John E",CHEM 6A ,FA11,377,220,0.825,0.5920000000000001,8.19,2.88,2.57,True,False,False,False,False
+"Weare, John H.",CHEM 6AH,FA11,124,71,0.529,0.35200000000000004,9.6,3.37,3.58,True,False,False,False,False
+"Albizati, Kim F.",CHEM 6B ,FA11,291,142,0.915,0.965,7.44,3.16,2.7,True,False,False,False,False
+"Johnson, Christina A",CHEM 6C ,FA11,239,109,0.927,0.963,7.77,3.11,2.94,True,False,False,False,False
+"Johnson, Christina A",CHEM 6C ,FA11,127,54,0.981,0.9620000000000001,8.65,3.08,2.94,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L ,FA11,269,126,0.8,0.8390000000000001,7.13,3.59,2.93,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L ,FA11,274,121,0.818,0.9329999999999999,6.85,3.43,2.93,True,False,False,False,False
+"Feng, Da Fei",CHEM 100A ,SP11,94,36,0.583,0.639,11.3,3.11,3.14,True,False,False,False,True
+"Magde, Douglas",CHEM 105A ,SP11,61,26,0.731,1.0,9.27,3.23,3.14,True,False,False,False,True
+"Johnson, Christina A",CHEM 109  ,SP11,43,19,0.684,1.0,6.08,3.39,3.38,True,False,False,False,True
+"Johnson, Christina A",CHEM 109  ,SP11,42,18,0.833,0.889,7.28,3.33,3.38,True,False,False,False,True
+"Donoghue, Daniel J.",CHEM 11  ,SP11,139,60,0.95,0.983,3.38,3.56,2.9,True,False,False,False,False
+"Hoffmann, Alexander",CHEM 114C ,SP11,196,72,0.887,0.915,7.53,3.37,2.66,True,False,False,False,True
+"Tukey, Robert H",CHEM 118  ,SP11,139,45,0.9109999999999999,0.889,5.41,3.34,2.79,True,False,False,False,True
+"Cohen, Seth M",CHEM 120A ,SP11,151,73,0.9440000000000001,0.8290000000000001,5.49,3.48,2.51,True,False,False,False,True
+"Joseph, Simpson",CHEM 13  ,SP11,139,52,0.78,0.9179999999999999,3.86,3.59,3.42,True,False,False,False,False
+"Lindenberg, Katja",CHEM 132  ,SP11,95,42,0.61,0.6829999999999999,8.64,3.05,2.49,True,False,False,False,True
+"Yang, Jerry",CHEM 140A ,SP11,290,108,0.925,0.898,8.98,3.09,2.61,True,False,False,False,True
+"Whitesell, James K.",CHEM 140B ,SP11,373,143,0.755,0.41,7.07,3.2,2.39,True,False,False,False,True
+"Molinski, Tadeusz",CHEM 140B ,SP11,202,83,0.8170000000000001,0.244,8.33,2.93,2.56,True,False,False,False,True
+"Hoeger, Carl",CHEM 140C ,SP11,321,148,0.8079999999999999,0.856,8.97,3.04,3.13,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 140C ,SP11,213,164,0.823,0.865,10.66,3.02,2.92,True,False,False,False,True
+"Tor, Yitzhak",CHEM 140CH,SP11,52,37,1.0,1.0,7.11,3.66,3.38,True,False,False,False,True
+"Weizman, Haim",CHEM 143A ,SP11,456,205,0.905,0.9159999999999999,7.73,3.33,2.99,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B ,SP11,99,49,0.735,0.813,8.34,3.21,3.29,True,False,False,False,True
+"Burkart, Michael D",CHEM 157  ,SP11,64,27,0.741,0.9259999999999999,5.98,3.13,3.13,True,False,False,False,True
+"Hermann, Thomas",CHEM 157  ,SP11,64,25,0.76,0.88,5.94,3.13,3.13,True,False,False,False,True
+"Baker, Timothy Stanley",CHEM 164  ,SP11,25,16,0.875,0.938,5.38,3.38,3.08,True,False,False,False,True
+"Dickson, Andrew Gilmore",CHEM 174  ,SP11,48,16,0.875,0.75,3.43,3.2,2.88,True,False,False,False,True
+"Tezcan, Faik",CHEM 6A ,SP11,194,134,0.855,0.84,7.5,3.15,2.42,True,False,False,False,False
+"Crowell, John E",CHEM 6B ,SP11,347,128,0.758,0.57,7.67,3.03,2.55,True,False,False,False,False
+"Crowell, John E",CHEM 6B ,SP11,300,120,0.759,0.586,8.34,2.95,2.55,True,False,False,False,False
+"Hoeger, Carl",CHEM 6C ,SP11,227,104,0.9329999999999999,0.8740000000000001,7.55,3.15,2.98,True,False,False,False,False
+"Brydges, Stacey",CHEM 6C ,SP11,369,153,0.9209999999999999,0.862,6.96,3.38,3.07,True,False,False,False,False
+"Ghosh, Gourisankar",CHEM 6C ,SP11,144,71,0.8290000000000001,0.371,4.84,3.36,2.55,True,False,False,False,False
+"Johnson, Christina A",CHEM 6C ,SP11,352,179,0.8759999999999999,0.955,7.64,3.27,2.98,True,False,False,False,False
+"Kubiak, Clifford Paul",CHEM 6CH,SP11,73,44,0.795,0.909,6.45,3.59,3.34,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L ,SP11,267,116,0.767,0.843,8.88,3.37,2.8,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L ,SP11,269,106,0.8,0.8759999999999999,8.1,3.26,2.8,True,False,False,False,False
+"Feng, Da Fei",CHEM 100A ,WI11,76,39,0.513,0.59,13.47,3.0,3.16,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B ,WI11,21,13,0.6920000000000001,0.846,6.19,3.23,3.14,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100BL,WI11,20,13,0.75,0.833,8.5,3.36,3.49,True,False,False,False,True
+"Tauber, Michael",CHEM 105A ,WI11,36,26,0.885,0.885,9.5,3.16,2.68,True,False,False,False,True
+"Pickham, Kathleen M",CHEM 108  ,WI11,32,9,0.889,1.0,11.17,3.33,3.15,True,False,False,False,True
+"Pickham, Kathleen M",CHEM 108  ,WI11,34,17,0.765,1.0,9.32,3.56,3.15,True,False,False,False,True
+"Toor, Navtej",CHEM 114A ,WI11,86,48,0.8959999999999999,0.833,7.29,3.49,2.98,True,False,False,False,True
+"Wang, Wei",CHEM 114B ,WI11,185,91,0.7909999999999999,0.578,8.66,3.39,2.79,True,False,False,False,True
+"Nakagawa, Terunaga",CHEM 12  ,WI11,158,63,0.5710000000000001,0.524,4.47,3.1,3.29,True,False,False,False,False
+"Hendrickson, David N",CHEM 120B ,WI11,76,39,0.895,0.821,3.78,3.66,3.34,True,False,False,False,True
+"Crowell, John E",CHEM 126  ,WI11,164,68,0.5589999999999999,0.6759999999999999,8.21,3.08,2.61,True,False,False,False,True
+"Paesani, Francesco",CHEM 131  ,WI11,127,64,0.73,0.81,7.92,3.08,2.56,True,False,False,False,True
+"Gianneschi, Nathan",CHEM 140A ,WI11,154,60,0.883,0.95,8.37,3.15,2.48,True,False,False,False,True
+"Albizati, Kim F.",CHEM 140A ,WI11,313,143,0.894,0.9790000000000001,8.06,3.17,2.52,True,False,False,False,True
+"Albizati, Kim F.",CHEM 140A ,WI11,320,131,0.892,1.0,7.82,3.14,2.52,True,False,False,False,True
+"Burkart, Michael D",CHEM 140B ,WI11,379,241,0.828,0.97,9.16,3.16,2.75,True,False,False,False,True
+"Theodorakis, Emmanouil",CHEM 140B ,WI11,340,165,0.847,0.907,8.52,3.06,2.8,True,False,False,False,True
+"Whitesell, James K.",CHEM 140B ,WI11,173,73,0.889,0.634,7.92,3.44,2.61,True,False,False,False,True
+"Weizman, Haim",CHEM 140BH,WI11,48,38,1.0,1.0,7.03,3.63,3.75,True,False,False,False,True
+"Jennings, Patricia A.",CHEM 140C ,WI11,331,130,0.838,0.45399999999999996,6.39,3.31,2.98,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143A ,WI11,428,214,0.805,0.833,8.4,3.16,3.1,True,False,False,False,True
+"Weizman, Haim",CHEM 143AH,WI11,52,35,0.914,0.943,9.01,3.53,3.35,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B ,WI11,75,44,0.833,0.833,9.38,3.12,3.2,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 149B ,WI11,25,12,1.0,1.0,4.83,3.83,3.47,True,False,False,False,True
+"Moore, Amy Lea",CHEM 15  ,WI11,59,31,0.7929999999999999,0.897,3.3,3.58,2.97,True,False,False,False,False
+"Nicolaou, Kyriacos C",CHEM 151  ,WI11,86,51,0.863,0.922,4.98,3.42,3.43,True,False,False,False,True
+"Yang, Jerry",CHEM 156  ,WI11,21,12,0.917,1.0,4.5,3.55,3.06,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 172,WI11,25,12,1.0,1.0,4.83,3.83,3.47,True,False,False,False,True
+"Sinha, Amitabha",CHEM 6A ,WI11,279,132,0.853,0.659,7.21,2.92,2.34,True,False,False,False,False
+"Hoeger, Carl",CHEM 6A ,WI11,307,154,0.96,0.98,8.33,2.97,2.78,True,False,False,False,False
+"Trogler, William C",CHEM 6A ,WI11,239,129,0.884,0.86,6.83,3.16,2.9,True,False,False,False,False
+"Muller, Ulrich K.",CHEM 6B ,WI11,307,183,0.917,0.789,6.06,3.24,2.79,True,False,False,False,False
+"Brydges, Stacey",CHEM 6B ,WI11,205,107,0.868,0.907,7.34,3.3,2.8,True,False,False,False,False
+"Johnson, Christina A",CHEM 6B ,WI11,349,193,0.917,0.938,8.42,3.2,2.9,True,False,False,False,False
+"Kim, Judy E.",CHEM 6B ,WI11,154,137,0.898,0.818,6.25,3.16,2.74,True,False,False,False,False
+"Kummel, Andrew C",CHEM 6B ,WI11,365,296,0.81,0.82,8.1,3.04,2.64,True,False,False,False,False
+"Hoeger, Carl",CHEM 6BH,WI11,99,64,0.703,0.875,7.29,3.31,3.03,True,False,False,False,False
+"Ghosh, Partho",CHEM 6C ,WI11,239,130,0.862,0.813,6.33,3.15,2.47,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L ,WI11,255,107,0.67,0.858,8.61,3.4,2.85,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L ,WI11,263,106,0.79,0.887,8.25,3.38,2.85,True,False,False,False,False
+"Feng, Da Fei",CHEM 100A ,FA10,73,39,0.526,0.605,12.04,3.14,3.07,True,False,False,False,True
+"Kim, Judy E.",CHEM 105A ,FA10,27,11,1.0,0.818,7.5,3.6,3.02,True,False,False,False,True
+"Pickham, Kathleen M",CHEM 108,FA10,28,15,0.867,1.0,6.77,3.57,3.33,True,False,False,False,True
+"Brydges, Stacey",CHEM 11,FA10,144,75,0.851,0.973,5.31,3.33,3.23,True,False,False,False,False
+"Brydges, Stacey",CHEM 11,FA10,141,74,0.833,0.958,5.28,3.32,3.23,True,False,False,False,False
+"Viadiu, Hector",CHEM 114A ,FA10,210,135,0.888,0.903,7.65,3.39,2.74,True,False,False,False,True
+"Komives, Elizabeth A",CHEM 116,FA10,27,15,0.9329999999999999,0.9329999999999999,5.3,3.6,3.51,True,False,False,False,True
+"Figueroa, Joshua",CHEM 120A ,FA10,148,77,0.805,0.7659999999999999,6.81,3.33,3.02,True,False,False,False,True
+"Tauber, Michael",CHEM 127,FA10,165,96,0.75,0.917,8.2,3.13,2.57,True,False,False,False,True
+"Galperin, Michael",CHEM 133,FA10,54,27,0.519,0.667,9.98,2.96,2.48,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 140A ,FA10,256,173,0.919,0.884,11.6,3.09,2.68,True,False,False,False,True
+"Whitesell, James K.",CHEM 140A ,FA10,172,78,0.9620000000000001,0.731,7.75,3.35,2.39,True,False,False,False,True
+"Perrin, Charles L.",CHEM 140A ,FA10,369,174,0.855,0.9059999999999999,8.99,3.02,2.65,True,False,False,False,True
+"Oconnor, Joseph M.",CHEM 140A ,FA10,378,203,0.851,0.95,9.06,3.18,2.68,True,False,False,False,True
+"Hoeger, Carl",CHEM 140B ,FA10,273,115,0.746,0.8959999999999999,9.86,3.03,2.62,True,False,False,False,True
+"Hermann, Thomas",CHEM 140C ,FA10,350,165,0.861,0.873,7.46,3.1,2.48,True,False,False,False,True
+"Weizman, Haim",CHEM 143A ,FA10,457,196,0.851,0.871,8.04,3.31,3.04,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143C ,FA10,73,52,0.9420000000000001,0.981,6.74,3.42,3.15,True,False,False,False,True
+"Bertram, Timothy",CHEM 149A ,FA10,56,35,0.8859999999999999,0.914,5.59,3.41,3.14,True,False,False,False,True
+"Theodorakis, Emmanouil",CHEM 152,FA10,32,16,0.938,1.0,3.25,3.69,3.56,True,False,False,False,True
+"Tor, Yitzhak",CHEM 154,FA10,50,25,0.96,0.96,5.78,3.44,3.21,True,False,False,False,True
+"Bertram, Timothy",CHEM 171,FA10,56,35,0.8859999999999999,0.914,5.59,3.41,3.14,True,False,False,False,True
+"Hoeger, Carl",CHEM 4,FA10,307,188,0.9570000000000001,0.9570000000000001,9.31,3.19,3.01,True,False,False,False,False
+"Magde, Douglas",CHEM 6A ,FA10,328,207,0.8959999999999999,0.564,7.43,3.15,2.8,True,False,False,False,False
+"Czworkowski, John",CHEM 6A ,FA10,340,203,0.9209999999999999,0.772,6.74,3.25,2.83,True,False,False,False,False
+"Czworkowski, John",CHEM 6A ,FA10,342,166,0.89,0.755,6.56,3.21,2.83,True,False,False,False,False
+"Sailor, Michael Joseph",CHEM 6A ,FA10,318,177,0.9540000000000001,0.914,6.14,3.39,2.89,True,False,False,False,False
+"Johnson, Christina A",CHEM 6A ,FA10,330,188,0.925,0.9620000000000001,8.63,3.19,3.24,True,False,False,False,False
+"Weare, John H.",CHEM 6AH,FA10,158,101,0.436,0.31,8.08,3.4,3.46,True,False,False,False,False
+"Crowell, John E",CHEM 6B ,FA10,273,124,0.862,0.748,7.36,3.13,2.46,True,False,False,False,False
+"Rheingold, Arnold L",CHEM 6C ,FA10,191,84,0.7859999999999999,0.446,6.52,2.81,2.48,True,False,False,False,False
+"Pomeroy, Robert S.",CHEM 6C ,FA10,143,61,0.8690000000000001,0.721,7.17,3.08,2.68,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L ,FA10,247,114,0.732,0.8390000000000001,8.39,3.36,2.91,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 7L ,FA10,252,120,0.7170000000000001,0.7559999999999999,8.62,3.34,2.91,True,False,False,False,False
+"Feng, Da Fei",CHEM 100A ,SP10,88,50,0.735,0.8,10.66,3.37,3.2,True,False,False,False,True
+"Magde, Douglas",CHEM 105A ,SP10,65,30,0.833,0.867,9.83,3.5,3.21,True,False,False,False,True
+"Stuart, Christina",CHEM 105A ,SP10,65,21,0.882,1.0,8.39,3.5,3.13,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 109,SP10,28,17,0.8240000000000001,1.0,9.68,3.71,3.53,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 109,SP10,28,11,0.909,0.818,7.05,3.82,3.38,True,False,False,False,True
+"Donoghue, Daniel J.",CHEM 11,SP10,158,63,0.857,0.9520000000000001,3.98,3.68,3.18,True,False,False,False,False
+"Crowley, Thomas E.",CHEM 112B ,SP10,28,17,0.8240000000000001,1.0,9.68,3.71,3.53,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 112B ,SP10,28,11,0.909,0.818,7.05,3.82,3.38,True,False,False,False,True
+"Hoffmann, Alexander",CHEM 114C ,SP10,201,81,0.875,0.9,6.68,3.26,2.71,True,False,False,False,True
+"Tukey, Robert H",CHEM 118,SP10,110,58,0.982,0.93,6.16,3.49,2.71,True,False,False,False,True
+"Figueroa, Joshua",CHEM 120A ,SP10,102,55,0.745,0.782,6.57,3.12,2.6,True,False,False,False,True
+"Rheingold, Arnold L",CHEM 120A ,SP10,102,50,0.723,0.638,5.97,3.14,2.6,True,False,False,False,True
+"Cohen, Seth M",CHEM 124,SP10,33,19,0.737,0.9470000000000001,5.72,3.25,2.58,True,False,False,False,True
+"Cohen, Seth M",CHEM 125,SP10,33,19,0.737,0.9470000000000001,5.72,3.25,2.58,True,False,False,False,True
+"Joseph, Simpson",CHEM 13,SP10,145,63,0.8170000000000001,0.883,4.6,3.3,3.11,True,False,False,False,False
+"Galperin, Michael",CHEM 133,SP10,60,31,0.387,0.419,8.11,2.79,3.41,True,False,False,False,True
+"Yang, Jerry",CHEM 140A ,SP10,299,120,0.8240000000000001,0.8390000000000001,7.83,2.99,2.41,True,False,False,False,True
+"Hoeger, Carl",CHEM 140B ,SP10,350,140,0.73,0.826,8.69,2.87,2.53,True,False,False,False,True
+"Hoeger, Carl",CHEM 140B ,SP10,361,165,0.701,0.7959999999999999,9.0,2.84,2.53,True,False,False,False,True
+"Albizati, Kim F.",CHEM 140C ,SP10,367,166,0.857,0.9940000000000001,7.46,3.15,2.63,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 140C ,SP10,249,135,0.835,0.8740000000000001,10.56,3.17,2.73,True,False,False,False,True
+"Tor, Yitzhak",CHEM 140CH,SP10,55,40,1.0,1.0,6.2,3.73,3.48,True,False,False,False,True
+"Weizman, Haim",CHEM 143A ,SP10,395,162,0.845,0.835,8.29,3.24,3.01,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B ,SP10,84,46,0.7390000000000001,0.7829999999999999,7.15,2.87,3.38,True,False,False,False,True
+"Burkart, Michael D",CHEM 157,SP10,60,29,0.893,0.9309999999999999,5.93,3.3,3.24,True,False,False,False,True
+"Dickson, Andrew Gilmore",CHEM 174,SP10,51,24,0.75,0.792,4.08,3.39,3.06,True,False,False,False,True
+"Tezcan, Faik",CHEM 6A ,SP10,157,75,0.8240000000000001,0.797,6.14,3.06,1.96,True,False,False,False,False
+"Crowell, John E",CHEM 6B ,SP10,295,113,0.7090000000000001,0.532,7.34,2.69,2.29,True,False,False,False,False
+"Johnson, Christina A",CHEM 6B ,SP10,333,153,0.858,0.98,8.55,2.99,2.55,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 6BL,SP10,247,125,0.696,0.7979999999999999,8.97,3.35,2.97,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 6BL,SP10,267,131,0.7340000000000001,0.773,8.84,3.29,2.97,True,False,False,False,False
+"Kubiak, Clifford Paul",CHEM 6C ,SP10,351,185,0.8959999999999999,0.758,6.71,3.25,2.85,True,False,False,False,False
+"Brydges, Stacey",CHEM 6C ,SP10,102,36,0.914,0.8290000000000001,5.99,3.33,2.99,True,False,False,False,False
+"Brydges, Stacey",CHEM 6C ,SP10,226,100,0.909,0.816,6.62,3.25,2.99,True,False,False,False,False
+"Johnson, Christina A",CHEM 6C ,SP10,349,177,0.87,0.9890000000000001,7.96,3.29,2.95,True,False,False,False,False
+"Cohen, Seth M",CHEM 6CH,SP10,87,72,0.889,0.986,6.28,3.34,2.77,True,False,False,False,False
+"Feng, Da Fei",CHEM 100A ,WI10,55,26,0.615,0.72,12.96,3.5,2.95,True,False,False,False,True
+"Kim, Judy E.",CHEM 105A ,WI10,31,14,0.857,0.857,9.36,3.38,2.89,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 108,WI10,33,15,0.7140000000000001,0.929,8.64,3.38,3.31,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 108,WI10,20,10,1.0,1.0,6.3,3.5,3.31,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 112A ,WI10,33,15,0.7140000000000001,0.929,8.64,3.38,3.31,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 112A ,WI10,20,10,1.0,1.0,6.3,3.5,3.31,True,False,False,False,True
+"Opella, Stanley J",CHEM 114A ,WI10,85,29,1.0,0.897,4.16,3.69,2.85,True,False,False,False,True
+"Dorrestein, Pieter",CHEM 114B ,WI10,198,67,0.731,0.818,7.01,3.38,2.69,True,False,False,False,True
+"Wang, Wei",CHEM 114B ,WI10,198,67,0.701,0.493,7.23,3.35,2.69,True,False,False,False,True
+"Nakagawa, Terunaga",CHEM 12,WI10,174,76,0.41100000000000003,0.324,4.45,2.76,3.28,True,False,False,False,False
+"Hendrickson, David N",CHEM 120B ,WI10,67,31,0.833,0.8,3.92,3.58,3.32,True,False,False,False,True
+"Tauber, Michael",CHEM 127,WI10,169,73,0.528,0.6579999999999999,8.94,3.2,2.59,True,False,False,False,True
+"Lindenberg, Katja",CHEM 132,WI10,79,35,0.8290000000000001,0.914,8.04,3.32,2.5,True,False,False,False,True
+"Gianneschi, Nathan",CHEM 140A ,WI10,359,141,0.8440000000000001,0.887,8.1,3.13,2.47,True,False,False,False,True
+"Oconnor, Joseph M.",CHEM 140A ,WI10,385,129,0.8220000000000001,0.922,8.62,3.12,2.6,True,False,False,False,True
+"Whitesell, James K.",CHEM 140A ,WI10,142,34,0.8240000000000001,0.5589999999999999,6.97,3.03,2.37,True,False,False,False,True
+"Burkart, Michael D",CHEM 140B ,WI10,391,193,0.8390000000000001,0.963,7.85,3.21,2.88,True,False,False,False,True
+"Theodorakis, Emmanouil",CHEM 140B ,WI10,365,125,0.7020000000000001,0.823,8.29,3.02,2.6,True,False,False,False,True
+"Hoeger, Carl",CHEM 140B ,WI10,277,97,0.866,0.9059999999999999,9.32,3.16,2.62,True,False,False,False,True
+"Weizman, Haim",CHEM 140BH,WI10,49,35,0.941,0.971,6.44,3.69,3.81,True,False,False,False,True
+"Albizati, Kim F.",CHEM 140C ,WI10,360,122,0.828,0.975,7.57,3.05,2.54,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143A ,WI10,373,165,0.764,0.9209999999999999,6.34,3.19,3.11,True,False,False,False,True
+"Weizman, Haim",CHEM 143AH,WI10,42,24,0.917,0.958,7.92,3.42,3.22,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B ,WI10,68,30,0.833,0.833,9.37,3.33,3.27,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 149B ,WI10,28,21,0.9520000000000001,1.0,5.45,3.2,3.09,True,False,False,False,True
+"Wilson, Beth",CHEM 15,WI10,66,23,0.7829999999999999,0.609,2.41,3.29,3.26,True,False,False,False,False
+"Nicolaou, Kyriacos C",CHEM 151,WI10,106,50,0.898,0.92,4.82,3.57,3.13,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 172,WI10,28,21,0.9520000000000001,1.0,5.45,3.2,3.09,True,False,False,False,True
+"Sinha, Amitabha",CHEM 6A ,WI10,116,48,0.804,0.667,7.57,2.86,2.36,True,False,False,False,False
+"Hoeger, Carl",CHEM 6A ,WI10,307,149,0.9059999999999999,0.94,8.26,2.97,2.69,True,False,False,False,False
+"Weinberger, Leor",CHEM 6A ,WI10,302,228,0.907,0.7909999999999999,5.61,3.15,2.9,True,False,False,False,False
+"Muller, Ulrich K.",CHEM 6B ,WI10,196,105,0.914,0.657,5.06,3.33,2.64,True,False,False,False,False
+"Brydges, Stacey",CHEM 6B ,WI10,92,44,0.932,0.932,7.23,3.19,2.8,True,False,False,False,False
+"Johnson, Christina A",CHEM 6B ,WI10,346,179,0.909,0.938,8.41,3.23,2.89,True,False,False,False,False
+"Johnson, Christina A",CHEM 6B ,WI10,350,171,0.922,0.9109999999999999,8.82,3.25,2.89,True,False,False,False,False
+"Kummel, Andrew C",CHEM 6B ,WI10,339,189,0.87,0.8220000000000001,7.58,3.05,2.67,True,False,False,False,False
+"Weare, John H.",CHEM 6BH,WI10,118,68,0.618,0.426,7.56,3.24,3.45,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 6BL,WI10,239,93,0.725,0.78,8.57,3.24,2.88,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 6BL,WI10,242,91,0.705,0.787,8.34,3.25,2.88,True,False,False,False,False
+"Ghosh, Partho",CHEM 6C ,WI10,264,109,0.875,0.843,5.38,3.15,2.81,True,False,False,False,False
+"Feng, Da Fei",CHEM 100A ,FA09,75,66,0.682,0.8029999999999999,8.05,3.57,3.11,True,False,False,False,True
+"Tauber, Michael",CHEM 105A ,FA09,20,19,0.5,0.833,10.08,2.94,2.88,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 108,FA09,33,15,0.9229999999999999,1.0,8.1,3.38,3.3,True,False,False,False,True
+"Jennings, Patricia A.",CHEM 108,FA09,33,15,0.9329999999999999,0.867,8.63,3.38,3.3,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 108,FA09,30,20,0.9470000000000001,0.9470000000000001,6.4,3.32,3.3,True,False,False,False,True
+"Jennings, Patricia A.",CHEM 108,FA09,30,12,0.917,0.917,6.0,3.33,3.3,True,False,False,False,True
+"Brydges, Stacey",CHEM 11,FA09,213,141,0.846,0.956,3.98,3.33,3.23,True,False,False,False,False
+"Brydges, Stacey",CHEM 11,FA09,210,159,0.7759999999999999,0.858,3.57,3.54,3.23,True,False,False,False,False
+"Crowley, Thomas E.",CHEM 112A ,FA09,33,15,0.9229999999999999,1.0,8.1,3.38,3.3,True,False,False,False,True
+"Jennings, Patricia A.",CHEM 112A ,FA09,33,15,0.9329999999999999,0.867,8.63,3.38,3.3,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 112A ,FA09,30,20,0.9470000000000001,0.9470000000000001,6.4,3.33,3.3,True,False,False,False,True
+"Jennings, Patricia A.",CHEM 112A ,FA09,30,12,0.917,0.917,6.0,3.33,3.3,True,False,False,False,True
+"Viadiu, Hector",CHEM 114A ,FA09,190,154,0.895,0.848,5.75,3.4,2.99,True,False,False,False,True
+"Hendrickson, David N",CHEM 120A ,FA09,193,79,0.948,0.961,4.12,3.76,3.32,True,False,False,False,True
+"Crowell, John E",CHEM 126,FA09,161,32,0.69,0.7929999999999999,8.44,3.34,2.54,True,False,False,False,True
+"Lindenberg, Katja",CHEM 131,FA09,100,69,0.691,0.809,9.08,3.12,2.37,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 140A ,FA09,215,191,0.8320000000000001,0.953,9.49,3.2,2.72,True,False,False,False,True
+"Whitesell, James K.",CHEM 140A ,FA09,176,70,0.812,0.609,6.41,3.42,2.19,True,False,False,False,True
+"Perrin, Charles L.",CHEM 140A ,FA09,336,255,0.9179999999999999,0.96,7.2,3.23,2.68,True,False,False,False,True
+"Albizati, Kim F.",CHEM 140A ,FA09,296,238,0.9109999999999999,0.992,7.05,3.23,2.72,True,False,False,False,True
+"Kobayashi, Yoshihisa",CHEM 140B ,FA09,344,86,0.6940000000000001,0.39299999999999996,6.83,3.04,2.5,True,False,False,False,True
+"Hermann, Thomas",CHEM 140C ,FA09,279,195,0.867,0.897,6.59,3.36,2.73,True,False,False,False,True
+"Weizman, Haim",CHEM 143A ,FA09,468,177,0.8140000000000001,0.93,7.67,3.37,3.02,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143C ,FA09,71,64,0.905,0.968,5.71,3.3,3.21,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 149A ,FA09,75,58,0.965,0.948,4.84,3.39,3.2,True,False,False,False,True
+"Oconnor, Joseph M.",CHEM 152,FA09,22,26,0.731,0.9620000000000001,3.42,3.58,3.27,True,False,False,False,True
+"Tor, Yitzhak",CHEM 154,FA09,48,56,1.0,0.982,4.64,3.53,3.62,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 171,FA09,75,58,0.965,0.948,4.84,3.39,3.2,True,False,False,False,True
+"Hoeger, Carl",CHEM 4,FA09,297,123,0.951,0.9590000000000001,5.7,3.07,2.85,True,False,False,False,False
+"Czworkowski, John",CHEM 6A ,FA09,252,201,0.8270000000000001,0.64,5.94,3.07,2.68,True,False,False,False,False
+"Czworkowski, John",CHEM 6A ,FA09,279,228,0.863,0.619,6.68,3.09,2.68,True,False,False,False,False
+"Johnson, Christina A",CHEM 6A ,FA09,340,289,0.958,0.993,7.56,3.27,2.88,True,False,False,False,False
+"Stuart, Christina",CHEM 6A ,FA09,333,248,0.938,0.9209999999999999,7.68,3.09,2.66,True,False,False,False,False
+"Stuart, Christina",CHEM 6A ,FA09,328,222,0.9,0.9229999999999999,7.4,3.1,2.66,True,False,False,False,False
+"Hoeger, Carl",CHEM 6AH,FA09,151,98,0.7959999999999999,0.99,7.52,3.03,2.8,True,False,False,False,False
+"Kim, Judy E.",CHEM 6B ,FA09,269,167,0.836,0.7929999999999999,6.2,3.05,2.6,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 6BL,FA09,253,100,0.598,0.8370000000000001,9.62,3.27,2.87,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 6BL,FA09,253,46,0.581,0.773,8.2,3.39,2.87,True,False,False,False,False
+"Johnson, Christina A",CHEM 6C ,FA09,293,220,0.8540000000000001,0.981,6.19,3.0,2.77,True,False,False,False,False
+"Trogler, William C",CHEM 6C ,FA09,173,60,0.845,0.6779999999999999,5.17,3.27,2.62,True,False,False,False,False
+"Feng, Da Fei",CHEM 100A ,SP09,58,58,0.691,0.75,8.84,3.3,2.93,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100B ,SP09,26,19,0.667,0.8420000000000001,8.08,3.21,2.75,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 100BL,SP09,24,23,0.818,0.87,8.5,3.22,3.54,True,False,False,False,True
+"Stuart, Christina",CHEM 105A ,SP09,52,23,0.727,0.909,8.15,3.23,3.15,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 109,SP09,34,21,0.9,0.8,7.1,3.3,3.32,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 109,SP09,34,20,0.75,0.3,8.0,3.33,3.32,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 109,SP09,31,22,0.909,0.682,5.32,3.35,3.32,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 109,SP09,31,17,0.941,0.8240000000000001,5.21,3.35,3.32,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 112B ,SP09,34,21,0.9,0.8,7.1,3.3,3.39,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 112B ,SP09,34,20,0.75,0.3,8.0,3.3,3.32,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 112B ,SP09,31,22,0.909,0.682,5.32,3.35,3.39,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 112B ,SP09,31,17,0.941,0.8240000000000001,5.21,3.35,3.32,True,False,False,False,True
+"Hoffmann, Alexander",CHEM 114C ,SP09,201,88,0.927,0.988,5.69,3.39,2.62,True,False,False,False,True
+"Printz, Morton P.",CHEM 118,SP09,142,67,0.985,0.985,4.98,3.6,3.53,True,False,False,False,True
+"Tezcan, Faik",CHEM 124,SP09,27,28,0.857,0.857,5.86,3.15,2.44,True,False,False,False,True
+"Tezcan, Faik",CHEM 125,SP09,27,28,0.857,0.857,5.86,3.15,2.44,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 13,SP09,138,100,0.298,0.272,2.5,3.14,3.3,True,False,False,False,False
+"Sinha, Amitabha",CHEM 133,SP09,74,38,0.514,0.833,8.39,2.91,2.57,True,False,False,False,True
+"Oconnor, Joseph M.",CHEM 140A ,SP09,337,26,0.96,0.9229999999999999,6.81,3.48,2.41,True,False,False,False,True
+"Glazer, Edith C",CHEM 140B ,SP09,194,125,0.648,0.639,9.47,2.78,2.52,True,False,False,False,True
+"Molinski, Tadeusz",CHEM 140B ,SP09,318,152,0.693,0.467,7.43,3.08,2.32,True,False,False,False,True
+"Albizati, Kim F.",CHEM 140C ,SP09,353,235,0.8540000000000001,0.991,6.26,3.35,2.77,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 140C ,SP09,103,96,0.7829999999999999,0.946,9.06,3.12,2.7,True,False,False,False,True
+"Tor, Yitzhak",CHEM 140CH,SP09,52,37,1.0,1.0,6.01,3.79,3.66,True,False,False,False,True
+"Weizman, Haim",CHEM 143A ,SP09,390,160,0.861,0.927,6.53,3.36,3.01,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B ,SP09,97,94,0.934,0.935,6.37,3.14,3.23,True,False,False,False,True
+"Yang, Jerry",CHEM 156,SP09,39,28,0.9259999999999999,0.893,5.71,3.27,3.36,True,False,False,False,True
+"Burkart, Michael D",CHEM 157,SP09,46,58,0.887,0.9229999999999999,5.07,3.35,3.05,True,False,False,False,True
+"Prather, Kimberly A",CHEM 173,SP09,48,40,0.85,0.975,4.55,3.19,2.38,True,False,False,False,True
+"Dickson, Andrew Gilmore",CHEM 174,SP09,38,25,0.72,0.84,3.75,3.1,2.87,True,False,False,False,True
+"Tezcan, Faik",CHEM 6A ,SP09,251,142,0.851,0.9079999999999999,5.37,3.16,2.19,True,False,False,False,False
+"Hoeger, Carl",CHEM 6B ,SP09,167,94,0.9229999999999999,0.9890000000000001,6.59,2.85,2.64,True,False,False,False,False
+"Johnson, Christina A",CHEM 6B ,SP09,319,198,0.826,0.99,6.33,3.14,2.57,True,False,False,False,False
+"Weinberger, Leor",CHEM 6B ,SP09,184,78,0.904,0.867,5.27,3.49,2.79,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 6BL,SP09,236,17,0.529,0.882,10.38,3.35,2.94,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 6BL,SP09,242,56,0.519,0.943,9.25,3.35,2.94,True,False,False,False,False
+"Kubiak, Clifford Paul",CHEM 6C ,SP09,196,134,0.946,0.9620000000000001,4.96,3.25,2.87,True,False,False,False,False
+"Brydges, Stacey",CHEM 6C ,SP09,145,96,0.915,0.851,6.31,3.36,2.86,True,False,False,False,False
+"Ghosh, Partho",CHEM 6C ,SP09,291,100,0.838,0.768,5.16,3.09,2.49,True,False,False,False,False
+"Johnson, Christina A",CHEM 6C ,SP09,346,245,0.867,0.988,6.47,3.37,2.85,True,False,False,False,False
+"Hoeger, Carl",CHEM 6CH,SP09,64,55,0.945,1.0,4.61,3.66,3.37,True,False,False,False,False
+"Feng, Da Fei",CHEM 100A ,WI09,65,62,0.78,0.8170000000000001,7.91,3.53,2.9,True,False,False,False,True
+"Kim, Judy E.",CHEM 105A ,WI09,41,30,0.7240000000000001,0.966,9.12,3.3,2.76,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 108,WI09,28,15,0.7859999999999999,0.7859999999999999,8.23,3.57,3.45,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 108,WI09,30,24,0.9570000000000001,0.7829999999999999,6.92,3.38,3.45,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 112A ,WI09,28,15,0.7859999999999999,0.7859999999999999,8.23,3.57,3.45,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 112A ,WI09,30,24,0.9570000000000001,0.7829999999999999,6.92,3.38,3.45,True,False,False,False,True
+"Opella, Stanley J",CHEM 114A ,WI09,89,49,0.9590000000000001,1.0,4.54,3.65,2.78,True,False,False,False,True
+"Wang, Wei",CHEM 114B ,WI09,217,87,0.609,0.414,7.36,3.19,2.5,True,False,False,False,True
+"Nakagawa, Terunaga",CHEM 12,WI09,164,34,0.588,0.47100000000000003,4.0,3.35,3.3,True,False,False,False,False
+"Hendrickson, David N",CHEM 120B ,WI09,79,20,0.85,0.9,3.4,3.7,3.32,True,False,False,False,True
+"Tauber, Michael",CHEM 127,WI09,156,125,0.7120000000000001,0.872,5.56,3.07,2.51,True,False,False,False,True
+"Lindenberg, Katja",CHEM 132,WI09,103,61,0.542,0.695,7.25,3.0,2.51,True,False,False,False,True
+"Yang, Jerry",CHEM 140A ,WI09,368,257,0.843,0.935,7.39,3.14,2.64,True,False,False,False,True
+"Gianneschi, Nathan",CHEM 140A ,WI09,330,231,0.8440000000000001,0.868,7.6,3.0,2.58,True,False,False,False,True
+"Burkart, Michael D",CHEM 140B ,WI09,308,258,0.79,0.94,7.01,3.28,2.8,True,False,False,False,True
+"Theodorakis, Emmanouil",CHEM 140B ,WI09,273,140,0.7659999999999999,0.934,6.73,3.13,2.65,True,False,False,False,True
+"Whitesell, James K.",CHEM 140B ,WI09,210,74,0.74,0.597,6.2,3.36,2.34,True,False,False,False,True
+"Weizman, Haim",CHEM 140BH,WI09,41,38,1.0,0.9740000000000001,6.66,3.68,3.79,True,False,False,False,True
+"Albizati, Kim F.",CHEM 140C ,WI09,259,134,0.917,1.0,6.16,3.38,2.68,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143A ,WI09,359,268,0.7020000000000001,0.682,6.4,3.06,3.09,True,False,False,False,True
+"Weizman, Haim",CHEM 143AH,WI09,40,22,0.818,0.909,9.41,3.48,3.21,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B ,WI09,74,72,0.7609999999999999,0.7909999999999999,7.34,2.97,3.14,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 149B ,WI09,34,26,0.9229999999999999,0.9229999999999999,5.96,3.35,3.01,True,False,False,False,True
+"Glazer, Edith C",CHEM 15,WI09,49,42,0.762,0.738,2.69,3.38,3.39,True,False,False,False,False
+"Nicolaou, Kyriacos C",CHEM 151,WI09,97,57,1.0,1.0,3.55,3.79,3.43,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 172,WI09,34,26,0.9229999999999999,0.9229999999999999,5.96,3.35,3.01,True,False,False,False,True
+"Sinha, Amitabha",CHEM 6A ,WI09,312,103,0.763,0.586,6.34,2.95,2.53,True,False,False,False,False
+"Hoeger, Carl",CHEM 6A ,WI09,325,238,0.893,0.9309999999999999,6.02,2.9,2.67,True,False,False,False,False
+"Crowell, John E",CHEM 6B ,WI09,304,80,0.785,0.6709999999999999,7.18,3.09,2.53,True,False,False,False,False
+"Kummel, Andrew C",CHEM 6B ,WI09,295,125,0.823,0.919,6.45,3.09,2.68,True,False,False,False,False
+"Muller, Ulrich K.",CHEM 6B ,WI09,103,86,0.9,0.778,5.1,3.29,2.54,True,False,False,False,False
+"brydges, stacey",CHEM 6B ,WI09,260,192,0.654,0.634,6.91,2.83,2.57,True,False,False,False,False
+"Johnson, Christina A",CHEM 6B ,WI09,322,243,0.86,0.9790000000000001,6.81,3.22,2.76,True,False,False,False,False
+"Weare, John H.",CHEM 6BH,WI09,88,60,0.534,0.5670000000000001,7.17,3.19,3.5,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 6BL,WI09,226,27,0.63,0.889,8.65,3.35,2.95,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 6BL,WI09,240,81,0.65,0.9,7.56,3.23,2.95,True,False,False,False,False
+"Hoeger, Carl",CHEM 6C ,WI09,184,134,0.884,0.938,5.37,3.2,2.77,True,False,False,False,False
+"Feng, Da Fei",CHEM 100A ,FA08,100,83,0.778,0.7879999999999999,8.74,3.36,3.19,True,False,False,False,True
+"stuart, christina",CHEM 105A ,FA08,38,30,0.9309999999999999,0.966,7.95,3.26,2.88,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 108,FA08,26,16,0.813,0.875,6.75,3.6,3.39,True,False,False,False,True
+"Jennings, Patricia A.",CHEM 108,FA08,26,16,0.846,1.0,6.88,3.6,3.39,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 11,FA08,169,75,0.736,0.493,2.36,3.51,3.31,True,False,False,False,False
+"Pomeroy, Robert S.",CHEM 11,FA08,181,112,0.8270000000000001,0.9179999999999999,3.85,3.3,2.66,True,False,False,False,False
+"Crowley, Thomas E.",CHEM 112A ,FA08,26,16,0.813,0.875,6.75,3.6,3.39,True,False,False,False,True
+"Jennings, Patricia A.",CHEM 112A ,FA08,26,16,0.846,1.0,6.88,3.6,3.39,True,False,False,False,True
+"Viadiu, Hector",CHEM 114A ,FA08,223,140,0.871,0.899,5.87,3.47,3.03,True,False,False,False,True
+"Dorrestein, Pieter",CHEM 116,FA08,36,25,0.696,0.7829999999999999,5.22,3.6,3.28,True,False,False,False,True
+"Komives, Elizabeth A",CHEM 116,FA08,36,22,0.636,0.8640000000000001,4.6,3.6,3.28,True,False,False,False,True
+"Hendrickson, David N",CHEM 120A ,FA08,228,90,0.83,0.92,4.32,3.58,3.16,True,False,False,False,True
+"Crowell, John E",CHEM 126,FA08,130,79,0.705,0.91,5.97,3.14,2.59,True,False,False,False,True
+"Crowell, John E",CHEM 126,FA08,35,13,0.385,0.846,6.81,3.23,2.59,True,False,False,False,True
+"Lindenberg, Katja",CHEM 131,FA08,120,50,0.551,0.7959999999999999,8.38,2.96,2.4,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 140A ,FA08,201,217,0.795,0.912,10.14,3.0,2.71,True,False,False,False,True
+"Whitesell, James K.",CHEM 140A ,FA08,270,84,0.735,0.488,6.57,3.41,2.44,True,False,False,False,True
+"Glazer, Edith C",CHEM 140A ,FA08,236,184,0.8009999999999999,0.823,8.7,2.98,2.49,True,False,False,False,True
+"Albizati, Kim F.",CHEM 140A ,FA08,201,150,0.9129999999999999,0.993,5.86,3.37,2.72,True,False,False,False,True
+"Kobayashi, Yoshihisa",CHEM 140B ,FA08,262,79,0.7659999999999999,0.40299999999999997,6.63,3.22,2.55,True,False,False,False,True
+"Hermann, Thomas",CHEM 140C ,FA08,297,205,0.759,0.8220000000000001,6.28,3.25,2.68,True,False,False,False,True
+"Weizman, Haim",CHEM 143A ,FA08,437,197,0.889,0.968,6.55,3.41,2.95,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143C ,FA08,109,98,0.8759999999999999,0.907,7.41,3.25,3.29,True,False,False,False,True
+"Prather, Kimberly A",CHEM 149A ,FA08,60,45,0.977,0.955,4.94,3.42,2.51,True,False,False,False,True
+"Tor, Yitzhak",CHEM 154,FA08,36,40,0.925,0.95,6.05,3.37,3.53,True,False,False,False,True
+"Prather, Kimberly A",CHEM 171,FA08,60,45,0.977,0.955,4.94,3.42,2.51,True,False,False,False,True
+"Hoeger, Carl",CHEM 4,FA08,238,183,0.961,0.9890000000000001,5.76,2.98,2.89,True,False,False,False,False
+"brydges, stacey",CHEM 6A ,FA08,323,247,0.8690000000000001,0.7659999999999999,6.97,2.84,2.49,True,False,False,False,False
+"Czworkowski, John",CHEM 6A ,FA08,327,273,0.818,0.59,6.15,3.15,2.54,True,False,False,False,False
+"Czworkowski, John",CHEM 6A ,FA08,298,221,0.755,0.618,6.27,3.08,2.54,True,False,False,False,False
+"Johnson, Christina A",CHEM 6A ,FA08,336,214,0.9129999999999999,0.986,6.22,3.15,2.85,True,False,False,False,False
+"brydges, stacey",CHEM 6A ,FA08,316,253,0.812,0.732,6.06,2.99,2.49,True,False,False,False,False
+"Hoeger, Carl",CHEM 6AH,FA08,117,97,0.753,0.946,6.4,3.1,3.07,True,False,False,False,False
+"Kim, Judy E.",CHEM 6B ,FA08,239,162,0.629,0.377,7.55,2.89,2.63,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 6BL,FA08,245,29,0.7240000000000001,0.862,9.19,3.29,2.99,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 6BL,FA08,248,86,0.598,0.866,10.59,3.18,2.99,True,False,False,False,False
+"Johnson, Christina A",CHEM 6C ,FA08,340,293,0.909,0.986,5.66,3.23,2.86,True,False,False,False,False
+"Trogler, William C",CHEM 6C ,FA08,120,41,0.8,0.85,4.55,3.13,2.82,True,False,False,False,False
+"Feng, Da Fei",CHEM 100A ,SP08,85,72,0.7140000000000001,0.843,10.28,3.51,2.98,True,False,False,False,True
+"Magde, Douglas",CHEM 105A ,SP08,56,34,0.7809999999999999,0.9690000000000001,9.11,3.29,3.0,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 109,SP08,29,19,0.889,0.833,8.61,3.33,3.38,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 109,SP08,24,19,0.737,0.368,8.94,2.79,3.38,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 112B ,SP08,29,19,0.889,0.833,8.61,3.33,3.38,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 112B ,SP08,24,19,0.737,0.368,8.94,2.79,3.38,True,False,False,False,True
+"Hoffmann, Alexander",CHEM 114C ,SP08,180,44,0.86,0.953,5.64,3.38,2.72,True,False,False,False,True
+"Dorrestein, Pieter",CHEM 116,SP08,53,29,0.929,0.821,6.71,3.39,3.1,True,False,False,False,True
+"Komives, Elizabeth A",CHEM 116,SP08,53,33,0.875,1.0,6.44,3.39,3.1,True,False,False,False,True
+"Tukey, Robert H",CHEM 118,SP08,108,72,0.9309999999999999,0.9309999999999999,5.53,3.34,3.09,True,False,False,False,True
+"Cohen, Seth M",CHEM 124,SP08,39,34,0.6970000000000001,0.9390000000000001,5.62,3.03,2.81,True,False,False,False,True
+"Tezcan, Faik",CHEM 124,SP08,39,34,0.6970000000000001,0.9390000000000001,5.62,3.03,2.81,True,False,False,False,True
+"Cohen, Seth M",CHEM 125,SP08,39,34,0.6970000000000001,0.9390000000000001,5.62,3.03,2.81,True,False,False,False,True
+"Tezcan, Faik",CHEM 125,SP08,39,34,0.6970000000000001,0.9390000000000001,5.62,3.03,2.81,True,False,False,False,True
+"Joseph, Simpson",CHEM 13,SP08,173,87,0.835,0.9179999999999999,3.27,3.55,2.88,True,False,False,False,False
+"Sinha, Amitabha",CHEM 133,SP08,70,42,0.7070000000000001,0.9,8.55,3.03,2.34,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 140A ,SP08,286,220,0.821,0.887,8.01,3.02,2.69,True,False,False,False,True
+"Nefzi, Adel",CHEM 140B ,SP08,307,179,0.8140000000000001,0.938,6.01,3.08,2.5,True,False,False,False,True
+"La Clair, James J.",CHEM 140B ,SP08,266,134,0.785,0.775,5.56,3.71,3.47,True,False,False,False,True
+"Finn, Michael",CHEM 140C ,SP08,194,142,0.83,0.887,6.99,3.44,3.1,True,False,False,False,True
+"Nefzi, Adel",CHEM 140C ,SP08,341,255,0.848,0.888,6.94,3.33,2.88,True,False,False,False,True
+"Tor, Yitzhak",CHEM 140CH,SP08,34,30,0.9670000000000001,1.0,6.63,3.67,3.79,True,False,False,False,True
+"Weizman, Haim",CHEM 143A ,SP08,384,163,0.904,0.955,6.3,3.41,3.01,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B ,SP08,97,80,0.893,0.932,5.77,3.18,3.27,True,False,False,False,True
+"Burkart, Michael D",CHEM 157,SP08,23,28,0.857,0.893,4.29,3.42,3.43,True,False,False,False,True
+"Russell, Lynn M.",CHEM 173,SP08,68,54,0.9259999999999999,0.9259999999999999,3.91,3.5,3.47,True,False,False,False,True
+"Tezcan, Faik",CHEM 6A ,SP08,179,106,0.904,0.9520000000000001,4.9,3.14,2.3,True,False,False,False,False
+"Hoeger, Carl",CHEM 6B ,SP08,316,217,0.8290000000000001,0.9570000000000001,6.08,3.08,2.82,True,False,False,False,False
+"Dipasquale, Antonio",CHEM 6B ,SP08,263,183,0.866,0.871,4.77,3.14,2.78,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 6BL,SP08,224,61,0.55,0.95,9.45,3.42,2.95,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 6BL,SP08,241,56,0.635,0.9620000000000001,9.05,3.4,2.95,True,False,False,False,False
+"Trogler, William C",CHEM 6C ,SP08,285,77,0.75,0.632,6.45,3.26,2.67,True,False,False,False,False
+"Dipasquale, Antonio",CHEM 6C ,SP08,351,205,0.7659999999999999,0.725,4.68,3.17,2.8,True,False,False,False,False
+"Hoeger, Carl",CHEM 6C ,SP08,329,187,0.857,0.951,5.84,3.23,3.01,True,False,False,False,False
+"Cohen, Seth M",CHEM 6CH,SP08,119,100,0.97,0.98,4.72,3.56,2.8,True,False,False,False,False
+"Feng, Da Fei",CHEM 100A ,WI08,70,66,0.597,0.71,10.02,3.31,3.2,True,False,False,False,True
+"Tauber, Michael",CHEM 105A ,WI08,38,28,0.607,0.929,9.64,3.14,2.96,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 108,WI08,22,22,0.8,0.85,6.86,3.33,3.31,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 112A ,WI08,22,22,0.8,0.85,6.86,3.33,3.31,True,False,False,False,True
+"Viadiu, Hector",CHEM 114A ,WI08,87,43,0.884,0.767,6.07,3.43,2.95,True,False,False,False,True
+"Wang, Wei",CHEM 114B ,WI08,195,61,0.7829999999999999,0.5,6.7,3.36,2.49,True,False,False,False,True
+"Nakagawa, Terunaga",CHEM 12,WI08,154,115,0.39799999999999996,0.321,3.92,2.99,2.78,True,False,False,False,False
+"Rheingold, Arnold L",CHEM 120B ,WI08,48,35,0.7709999999999999,0.8440000000000001,5.7,3.03,3.28,True,False,False,False,True
+"Magde, Douglas",CHEM 127,WI08,186,90,0.618,0.7979999999999999,6.43,3.26,2.89,True,False,False,False,True
+"Lindenberg, Katja",CHEM 132,WI08,109,75,0.757,0.865,8.31,3.17,2.44,True,False,False,False,True
+"Whitesell, James K.",CHEM 140A ,WI08,377,118,0.818,0.716,5.65,3.46,2.56,True,False,False,False,True
+"Oconnor, Joseph M.",CHEM 140A ,WI08,360,199,0.892,0.985,6.23,3.25,2.52,True,False,False,False,True
+"Nefzi, Adel",CHEM 140B ,WI08,338,294,0.825,0.953,6.82,3.2,2.6,True,False,False,False,True
+"Oconnor, Joseph M.",CHEM 140B ,WI08,301,192,0.78,0.963,7.01,3.2,2.65,True,False,False,False,True
+"Burkart, Michael D",CHEM 140B ,WI08,137,104,0.848,0.9490000000000001,6.44,3.44,2.89,True,False,False,False,True
+"Weizman, Haim",CHEM 140BH,WI08,24,24,1.0,1.0,8.0,3.82,3.89,True,False,False,False,True
+"Nefzi, Adel",CHEM 140C ,WI08,206,129,0.831,0.9520000000000001,7.04,3.18,2.47,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143A ,WI08,309,235,0.782,0.8440000000000001,5.21,3.28,3.11,True,False,False,False,True
+"Weizman, Haim",CHEM 143AH,WI08,40,25,0.76,1.0,10.34,3.46,3.44,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143B ,WI08,100,100,0.838,0.919,5.55,3.16,3.22,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 149B ,WI08,41,25,0.88,0.88,4.74,3.14,2.88,True,False,False,False,True
+"Glazer, Edith C",CHEM 15,WI08,55,43,0.86,0.884,3.06,3.56,3.33,True,False,False,False,False
+"Perrin, Charles L.",CHEM 156,WI08,21,18,0.611,0.778,5.21,3.0,2.97,True,False,False,False,True
+"Tukey, Robert H",CHEM 166,WI08,24,22,1.0,1.0,5.05,3.91,3.71,True,False,False,False,True
+"Pomeroy, Robert S.",CHEM 172,WI08,41,25,0.88,0.88,4.74,3.14,2.88,True,False,False,False,True
+"Winn, Darby Lee",CHEM 6A ,WI08,316,183,0.85,0.8170000000000001,5.8,3.03,2.56,True,False,False,False,False
+"Hoeger, Carl",CHEM 6A ,WI08,307,184,0.894,0.978,6.45,2.99,2.78,True,False,False,False,False
+"Muller, Ulrich K.",CHEM 6B ,WI08,120,85,0.741,0.518,5.9,3.04,2.6,True,False,False,False,False
+"Dipasquale, Antonio",CHEM 6B ,WI08,230,164,0.903,0.9420000000000001,5.22,3.07,2.74,True,False,False,False,False
+"Crowell, John E",CHEM 6B ,WI08,339,229,0.8420000000000001,0.7859999999999999,6.11,3.12,2.77,True,False,False,False,False
+"Crowell, John E",CHEM 6B ,WI08,336,229,0.794,0.775,5.95,3.06,2.77,True,False,False,False,False
+"Kummel, Andrew C",CHEM 6B ,WI08,288,184,0.81,0.914,6.55,3.07,2.6,True,False,False,False,False
+"Hoeger, Carl",CHEM 6BH,WI08,143,97,0.884,0.9570000000000001,6.27,3.44,3.18,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 6BL,WI08,179,38,0.611,0.919,9.85,3.34,2.99,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 6BL,WI08,223,65,0.6609999999999999,0.9520000000000001,8.25,3.42,2.99,True,False,False,False,False
+"Dipasquale, Antonio",CHEM 6C ,WI08,276,153,0.8340000000000001,0.767,4.46,3.2,2.65,True,False,False,False,False
+"Feng, Da Fei",CHEM 100A ,FA07,83,81,0.532,0.6579999999999999,11.28,3.23,3.13,True,False,False,False,True
+"Kim, Judy E.",CHEM 105A ,FA07,36,27,0.846,0.9259999999999999,9.46,3.12,2.82,True,False,False,False,True
+"Crowley, Thomas E.",CHEM 108,FA07,31,23,0.87,0.9129999999999999,5.89,3.55,3.5,True,False,False,False,True
+"Dipasquale, Antonio",CHEM 11,FA07,102,61,0.934,0.951,3.58,3.43,3.34,True,False,False,False,False
+"Donoghue, Daniel J.",CHEM 11,FA07,307,164,0.9620000000000001,0.9940000000000001,3.44,3.65,3.28,True,False,False,False,False
+"Crowley, Thomas E.",CHEM 112A ,FA07,31,23,0.87,0.9129999999999999,5.89,3.55,3.5,True,False,False,False,True
+"Ghosh, Gourisankar",CHEM 114A ,FA07,186,69,0.7759999999999999,0.254,6.0,3.31,2.66,True,False,False,False,True
+"Hendrickson, David N",CHEM 120A ,FA07,183,72,0.9129999999999999,0.8859999999999999,5.24,3.7,3.24,True,False,False,False,True
+"Crowell, John E",CHEM 126,FA07,201,89,0.6859999999999999,0.919,6.97,3.23,2.53,True,False,False,False,True
+"Lindenberg, Katja",CHEM 131,FA07,125,80,0.763,0.821,9.13,3.01,2.48,True,False,False,False,True
+"Yang, Jerry",CHEM 140A ,FA07,350,243,0.821,0.9009999999999999,7.33,3.23,2.66,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 140A ,FA07,245,160,0.897,0.9420000000000001,10.21,3.05,2.68,True,False,False,False,True
+"Perrin, Charles L.",CHEM 140A ,FA07,322,242,0.863,0.953,7.19,3.33,2.51,True,False,False,False,True
+"Hermann, Thomas",CHEM 140C ,FA07,249,177,0.863,0.8640000000000001,6.28,3.33,2.76,True,False,False,False,True
+"Weizman, Haim",CHEM 143A ,FA07,387,174,0.848,0.958,6.88,3.35,2.98,True,False,False,False,True
+"Ternansky, Robert J.",CHEM 143C ,FA07,104,74,0.945,0.9590000000000001,6.72,3.37,3.35,True,False,False,False,True
+"Prather, Kimberly A",CHEM 149A ,FA07,67,28,1.0,1.0,4.14,3.61,2.28,True,False,False,False,True
+"Theodorakis, Emmanouil",CHEM 152,FA07,21,24,0.7829999999999999,0.958,3.98,3.54,3.29,True,False,False,False,True
+"Tor, Yitzhak",CHEM 154,FA07,34,49,0.958,1.0,5.81,3.32,3.6,True,False,False,False,True
+"Prather, Kimberly A",CHEM 171,FA07,67,28,1.0,1.0,4.14,3.61,2.28,True,False,False,False,True
+"Hoeger, Carl",CHEM 4,FA07,243,152,0.94,0.96,5.12,3.1,3.06,True,False,False,False,False
+"Pomeroy, Robert S.",CHEM 6A ,FA07,330,170,0.833,0.83,6.17,2.8,2.37,True,False,False,False,False
+"Czworkowski, John",CHEM 6A ,FA07,346,214,0.82,0.608,6.2,3.14,2.58,True,False,False,False,False
+"Czworkowski, John",CHEM 6A ,FA07,334,111,0.733,0.57,6.77,2.93,2.58,True,False,False,False,False
+"Johnson, Christina A",CHEM 6A ,FA07,352,248,0.946,0.996,6.49,3.3,3.0,True,False,False,False,False
+"Pomeroy, Robert S.",CHEM 6A ,FA07,278,257,0.8740000000000001,0.7859999999999999,6.18,2.84,2.37,True,False,False,False,False
+"Hoeger, Carl",CHEM 6AH,FA07,147,96,0.8420000000000001,0.9790000000000001,6.14,3.35,3.16,True,False,False,False,False
+"Dipasquale, Antonio",CHEM 6B ,FA07,314,214,0.915,0.825,5.05,3.26,2.54,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 6BL,FA07,259,28,0.556,0.963,8.43,3.12,3.03,True,False,False,False,False
+"Berniolles, Sandrine",CHEM 6BL,FA07,221,39,0.583,0.917,9.92,3.33,3.03,True,False,False,False,False
+"Johnson, Christina A",CHEM 6C ,FA07,281,172,0.914,0.9690000000000001,5.56,3.28,3.0,True,False,False,False,False
+"Winn, Darby Lee",CHEM 6C ,FA07,197,110,0.89,0.573,5.77,3.2,2.71,True,False,False,False,False
