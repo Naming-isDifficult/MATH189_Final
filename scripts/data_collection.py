@@ -91,9 +91,9 @@ if __name__ == '__main__':
         
         # STEM tagging
         data['isSTEM'] = data['Course'].apply(
-            lambda x: True if 'LT' in x or 'PHIL' in x\
+            lambda x: False if 'LT' in x or 'PHIL' in x\
                             or 'VIS' in x or 'MUS' in x\
-                            else False
+                            else True
         )
         
         # for STEM courses

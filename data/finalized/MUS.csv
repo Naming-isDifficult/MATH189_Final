@@ -1,998 +1,998 @@
 Instructor,Course,Term,Enroll,Evals Made,Rcmnd Class,Rcmnd Instr,Study Hrs/wk,Avg Grade Expected,Avg Grade Received,isPreGPT,isSTEM,isAbstract,isWritten,isUD
-"Karis, Aleck",MUS 101C,SP23,21,4,1.0,1.0,6.0,3.5,3.04,False,True,False,False,True
-"Terrazas Perez, Wilfrido D",MUS 11,SP23,201,69,1.0,1.0,2.26,3.88,3.87,False,True,False,False,False
-"Narucki, Susan M",MUS 113,SP23,31,16,0.938,0.938,2.77,3.83,3.52,False,True,False,False,True
-"Ohnishi, Takae",MUS 130,SP23,40,16,1.0,0.867,4.23,4.0,4.0,False,True,False,False,True
-"Schaffer, Max Benjamin",MUS 15,SP23,186,63,0.965,1.0,1.82,3.98,3.91,False,True,False,False,False
-"Burr, Anthony I",MUS 17,SP23,285,77,0.9309999999999999,0.972,2.53,3.74,3.44,False,True,False,False,False
-"Erbe, Tom",MUS 170,SP23,58,13,0.846,1.0,1.42,3.85,3.78,False,True,False,False,True
-"Britt, King James",MUS 174C,SP23,26,8,1.0,1.0,5.75,4.0,3.99,False,True,False,False,True
-"Smyth, Tamara R.",MUS 175,SP23,28,20,0.9,0.95,3.45,3.53,3.58,False,True,False,False,True
-"Schneider, Berk Waldemar",MUS 1C,SP23,34,24,0.9570000000000001,0.9129999999999999,3.75,3.71,3.46,False,True,False,False,False
-"Ishov, Alexander Alexandrovich",MUS 2C,SP23,27,11,0.9,0.8,4.5,3.82,3.67,False,True,False,False,False
-"Woo, Sora",MUS 4,SP23,227,86,0.9490000000000001,0.9359999999999999,3.13,3.85,3.74,False,True,False,False,False
-"Solem, Nicholas",MUS 7,SP23,132,52,0.56,0.7140000000000001,2.46,3.67,3.65,False,True,False,False,False
-"Taylor, Alexander Lawther",MUS 95E,SP23,57,33,1.0,1.0,2.64,4.0,4.0,False,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,SP23,28,10,1.0,1.0,2.72,4.0,3.89,False,True,False,False,False
-"Jones, Michael David",MUS 95L,SP23,46,26,1.0,1.0,2.67,4.0,4.0,False,True,False,False,False
-"Seshadri, Kartik",MUS 95W,SP23,26,6,1.0,1.0,1.7,4.0,4.0,False,True,False,False,False
-"Seshadri, Kartik",MUS 95W,SP23,23,6,0.833,0.833,1.7,4.0,4.0,False,True,False,False,False
-"Karis, Aleck",MUS 101B,WI23,21,9,0.778,1.0,5.17,3.67,3.22,False,True,False,False,True
-"Ung, Chinary",MUS 111,WI23,108,33,0.9670000000000001,0.9670000000000001,4.3,3.85,3.87,False,True,False,False,True
-"Curtis, Charles Rector",MUS 113,WI23,29,10,0.8,0.9,3.7,3.9,3.95,False,True,False,False,True
-"Diaz De Cossio, Teresa Sanchez",MUS 114,WI23,136,67,0.985,0.985,2.53,3.95,3.88,False,True,False,False,True
-"Davis, Anthony Curtis",MUS 12,WI23,91,30,0.815,0.8079999999999999,3.07,3.91,3.6,False,True,False,False,False
-"Schwenkler, Kevin Allen",MUS 120B,WI23,24,10,0.5,0.556,2.7,3.9,3.34,False,True,False,False,True
-"Dresser, Mark Stuart",MUS 127,WI23,102,33,0.9690000000000001,0.938,3.66,3.72,3.71,False,True,False,False,True
-"Guy, Nancy",MUS 13,WI23,93,45,0.69,0.732,3.85,3.27,2.79,False,True,False,False,False
-"Ohnishi, Takae",MUS 130,WI23,33,13,1.0,0.917,3.59,4.0,3.97,False,True,False,False,True
-"Kenyatta, Kamau",MUS 137B,WI23,22,3,1.0,1.0,0.5,4.0,4.0,False,True,False,False,True
-"Woo, Sora",MUS 15,WI23,183,68,0.938,0.905,2.89,3.94,3.77,False,True,False,False,False
-"Hankins, Sarah E.",MUS 151,WI23,48,17,0.688,0.813,3.63,3.67,3.75,False,True,False,False,True
-"Roth, Paul N",MUS 17,WI23,339,145,0.9570000000000001,0.97,2.1,3.88,3.79,False,True,False,False,False
-"Haering, Nathaniel James",MUS 172,WI23,21,16,0.75,0.813,6.88,3.6,3.72,False,True,False,False,True
-"Britt, King James",MUS 174B,WI23,32,6,1.0,1.0,9.17,4.0,3.77,False,True,False,False,True
-"Britt, King James",MUS 19R,WI23,207,76,1.0,1.0,2.72,3.88,3.94,False,True,False,False,False
-"Schneider, Berk Waldemar",MUS 1B,WI23,87,52,0.9229999999999999,0.961,3.38,3.85,3.8,False,True,False,False,False
-"Carlson, Erik Norman",MUS 2B,WI23,28,13,0.917,1.0,2.04,4.0,4.0,False,True,False,False,False
-"Waniuk, Ilana",MUS 4,WI23,194,70,0.899,0.9570000000000001,2.36,3.92,3.88,False,True,False,False,False
-"Dubnov, Shlomo",MUS 5R,WI23,123,65,0.938,0.9690000000000001,2.78,3.97,3.84,False,True,False,False,False
-"Schick, Steven",MUS 9,WI23,139,49,0.867,0.956,2.08,3.76,3.7,False,True,False,False,False
-"Taylor, Alexander Lawther",MUS 95E,WI23,56,29,1.0,1.0,2.36,4.0,4.0,False,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,WI23,30,10,1.0,1.0,4.5,4.0,4.0,False,True,False,False,False
-"Jones, Michael David",MUS 95L,WI23,48,21,1.0,0.9520000000000001,2.02,4.0,4.0,False,True,False,False,False
-"Seshadri, Kartik",MUS 95W,WI23,32,5,1.0,0.8,2.1,4.0,3.88,False,True,False,False,False
-"Ishov, Alexander Alexandrovich",MUS 101A,FA22,25,3,1.0,1.0,3.17,4.0,4.0,False,True,False,False,True
-"Yadegari, Shahrokh D",MUS 111,FA22,115,64,0.905,0.9520000000000001,3.53,3.76,3.74,False,True,False,False,True
-"Curtis, Charles Rector",MUS 114,FA22,123,30,0.69,0.759,3.74,3.76,3.62,False,True,False,False,True
-"Narucki, Susan M",MUS 12,FA22,68,19,1.0,1.0,2.29,3.68,3.44,False,True,False,False,False
-"Cimini, Amy Marie",MUS 120A,FA22,24,3,1.0,1.0,2.5,4.0,3.69,False,True,False,False,True
-"Borgo, David Garcia",MUS 126R,FA22,128,65,1.0,1.0,4.05,3.88,3.75,False,True,False,False,True
-"Ohnishi, Takae",MUS 130,FA22,34,14,1.0,0.7859999999999999,3.21,4.0,4.0,False,True,False,False,True
-"Kenyatta, Kamau",MUS 137A,FA22,21,6,1.0,1.0,1.17,3.6,3.73,False,True,False,False,True
-"Schwenkler, Kevin Allen",MUS 15,FA22,203,68,0.894,0.9390000000000001,2.2,3.95,4.0,False,True,False,False,False
-"Smyth, Tamara R.",MUS 171,FA22,38,14,0.5710000000000001,0.5,5.21,2.93,3.19,False,True,False,False,True
-"Britt, King James",MUS 173,FA22,28,10,0.889,1.0,6.1,3.3,3.98,False,True,False,False,True
-"Burr, Anthony I",MUS 174A,FA22,32,5,1.0,1.0,5.3,3.8,3.59,False,True,False,False,True
-"Britt, King James",MUS 19R,FA22,239,90,0.922,0.9890000000000001,2.68,3.8,3.93,False,True,False,False,False
-"Schneider, Berk Waldemar",MUS 1A,FA22,138,97,0.9279999999999999,0.9590000000000001,3.49,3.66,3.8,False,True,False,False,False
-"Zhang, Shaoai",MUS 1A,FA22,146,58,1.0,0.982,2.68,3.93,3.82,False,True,False,False,False
-"Borgo, David Garcia",MUS 20,FA22,56,31,0.867,0.966,2.69,3.9,3.87,False,True,False,False,False
-"Carlson, Erik Norman",MUS 2A,FA22,31,16,0.875,1.0,2.13,3.81,3.87,False,True,False,False,False
-"Liu, Anqi",MUS 4,FA22,189,62,0.8690000000000001,0.8029999999999999,3.16,3.89,3.85,False,True,False,False,False
-"Waniuk, Ilana",MUS 5,FA22,134,35,1.0,1.0,2.26,3.94,4.0,False,True,False,False,False
-"Haering, Nathaniel James",MUS 6,FA22,94,60,0.9329999999999999,0.966,3.53,3.89,4.0,False,True,False,False,False
-"Kenyatta, Kamau",MUS 8,FA22,144,70,0.971,0.985,2.15,3.7,3.62,False,True,False,False,False
-"Sussman, Diana Wald",MUS 95C,FA22,32,7,1.0,1.0,2.5,3.83,3.85,False,True,False,False,False
-"Taylor, Alexander Lawther",MUS 95E,FA22,49,27,1.0,1.0,2.06,4.0,4.0,False,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,FA22,27,9,1.0,1.0,2.94,4.0,4.0,False,True,False,False,False
-"Seshadri, Kartik",MUS 95W,FA22,42,11,0.889,0.889,3.0,4.0,3.91,False,True,False,False,False
-"Brindamour, Lydia Winsor",MUS 101C,SP22,24,9,0.778,0.889,2.5,3.63,3.52,False,True,False,False,True
-"Terrazas Perez, Wilfrido D",MUS 11,SP22,135,63,0.983,1.0,1.81,3.97,3.91,False,True,False,False,False
-"Yadegari, Shahrokh D",MUS 111,SP22,125,80,0.937,0.987,3.81,3.68,3.84,False,True,False,False,True
-"Curtis, Charles Rector",MUS 113,SP22,28,11,1.0,0.9,3.3,3.89,3.68,False,True,False,False,True
-"Reynolds, Roger L.",MUS 114,SP22,119,42,0.7140000000000001,0.738,4.06,3.59,3.27,False,True,False,False,True
-"Cimini, Amy Marie",MUS 120C,SP22,31,8,0.875,1.0,2.5,3.63,3.83,False,True,False,False,True
-"Guy, Nancy",MUS 13,SP22,106,60,0.804,0.873,3.88,3.46,3.29,False,True,False,False,False
-"Ohnishi, Takae",MUS 130,SP22,43,19,1.0,0.895,3.97,4.0,3.93,False,True,False,False,True
-"Schwenkler, Kevin Allen",MUS 15,SP22,299,97,0.902,0.935,2.8,3.85,3.8,False,True,False,False,False
-"Roth, Paul N",MUS 17,SP22,336,115,0.973,0.973,2.66,3.86,3.78,False,True,False,False,False
-"Erbe, Tom",MUS 172,SP22,52,12,0.917,1.0,6.67,3.55,3.38,False,True,False,False,True
-"Solem, Nicholas",MUS 174C,SP22,22,6,0.667,0.4,4.5,4.0,3.97,False,True,False,False,True
-"Smyth, Tamara R.",MUS 175,SP22,24,4,1.0,1.0,1.5,3.75,3.09,False,True,False,False,True
-"Zhang, Shaoai",MUS 1C,SP22,39,22,0.905,0.905,4.31,3.73,3.22,False,True,False,False,False
-"Liu, Anqi",MUS 2C,SP22,22,17,1.0,0.75,5.09,3.6,3.8,False,True,False,False,False
-"Lloyd-Jones, Rebecca Louise",MUS 4,SP22,190,69,0.938,0.938,3.3,3.81,3.77,False,True,False,False,False
-"Richards, Stephanie F",MUS 5,SP22,111,65,0.785,0.9079999999999999,3.0,3.8,3.6,False,True,False,False,False
-"Carlson, Erik Norman",MUS 95E,SP22,38,12,1.0,1.0,1.67,4.0,4.0,False,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,SP22,27,9,1.0,1.0,1.83,4.0,4.0,False,True,False,False,False
-"Jones, Michael David",MUS 95L,SP22,46,15,1.0,1.0,1.83,4.0,4.0,False,True,False,False,False
-"Seshadri, Kartik",MUS 95W,SP22,60,11,1.0,0.909,5.41,3.9,3.82,False,True,False,False,False
-"Seshadri, Kartik",MUS 95W,SP22,35,9,0.889,0.778,2.0,4.0,3.96,False,True,False,False,False
-"Karis, Aleck",MUS 101B,WI22,26,9,0.889,1.0,6.28,3.38,2.79,False,True,False,False,True
-"Ung, Chinary",MUS 111,WI22,93,27,0.731,0.8079999999999999,3.35,3.77,3.82,False,True,False,False,True
-"Pasler, Jann Corinne",MUS 113,WI22,27,11,0.545,0.636,4.5,3.7,2.78,False,True,False,False,True
-"Terrazas Perez, Wilfrido D",MUS 114,WI22,141,58,1.0,1.0,3.18,3.98,3.91,False,True,False,False,True
-"Davis, Anthony Curtis",MUS 12,WI22,91,35,0.941,0.97,4.26,3.84,3.61,False,True,False,False,False
-"Dresser, Mark Stuart",MUS 127,WI22,101,35,1.0,0.941,4.03,3.9,3.64,False,True,False,False,True
-"Leslie, Matthew",MUS 13,WI22,99,57,0.9470000000000001,0.982,2.54,3.95,3.9,False,True,False,False,False
-"Ohnishi, Takae",MUS 130,WI22,25,9,1.0,1.0,3.0,4.0,4.0,False,True,False,False,True
-"Kenyatta, Kamau",MUS 137B,WI22,24,9,1.0,1.0,3.83,4.0,4.0,False,True,False,False,True
-"Schulmeister, Kathryn Crandall",MUS 15,WI22,277,106,1.0,1.0,2.56,3.93,3.86,False,True,False,False,False
-"Borgo, David Garcia",MUS 150,WI22,26,18,0.889,0.941,3.83,3.5,3.5,False,True,False,False,True
-"Burr, Anthony I",MUS 17,WI22,382,137,0.917,0.955,3.27,3.86,3.66,False,True,False,False,False
-"Smyth, Tamara R.",MUS 171,WI22,108,27,0.885,0.885,5.39,3.63,3.52,False,True,False,False,True
-"Britt, King James",MUS 174B,WI22,24,9,1.0,1.0,10.28,3.67,3.89,False,True,False,False,True
-"Britt, King James",MUS 19R,WI22,191,75,0.986,0.9590000000000001,2.95,3.85,3.78,False,True,False,False,False
-"Zhang, Shaoai",MUS 1B,WI22,96,70,0.914,0.943,4.33,3.79,3.6,False,True,False,False,False
-"Borgo, David Garcia",MUS 20,WI22,42,34,0.882,1.0,3.09,3.93,3.91,False,True,False,False,False
-"Carlson, Erik Norman",MUS 2B,WI22,27,11,0.909,1.0,1.41,3.91,3.88,False,True,False,False,False
-"Brindamour, Lydia Winsor",MUS 4,WI22,207,87,0.966,0.9890000000000001,3.03,3.81,3.63,False,True,False,False,False
-"Lloyd-Jones, Rebecca Louise",MUS 5,WI22,141,60,0.966,1.0,2.88,3.91,3.83,False,True,False,False,False
-"Carlson, Erik Norman",MUS 95E,WI22,22,13,1.0,1.0,2.04,4.0,4.0,False,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,WI22,24,5,1.0,1.0,1.0,4.0,4.0,False,True,False,False,False
-"Jones, Michael David",MUS 95L,WI22,41,18,1.0,1.0,1.13,4.0,4.0,False,True,False,False,False
-"Seshadri, Kartik",MUS 95W,WI22,25,9,0.889,0.889,3.39,3.89,3.91,False,True,False,False,False
-"Karis, Aleck",MUS 101A,FA21,29,15,0.9329999999999999,1.0,4.77,3.4,3.18,True,True,False,False,True
-"Curtis, Charles Rector",MUS 114,FA21,120,43,0.929,0.902,3.69,3.86,3.8,True,True,False,False,True
-"Narucki, Susan M",MUS 12,FA21,69,37,0.946,1.0,2.34,3.94,3.62,True,True,False,False,False
-"Leslie, Matthew",MUS 120A,FA21,38,19,0.9440000000000001,1.0,2.28,3.94,3.94,True,True,False,False,True
-"Borgo, David Garcia",MUS 126,FA21,136,99,0.99,1.0,5.25,3.9,3.7,True,True,False,False,True
-"Davis, Anthony Curtis",MUS 127,FA21,87,32,0.6,0.5329999999999999,2.83,3.82,3.82,True,True,False,False,True
-"Kenyatta, Kamau",MUS 137A,FA21,31,16,0.938,0.938,4.25,3.63,3.66,True,True,False,False,True
-"Bain, Landon Lee",MUS 15,FA21,173,84,0.925,0.987,2.93,3.91,3.54,True,True,False,False,False
-"Puckette, Miller S.",MUS 170,FA21,52,19,1.0,1.0,4.03,3.94,3.82,True,True,False,False,True
-"Britt, King James",MUS 173,FA21,32,13,1.0,1.0,9.88,3.83,3.99,True,True,False,False,True
-"Burr, Anthony I",MUS 174A,FA21,26,11,1.0,0.818,3.41,4.0,3.94,True,True,False,False,True
-"Britt, King James",MUS 19,FA21,246,120,0.983,0.9740000000000001,2.64,3.82,3.74,True,True,False,False,False
-"Zhang, Shaoai",MUS 1A,FA21,135,91,0.955,0.978,2.37,3.84,3.75,True,True,False,False,False
-"Stephenson, Alex Edward",MUS 1A,FA21,137,87,1.0,1.0,3.03,3.96,3.84,True,True,False,False,False
-"Richards, Stephanie F",MUS 2A,FA21,37,26,0.9620000000000001,0.885,3.5,3.68,3.11,True,True,False,False,False
-"Brindamour, Lydia Winsor",MUS 4,FA21,164,69,0.97,1.0,3.51,3.8,3.58,True,True,False,False,False
-"Dubnov, Shlomo",MUS 5,FA21,193,71,0.687,0.7879999999999999,2.35,3.91,3.56,True,True,False,False,False
-"Schneider, Berk Waldemar",MUS 6,FA21,112,78,0.885,0.9620000000000001,3.05,3.9,3.86,True,True,False,False,False
-"Tiruviluamala, Nakul Venkat",MUS 7,FA21,113,49,0.9179999999999999,0.9590000000000001,2.79,3.85,4.0,True,True,False,False,False
-"Kenyatta, Kamau",MUS 8,FA21,137,55,0.981,1.0,1.71,3.9,3.88,True,True,False,False,False
-"Schick, Steven",MUS 9,FA21,123,57,0.982,0.963,1.93,3.9,3.72,True,True,False,False,False
-"Carlson, Erik Norman",MUS 95E,FA21,23,16,0.938,1.0,1.13,4.0,4.0,True,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,FA21,24,10,1.0,1.0,2.75,4.0,4.0,True,True,False,False,False
-"Jones, Michael David",MUS 95L,FA21,45,21,1.0,0.9520000000000001,1.26,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,FA21,44,17,0.8240000000000001,0.8240000000000001,1.68,3.93,3.87,True,True,False,False,False
-"Burr, Anthony I",MUS 101C,SP21,24,9,1.0,0.889,4.06,3.78,3.64,True,True,False,False,True
-"Terrazas Perez, Wilfrido D",MUS 11,SP21,206,86,0.988,1.0,2.34,3.99,3.88,True,True,False,False,False
-"Vine, Anthony Dominic",MUS 114,SP21,134,53,0.981,1.0,3.62,3.94,3.91,True,True,False,False,True
-"Davis, Anthony Curtis",MUS 127,SP21,115,38,0.647,0.5589999999999999,4.21,3.77,3.85,True,True,False,False,True
-"Guy, Nancy",MUS 13,SP21,85,32,0.813,0.774,3.5,3.45,3.39,True,True,False,False,False
-"Da Silva, Marcos Balter Ma",MUS 14,SP21,77,35,1.0,1.0,3.26,4.0,3.79,True,True,False,False,False
-"Leslie, Matthew",MUS 15,SP21,286,91,0.955,0.9890000000000001,2.97,3.88,3.7,True,True,False,False,False
-"Burr, Anthony I",MUS 17,SP21,476,159,0.9420000000000001,0.9159999999999999,3.06,3.81,3.61,True,True,False,False,False
-"Puckette, Miller S.",MUS 170,SP21,59,27,0.815,0.852,3.61,3.86,3.7,True,True,False,False,True
-"Smyth, Tamara R.",MUS 175,SP21,25,9,1.0,1.0,4.06,3.56,3.39,True,True,False,False,True
-"Tiruviluamala, Nakul Venkat",MUS 1C,SP21,56,18,0.9440000000000001,0.889,3.72,3.94,4.0,True,True,False,False,False
-"Borgo, David Garcia",MUS 20,SP21,33,22,0.955,1.0,4.32,3.82,3.74,True,True,False,False,False
-"Carlson, Erik Norman",MUS 2C,SP21,28,12,1.0,0.889,3.95,3.82,3.96,True,True,False,False,False
-"Gutierrez Martinez, Andres",MUS 4,SP21,253,90,0.884,0.86,3.28,3.86,3.79,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,SP21,43,17,0.941,0.941,3.09,4.0,3.86,True,True,False,False,False
-"Stephenson, Alex Edward",MUS 101B,WI21,29,21,0.9520000000000001,0.9520000000000001,5.07,3.74,3.41,True,True,False,False,True
-"Ung, Chinary",MUS 111,WI21,43,11,0.545,0.636,1.59,3.75,3.83,True,True,False,False,True
-"Terrazas Perez, Wilfrido D",MUS 114,WI21,158,71,1.0,1.0,3.01,3.97,3.94,True,True,False,False,True
-"Guy, Nancy",MUS 12,WI21,74,26,0.769,0.846,4.42,3.41,3.51,True,True,False,False,False
-"Cimini, Amy Marie",MUS 120B,WI21,20,6,0.833,0.833,3.83,4.0,3.3,True,True,False,False,True
-"Dresser, Mark Stuart",MUS 127,WI21,108,42,0.7140000000000001,0.81,5.28,3.61,3.8,True,True,False,False,True
-"Babin, Thomas Andrew",MUS 15,WI21,330,133,0.977,0.985,2.89,3.93,3.82,True,True,False,False,False
-"Boston, Martin Luther",MUS 153,WI21,20,8,0.857,1.0,3.93,3.6,3.68,True,True,False,False,True
-"Green, Kevin P",MUS 17,WI21,390,143,0.879,0.877,4.42,3.76,3.69,True,True,False,False,False
-"Britt, King James",MUS 173,WI21,25,14,1.0,1.0,6.81,3.64,3.87,True,True,False,False,True
-"Erbe, Tom",MUS 174A,WI21,20,9,1.0,1.0,2.5,3.83,3.93,True,True,False,False,True
-"Britt, King James",MUS 174B,WI21,25,15,1.0,1.0,5.83,3.67,3.81,True,True,False,False,True
-"Britt, King James",MUS 19,WI21,58,28,1.0,1.0,4.07,3.96,3.9,True,True,False,False,False
-"Tiruviluamala, Nakul Venkat",MUS 1B,WI21,113,51,0.96,0.878,2.7,3.92,3.99,True,True,False,False,False
-"Zhou, Tiange",MUS 2B,WI21,33,26,0.885,0.9229999999999999,3.5,3.64,3.92,True,True,False,False,False
-"Brindamour, Lydia Winsor",MUS 4,WI21,284,137,0.925,0.985,4.28,3.79,3.78,True,True,False,False,False
-"Greenstone, Madison Kearsley",MUS 5,WI21,153,68,0.862,0.9059999999999999,3.47,3.97,3.82,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,WI21,28,6,1.0,1.0,2.17,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,WI21,38,8,1.0,1.0,2.0,3.88,4.0,True,True,False,False,False
-"Karis, Aleck",MUS 101A,FA20,28,13,0.846,1.0,5.12,3.54,3.08,True,True,False,False,True
-"Yadegari, Shahrokh D",MUS 111,FA20,66,49,0.9179999999999999,0.98,4.05,3.71,3.73,True,True,False,False,True
-"Curtis, Charles Rector",MUS 114,FA20,111,39,0.868,0.9470000000000001,3.66,3.89,3.56,True,True,False,False,True
-"Borgo, David Garcia",MUS 126,FA20,109,62,1.0,1.0,4.0,3.94,3.77,True,True,False,False,True
-"Leslie, Matthew",MUS 13,FA20,138,67,0.985,0.985,2.44,3.84,3.97,True,True,False,False,False
-"Kenyatta, Kamau",MUS 137A,FA20,31,11,1.0,1.0,4.86,3.9,3.93,True,True,False,False,True
-"Bain, Landon Lee",MUS 15,FA20,153,74,0.863,0.9590000000000001,3.36,3.69,3.67,True,True,False,False,False
-"Babin, Thomas Andrew",MUS 17,FA20,334,139,0.978,0.955,3.85,3.87,3.65,True,True,False,False,False
-"Smyth, Tamara R.",MUS 171,FA20,56,17,0.765,0.882,6.15,3.71,3.25,True,True,False,False,True
-"Britt, King James",MUS 173,FA20,36,16,1.0,1.0,8.25,3.67,3.72,True,True,False,False,True
-"Erbe, Tom",MUS 174A,FA20,23,5,0.8,1.0,2.9,3.8,3.84,True,True,False,False,True
-"Britt, King James",MUS 19,FA20,43,18,0.9440000000000001,1.0,3.61,3.88,3.76,True,True,False,False,False
-"Stephenson, Alex Edward",MUS 1A,FA20,148,107,0.981,1.0,3.42,3.91,3.81,True,True,False,False,False
-"Mitsialis, Ioannis",MUS 1A,FA20,144,75,0.958,0.887,3.19,3.94,3.62,True,True,False,False,False
-"Stephenson, Alex Edward",MUS 1A,FA20,23,19,0.9440000000000001,1.0,2.94,3.93,3.88,True,True,False,False,False
-"Richards, Stephanie F",MUS 2A,FA20,25,21,0.9520000000000001,0.95,4.31,3.68,3.39,True,True,False,False,False
-"Richards, Stephanie F",MUS 2A,FA20,21,14,1.0,1.0,3.93,3.38,3.59,True,True,False,False,False
-"Brindamour, Lydia Winsor",MUS 4,FA20,273,134,0.985,1.0,4.16,3.82,3.84,True,True,False,False,False
-"Brindamour, Lydia Winsor",MUS 4,FA20,20,9,1.0,1.0,2.5,3.88,3.45,True,True,False,False,False
-"Dubnov, Shlomo",MUS 5,FA20,132,66,0.708,0.75,2.84,3.69,3.7,True,True,False,False,False
-"Dubnov, Shlomo",MUS 5,FA20,25,10,0.4,0.7,2.1,3.2,3.07,True,True,False,False,False
-"Tiruviluamala, Nakul Venkat",MUS 6,FA20,130,53,1.0,0.9790000000000001,4.02,3.89,3.98,True,True,False,False,False
-"Zhou, Tiange",MUS 7,FA20,139,110,0.955,0.9640000000000001,2.52,3.79,3.87,True,True,False,False,False
-"Kenyatta, Kamau",MUS 8,FA20,135,59,0.983,0.982,2.18,3.92,3.84,True,True,False,False,False
-"Schick, Steven",MUS 9,FA20,142,71,0.9440000000000001,0.972,2.61,3.8,3.84,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,FA20,59,14,1.0,1.0,2.64,4.0,3.79,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,FA20,28,9,1.0,0.889,4.72,4.0,3.8,True,True,False,False,False
-"Karis, Aleck",MUS 101C,SP20,20,8,1.0,1.0,5.75,3.43,3.43,True,True,False,False,True
-"Terrazas Perez, Wilfrido D",MUS 11,SP20,154,55,0.982,0.982,2.25,3.94,3.93,True,True,False,False,False
-"Yadegari, Shahrokh D",MUS 111,SP20,136,91,0.934,0.978,3.71,3.92,3.97,True,True,False,False,True
-"Curtis, Charles Rector",MUS 114,SP20,104,27,0.9259999999999999,0.963,4.2,4.0,3.92,True,True,False,False,True
-"Narucki, Susan M",MUS 12,SP20,40,20,1.0,1.0,2.92,3.88,3.84,True,True,False,False,False
-"Leslie, Matthew",MUS 120C,SP20,30,7,0.857,1.0,3.07,4.0,3.96,True,True,False,False,True
-"Borgo, David Garcia",MUS 127,SP20,78,57,0.912,0.9470000000000001,4.0,3.81,3.94,True,True,False,False,True
-"Lee, Leon Pakyuen",MUS 152,SP20,20,9,1.0,1.0,4.28,3.78,3.96,True,True,False,False,True
-"Babin, Thomas Andrew",MUS 17,SP20,366,116,0.955,0.991,3.41,3.89,3.89,True,True,False,False,False
-"Sundstrom, Jacob Lyle",MUS 172,SP20,28,13,0.9229999999999999,0.9229999999999999,5.42,3.67,3.52,True,True,False,False,True
-"Smyth, Tamara R.",MUS 175,SP20,26,8,0.875,1.0,2.5,3.29,3.89,True,True,False,False,True
-"Britt, King James",MUS 19,SP20,38,17,1.0,1.0,3.56,4.0,3.96,True,True,False,False,False
-"Tiruviluamala, Nakul Venkat",MUS 1C,SP20,61,24,0.9570000000000001,1.0,4.67,3.88,3.99,True,True,False,False,False
-"Borgo, David Garcia",MUS 20,SP20,32,18,0.889,0.9440000000000001,3.17,3.8,3.94,True,True,False,False,False
-"Zhou, Tiange",MUS 2C,SP20,30,24,0.958,0.875,3.33,3.95,4.0,True,True,False,False,False
-"Allen, Rachel Elizabeth",MUS 4,SP20,272,223,0.9329999999999999,0.9640000000000001,3.33,3.82,3.78,True,True,False,False,False
-"Dubnov, Shlomo",MUS 5,SP20,53,21,0.9,0.9,2.3,3.72,3.46,True,True,False,False,False
-"Diels, Natacha D.",MUS 6,SP20,147,40,1.0,1.0,3.34,3.81,3.96,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,SP20,29,6,1.0,1.0,1.7,4.0,3.86,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,SP20,30,9,1.0,1.0,1.0,4.0,3.87,True,True,False,False,False
-"Kline, Matthew John",MUS 95E,SP20,26,13,1.0,1.0,4.96,4.0,4.0,True,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,SP20,20,9,1.0,1.0,3.17,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,SP20,61,13,1.0,1.0,1.83,3.92,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,SP20,37,5,1.0,1.0,1.7,4.0,4.0,True,True,False,False,False
-"Ung, Chinary",MUS 111,WI20,37,16,0.6,0.733,2.37,3.23,3.65,True,True,False,False,True
-"Curtis, Charles Rector",MUS 113,WI20,38,14,0.615,0.846,2.65,3.82,3.81,True,True,False,False,True
-"Reynolds, Roger L.",MUS 114,WI20,116,38,0.622,0.649,2.5,3.7,3.72,True,True,False,False,True
-"Guy, Nancy",MUS 12,WI20,48,27,0.963,0.9259999999999999,2.13,3.57,3.19,True,True,False,False,False
-"Cimini, Amy Marie",MUS 120B,WI20,27,9,0.778,0.889,4.06,3.56,3.78,True,True,False,False,True
-"Dresser, Mark Stuart",MUS 127,WI20,100,50,0.9590000000000001,0.9590000000000001,3.33,3.62,3.68,True,True,False,False,True
-"Leslie, Matthew",MUS 13,WI20,72,34,0.971,1.0,3.09,3.57,3.79,True,True,False,False,False
-"Dubnov, Shlomo",MUS 15,WI20,240,87,0.7,0.6579999999999999,2.18,3.7,3.74,True,True,False,False,False
-"Babin, Thomas Andrew",MUS 17,WI20,335,123,0.8540000000000001,0.95,3.14,3.62,3.65,True,True,False,False,False
-"Puckette, Miller S.",MUS 171,WI20,46,14,1.0,0.9229999999999999,4.35,3.85,3.41,True,True,False,False,True
-"Britt, King James",MUS 173,WI20,33,9,1.0,1.0,5.83,3.89,3.41,True,True,False,False,True
-"Britt, King James",MUS 174B,WI20,25,4,0.75,1.0,5.17,4.0,4.0,True,True,False,False,True
-"Tiruviluamala, Nakul Venkat",MUS 1B,WI20,101,37,0.971,0.943,2.83,3.76,3.89,True,True,False,False,False
-"Zhou, Tiange",MUS 2B,WI20,35,16,0.9229999999999999,0.6920000000000001,3.58,3.77,3.99,True,True,False,False,False
-"Allen, Rachel Elizabeth",MUS 4,WI20,191,172,0.9059999999999999,0.953,2.37,3.54,3.55,True,True,False,False,False
-"Abbasi Hafshejani, Anahita",MUS 5,WI20,129,59,0.542,0.593,2.43,3.83,3.77,True,True,False,False,False
-"Schick, Steven",MUS 9,WI20,145,58,0.981,0.922,1.73,3.84,3.96,True,True,False,False,False
-"Kline, Matthew John",MUS 95E,WI20,41,18,1.0,1.0,3.83,4.0,4.0,True,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,WI20,24,10,0.9,0.9,2.94,4.0,4.0,True,True,False,False,False
-"Oram, Celeste Alice",MUS 95K,WI20,23,14,1.0,1.0,2.07,3.92,3.99,True,True,False,False,False
-"Beauton, James Alan",MUS 95L,WI20,35,18,1.0,1.0,2.06,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,WI20,32,3,1.0,1.0,1.17,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,WI20,53,11,1.0,1.0,4.28,4.0,4.0,True,True,False,False,False
-"Cimini, Amy Marie",MUS 120A,FA19,21,9,0.375,0.375,4.0,3.25,3.68,True,True,False,False,True
-"Borgo, David Garcia",MUS 126,FA19,105,66,0.8909999999999999,0.9059999999999999,3.52,3.69,3.43,True,True,False,False,True
-"Rubio, Juan David",MUS 13,FA19,132,111,0.9359999999999999,0.972,3.14,3.53,3.41,True,True,False,False,False
-"Ohnishi, Takae",MUS 130,FA19,30,10,1.0,1.0,4.3,4.0,4.0,True,True,False,False,True
-"Kenyatta, Kamau",MUS 137A,FA19,27,8,1.0,1.0,5.64,4.0,3.81,True,True,False,False,True
-"Bain, Landon Lee",MUS 15,FA19,187,89,0.9490000000000001,0.9620000000000001,2.9,3.71,3.47,True,True,False,False,False
-"Digney, Fiona Ruth",MUS 15,FA19,148,130,0.914,0.953,2.8,3.75,3.77,True,True,False,False,False
-"Hankins, Sarah E.",MUS 151,FA19,33,22,0.909,0.955,2.59,3.68,3.66,True,True,False,False,True
-"Burr, Anthony I",MUS 17,FA19,380,144,0.897,0.8740000000000001,2.76,3.5,3.36,True,True,False,False,False
-"Smyth, Tamara R.",MUS 171,FA19,62,24,0.75,0.875,4.08,3.17,3.08,True,True,False,False,True
-"Britt, King James",MUS 173,FA19,26,14,0.929,0.929,5.64,3.79,3.93,True,True,False,False,True
-"Britt, King James",MUS 174A,FA19,25,6,1.0,1.0,4.17,3.8,3.87,True,True,False,False,True
-"Tiruviluamala, Nakul Venkat",MUS 1A,FA19,129,66,1.0,1.0,2.79,3.84,3.93,True,True,False,False,False
-"Oram, Celeste Alice",MUS 1A,FA19,135,70,0.7759999999999999,0.8640000000000001,3.97,3.73,3.81,True,True,False,False,False
-"Carlson, Erik Norman",MUS 2A,FA19,35,23,0.9570000000000001,1.0,2.76,3.96,3.91,True,True,False,False,False
-"Allen, Rachel Elizabeth",MUS 4,FA19,263,231,0.851,0.9079999999999999,2.67,3.55,3.49,True,True,False,False,False
-"Dresser, Mark Stuart",MUS 5,FA19,130,82,0.765,0.848,2.65,3.77,3.72,True,True,False,False,False
-"Thorpe, Suzanne",MUS 7,FA19,132,47,0.727,0.75,2.37,3.59,3.09,True,True,False,False,False
-"Kenyatta, Kamau",MUS 8,FA19,135,69,0.938,1.0,2.22,3.82,3.46,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,FA19,28,9,1.0,1.0,3.0,4.0,3.84,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,FA19,28,10,1.0,1.0,2.7,3.88,3.99,True,True,False,False,False
-"Kline, Matthew John",MUS 95E,FA19,46,28,1.0,1.0,3.69,3.95,3.99,True,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,FA19,22,9,1.0,1.0,3.64,4.0,4.0,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95K,FA19,21,11,1.0,1.0,1.1,4.0,3.94,True,True,False,False,False
-"Beauton, James Alan",MUS 95L,FA19,32,15,1.0,1.0,2.37,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,FA19,56,23,1.0,1.0,3.11,3.91,3.96,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,FA19,30,15,0.9329999999999999,0.9329999999999999,2.23,4.0,3.82,True,True,False,False,False
-"Burr, Anthony I",MUS 101C,SP19,32,8,0.625,0.875,7.0,3.0,3.3,True,True,False,False,True
-"Terrazas Perez, Wilfrido D",MUS 11,SP19,127,68,0.9690000000000001,0.9690000000000001,2.06,3.92,3.95,True,True,False,False,False
-"Yadegari, Shahrokh D",MUS 111,SP19,116,81,0.924,0.9490000000000001,3.97,3.67,3.74,True,True,False,False,True
-"Narucki, Susan M",MUS 12,SP19,72,27,0.917,0.875,2.33,3.53,3.18,True,True,False,False,False
-"Cimini, Amy Marie",MUS 120C,SP19,25,7,0.667,0.667,3.93,3.43,2.77,True,True,False,False,True
-"Allen, Rachel Elizabeth",MUS 127,SP19,70,64,0.968,0.968,2.44,3.61,3.6,True,True,False,False,True
-"Ohnishi, Takae",MUS 130,SP19,21,17,0.941,1.0,4.75,4.0,4.0,True,True,False,False,True
-"Kenyatta, Kamau",MUS 137C,SP19,22,7,1.0,1.0,3.3,4.0,4.0,True,True,False,False,True
-"Hochman, Joshua David",MUS 15,SP19,250,90,0.818,0.831,2.55,3.35,2.85,True,True,False,False,False
-"Chodos, Asher Tobin",MUS 17,SP19,393,153,0.8690000000000001,0.8690000000000001,3.15,3.7,3.54,True,True,False,False,False
-"Erbe, Tom",MUS 172,SP19,33,9,0.875,0.875,3.75,3.78,3.44,True,True,False,False,True
-"Hankins, Sarah E.",MUS 173,SP19,25,19,1.0,1.0,4.28,3.76,3.64,True,True,False,False,True
-"Burr, Anthony I",MUS 174C,SP19,23,5,1.0,1.0,3.3,3.8,3.84,True,True,False,False,True
-"Clarino, Christopher Richard",MUS 1C,SP19,60,21,0.8420000000000001,0.8420000000000001,2.71,3.67,3.25,True,True,False,False,False
-"Nussman, Jonathan Banks",MUS 4,SP19,284,215,0.934,0.995,3.32,3.68,3.58,True,True,False,False,False
-"Kline, Matthew John",MUS 95E,SP19,27,17,1.0,1.0,2.88,4.0,4.0,True,True,False,False,False
-"Oram, Celeste Alice",MUS 95K,SP19,20,8,1.0,1.0,1.5,4.0,3.98,True,True,False,False,False
-"Beauton, James Alan",MUS 95L,SP19,46,27,1.0,1.0,2.57,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,SP19,60,11,1.0,1.0,1.64,3.8,3.54,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,SP19,35,10,0.875,0.875,1.5,4.0,3.54,True,True,False,False,False
-"Oram, Celeste Alice",MUS 101B,WI19,31,6,1.0,1.0,6.83,3.33,3.47,True,True,False,False,True
-"Ung, Chinary",MUS 111,WI19,39,19,0.789,0.737,2.82,3.53,3.65,True,True,False,False,True
-"Curtis, Charles Rector",MUS 113,WI19,35,18,0.882,0.938,2.62,3.93,3.73,True,True,False,False,True
-"Aoki Navarro, Fernanda",MUS 114,WI19,109,39,0.784,0.8240000000000001,3.29,3.55,3.0,True,True,False,False,True
-"Guy, Nancy",MUS 12,WI19,142,83,0.9009999999999999,0.9259999999999999,3.13,3.52,3.48,True,True,False,False,False
-"Cimini, Amy Marie",MUS 120B,WI19,29,6,0.2,0.4,10.9,3.5,3.14,True,True,False,False,True
-"Davis, Anthony Curtis",MUS 127,WI19,91,32,0.581,0.645,2.44,3.33,3.64,True,True,False,False,True
-"Ohnishi, Takae",MUS 130,WI19,23,12,0.889,1.0,3.5,4.0,4.0,True,True,False,False,True
-"Kenyatta, Kamau",MUS 137B,WI19,25,8,1.0,1.0,2.0,4.0,4.0,True,True,False,False,True
-"Digney, Fiona Ruth",MUS 15,WI19,191,89,0.845,0.7829999999999999,2.29,3.79,3.75,True,True,False,False,False
-"Babin, Thomas Andrew",MUS 17,WI19,372,160,0.953,0.899,2.29,3.76,3.66,True,True,False,False,False
-"Smyth, Tamara R.",MUS 171,WI19,81,40,0.526,0.579,5.82,3.09,3.13,True,True,False,False,True
-"Tiruviluamala, Nakul Venkat",MUS 173,WI19,32,14,1.0,1.0,6.07,3.93,4.0,True,True,False,False,True
-"Burr, Anthony I",MUS 174B,WI19,26,8,1.0,1.0,4.25,3.88,3.68,True,True,False,False,True
-"Clarino, Christopher Richard",MUS 1B,WI19,111,40,0.769,0.6920000000000001,3.22,3.42,2.74,True,True,False,False,False
-"Nussman, Jonathan Banks",MUS 4,WI19,189,147,0.938,0.972,3.3,3.64,3.49,True,True,False,False,False
-"Thorpe, Suzanne",MUS 5,WI19,135,116,0.816,0.9390000000000001,2.46,3.83,3.7,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,WI19,28,7,1.0,1.0,1.83,4.0,4.0,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,WI19,29,12,1.0,1.0,2.0,4.0,4.0,True,True,False,False,False
-"Kline, Matthew John",MUS 95E,WI19,24,16,1.0,1.0,2.9,4.0,4.0,True,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,WI19,22,10,1.0,1.0,2.5,4.0,4.0,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95K,WI19,24,6,1.0,1.0,1.17,4.0,4.0,True,True,False,False,False
-"Beauton, James Alan",MUS 95L,WI19,46,24,1.0,1.0,2.76,3.95,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,WI19,27,7,1.0,0.857,2.21,3.86,3.97,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,WI19,56,8,0.857,0.857,2.79,3.71,3.97,True,True,False,False,False
-"Karis, Aleck",MUS 101A,FA18,34,13,0.9229999999999999,0.9229999999999999,7.27,3.15,3.23,True,True,False,False,True
-"Murphy-Mancini, Justin Joseph",MUS 120A,FA18,33,11,0.7,0.7,7.3,3.5,3.75,True,True,False,False,True
-"Borgo, David Garcia",MUS 126,FA18,109,72,0.8859999999999999,0.943,3.4,3.73,3.49,True,True,False,False,True
-"Rubio, Juan David",MUS 13,FA18,127,105,0.804,0.8809999999999999,3.35,3.72,3.68,True,True,False,False,False
-"Ohnishi, Takae",MUS 130,FA18,20,11,1.0,1.0,4.5,3.91,4.0,True,True,False,False,True
-"Kenyatta, Kamau",MUS 137A,FA18,31,10,1.0,1.0,1.7,3.9,3.92,True,True,False,False,True
-"Nussman, Jonathan Banks",MUS 15,FA18,190,99,0.866,0.938,3.22,3.65,3.55,True,True,False,False,False
-"Hochman, Joshua David",MUS 15,FA18,175,95,0.591,0.747,3.23,3.13,3.07,True,True,False,False,False
-"Burr, Anthony I",MUS 17,FA18,368,164,0.8909999999999999,0.9229999999999999,2.94,3.73,3.36,True,True,False,False,False
-"Puckette, Miller S.",MUS 170,FA18,84,32,0.5479999999999999,0.586,5.03,3.57,3.16,True,True,False,False,True
-"Hsu, Jennifer Shanchen",MUS 173,FA18,24,8,1.0,1.0,4.25,3.88,3.81,True,True,False,False,True
-"Burr, Anthony I",MUS 174A,FA18,29,6,1.0,1.0,4.17,3.8,3.76,True,True,False,False,True
-"Clarino, Christopher Richard",MUS 1A,FA18,125,62,0.7020000000000001,0.679,3.98,3.47,3.08,True,True,False,False,False
-"Miller, Caroline Louise",MUS 1A,FA18,130,72,0.843,0.667,2.62,3.83,3.74,True,True,False,False,False
-"Carlson, Erik Norman",MUS 2A,FA18,20,14,1.0,1.0,2.64,3.93,4.0,True,True,False,False,False
-"Liang, Lei",MUS 33A,FA18,21,9,0.778,0.889,6.5,3.89,3.91,True,True,False,False,False
-"Digney, Fiona Ruth",MUS 4,FA18,276,138,0.7290000000000001,0.6970000000000001,2.71,3.69,3.32,True,True,False,False,False
-"Diels, Natacha D.",MUS 6,FA18,134,80,0.867,0.893,2.61,3.56,3.64,True,True,False,False,False
-"Kenyatta, Kamau",MUS 8,FA18,131,71,1.0,0.985,1.94,3.75,3.29,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,FA18,35,16,0.929,0.929,1.07,3.92,4.0,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,FA18,36,8,1.0,1.0,0.75,4.0,4.0,True,True,False,False,False
-"Kline, Matthew John",MUS 95E,FA18,26,13,0.9229999999999999,1.0,3.27,4.0,3.97,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95K,FA18,24,10,1.0,1.0,2.72,3.88,4.0,True,True,False,False,False
-"Beauton, James Alan",MUS 95L,FA18,39,25,1.0,1.0,2.42,3.95,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,FA18,61,13,0.909,0.909,1.41,4.0,3.75,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,FA18,33,5,1.0,1.0,3.3,4.0,3.75,True,True,False,False,False
-"Burr, Anthony I",MUS 101C,SP18,28,15,0.9329999999999999,1.0,4.5,3.54,3.44,True,True,False,False,True
-"Terrazas Perez, Wilfrido D",MUS 11,SP18,127,48,1.0,0.9790000000000001,2.59,3.85,3.99,True,True,False,False,False
-"Yadegari, Shahrokh D",MUS 111,SP18,63,49,0.9590000000000001,0.9590000000000001,2.58,3.74,3.88,True,True,False,False,True
-"Chodos, Asher Tobin",MUS 120C,SP18,20,15,0.867,0.867,4.37,3.6,3.47,True,True,False,False,True
-"Davis, Anthony Curtis",MUS 127,SP18,98,32,0.469,0.625,3.13,3.46,3.11,True,True,False,False,True
-"Ohnishi, Takae",MUS 130,SP18,24,7,1.0,1.0,2.5,4.0,4.0,True,True,False,False,True
-"Puckette, Miller S.",MUS 14,SP18,31,7,0.857,0.857,1.93,3.6,3.45,True,True,False,False,False
-"Cimini, Amy Marie",MUS 15,SP18,195,70,0.597,0.597,3.71,3.48,3.43,True,True,False,False,False
-"Burr, Anthony I",MUS 17,SP18,368,109,0.904,0.9420000000000001,2.46,3.52,3.01,True,True,False,False,False
-"Haywood, Kevin Matthew",MUS 172,SP18,28,15,0.867,1.0,6.23,3.31,3.4,True,True,False,False,True
-"Zyskowski, Colin A",MUS 173,SP18,29,7,0.857,0.857,5.64,3.83,3.66,True,True,False,False,True
-"Smyth, Tamara R.",MUS 175,SP18,23,11,0.8,0.8,4.1,3.25,3.49,True,True,False,False,True
-"Moellenberg, Todd Michael",MUS 1C,SP18,48,21,0.81,1.0,3.64,3.6,3.48,True,True,False,False,False
-"Borgo, David Garcia",MUS 20,SP18,21,17,0.8240000000000001,0.882,2.15,3.73,3.55,True,True,False,False,False
-"Carlson, Erik Norman",MUS 2C,SP18,23,9,0.889,1.0,3.39,3.75,3.76,True,True,False,False,False
-"Nussman, Jonathan Banks",MUS 4,SP18,267,119,0.9259999999999999,0.971,3.38,3.66,3.36,True,True,False,False,False
-"Miller, Caroline Louise",MUS 6,SP18,125,37,0.606,0.7190000000000001,2.44,3.43,3.58,True,True,False,False,False
-"Schick, Steven",MUS 9,SP18,125,53,0.9390000000000001,0.9390000000000001,1.82,3.88,3.6,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,SP18,27,6,1.0,1.0,1.5,3.8,4.0,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,SP18,27,8,1.0,1.0,1.17,4.0,4.0,True,True,False,False,False
-"Kline, Matthew John",MUS 95E,SP18,36,16,1.0,0.929,2.9,4.0,4.0,True,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,SP18,24,6,1.0,1.0,3.17,4.0,4.0,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95K,SP18,20,11,1.0,1.0,1.77,4.0,4.0,True,True,False,False,False
-"Beauton, James Alan",MUS 95L,SP18,38,19,1.0,1.0,2.5,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,SP18,59,14,0.917,0.833,2.5,4.0,3.55,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,SP18,35,5,1.0,1.0,2.9,4.0,3.55,True,True,False,False,False
-"Karis, Aleck",MUS 101B,WI18,29,11,0.727,0.6,6.5,3.18,3.42,True,True,False,False,True
-"Rubio, Juan David",MUS 11,WI18,66,48,0.813,0.9570000000000001,3.27,3.61,3.44,True,True,False,False,False
-"Digney, Fiona Ruth",MUS 114,WI18,62,24,0.583,0.667,5.33,3.46,3.14,True,True,False,False,True
-"Guy, Nancy",MUS 12,WI18,124,58,0.818,0.833,3.15,3.74,3.69,True,True,False,False,False
-"Cimini, Amy Marie",MUS 120B,WI18,21,8,0.75,0.875,5.75,3.5,3.49,True,True,False,False,True
-"Nordeson, Kjell Gunnar",MUS 127,WI18,109,47,0.956,0.9329999999999999,2.1,3.82,3.52,True,True,False,False,True
-"Ohnishi, Takae",MUS 130,WI18,28,10,1.0,1.0,1.5,4.0,4.0,True,True,False,False,True
-"Charney, Joshua Jamsheed",MUS 15,WI18,267,137,0.924,0.9540000000000001,2.47,3.79,3.67,True,True,False,False,False
-"Hochman, Joshua David",MUS 17,WI18,367,150,0.8690000000000001,0.867,2.91,3.47,3.3,True,True,False,False,False
-"Puckette, Miller S.",MUS 171,WI18,110,38,0.657,0.727,6.5,3.23,3.19,True,True,False,False,True
-"Dubnov, Shlomo",MUS 173,WI18,29,12,1.0,0.917,5.0,3.91,3.49,True,True,False,False,True
-"Erbe, Tom",MUS 174B,WI18,24,8,1.0,1.0,4.25,3.88,3.79,True,True,False,False,True
-"Moellenberg, Todd Michael",MUS 1B,WI18,100,43,0.927,0.951,2.85,3.84,3.34,True,True,False,False,False
-"Carlson, Erik Norman",MUS 2B,WI18,21,12,0.917,1.0,2.33,3.92,3.89,True,True,False,False,False
-"Carlson, Erik Norman",MUS 2B,WI18,30,13,0.75,1.0,1.83,4.0,3.89,True,True,False,False,False
-"Nestor, Ryan Douglas",MUS 4,WI18,191,90,0.919,0.977,2.46,3.57,3.45,True,True,False,False,False
-"Thorpe, Suzanne",MUS 5,WI18,133,70,0.58,0.7609999999999999,2.05,3.65,3.42,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,WI18,29,9,1.0,1.0,3.17,4.0,4.0,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,WI18,29,7,1.0,1.0,0.79,4.0,4.0,True,True,False,False,False
-"Kline, Matthew John",MUS 95E,WI18,33,19,1.0,1.0,1.66,4.0,4.0,True,True,False,False,False
-"Beauton, James Alan",MUS 95L,WI18,28,14,1.0,1.0,2.19,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,WI18,30,8,1.0,1.0,1.64,4.0,3.88,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,WI18,55,11,0.909,0.9,5.77,3.91,3.88,True,True,False,False,False
-"Burr, Anthony I",MUS 101A,FA17,34,19,0.882,1.0,6.06,3.12,3.39,True,True,False,False,True
-"Terrazas Perez, Wilfrido D",MUS 113,FA17,43,17,0.941,0.882,1.91,3.93,3.95,True,True,False,False,True
-"Curtis, Charles Rector",MUS 114,FA17,139,53,0.7759999999999999,0.978,3.4,3.63,3.46,True,True,False,False,True
-"Oram, Celeste Alice",MUS 120A,FA17,24,12,0.818,0.909,6.9,3.2,3.36,True,True,False,False,True
-"Chodos, Asher Tobin",MUS 126,FA17,101,78,0.9079999999999999,0.9329999999999999,3.64,3.57,3.49,True,True,False,False,True
-"Jackson, Yvette Janine",MUS 13,FA17,134,69,0.627,0.723,3.76,3.31,3.56,True,True,False,False,False
-"Ohnishi, Takae",MUS 130,FA17,28,8,1.0,0.833,2.5,4.0,4.0,True,True,False,False,True
-"Kenyatta, Kamau",MUS 137A,FA17,21,9,1.0,1.0,3.83,3.78,3.94,True,True,False,False,True
-"Hankins, Sarah E.",MUS 15,FA17,195,147,0.884,0.938,2.4,3.82,3.7,True,True,False,False,False
-"Babin, Thomas Andrew",MUS 16,FA17,266,115,0.9640000000000001,0.982,2.57,3.74,3.34,True,True,False,False,False
-"Hochman, Joshua David",MUS 17,FA17,373,133,0.9359999999999999,0.903,3.06,3.65,3.36,True,True,False,False,False
-"Smyth, Tamara R.",MUS 170,FA17,79,60,0.627,0.655,4.4,3.12,2.88,True,True,False,False,True
-"Dubnov, Shlomo",MUS 173,FA17,26,13,1.0,0.769,4.35,3.91,3.3,True,True,False,False,True
-"Erbe, Tom",MUS 174A,FA17,28,11,1.0,1.0,2.7,3.9,3.79,True,True,False,False,True
-"Digney, Fiona Ruth",MUS 1A,FA17,137,65,0.903,0.8170000000000001,2.85,3.77,3.78,True,True,False,False,False
-"Moellenberg, Todd Michael",MUS 1A,FA17,143,54,0.98,1.0,2.79,3.79,3.55,True,True,False,False,False
-"Richards, Stephanie F",MUS 2A,FA17,25,21,0.9,0.9,3.4,3.63,3.82,True,True,False,False,False
-"Richards, Stephanie F",MUS 2A,FA17,33,26,1.0,1.0,2.02,3.52,3.82,True,True,False,False,False
-"Nestor, Ryan Douglas",MUS 4,FA17,288,132,0.938,1.0,2.77,3.78,3.59,True,True,False,False,False
-"Kenyatta, Kamau",MUS 8,FA17,139,68,0.821,0.925,2.53,3.6,3.29,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,FA17,29,15,1.0,1.0,0.9,4.0,3.94,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,FA17,31,12,1.0,1.0,3.23,3.88,3.94,True,True,False,False,False
-"Kline, Matthew John",MUS 95E,FA17,39,22,1.0,1.0,3.26,4.0,4.0,True,True,False,False,False
-"Beauton, James Alan",MUS 95L,FA17,28,12,1.0,1.0,1.77,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,FA17,56,17,1.0,0.938,1.21,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,FA17,31,10,1.0,0.9,3.1,3.8,4.0,True,True,False,False,False
-"Guy, Nancy",MUS 111,SP17,88,32,0.742,0.742,4.24,3.39,3.44,True,True,False,False,True
-"Curtis, Charles Rector",MUS 113,SP17,35,11,1.0,1.0,4.86,3.89,3.64,True,True,False,False,True
-"Charney, Joshua Jamsheed",MUS 127,SP17,115,66,0.9690000000000001,0.985,2.98,3.74,3.44,True,True,False,False,True
-"Ohnishi, Takae",MUS 130,SP17,31,13,1.0,1.0,2.5,4.0,4.0,True,True,False,False,True
-"Lander, Bonnie Elizabeth",MUS 15,SP17,268,99,0.968,0.9890000000000001,3.41,3.78,3.61,True,True,False,False,False
-"Cantrell, Joe Leo",MUS 15,SP17,152,44,0.7859999999999999,0.833,3.87,3.48,3.32,True,True,False,False,False
-"Kini, Ashvin Rathnanand",MUS 153,SP17,22,7,0.833,1.0,3.7,3.33,2.86,True,True,False,False,True
-"Burr, Anthony I",MUS 17,SP17,369,125,0.872,0.897,3.3,3.55,3.31,True,True,False,False,False
-"Erbe, Tom",MUS 172,SP17,28,10,0.889,0.889,5.83,3.5,3.53,True,True,False,False,True
-"Dubnov, Shlomo",MUS 173,SP17,24,8,1.0,1.0,4.75,3.88,3.84,True,True,False,False,True
-"Erbe, Tom",MUS 174C,SP17,22,7,1.0,1.0,3.64,3.86,3.84,True,True,False,False,True
-"Smyth, Tamara R.",MUS 175,SP17,24,12,0.909,0.727,3.41,3.1,3.06,True,True,False,False,True
-"Moellenberg, Todd Michael",MUS 1C,SP17,64,21,1.0,1.0,4.61,3.73,3.55,True,True,False,False,False
-"Nestor, Ryan Douglas",MUS 4,SP17,196,78,0.948,0.948,2.72,3.82,3.55,True,True,False,False,False
-"Miller, Caroline Louise",MUS 6,SP17,113,43,0.732,0.78,2.85,3.37,2.89,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,SP17,30,7,1.0,1.0,1.07,4.0,3.9,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,SP17,31,12,1.0,1.0,0.9,3.92,3.9,True,True,False,False,False
-"Kline, Matthew John",MUS 95E,SP17,34,19,1.0,0.9470000000000001,2.72,4.0,4.0,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95K,SP17,22,12,1.0,1.0,0.86,4.0,4.0,True,True,False,False,False
-"Blair, Kyle Adam",MUS 95L,SP17,27,8,1.0,1.0,2.25,3.8,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,SP17,57,10,0.889,0.778,1.75,4.0,3.59,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,SP17,31,6,1.0,1.0,2.5,3.8,3.59,True,True,False,False,False
-"Johnson, Kyle",MUS 11,WI17,89,47,1.0,0.953,2.21,3.81,3.93,True,True,False,False,False
-"Narucki, Susan M",MUS 113,WI17,22,11,0.9,0.9,4.7,3.86,3.54,True,True,False,False,True
-"Curtis, Charles Rector",MUS 114,WI17,136,54,0.9,1.0,3.67,3.85,3.52,True,True,False,False,True
-"Guy, Nancy",MUS 12,WI17,129,65,0.953,0.938,3.48,3.85,3.83,True,True,False,False,False
-"Davis, Anthony Curtis",MUS 127A,WI17,44,13,0.75,0.75,3.5,3.25,3.05,True,True,False,False,True
-"Ohnishi, Takae",MUS 130,WI17,33,14,1.0,0.9229999999999999,5.12,4.0,4.0,True,True,False,False,True
-"Aoki Navarro, Fernanda",MUS 14,WI17,88,31,0.7859999999999999,0.821,3.43,3.59,3.31,True,True,False,False,False
-"Hankins, Sarah E.",MUS 15,WI17,185,91,0.907,0.895,2.74,3.61,3.68,True,True,False,False,False
-"Dunscombe, Samuel Ekkehardt",MUS 15,WI17,143,52,0.922,0.98,2.96,3.51,3.48,True,True,False,False,False
-"Puckette, Miller S.",MUS 171,WI17,86,26,0.75,0.875,5.92,3.43,3.36,True,True,False,False,True
-"Diels, Natacha D.",MUS 173,WI17,29,13,0.833,0.667,4.32,3.9,3.99,True,True,False,False,True
-"Erbe, Tom",MUS 174B,WI17,28,14,1.0,1.0,6.33,3.92,3.82,True,True,False,False,True
-"Moellenberg, Todd Michael",MUS 1B,WI17,98,44,0.927,0.927,3.48,3.79,3.57,True,True,False,False,False
-"Carlson, Erik Norman",MUS 2B,WI17,25,10,0.889,1.0,1.39,4.0,3.61,True,True,False,False,False
-"Nestor, Ryan Douglas",MUS 4,WI17,133,58,0.927,0.909,2.8,3.79,3.71,True,True,False,False,False
-"Thorpe, Suzanne",MUS 5,WI17,132,52,0.755,0.735,2.54,3.48,3.35,True,True,False,False,False
-"Kline, Matthew John",MUS 95E,WI17,28,12,1.0,1.0,3.77,4.0,4.0,True,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,WI17,20,9,1.0,1.0,2.0,4.0,4.0,True,True,False,False,False
-"Blair, Kyle Adam",MUS 95L,WI17,39,23,1.0,0.955,2.02,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,WI17,34,10,0.889,0.889,4.5,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,WI17,46,16,1.0,1.0,2.19,4.0,4.0,True,True,False,False,False
-"Nestor, Ryan Douglas",MUS 114,FA16,126,50,0.917,0.938,2.8,3.87,3.71,True,True,False,False,True
-"Charney, Joshua Jamsheed",MUS 126,FA16,111,85,0.9179999999999999,0.8590000000000001,3.22,3.52,3.54,True,True,False,False,True
-"Jackson, Yvette Janine",MUS 13,FA16,131,122,0.738,0.836,3.37,3.57,3.51,True,True,False,False,False
-"Ohnishi, Takae",MUS 130,FA16,29,15,1.0,1.0,2.35,4.0,4.0,True,True,False,False,True
-"Hochman, Joshua David",MUS 15,FA16,171,76,0.887,0.93,3.26,3.71,3.64,True,True,False,False,False
-"Babin, Thomas Andrew",MUS 15,FA16,128,56,0.8490000000000001,0.9059999999999999,2.93,3.91,3.71,True,True,False,False,False
-"Cantrell, Joe Leo",MUS 16,FA16,230,98,0.9259999999999999,0.9259999999999999,3.63,3.69,3.15,True,True,False,False,False
-"Smyth, Tamara R.",MUS 170,FA16,92,79,0.747,0.696,4.4,3.05,2.73,True,True,False,False,True
-"Erbe, Tom",MUS 174A,FA16,30,15,1.0,1.0,4.1,3.86,3.86,True,True,False,False,True
-"Moellenberg, Todd Michael",MUS 1A,FA16,141,62,0.9670000000000001,0.9179999999999999,2.83,3.8,3.56,True,True,False,False,False
-"Lander, Bonnie Elizabeth",MUS 1A,FA16,135,60,0.898,0.9490000000000001,3.67,3.78,3.61,True,True,False,False,False
-"Carlson, Erik Norman",MUS 2A,FA16,20,9,1.0,1.0,1.61,3.78,3.63,True,True,False,False,False
-"Carlson, Erik Norman",MUS 2A,FA16,29,11,0.818,1.0,2.14,3.73,3.63,True,True,False,False,False
-"Lee, Siu Hei",MUS 4,FA16,181,133,0.82,0.8270000000000001,2.65,3.6,3.52,True,True,False,False,False
-"Kenyatta, Kamau",MUS 8,FA16,138,77,0.96,0.987,2.66,3.83,3.52,True,True,False,False,False
-"Schick, Steven",MUS 9,FA16,138,68,0.938,0.9690000000000001,2.6,3.87,3.88,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,FA16,52,22,1.0,1.0,1.59,4.0,3.93,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,FA16,33,7,0.857,0.857,2.5,4.0,3.93,True,True,False,False,False
-"Blair, Kyle Adam",MUS 95L,FA16,39,20,1.0,1.0,1.5,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,FA16,53,9,0.875,0.875,1.83,4.0,3.77,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,FA16,33,9,1.0,0.875,1.83,4.0,3.77,True,True,False,False,False
-"Curtis, Charles Rector",MUS 114,SP16,114,43,0.953,0.907,3.4,3.93,3.82,True,True,False,False,True
-"Borgo, David Garcia",MUS 127B,SP16,83,57,0.895,0.93,3.12,3.68,3.51,True,True,False,False,True
-"Ohnishi, Takae",MUS 130,SP16,30,9,1.0,0.889,2.28,4.0,4.0,True,True,False,False,True
-"Guy, Nancy",MUS 13AS,SP16,133,41,0.861,0.889,2.09,3.88,3.58,True,True,False,False,False
-"Lander, Bonnie Elizabeth",MUS 15,SP16,221,78,0.945,0.945,3.51,3.67,3.51,True,True,False,False,False
-"Dunscombe, Samuel Ekkehardt",MUS 15,SP16,144,51,0.9179999999999999,0.9390000000000001,2.63,3.63,3.36,True,True,False,False,False
-"Burr, Anthony I",MUS 17,SP16,369,126,0.951,0.9670000000000001,3.01,3.61,3.31,True,True,False,False,False
-"Erbe, Tom",MUS 172,SP16,23,11,0.818,0.909,5.1,3.6,3.42,True,True,False,False,True
-"Smyth, Tamara R.",MUS 175,SP16,22,14,0.7859999999999999,0.857,2.96,3.69,3.81,True,True,False,False,True
-"Rowan, Kyle Edward",MUS 1C,SP16,26,14,0.857,1.0,4.93,4.0,3.5,True,True,False,False,False
-"Nestor, Ryan Douglas",MUS 4,SP16,190,85,0.873,0.9490000000000001,2.6,3.83,3.62,True,True,False,False,False
-"Puckette, Miller S.",MUS 6,SP16,101,34,0.5589999999999999,0.618,2.85,3.54,3.22,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,SP16,27,7,1.0,1.0,1.17,4.0,3.95,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,SP16,34,8,1.0,1.0,0.5,4.0,3.95,True,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,SP16,26,7,1.0,1.0,2.83,4.0,4.0,True,True,False,False,False
-"Gilmer, William",MUS 95L,SP16,46,23,1.0,1.0,1.14,4.0,3.9,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,SP16,56,9,0.875,0.875,1.5,3.88,3.88,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,SP16,36,12,1.0,1.0,2.5,4.0,3.88,True,True,False,False,False
-"Curtis, Charles Rector",MUS 113,WI16,32,12,1.0,1.0,3.41,3.8,3.49,True,True,False,False,True
-"Charney, Joshua Jamsheed",MUS 114,WI16,94,67,0.851,0.955,3.66,3.48,3.23,True,True,False,False,True
-"Guy, Nancy",MUS 12,WI16,66,28,0.9259999999999999,0.9259999999999999,2.57,3.96,3.74,True,True,False,False,False
-"Richards, Stephanie F",MUS 127A,WI16,66,64,0.857,0.873,3.2,3.55,3.7,True,True,False,False,True
-"Ohnishi, Takae",MUS 130,WI16,34,17,1.0,0.9329999999999999,2.5,4.0,4.0,True,True,False,False,True
-"Davis, Clinton Ross",MUS 13AM,WI16,30,14,1.0,1.0,2.36,3.55,3.42,True,True,False,False,False
-"Schick, Steven",MUS 14,WI16,91,45,0.909,1.0,2.86,3.82,3.78,True,True,False,False,False
-"Hochman, Joshua David",MUS 15,WI16,256,122,0.9309999999999999,0.9740000000000001,2.64,3.87,3.62,True,True,False,False,False
-"Nussman, Jonathan Banks",MUS 15,WI16,65,34,0.813,0.875,2.56,3.84,3.31,True,True,False,False,False
-"Puckette, Miller S.",MUS 171,WI16,49,24,0.7390000000000001,0.7829999999999999,6.5,3.32,3.12,True,True,False,False,True
-"Diels, Natacha D.",MUS 173,WI16,28,9,0.889,0.889,4.5,3.86,4.0,True,True,False,False,True
-"Rowan, Kyle Edward",MUS 1B,WI16,46,25,0.92,1.0,4.42,4.0,3.63,True,True,False,False,False
-"Thorpe, Suzanne",MUS 5,WI16,117,52,0.5920000000000001,0.6940000000000001,2.46,3.51,3.42,True,True,False,False,False
-"Nestor, Ryan Douglas",MUS 9,WI16,137,66,0.953,0.938,2.98,3.88,3.77,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,WI16,29,10,1.0,1.0,2.06,3.9,3.95,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,WI16,25,6,1.0,1.0,2.5,4.0,3.95,True,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,WI16,22,10,1.0,1.0,3.3,4.0,4.0,True,True,False,False,False
-"Gilmer, William",MUS 95L,WI16,33,15,1.0,1.0,3.03,4.0,3.97,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,WI16,81,18,1.0,0.813,1.88,4.0,3.92,True,True,False,False,False
-"Johnson, Kyle",MUS 11,FA15,85,44,0.976,0.976,3.63,3.53,3.78,True,True,False,False,False
-"Kuester, Nicolee S",MUS 115,FA15,50,21,0.857,0.9520000000000001,3.17,3.8,3.62,True,True,False,False,True
-"Weinstein, Joshua Irving",MUS 126,FA15,103,83,0.975,0.963,3.53,3.75,3.43,True,True,False,False,True
-"Ohnishi, Takae",MUS 130,FA15,30,7,1.0,1.0,1.64,4.0,4.0,True,True,False,False,True
-"Kenyatta, Kamau",MUS 137A,FA15,20,5,1.0,1.0,1.7,4.0,4.0,True,True,False,False,True
-"Jackson, Yvette Janine",MUS 13AF,FA15,36,15,0.857,0.929,3.36,3.5,3.5,True,True,False,False,False
-"Babin, Thomas Andrew",MUS 15,FA15,361,149,0.9229999999999999,0.937,3.31,3.65,3.55,True,True,False,False,False
-"Cantrell, Joe Leo",MUS 15,FA15,250,113,0.883,0.9640000000000001,3.93,3.62,3.3,True,True,False,False,False
-"Smyth, Tamara R.",MUS 170,FA15,95,81,0.7040000000000001,0.691,4.38,3.08,2.98,True,True,False,False,True
-"Erbe, Tom",MUS 174A,FA15,28,12,0.909,1.0,4.1,3.8,3.89,True,True,False,False,True
-"Rowan, Kyle Edward",MUS 1A,FA15,145,62,0.966,0.966,4.11,3.85,3.78,True,True,False,False,False
-"Karis, Aleck",MUS 2A,FA15,20,9,1.0,0.667,6.5,3.6,3.69,True,True,False,False,False
-"Nestor, Ryan Douglas",MUS 4,FA15,183,76,0.792,0.833,3.14,3.66,3.69,True,True,False,False,False
-"Kenyatta, Kamau",MUS 8,FA15,132,45,0.953,0.953,2.08,3.74,3.49,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,FA15,30,9,1.0,1.0,3.75,4.0,3.96,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,FA15,29,5,1.0,1.0,1.7,4.0,3.96,True,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,FA15,21,11,1.0,1.0,2.28,3.88,4.0,True,True,False,False,False
-"Gilmer, William",MUS 95L,FA15,27,13,1.0,1.0,2.0,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,FA15,90,19,0.895,0.9470000000000001,2.94,4.0,3.86,True,True,False,False,False
-"Donahue, Dustin Wayne",MUS 114,SP15,135,54,0.843,0.863,3.54,3.67,3.72,True,True,False,False,True
-"Guy, Nancy",MUS 12,SP15,44,20,1.0,0.9470000000000001,2.18,3.81,3.5,True,True,False,False,False
-"Borgo, David Garcia",MUS 127B,SP15,85,55,0.873,0.927,4.01,3.63,3.19,True,True,False,False,True
-"Ohnishi, Takae",MUS 130,SP15,31,10,1.0,1.0,5.17,4.0,4.0,True,True,False,False,True
-"Jung, Eun-Young",MUS 13AS,SP15,89,68,0.8959999999999999,0.8959999999999999,3.65,3.64,3.05,True,True,False,False,False
-"Burr, Anthony I",MUS 15,SP15,344,109,0.846,0.904,3.08,3.62,3.09,True,True,False,False,False
-"Pierzak, Robert Janusz",MUS 15,SP15,78,33,1.0,0.9690000000000001,4.0,3.63,3.78,True,True,False,False,False
-"Davis, Anthony Curtis",MUS 150,SP15,24,12,1.0,1.0,3.23,4.0,3.83,True,True,False,False,True
-"Mendes, Gabriel",MUS 152,SP15,28,8,1.0,0.5710000000000001,5.07,3.75,3.83,True,True,False,False,True
-"Erbe, Tom",MUS 172,SP15,22,7,0.857,0.857,5.93,3.29,3.3,True,True,False,False,True
-"Welsh, Ryan P",MUS 4,SP15,185,68,0.585,0.723,3.22,3.43,3.38,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,SP15,60,17,1.0,1.0,2.15,4.0,3.98,True,True,False,False,False
-"Hepfer, Jonathan D",MUS 95E,SP15,24,11,1.0,1.0,2.7,4.0,4.0,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95K,SP15,24,14,1.0,1.0,0.93,4.0,4.0,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L,SP15,28,8,1.0,1.0,1.25,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,SP15,80,17,0.938,0.938,2.1,4.0,3.97,True,True,False,False,False
-"Guy, Nancy",MUS 111,WI15,86,40,0.895,0.816,3.28,3.76,3.33,True,True,False,False,True
-"Richards, Stephanie F",MUS 127A,WI15,60,25,0.682,0.636,2.86,3.5,2.89,True,True,False,False,True
-"Ohnishi, Takae",MUS 130,WI15,29,9,1.0,0.889,2.28,4.0,4.0,True,True,False,False,True
-"Davis, Clinton Ross",MUS 13AM,WI15,53,25,0.87,0.87,3.68,3.32,3.16,True,True,False,False,False
-"Donahue, Dustin Wayne",MUS 14,WI15,81,36,0.917,0.972,3.33,3.78,3.51,True,True,False,False,False
-"Hembree, Paul James",MUS 15,WI15,211,82,0.875,0.85,2.37,3.71,3.35,True,True,False,False,False
-"Narucki, Susan M",MUS 15,WI15,148,121,0.892,0.925,2.64,3.65,3.52,True,True,False,False,False
-"Puckette, Miller S.",MUS 171,WI15,40,14,0.9229999999999999,0.9229999999999999,5.67,3.25,2.82,True,True,False,False,True
-"Dubnov, Shlomo",MUS 173,WI15,20,14,1.0,0.929,4.96,3.62,3.35,True,True,False,False,True
-"Erbe, Tom",MUS 174B,WI15,21,7,1.0,1.0,6.5,4.0,3.97,True,True,False,False,True
-"Rowan, Kyle Edward",MUS 1B,WI15,35,23,0.8640000000000001,0.955,5.93,3.44,3.49,True,True,False,False,False
-"Thorpe, Suzanne",MUS 5,WI15,129,58,0.655,0.672,3.24,3.74,3.42,True,True,False,False,False
-"Zelickman, Robert A",MUS 9,WI15,126,55,0.9,0.92,2.5,3.74,3.69,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,WI15,61,24,1.0,1.0,2.07,4.0,4.0,True,True,False,False,False
-"Hepfer, Jonathan D",MUS 95E,WI15,22,11,1.0,1.0,3.1,4.0,4.0,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L,WI15,42,22,1.0,1.0,1.24,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,WI15,74,20,0.9470000000000001,0.895,2.26,3.81,3.98,True,True,False,False,False
-"Johnson, Kyle",MUS 11,FA14,121,67,0.758,0.903,3.25,3.7,3.67,True,True,False,False,False
-"Schick, Steven",MUS 113,FA14,60,21,0.762,0.857,3.55,3.82,3.37,True,True,False,False,True
-"Stevens, Jane",MUS 120A,FA14,22,3,0.667,0.667,8.5,3.33,2.8,True,True,False,False,True
-"Weinstein, Joshua Irving",MUS 126,FA14,92,67,0.955,0.985,3.72,3.65,3.31,True,True,False,False,True
-"Pierzak, Robert Janusz",MUS 15,FA14,345,148,0.633,0.532,4.88,3.19,3.5,True,True,False,False,False
-"Welsh, Meghann Elise",MUS 15,FA14,275,137,0.879,0.8859999999999999,3.43,3.86,3.63,True,True,False,False,False
-"Fuste, Jose Ignacio",MUS 151,FA14,20,7,1.0,1.0,3.17,3.6,3.41,True,True,False,False,True
-"Mariglio, Joseph Anthony",MUS 170,FA14,71,26,0.727,0.727,5.17,3.73,3.21,True,True,False,False,True
-"Erbe, Tom",MUS 174A,FA14,21,6,1.0,1.0,5.7,4.0,3.64,True,True,False,False,True
-"Rowan, Kyle Edward",MUS 1A,FA14,140,53,0.9359999999999999,0.9359999999999999,3.88,3.88,3.85,True,True,False,False,False
-"Lewis, Stephen E",MUS 2A,FA14,21,6,1.0,1.0,4.9,3.67,3.21,True,True,False,False,False
-"Donahue, Dustin Wayne",MUS 4,FA14,185,73,0.754,0.846,3.6,3.54,3.23,True,True,False,False,False
-"Puckette, Miller S.",MUS 6,FA14,94,32,0.6559999999999999,0.7809999999999999,2.94,3.62,3.26,True,True,False,False,False
-"Kenyatta, Kamau",MUS 8,FA14,129,60,0.909,0.9640000000000001,2.31,3.84,3.44,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,FA14,66,17,1.0,1.0,2.37,4.0,3.98,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L,FA14,39,13,1.0,1.0,1.12,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,FA14,69,13,1.0,0.917,3.0,4.0,3.86,True,True,False,False,False
-"Lewis, Stephen E",MUS 114,SP14,110,47,0.727,0.614,3.59,3.56,3.08,True,True,False,False,True
-"Blecharz, Wojciech A",MUS 12,SP14,63,19,1.0,1.0,4.03,3.73,3.02,True,True,False,False,False
-"Borgo, David Garcia",MUS 127B,SP14,99,77,0.84,0.88,4.34,3.64,3.41,True,True,False,False,True
-"Ohnishi, Takae",MUS 130,SP14,37,9,1.0,1.0,2.75,4.0,4.0,True,True,False,False,True
-"Chen, Carolyn",MUS 13AS,SP14,175,123,0.7559999999999999,0.602,3.21,3.43,3.47,True,True,False,False,False
-"Burr, Anthony I",MUS 15,SP14,353,103,0.861,0.9009999999999999,3.73,3.49,3.09,True,True,False,False,False
-"Beteta, Francisco Xavier",MUS 15,SP14,118,52,0.922,0.961,2.46,3.76,3.38,True,True,False,False,False
-"Erbe, Tom",MUS 172,SP14,21,7,1.0,1.0,7.93,3.86,2.97,True,True,False,False,True
-"Teyssier, Alice",MUS 1C,SP14,38,14,0.9229999999999999,1.0,2.96,4.0,3.74,True,True,False,False,False
-"Gomez Cano, Pablo Jose",MUS 4,SP14,193,77,0.616,0.493,3.08,3.43,3.23,True,True,False,False,False
-"Warren, Christopher D",MUS 7,SP14,88,31,0.828,0.897,2.19,3.77,3.64,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,SP14,61,14,1.0,1.0,0.93,4.0,4.0,True,True,False,False,False
-"Medine, David E",MUS 95E,SP14,24,9,1.0,0.889,4.72,4.0,4.0,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L,SP14,29,13,1.0,1.0,3.0,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,SP14,96,23,0.955,0.909,2.39,3.95,3.73,True,True,False,False,False
-"Guy, Nancy",MUS 111,WI14,88,31,0.862,0.897,3.05,3.82,3.56,True,True,False,False,True
-"Pasler, Jann Corinne",MUS 113,WI14,21,11,0.7,0.8,3.7,3.56,3.38,True,True,False,False,True
-"Weinstein, Joshua Irving",MUS 127A,WI14,108,81,0.938,0.938,3.4,3.49,3.38,True,True,False,False,True
-"Ohnishi, Takae",MUS 130,WI14,26,11,1.0,1.0,4.1,4.0,4.0,True,True,False,False,True
-"DuMouchelle, Tiffany Anne",MUS 13AF,WI14,129,67,0.8,0.708,3.18,3.65,3.58,True,True,False,False,False
-"Rowan, Kyle Edward",MUS 14,WI14,57,21,0.85,0.9,3.76,3.8,3.29,True,True,False,False,False
-"Allen, Andrew Stewart",MUS 15,WI14,189,96,0.978,0.978,2.77,3.86,3.66,True,True,False,False,False
-"Pierzak, Robert Janusz",MUS 15,WI14,282,104,0.95,0.84,2.98,3.53,3.43,True,True,False,False,False
-"Smyth, Tamara R.",MUS 171,WI14,28,8,0.375,0.625,6.0,2.5,3.31,True,True,False,False,True
-"Erbe, Tom",MUS 174B,WI14,22,10,1.0,1.0,6.9,3.89,3.85,True,True,False,False,True
-"Teyssier, Alice",MUS 1B,WI14,39,16,1.0,1.0,3.27,3.67,3.75,True,True,False,False,False
-"Bowden, Sean Leah",MUS 5,WI14,109,48,0.7440000000000001,0.7909999999999999,2.45,3.7,3.7,True,True,False,False,False
-"Kenyatta, Kamau",MUS 8,WI14,138,54,0.98,0.96,2.75,3.82,3.56,True,True,False,False,False
-"Schick, Steven",MUS 9,WI14,128,63,0.934,0.951,2.47,3.89,3.79,True,True,False,False,False
-"Medine, David E",MUS 95E,WI14,25,11,1.0,1.0,3.9,4.0,4.0,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L,WI14,28,16,1.0,1.0,1.12,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,WI14,67,16,0.938,0.938,1.3,4.0,3.84,True,True,False,False,False
-"Zelickman, Robert A",MUS 11,FA13,124,62,0.852,0.885,2.47,3.82,3.34,True,True,False,False,False
-"Jung, Eun-Young",MUS 116,FA13,22,21,1.0,0.9520000000000001,5.17,3.78,3.52,True,True,False,False,True
-"Stevens, Jane",MUS 120A,FA13,20,8,1.0,0.667,6.83,3.2,2.99,True,True,False,False,True
-"Weinstein, Joshua Irving",MUS 126,FA13,148,118,0.983,0.983,3.64,3.75,3.53,True,True,False,False,True
-"Tinkle, Adam Gregory",MUS 13AM,FA13,164,88,0.86,0.884,3.32,3.51,3.43,True,True,False,False,False
-"Jung, Eun-Young",MUS 15,FA13,371,318,0.797,0.8029999999999999,3.58,3.5,3.43,True,True,False,False,False
-"Leytham, Leslie Ann",MUS 15,FA13,282,136,0.9470000000000001,0.977,3.07,3.71,3.41,True,True,False,False,False
-"Puckette, Miller S.",MUS 170,FA13,56,19,0.833,0.556,4.28,3.39,3.14,True,True,False,False,True
-"Erbe, Tom",MUS 174A,FA13,26,10,1.0,1.0,5.39,3.89,3.9,True,True,False,False,True
-"Teyssier, Alice",MUS 1A,FA13,151,62,0.9,0.95,3.23,3.79,3.7,True,True,False,False,False
-"Gomez Cano, Pablo Jose",MUS 4,FA13,185,68,0.8059999999999999,0.716,3.02,3.65,3.31,True,True,False,False,False
-"Gao, Mingfei Mike",MUS 6,FA13,98,33,0.8059999999999999,0.387,2.37,3.72,3.14,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,FA13,58,20,1.0,1.0,1.34,3.89,4.0,True,True,False,False,False
-"Medine, David E",MUS 95E,FA13,26,12,1.0,1.0,2.5,4.0,4.0,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L,FA13,35,14,1.0,1.0,2.35,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,FA13,71,17,1.0,0.941,2.26,4.0,3.77,True,True,False,False,False
-"Zelickman, Robert A",MUS 11,SP13,201,62,0.867,0.9,3.14,3.69,3.52,True,True,False,False,False
-"Power, Benjamin",MUS 110,SP13,20,4,1.0,1.0,4.5,3.67,3.67,True,True,False,False,True
-"Curtis, Charles Rector",MUS 114,SP13,149,52,0.885,0.904,2.66,3.83,3.76,True,True,False,False,True
-"Jung, Eun-Young",MUS 116,SP13,23,21,0.9520000000000001,0.9520000000000001,5.17,3.89,3.89,True,True,False,False,True
-"Williams, James G",MUS 127B,SP13,94,51,0.5,0.46,2.78,3.54,3.21,True,True,False,False,True
-"Weinstein, Joshua Irving",MUS 15,SP13,367,253,0.98,0.9840000000000001,3.18,3.79,3.47,True,True,False,False,False
-"Johnson, Kyle",MUS 15,SP13,78,36,0.914,0.943,3.19,3.88,3.63,True,True,False,False,False
-"Erbe, Tom",MUS 172,SP13,24,12,0.909,0.909,6.5,3.45,3.32,True,True,False,False,True
-"Teyssier, Alice",MUS 1C,SP13,31,16,0.857,0.857,4.07,3.56,3.65,True,True,False,False,False
-"Gomez Cano, Pablo Jose",MUS 4,SP13,200,68,0.809,0.721,2.69,3.67,3.36,True,True,False,False,False
-"Kenyatta, Kamau",MUS 8,SP13,187,62,0.9520000000000001,0.9520000000000001,2.57,3.88,3.63,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,SP13,59,25,1.0,1.0,1.14,4.0,3.97,True,True,False,False,False
-"Medine, David E",MUS 95E,SP13,34,13,0.846,0.846,3.27,4.0,4.0,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L,SP13,48,19,1.0,1.0,1.68,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,SP13,89,18,0.889,0.9440000000000001,1.94,4.0,3.93,True,True,False,False,False
-"Karis, Aleck",MUS 101B,WI13,22,4,1.0,1.0,3.17,3.67,3.45,True,True,False,False,True
-"Pasler, Jann Corinne",MUS 115,WI13,65,25,0.72,0.56,3.08,3.76,3.58,True,True,False,False,True
-"Blecharz, Wojciech A",MUS 120B,WI13,20,10,0.667,0.889,6.28,3.56,2.62,True,True,False,False,True
-"Borgo, David Garcia",MUS 127A,WI13,148,91,0.846,0.89,3.16,3.43,3.43,True,True,False,False,True
-"Negyesy, Janos",MUS 130,WI13,22,12,1.0,1.0,2.86,4.0,4.0,True,True,False,False,True
-"Negyesy, Janos",MUS 133,WI13,26,5,1.0,1.0,2.9,4.0,4.0,True,True,False,False,True
-"Kenyatta, Kamau",MUS 137B,WI13,21,7,1.0,1.0,3.93,4.0,3.8,True,True,False,False,True
-"Kaiser, Jeffrey G",MUS 13AF,WI13,171,76,0.8,0.867,3.65,3.75,3.56,True,True,False,False,False
-"Griffeath-Loeb, Brian",MUS 14,WI13,128,57,0.564,0.5820000000000001,4.28,3.32,3.15,True,True,False,False,False
-"Narucki, Susan M",MUS 15,WI13,218,131,0.893,0.9470000000000001,3.18,3.68,3.45,True,True,False,False,False
-"Puckette, Miller S.",MUS 171,WI13,39,20,1.0,0.9470000000000001,6.39,3.67,3.56,True,True,False,False,True
-"Warren, Christopher D",MUS 173,WI13,25,14,0.9229999999999999,0.9229999999999999,6.19,3.92,3.96,True,True,False,False,True
-"Erbe, Tom",MUS 174B,WI13,27,12,0.917,0.917,8.17,4.0,3.76,True,True,False,False,True
-"Teyssier, Alice",MUS 1B,WI13,47,26,0.846,0.9229999999999999,3.94,3.63,3.63,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,WI13,61,23,0.9570000000000001,1.0,1.11,4.0,4.0,True,True,False,False,False
-"Medine, David E",MUS 95E,WI13,28,13,0.917,0.917,2.5,4.0,4.0,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L,WI13,39,19,1.0,1.0,2.28,3.93,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,WI13,88,31,1.0,1.0,1.37,4.0,3.87,True,True,False,False,False
-"Burr, Anthony I",MUS 101A,FA12,22,10,0.9,1.0,6.1,3.2,3.0,True,True,False,False,True
-"Ung, Chinary",MUS 111,FA12,111,39,0.579,0.42100000000000004,3.56,3.19,3.19,True,True,False,False,True
-"Stevens, Jane",MUS 120A,FA12,20,9,0.5,0.375,6.0,3.25,3.32,True,True,False,False,True
-"Kaiser, Jeffrey G",MUS 126,FA12,157,72,0.972,0.986,3.49,3.76,3.38,True,True,False,False,True
-"Negyesy, Janos",MUS 130,FA12,32,13,1.0,0.9229999999999999,2.81,4.0,4.0,True,True,False,False,True
-"Kenyatta, Kamau",MUS 137A,FA12,22,9,1.0,1.0,2.28,4.0,4.0,True,True,False,False,True
-"Allen, Andrew Stewart",MUS 13AS,FA12,198,175,0.813,0.895,2.85,3.5,3.81,True,True,False,False,False
-"Weinstein, Joshua Irving",MUS 15,FA12,382,178,0.924,0.971,3.03,3.89,3.52,True,True,False,False,False
-"Tomasdottir, Berglind Maria",MUS 15,FA12,212,76,0.973,0.838,2.56,3.88,3.3,True,True,False,False,False
-"Smyth, Tamara R.",MUS 170,FA12,62,33,0.531,0.375,6.63,2.55,3.1,True,True,False,False,True
-"Erbe, Tom",MUS 174A,FA12,29,11,1.0,1.0,4.86,3.89,3.78,True,True,False,False,True
-"Teyssier, Alice",MUS 1A,FA12,147,51,0.9790000000000001,0.9790000000000001,2.71,3.84,3.56,True,True,False,False,False
-"Gomez Cano, Pablo Jose",MUS 4,FA12,195,79,0.7120000000000001,0.726,3.65,3.42,3.2,True,True,False,False,False
-"Gao, Mingfei Mike",MUS 6,FA12,98,33,0.818,0.727,1.83,3.75,3.23,True,True,False,False,False
-"Schick, Steven",MUS 9,FA12,147,67,0.9690000000000001,0.938,1.82,3.89,3.5,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C,FA12,56,22,1.0,1.0,0.68,4.0,3.96,True,True,False,False,False
-"Medine, David E",MUS 95E,FA12,25,10,1.0,0.9,2.5,4.0,4.0,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L,FA12,35,22,1.0,1.0,2.5,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W,FA12,85,22,1.0,1.0,1.63,4.0,3.88,True,True,False,False,False
-"Ung, Chinary",MUS 102C ,SP12,21,11,0.727,0.455,4.68,3.7,3.55,True,True,False,False,True
-"Power, Benjamin",MUS 111  ,SP12,155,65,0.938,0.9690000000000001,4.28,3.58,3.29,True,True,False,False,True
-"Rosenberger, Katharina",MUS 120C ,SP12,24,19,0.889,0.889,4.71,3.21,3.26,True,True,False,False,True
-"Davis, Anthony Curtis",MUS 127B ,SP12,126,41,0.585,0.5,4.21,3.38,3.51,True,True,False,False,True
-"Davis, Anthony Curtis",MUS 127B ,SP12,26,6,0.667,0.5,4.5,3.75,3.51,True,True,False,False,True
-"Negyesy, Janos",MUS 130  ,SP12,34,13,1.0,0.9229999999999999,4.04,4.0,4.0,True,True,False,False,True
-"Bigham, David Joseph",MUS 13AM,SP12,118,50,0.898,0.9790000000000001,4.1,3.47,3.43,True,True,False,False,False
-"Burr, Anthony I",MUS 15  ,SP12,357,103,0.871,0.9109999999999999,3.35,3.67,3.26,True,True,False,False,False
-"Deyoe, Nicholas O",MUS 15  ,SP12,211,85,0.9520000000000001,0.9520000000000001,2.9,3.83,3.56,True,True,False,False,False
-"Erbe, Tom",MUS 172  ,SP12,24,11,0.909,1.0,8.14,3.55,3.2,True,True,False,False,True
-"Warren, Christopher D",MUS 173  ,SP12,26,10,0.9,0.9,7.5,3.67,3.74,True,True,False,False,True
-"Turney, Kimberly A",MUS 1C ,SP12,43,11,0.818,1.0,3.41,3.75,3.41,True,True,False,False,False
-"Whiting Smith, Bonnie Anne",MUS 4  ,SP12,268,105,0.8540000000000001,0.883,2.86,3.54,3.24,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C ,SP12,60,16,1.0,1.0,1.75,4.0,4.0,True,True,False,False,False
-"Medine, David E",MUS 95E ,SP12,26,16,1.0,1.0,2.63,3.87,4.0,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95K ,SP12,25,15,1.0,1.0,2.9,3.93,3.99,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L ,SP12,40,23,1.0,1.0,1.8,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W ,SP12,82,20,1.0,0.9,3.2,4.0,3.91,True,True,False,False,False
-"Trevino, Jeffrey Robert",MUS 101B ,WI12,25,24,0.708,0.5,7.08,3.08,3.25,True,True,False,False,True
-"Hackbarth, Benjamin S.",MUS 102B ,WI12,24,13,0.846,0.9229999999999999,4.96,3.77,3.57,True,True,False,False,True
-"Whiting Smith, Bonnie Anne",MUS 114  ,WI12,129,68,0.6759999999999999,0.866,4.06,3.72,3.15,True,True,False,False,True
-"Pasler, Jann Corinne",MUS 115  ,WI12,64,29,0.857,0.929,2.64,3.88,3.57,True,True,False,False,True
-"Guy, Nancy",MUS 120B ,WI12,27,16,0.75,0.75,6.38,3.31,2.92,True,True,False,False,True
-"Power, Benjamin",MUS 127A ,WI12,155,63,0.935,0.758,2.92,3.68,3.35,True,True,False,False,True
-"Negyesy, Janos",MUS 130  ,WI12,32,17,1.0,0.875,3.03,4.0,4.0,True,True,False,False,True
-"Kaiser, Jeffrey G",MUS 13AF,WI12,105,51,0.96,0.98,2.82,3.78,3.53,True,True,False,False,False
-"Marquez, Tania L",MUS 14  ,WI12,145,64,0.8590000000000001,0.813,2.66,3.75,3.46,True,True,False,False,False
-"Narucki, Susan M",MUS 15  ,WI12,206,106,0.8759999999999999,0.904,3.81,3.67,3.63,True,True,False,False,False
-"Jung, Eun-Young",MUS 15  ,WI12,154,132,0.893,0.8540000000000001,3.13,3.76,3.46,True,True,False,False,False
-"Puckette, Miller S.",MUS 171  ,WI12,48,16,0.938,0.938,4.9,3.93,3.46,True,True,False,False,True
-"Dubnov, Shlomo",MUS 173  ,WI12,22,9,1.0,0.778,6.28,3.71,3.6,True,True,False,False,True
-"Erbe, Tom",MUS 174B ,WI12,27,7,1.0,0.857,6.21,4.0,3.54,True,True,False,False,True
-"Turney, Kimberly A",MUS 1B ,WI12,47,25,0.88,0.833,3.46,3.55,3.57,True,True,False,False,False
-"Solook, Stephen James",MUS 2B ,WI12,23,13,0.769,0.5379999999999999,4.35,3.23,2.89,True,True,False,False,False
-"Dresser, Mark Stuart",MUS 5  ,WI12,142,52,0.745,0.82,2.88,3.77,3.83,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C ,WI12,54,18,1.0,1.0,2.28,4.0,3.98,True,True,False,False,False
-"Medine, David E",MUS 95E ,WI12,24,15,0.9329999999999999,0.867,2.5,3.9,4.0,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95K ,WI12,20,15,1.0,1.0,1.3,4.0,3.98,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L ,WI12,32,20,1.0,1.0,2.4,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W ,WI12,91,24,1.0,1.0,1.5,3.95,3.9,True,True,False,False,False
-"Burr, Anthony I",MUS 101A ,FA11,31,16,0.9329999999999999,1.0,4.88,3.38,3.13,True,True,False,False,True
-"Fonville, John Winston",MUS 102A ,FA11,26,15,0.733,0.667,5.17,3.29,3.18,True,True,False,False,True
-"Stevens, Jane",MUS 112  ,FA11,33,15,0.4,0.33299999999999996,5.03,3.33,3.23,True,True,False,False,True
-"Piper, Jonathan Nicholas",MUS 120A ,FA11,31,20,0.85,1.0,5.5,3.44,2.91,True,True,False,False,True
-"Kaiser, Jeffrey G",MUS 126  ,FA11,33,14,1.0,1.0,2.93,3.83,3.61,True,True,False,False,True
-"Kaiser, Jeffrey G",MUS 126  ,FA11,148,87,0.988,0.965,3.36,3.78,3.61,True,True,False,False,True
-"Negyesy, Janos",MUS 130  ,FA11,35,16,0.938,0.938,4.37,4.0,3.97,True,True,False,False,True
-"Kenyatta, Kamau",MUS 137A ,FA11,20,11,1.0,1.0,2.14,3.91,3.89,True,True,False,False,True
-"Allen, Andrew Stewart",MUS 13AS,FA11,182,87,0.713,0.862,3.1,3.69,3.24,True,True,False,False,False
-"Weinstein, Joshua Irving",MUS 15  ,FA11,372,179,0.871,0.865,3.56,3.58,3.64,True,True,False,False,False
-"Moore, F Richard",MUS 170  ,FA11,21,11,0.455,0.455,5.95,2.27,3.0,True,True,False,False,True
-"Moore, F Richard",MUS 170  ,FA11,60,29,0.667,0.556,6.28,2.96,3.0,True,True,False,False,True
-"Erbe, Tom",MUS 174A ,FA11,32,11,1.0,0.909,5.95,3.91,3.6,True,True,False,False,True
-"Turney, Kimberly A",MUS 1A ,FA11,147,62,0.903,0.774,2.89,3.69,3.27,True,True,False,False,False
-"Larson, Philip Clarion",MUS 2A ,FA11,21,8,1.0,1.0,3.25,4.0,3.71,True,True,False,False,False
-"Larson, Philip Clarion",MUS 2A ,FA11,27,16,1.0,0.938,4.63,3.6,3.71,True,True,False,False,False
-"Marquez, Tania L",MUS 4  ,FA11,249,116,0.802,0.716,2.66,3.66,3.4,True,True,False,False,False
-"Gao, Mingfei Mike",MUS 6  ,FA11,105,47,0.889,0.8440000000000001,2.59,3.63,3.19,True,True,False,False,False
-"Kenyatta, Kamau",MUS 8  ,FA11,195,94,0.968,1.0,2.76,3.89,3.68,True,True,False,False,False
-"Zelickman, Robert A",MUS 9  ,FA11,152,77,0.88,0.893,2.42,3.8,3.58,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C ,FA11,58,22,1.0,1.0,0.98,4.0,3.98,True,True,False,False,False
-"Medine, David E",MUS 95E ,FA11,24,11,1.0,0.909,2.32,3.9,4.0,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L ,FA11,41,24,1.0,1.0,3.25,3.93,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W ,FA11,95,29,1.0,1.0,1.6,3.81,3.99,True,True,False,False,False
-"Griffeath-Loeb, Brian",MUS 101C ,SP11,27,15,0.6,0.33299999999999996,5.83,3.07,2.67,True,True,False,False,True
-"Liang, Lei",MUS 102C ,SP11,20,14,1.0,1.0,6.93,4.0,3.73,True,True,False,False,True
-"Power, Benjamin",MUS 111  ,SP11,153,81,0.84,0.815,3.72,3.6,3.07,True,True,False,False,True
-"Rosenberger, Katharina",MUS 120C ,SP11,33,17,0.765,0.8240000000000001,4.03,3.44,3.26,True,True,False,False,True
-"Borgo, David Garcia",MUS 127B ,SP11,180,127,0.882,0.904,3.98,3.65,3.55,True,True,False,False,True
-"Jung, Eun-Young",MUS 13AS,SP11,191,162,0.888,0.8690000000000001,3.03,3.68,3.39,True,True,False,False,False
-"Davis, Anthony Curtis",MUS 15  ,SP11,247,80,0.5379999999999999,0.6,4.85,3.3,3.29,True,True,False,False,False
-"Erbe, Tom",MUS 174C ,SP11,25,7,1.0,1.0,4.79,3.86,3.89,True,True,False,False,True
-"Balzano, Gerald J.",MUS 175  ,SP11,22,8,0.125,0.125,2.75,2.0,2.61,True,True,False,False,True
-"Turney, Kimberly A",MUS 1C ,SP11,20,9,0.778,0.875,3.83,3.43,3.43,True,True,False,False,False
-"Tacke, Daniel A",MUS 2C ,SP11,22,14,0.857,0.929,4.79,3.64,3.57,True,True,False,False,False
-"Piper, Jonathan Nicholas",MUS 4  ,SP11,289,106,0.858,0.925,3.07,3.71,3.41,True,True,False,False,False
-"Moore, F Richard",MUS 7  ,SP11,83,21,0.6,0.6,4.02,3.19,2.67,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C ,SP11,61,22,1.0,1.0,1.74,4.0,3.98,True,True,False,False,False
-"Medine, David E",MUS 95E ,SP11,30,15,0.9329999999999999,0.867,2.37,4.0,3.95,True,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,SP11,22,13,1.0,1.0,2.65,4.0,4.0,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L ,SP11,38,25,1.0,1.0,2.17,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W ,SP11,103,39,1.0,0.9740000000000001,1.83,4.0,3.96,True,True,False,False,False
-"Karis, Aleck",MUS 101B ,WI11,30,14,0.857,0.929,5.07,3.29,3.29,True,True,False,False,True
-"Thorvaldsdottir, Anna S",MUS 102B ,WI11,20,11,0.818,0.909,5.23,3.82,3.65,True,True,False,False,True
-"Stevens, Jane",MUS 113  ,WI11,28,10,1.0,0.9,4.7,3.75,3.61,True,True,False,False,True
-"Reynolds, Roger L.",MUS 114  ,WI11,25,5,0.8,0.8,5.3,4.0,3.84,True,True,False,False,True
-"Seshadri, Anne Lineback",MUS 115  ,WI11,70,33,0.875,0.9390000000000001,4.32,3.58,3.62,True,True,False,False,True
-"Jung, Eun-Young",MUS 116  ,WI11,21,16,1.0,0.938,5.43,3.8,3.83,True,True,False,False,True
-"Guy, Nancy",MUS 120B ,WI11,37,17,0.8240000000000001,0.706,5.38,3.07,2.31,True,True,False,False,True
-"Borgo, David Garcia",MUS 127A ,WI11,172,82,0.878,0.8170000000000001,4.23,3.56,3.68,True,True,False,False,True
-"Negyesy, Janos",MUS 130  ,WI11,42,26,1.0,1.0,3.19,3.96,4.0,True,True,False,False,True
-"Curtis, Charles Rector",MUS 133  ,WI11,29,15,0.5710000000000001,0.7859999999999999,1.64,3.71,3.77,True,True,False,False,True
-"Williams, James G",MUS 13AF,WI11,121,63,0.349,0.159,4.34,2.95,2.97,True,True,False,False,False
-"Fried, William N",MUS 14  ,WI11,110,60,0.5589999999999999,0.807,2.97,3.32,2.93,True,True,False,False,False
-"Jung, Eun-Young",MUS 15  ,WI11,384,329,0.915,0.902,3.12,3.69,3.3,True,True,False,False,False
-"Narucki, Susan M",MUS 15  ,WI11,97,60,0.883,0.95,2.47,3.71,3.47,True,True,False,False,False
-"Davis, Anthony Curtis",MUS 150  ,WI11,22,7,0.857,0.857,1.93,3.8,3.78,True,True,False,False,True
-"Puckette, Miller S.",MUS 171  ,WI11,55,14,1.0,0.857,5.36,3.57,3.59,True,True,False,False,True
-"Erbe, Tom",MUS 174B ,WI11,33,8,1.0,1.0,6.75,4.0,3.87,True,True,False,False,True
-"Turney, Kimberly A",MUS 1B ,WI11,37,15,1.0,0.9329999999999999,3.57,3.71,3.63,True,True,False,False,False
-"Dresser, Mark Stuart",MUS 2B ,WI11,22,14,0.929,0.5,6.64,3.54,3.4,True,True,False,False,False
-"Schick, Steven",MUS 9  ,WI11,148,82,0.976,0.976,1.96,3.93,3.91,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C ,WI11,55,22,1.0,1.0,0.98,4.0,3.98,True,True,False,False,False
-"Medine, David E",MUS 95E ,WI11,24,12,0.833,0.833,2.17,4.0,4.0,True,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,WI11,23,9,1.0,1.0,3.39,4.0,4.0,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L ,WI11,47,30,1.0,1.0,2.03,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W ,WI11,81,30,1.0,1.0,1.53,3.96,3.97,True,True,False,False,False
-"Burr, Anthony I",MUS 101A ,FA10,31,18,0.833,0.833,4.39,3.06,2.99,True,True,False,False,True
-"Fonville, John Winston",MUS 102A ,FA10,21,13,0.769,0.769,3.88,3.85,3.77,True,True,False,False,True
-"Zelickman, Robert A",MUS 11,FA10,194,122,0.885,0.9590000000000001,2.8,3.66,3.59,True,True,False,False,False
-"Fried, William N",MUS 114,FA10,117,37,0.622,0.6759999999999999,3.96,3.54,3.19,True,True,False,False,True
-"Jung, Eun-Young",MUS 116,FA10,22,18,1.0,1.0,4.83,3.81,3.38,True,True,False,False,True
-"Piper, Jonathan Nicholas",MUS 120A ,FA10,40,21,0.789,0.85,5.26,2.95,2.88,True,True,False,False,True
-"Kaiser, Jeffrey G",MUS 126,FA10,194,98,0.917,0.938,3.56,3.62,3.52,True,True,False,False,True
-"Negyesy, Janos",MUS 130,FA10,41,22,1.0,1.0,3.59,4.0,4.0,True,True,False,False,True
-"Burr, Anthony I",MUS 15,FA10,362,153,0.843,0.862,3.12,3.56,3.3,True,True,False,False,False
-"Wightman, David Andrew",MUS 15,FA10,58,24,0.826,0.8640000000000001,3.89,3.61,3.25,True,True,False,False,False
-"Dubnov, Shlomo",MUS 170,FA10,96,66,0.625,0.375,4.59,3.37,3.19,True,True,False,False,True
-"Erbe, Tom",MUS 174A ,FA10,33,11,1.0,1.0,5.41,3.5,3.78,True,True,False,False,True
-"Rosenberg, Jason C.",MUS 1A ,FA10,148,71,0.843,0.843,3.68,3.7,3.43,True,True,False,False,False
-"Larson, Philip Clarion",MUS 2A ,FA10,28,19,1.0,1.0,4.71,3.84,3.82,True,True,False,False,False
-"Bulut, Zeynep",MUS 4,FA10,276,136,0.687,0.617,3.88,3.54,3.15,True,True,False,False,False
-"Kenyatta, Kamau",MUS 8,FA10,208,101,0.96,0.98,2.8,3.83,3.76,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C ,FA10,67,28,0.9640000000000001,1.0,1.5,3.93,4.0,True,True,False,False,False
-"Medine, David E",MUS 95E ,FA10,29,15,0.9329999999999999,0.9329999999999999,3.43,4.0,4.0,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L ,FA10,45,26,1.0,1.0,2.58,3.94,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W ,FA10,93,30,0.897,0.828,1.3,3.91,3.98,True,True,False,False,False
-"Burr, Anthony I",MUS 101C ,SP10,21,11,0.636,0.636,4.68,3.33,3.02,True,True,False,False,True
-"Liang, Lei",MUS 102C ,SP10,23,9,0.889,0.875,5.39,3.78,3.86,True,True,False,False,True
-"Zelickman, Robert A",MUS 11,SP10,139,57,0.93,0.965,2.08,3.83,3.74,True,True,False,False,False
-"Seshadri, Anne Lineback",MUS 111,SP10,46,20,0.65,0.6,3.61,3.59,3.16,True,True,False,False,True
-"Rosenberger, Katharina",MUS 120C ,SP10,41,22,0.8640000000000001,0.818,4.05,3.32,3.11,True,True,False,False,True
-"Davis, Anthony Curtis",MUS 127B ,SP10,152,55,0.611,0.426,3.65,3.42,3.39,True,True,False,False,True
-"Negyesy, Janos",MUS 130,SP10,43,23,1.0,1.0,3.98,4.0,4.0,True,True,False,False,True
-"Kenyatta, Kamau",MUS 137C ,SP10,22,7,1.0,1.0,3.36,4.0,3.91,True,True,False,False,True
-"DeHart, Justin W",MUS 13AF,SP10,198,91,0.742,0.843,3.07,3.57,3.51,True,True,False,False,False
-"Fried, William N",MUS 14,SP10,115,45,0.773,0.867,3.52,3.36,3.35,True,True,False,False,False
-"Jung, Eun-Young",MUS 15,SP10,293,179,0.922,0.872,2.61,3.84,3.64,True,True,False,False,False
-"Davis, Anthony Curtis",MUS 150,SP10,47,16,0.938,0.875,3.75,3.94,3.83,True,True,False,False,True
-"Puckette, Miller S.",MUS 172,SP10,26,7,1.0,0.857,3.36,3.71,3.71,True,True,False,False,True
-"Balzano, Gerald J.",MUS 175,SP10,21,6,0.33299999999999996,0.16699999999999998,6.5,3.0,2.47,True,True,False,False,True
-"Wilmoth, Charles W.",MUS 1C ,SP10,43,21,0.95,0.95,4.3,3.63,3.06,True,True,False,False,False
-"Tacke, Daniel A",MUS 2C ,SP10,20,9,0.889,0.889,4.94,3.43,3.08,True,True,False,False,False
-"Tacke, Daniel A",MUS 2C ,SP10,27,9,0.889,1.0,6.5,3.38,3.08,True,True,False,False,False
-"Nguyen, Brendan D",MUS 2CK,SP10,21,9,0.75,1.0,2.75,4.0,4.0,True,True,False,False,False
-"McAllister, Colin L",MUS 4,SP10,243,117,0.7929999999999999,0.9570000000000001,3.71,3.44,2.94,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C ,SP10,79,33,1.0,1.0,1.21,3.96,3.99,True,True,False,False,False
-"Medine, David E",MUS 95E ,SP10,21,16,1.0,1.0,1.83,4.0,4.0,True,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,SP10,24,11,0.909,1.0,4.32,4.0,4.0,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95K ,SP10,23,14,1.0,1.0,0.81,4.0,4.0,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L ,SP10,58,39,1.0,1.0,1.47,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W ,SP10,92,34,1.0,1.0,2.26,3.97,3.95,True,True,False,False,False
-"Snow, Richard S.",MUS 101B ,WI10,36,15,0.9329999999999999,0.867,6.63,3.5,3.17,True,True,False,False,True
-"Fonville, John Winston",MUS 102B ,WI10,23,7,1.0,0.857,2.5,3.86,3.75,True,True,False,False,True
-"Burr, Anthony I",MUS 114,WI10,94,32,0.563,0.594,3.13,3.48,3.13,True,True,False,False,True
-"Jung, Eun-Young",MUS 116,WI10,20,17,1.0,0.941,3.56,3.76,3.74,True,True,False,False,True
-"Guy, Nancy",MUS 120B ,WI10,41,17,0.875,0.875,6.88,3.31,2.85,True,True,False,False,True
-"Lytle, Cecil William",MUS 127A ,WI10,183,65,0.9229999999999999,0.862,2.5,3.79,3.47,True,True,False,False,True
-"Negyesy, Janos",MUS 130,WI10,39,22,1.0,1.0,3.68,4.0,3.97,True,True,False,False,True
-"Curtis, Charles Rector",MUS 133,WI10,34,17,0.882,1.0,2.62,4.0,3.98,True,True,False,False,True
-"Kenyatta, Kamau",MUS 137B ,WI10,21,6,1.0,1.0,3.5,4.0,4.0,True,True,False,False,True
-"Wilmoth, Charles W.",MUS 13AM,WI10,184,75,0.905,0.932,2.55,3.53,3.38,True,True,False,False,False
-"DeHart, Justin W",MUS 15,WI10,382,163,0.9940000000000001,0.975,2.44,3.8,3.63,True,True,False,False,False
-"Wightman, David Andrew",MUS 15,WI10,204,70,0.882,0.618,3.28,3.5,3.33,True,True,False,False,False
-"Erbe, Tom",MUS 171,WI10,46,10,1.0,1.0,4.7,3.5,3.3,True,True,False,False,True
-"Dubnov, Shlomo",MUS 173,WI10,23,5,0.8,0.6,3.3,3.67,3.48,True,True,False,False,True
-"Erbe, Tom",MUS 174B ,WI10,30,9,1.0,1.0,8.06,4.0,3.82,True,True,False,False,True
-"Hackbarth, Benjamin S.",MUS 1B ,WI10,60,22,1.0,1.0,2.86,3.82,3.41,True,True,False,False,False
-"Tacke, Daniel A",MUS 2B ,WI10,27,22,0.818,0.955,4.59,3.33,3.25,True,True,False,False,False
-"Tacke, Daniel A",MUS 2B ,WI10,24,11,0.909,1.0,5.77,3.45,3.25,True,True,False,False,False
-"McAllister, Colin L",MUS 4,WI10,298,143,0.8590000000000001,0.9570000000000001,3.54,3.49,3.02,True,True,False,False,False
-"Dresser, Mark Stuart",MUS 5,WI10,102,48,0.8540000000000001,0.875,2.46,3.77,3.51,True,True,False,False,False
-"Kenyatta, Kamau",MUS 8,WI10,192,67,0.97,0.985,1.95,3.9,3.78,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C ,WI10,70,30,1.0,1.0,1.3,4.0,3.98,True,True,False,False,False
-"Medine, David E",MUS 95E ,WI10,31,18,1.0,1.0,2.26,4.0,4.0,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L ,WI10,46,29,1.0,1.0,1.4,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W ,WI10,79,21,1.0,1.0,1.93,4.0,3.99,True,True,False,False,False
-"Snow, Richard S.",MUS 101A ,FA09,36,33,0.879,0.9390000000000001,6.31,3.42,3.27,True,True,False,False,True
-"Ung, Chinary",MUS 111,FA09,67,46,0.826,0.7170000000000001,2.63,3.74,3.82,True,True,False,False,True
-"Stevens, Jane",MUS 112,FA09,36,24,0.625,0.792,3.33,3.2,3.18,True,True,False,False,True
-"Stevens, Jane",MUS 120A ,FA09,42,27,0.48100000000000004,0.26899999999999996,5.27,3.5,2.92,True,True,False,False,True
-"Borgo, David Garcia",MUS 126,FA09,175,102,0.971,0.941,3.05,3.6,3.54,True,True,False,False,True
-"Negyesy, Janos",MUS 130,FA09,41,35,1.0,1.0,3.21,4.0,4.0,True,True,False,False,True
-"Kenyatta, Kamau",MUS 137A ,FA09,27,21,1.0,1.0,3.83,3.67,3.86,True,True,False,False,True
-"Jung, Eun-Young",MUS 13AS,FA09,183,117,0.9059999999999999,0.9059999999999999,2.76,3.75,3.44,True,True,False,False,False
-"DeHart, Justin W",MUS 15,FA09,380,314,0.987,0.971,2.09,3.79,3.63,True,True,False,False,False
-"Wightman, David Andrew",MUS 15,FA09,82,62,0.934,0.917,2.86,3.58,2.98,True,True,False,False,False
-"Moore, F Richard",MUS 170,FA09,95,39,0.7440000000000001,0.667,4.13,3.06,3.03,True,True,False,False,True
-"Erbe, Tom",MUS 174A ,FA09,29,18,1.0,1.0,6.17,3.82,3.67,True,True,False,False,True
-"Hackbarth, Benjamin S.",MUS 1A ,FA09,151,51,1.0,1.0,2.54,3.93,3.67,True,True,False,False,False
-"Tacke, Daniel A",MUS 2A ,FA09,28,18,1.0,1.0,3.94,3.53,3.67,True,True,False,False,False
-"Tacke, Daniel A",MUS 2A ,FA09,27,24,0.958,1.0,5.08,3.48,3.67,True,True,False,False,False
-"McAllister, Colin L",MUS 4,FA09,246,116,0.884,0.991,2.85,3.51,3.1,True,True,False,False,False
-"Wilson, Adam J",MUS 6,FA09,73,32,0.8059999999999999,1.0,2.94,3.21,3.16,True,True,False,False,False
-"Schick, Steven",MUS 9,FA09,146,122,0.9840000000000001,0.9840000000000001,1.65,3.9,3.75,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C ,FA09,63,36,0.971,1.0,2.17,3.94,3.99,True,True,False,False,False
-"Medine, David E",MUS 95E ,FA09,26,24,1.0,1.0,2.5,4.0,4.0,True,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,FA09,21,16,1.0,1.0,4.0,4.0,3.93,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L ,FA09,46,26,1.0,1.0,2.58,3.93,3.96,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W ,FA09,89,46,1.0,1.0,2.5,4.0,3.83,True,True,False,False,False
-"Lytle, Cecil William",MUS 10,SP09,74,31,0.9670000000000001,0.968,2.31,3.75,3.37,True,True,False,False,False
-"Burr, Anthony I",MUS 101C ,SP09,24,17,1.0,0.875,5.32,3.75,2.92,True,True,False,False,True
-"Seshadri, Anne Lineback",MUS 111,SP09,141,78,0.846,0.753,3.07,3.77,3.34,True,True,False,False,True
-"Rosenberger, Katharina",MUS 120C ,SP09,22,15,0.733,0.667,2.9,3.77,3.53,True,True,False,False,True
-"Davis, Anthony Curtis",MUS 127B ,SP09,146,57,0.7090000000000001,0.768,3.11,3.35,3.51,True,True,False,False,True
-"Negyesy, Janos",MUS 130,SP09,31,29,1.0,1.0,2.98,4.0,4.0,True,True,False,False,True
-"FELDMAN, HEIDI C",MUS 13AF,SP09,160,71,0.718,0.7609999999999999,2.27,3.36,2.94,True,True,False,False,False
-"Rosenberg, Jason C.",MUS 15,SP09,370,249,0.98,0.9640000000000001,2.52,3.75,3.27,True,True,False,False,False
-"Balzano, Gerald J.",MUS 175,SP09,25,19,0.556,0.526,4.71,3.41,3.08,True,True,False,False,True
-"Wilmoth, Charles W.",MUS 1C ,SP09,32,22,0.9520000000000001,0.905,2.4,3.73,3.44,True,True,False,False,False
-"Gallagher, Kathleen",MUS 2C ,SP09,20,16,0.938,0.938,8.25,3.36,4.0,True,True,False,False,False
-"Gallagher, Kathleen",MUS 2C ,SP09,21,22,0.955,1.0,5.05,3.26,4.0,True,True,False,False,False
-"McAllister, Colin L",MUS 4,SP09,283,140,0.884,0.978,2.81,3.6,3.11,True,True,False,False,False
-"Moore, F Richard",MUS 7,SP09,65,28,0.815,0.821,2.87,3.6,3.0,True,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,SP09,22,11,0.9,0.8,3.23,4.0,3.94,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L ,SP09,57,29,1.0,1.0,1.74,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W ,SP09,109,74,1.0,0.9590000000000001,2.44,3.85,3.95,True,True,False,False,False
-"Tsao, Ming Yuan",MUS 101B ,WI09,33,23,0.9129999999999999,0.652,5.8,3.73,3.55,True,True,False,False,True
-"Oliveira, Fabio Fonseca de",MUS 111,WI09,105,62,0.932,0.951,2.43,3.74,3.82,True,True,False,False,True
-"Guy, Nancy",MUS 120B ,WI09,21,18,0.889,0.9440000000000001,5.06,3.5,2.9,True,True,False,False,True
-"Borgo, David Garcia",MUS 127A ,WI09,179,109,0.9159999999999999,0.935,3.46,3.61,3.47,True,True,False,False,True
-"Negyesy, Janos",MUS 130,WI09,28,27,1.0,1.0,3.98,4.0,4.0,True,True,False,False,True
-"Curtis, Charles Rector",MUS 133,WI09,36,24,0.87,1.0,3.92,3.95,3.97,True,True,False,False,True
-"Kenyatta, Kamau",MUS 137B ,WI09,28,13,1.0,1.0,3.88,3.92,3.82,True,True,False,False,True
-"Khalil, Alexander K.",MUS 13AS,WI09,184,120,0.871,0.966,2.43,3.76,3.71,True,True,False,False,False
-"Snow, Richard S.",MUS 14,WI09,127,58,0.625,0.75,2.32,3.71,3.66,True,True,False,False,False
-"Tsao, Ming Yuan",MUS 15,WI09,195,56,0.382,0.46299999999999997,2.43,3.62,3.67,True,True,False,False,False
-"Erbe, Tom",MUS 171,WI09,24,17,0.941,1.0,7.56,3.4,3.47,True,True,False,False,True
-"Dubnov, Shlomo",MUS 173,WI09,29,17,0.875,0.7859999999999999,5.25,3.76,3.75,True,True,False,False,True
-"Wilmoth, Charles W.",MUS 1B ,WI09,44,20,1.0,0.833,2.71,3.79,3.5,True,True,False,False,False
-"Gallagher, Kathleen",MUS 2B ,WI09,24,18,0.9440000000000001,0.9440000000000001,4.83,3.5,2.97,True,True,False,False,False
-"Gallagher, Kathleen",MUS 2B ,WI09,28,23,0.9129999999999999,1.0,4.93,3.18,2.97,True,True,False,False,False
-"Kenyatta, Kamau",MUS 8,WI09,131,77,0.943,0.955,1.96,3.73,3.55,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C ,WI09,85,44,1.0,0.977,0.86,4.0,3.97,True,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,WI09,21,17,1.0,0.941,3.79,4.0,4.0,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L ,WI09,52,34,1.0,1.0,2.02,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W ,WI09,96,70,1.0,1.0,1.76,3.97,3.96,True,True,False,False,False
-"Sabey, Benjamin J.",MUS 101A ,FA08,35,27,0.9259999999999999,0.9259999999999999,5.17,3.54,3.23,True,True,False,False,True
-"Zelickman, Robert A",MUS 11,FA08,151,96,0.8909999999999999,0.946,1.65,3.87,3.68,True,True,False,False,False
-"Pasler, Jann Corinne",MUS 115,FA08,55,37,0.833,0.861,3.17,3.66,3.39,True,True,False,False,True
-"Stevens, Jane",MUS 120A ,FA08,24,19,0.789,0.579,4.61,3.32,2.87,True,True,False,False,True
-"Borgo, David Garcia",MUS 126,FA08,186,111,0.982,0.982,2.99,3.63,3.46,True,True,False,False,True
-"Negyesy, Janos",MUS 130,FA08,35,25,1.0,1.0,3.92,4.0,3.97,True,True,False,False,True
-"Kenyatta, Kamau",MUS 137A ,FA08,33,27,1.0,1.0,4.28,3.86,3.7,True,True,False,False,True
-"Wilmoth, Charles W.",MUS 13AM,FA08,176,110,0.72,0.748,2.43,3.61,3.27,True,True,False,False,False
-"DeHart, Justin W",MUS 15,FA08,385,208,0.976,0.99,1.62,3.87,3.82,True,True,False,False,False
-"Wightman, David Andrew",MUS 15,FA08,139,90,0.943,0.865,2.92,3.55,3.23,True,True,False,False,False
-"Puckette, Miller S.",MUS 170,FA08,94,29,0.68,0.519,4.22,3.42,3.08,True,True,False,False,True
-"Erbe, Tom",MUS 174A ,FA08,20,15,1.0,1.0,3.93,4.0,3.95,True,True,False,False,True
-"Dicce, Anne-Marie S.",MUS 1A ,FA08,155,40,0.975,0.875,2.55,3.83,3.74,True,True,False,False,False
-"Larson, Philip Clarion",MUS 2A ,FA08,40,11,0.909,1.0,1.41,3.67,3.64,True,True,False,False,False
-"McAllister, Colin L",MUS 4,FA08,261,119,0.863,0.9740000000000001,2.5,3.58,3.17,True,True,False,False,False
-"Schick, Steven",MUS 9,FA08,145,102,0.9309999999999999,0.96,1.68,3.73,3.88,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C ,FA08,70,37,1.0,1.0,1.56,4.0,3.97,True,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,FA08,20,16,1.0,1.0,5.63,4.0,4.0,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L ,FA08,53,35,0.97,0.97,2.61,3.8,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W ,FA08,83,47,0.9570000000000001,0.9570000000000001,1.95,3.93,3.92,True,True,False,False,False
-"Borgo, David Garcia",MUS 127B ,SP08,182,105,0.9329999999999999,0.9620000000000001,2.54,3.63,3.54,True,True,False,False,True
-"Negyesy, Janos",MUS 130,SP08,30,26,1.0,1.0,4.04,4.0,4.0,True,True,False,False,True
-"Degbor, Joseph Kwame",MUS 13AF,SP08,186,102,0.95,0.97,1.97,3.86,3.8,True,True,False,False,False
-"Tonelli, Christopher J.",MUS 15,SP08,325,175,0.74,0.871,2.51,3.53,3.59,True,True,False,False,False
-"Snow, Richard S.",MUS 173,SP08,24,13,0.9229999999999999,0.9229999999999999,3.58,3.77,3.72,True,True,False,False,True
-"Wilmoth, Charles W.",MUS 1C ,SP08,35,14,0.7140000000000001,0.7859999999999999,2.36,3.27,3.09,True,True,False,False,False
-"Gallagher, Kathleen",MUS 2C ,SP08,21,24,1.0,0.958,5.2,3.4,3.25,True,True,False,False,False
-"Wilson, Adam J",MUS 33,SP08,20,18,1.0,1.0,4.28,3.78,4.0,True,True,False,False,False
-"Wilson, Adam J",MUS 33A,SP08,20,18,1.0,1.0,4.28,3.78,4.0,True,True,False,False,False
-"McAllister, Colin L",MUS 4,SP08,288,142,0.897,0.978,2.57,3.61,3.11,True,True,False,False,False
-"Stuart, Gregory W",MUS 6,SP08,85,46,0.8440000000000001,0.9329999999999999,2.5,3.38,2.57,True,True,False,False,False
-"Lytle, Cecil William",MUS 8,SP08,141,82,0.838,0.888,2.21,3.78,3.86,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95C ,SP08,79,34,0.97,1.0,1.74,3.97,3.95,True,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,SP08,23,17,1.0,1.0,3.88,4.0,4.0,True,True,False,False,False
-"Larson, Philip Clarion",MUS 95K ,SP08,25,21,1.0,1.0,2.4,4.0,4.0,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L ,SP08,52,30,1.0,1.0,1.97,4.0,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W ,SP08,100,73,0.971,0.971,2.73,3.95,3.95,True,True,False,False,False
-"Karis, Aleck",MUS 101B ,WI08,23,18,0.941,0.882,4.17,3.36,3.2,True,True,False,False,True
-"Curtis, Charles Rector",MUS 114,WI08,86,47,0.826,0.9570000000000001,2.93,3.87,3.87,True,True,False,False,True
-"Davis, Anthony Curtis",MUS 127A ,WI08,170,74,0.836,0.753,2.47,3.34,3.53,True,True,False,False,True
-"Negyesy, Janos",MUS 130,WI08,32,29,1.0,1.0,6.2,4.0,4.0,True,True,False,False,True
-"Kenyatta, Kamau",MUS 137B ,WI08,21,13,1.0,1.0,3.12,4.0,3.84,True,True,False,False,True
-"Khalil, Alexander K.",MUS 13AM,WI08,194,88,0.8690000000000001,0.94,2.22,3.73,3.8,True,True,False,False,False
-"Snow, Richard S.",MUS 14,WI08,130,59,0.446,0.672,1.74,3.45,3.58,True,True,False,False,False
-"Burr, Anthony I",MUS 15,WI08,171,94,0.804,0.857,3.61,3.58,3.63,True,True,False,False,False
-"Erbe, Tom",MUS 171,WI08,31,16,1.0,0.938,6.13,3.75,3.44,True,True,False,False,True
-"Erbe, Tom",MUS 174B ,WI08,20,13,1.0,1.0,6.19,3.85,3.92,True,True,False,False,True
-"Wilmoth, Charles W.",MUS 1B ,WI08,49,24,0.958,0.958,2.5,3.77,3.26,True,True,False,False,False
-"Gallagher, Kathleen",MUS 2B ,WI08,25,8,0.875,0.875,6.25,3.29,3.43,True,True,False,False,False
-"Gallagher, Kathleen",MUS 2B ,WI08,27,20,0.95,0.95,4.6,3.53,3.43,True,True,False,False,False
-"Dresser, Mark Stuart",MUS 5,WI08,96,17,0.7140000000000001,0.8,3.13,3.63,3.31,True,True,False,False,False
-"Zelickman, Robert A",MUS 9,WI08,144,92,0.89,0.9229999999999999,2.23,3.48,3.44,True,True,False,False,False
-"Kenyatta, Kamau",MUS 95JC,WI08,22,15,1.0,1.0,3.03,4.0,4.0,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L ,WI08,49,35,1.0,0.97,1.47,3.82,4.0,True,True,False,False,False
-"Seshadri, Kartik",MUS 95W ,WI08,85,58,0.981,0.925,1.39,3.96,3.9,True,True,False,False,False
-"Burr, Anthony I",MUS 101A ,FA07,26,17,0.8240000000000001,0.8240000000000001,4.62,3.41,3.03,True,True,False,False,True
-"Zelickman, Robert A",MUS 11,FA07,159,120,0.9490000000000001,0.9740000000000001,1.92,3.88,3.87,True,True,False,False,False
-"Stevens, Jane",MUS 112,FA07,28,21,0.7,0.905,2.88,3.29,2.72,True,True,False,False,True
-"Robinson, Jason",MUS 126,FA07,162,112,0.9179999999999999,0.917,3.47,3.82,3.86,True,True,False,False,True
-"Negyesy, Janos",MUS 130,FA07,34,35,1.0,0.971,5.19,3.92,4.0,True,True,False,False,True
-"Kenyatta, Kamau",MUS 137A ,FA07,23,18,1.0,1.0,3.06,4.0,3.76,True,True,False,False,True
-"Guy, Nancy",MUS 13AS,FA07,192,99,0.938,0.9490000000000001,2.68,3.75,3.55,True,True,False,False,False
-"Rosenberg, Jason C.",MUS 15,FA07,382,248,0.9670000000000001,0.9670000000000001,2.61,3.75,3.5,True,True,False,False,False
-"Moore, F Richard",MUS 170,FA07,46,26,0.654,0.5379999999999999,4.88,3.0,2.88,True,True,False,False,True
-"Erbe, Tom",MUS 174A ,FA07,20,15,1.0,1.0,3.57,3.87,3.92,True,True,False,False,True
-"Wilmoth, Charles W.",MUS 1A ,FA07,155,56,0.9640000000000001,0.982,2.54,3.82,3.62,True,True,False,False,False
-"McAllister, Colin L",MUS 4,FA07,290,187,0.935,0.9890000000000001,2.41,3.6,3.21,True,True,False,False,False
-"Moore, F Richard",MUS 7,FA07,71,41,0.5,0.639,2.86,3.43,2.82,True,True,False,False,False
-"Gartner, Geoffrey C.",MUS 95E ,FA07,37,25,1.0,1.0,2.98,3.95,4.0,True,True,False,False,False
-"Zelickman, Robert A",MUS 95L ,FA07,38,21,1.0,1.0,1.83,4.0,4.0,True,True,False,False,False
+"Karis, Aleck",MUS 101C,SP23,21,4,1.0,1.0,6.0,3.5,3.04,False,False,False,False,True
+"Terrazas Perez, Wilfrido D",MUS 11,SP23,201,69,1.0,1.0,2.26,3.88,3.87,False,False,False,False,False
+"Narucki, Susan M",MUS 113,SP23,31,16,0.938,0.938,2.77,3.83,3.52,False,False,False,False,True
+"Ohnishi, Takae",MUS 130,SP23,40,16,1.0,0.867,4.23,4.0,4.0,False,False,False,False,True
+"Schaffer, Max Benjamin",MUS 15,SP23,186,63,0.965,1.0,1.82,3.98,3.91,False,False,False,False,False
+"Burr, Anthony I",MUS 17,SP23,285,77,0.9309999999999999,0.972,2.53,3.74,3.44,False,False,False,False,False
+"Erbe, Tom",MUS 170,SP23,58,13,0.846,1.0,1.42,3.85,3.78,False,False,False,False,True
+"Britt, King James",MUS 174C,SP23,26,8,1.0,1.0,5.75,4.0,3.99,False,False,False,False,True
+"Smyth, Tamara R.",MUS 175,SP23,28,20,0.9,0.95,3.45,3.53,3.58,False,False,False,False,True
+"Schneider, Berk Waldemar",MUS 1C,SP23,34,24,0.9570000000000001,0.9129999999999999,3.75,3.71,3.46,False,False,False,False,False
+"Ishov, Alexander Alexandrovich",MUS 2C,SP23,27,11,0.9,0.8,4.5,3.82,3.67,False,False,False,False,False
+"Woo, Sora",MUS 4,SP23,227,86,0.9490000000000001,0.9359999999999999,3.13,3.85,3.74,False,False,False,False,False
+"Solem, Nicholas",MUS 7,SP23,132,52,0.56,0.7140000000000001,2.46,3.67,3.65,False,False,False,False,False
+"Taylor, Alexander Lawther",MUS 95E,SP23,57,33,1.0,1.0,2.64,4.0,4.0,False,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,SP23,28,10,1.0,1.0,2.72,4.0,3.89,False,False,False,False,False
+"Jones, Michael David",MUS 95L,SP23,46,26,1.0,1.0,2.67,4.0,4.0,False,False,False,False,False
+"Seshadri, Kartik",MUS 95W,SP23,26,6,1.0,1.0,1.7,4.0,4.0,False,False,False,False,False
+"Seshadri, Kartik",MUS 95W,SP23,23,6,0.833,0.833,1.7,4.0,4.0,False,False,False,False,False
+"Karis, Aleck",MUS 101B,WI23,21,9,0.778,1.0,5.17,3.67,3.22,False,False,False,False,True
+"Ung, Chinary",MUS 111,WI23,108,33,0.9670000000000001,0.9670000000000001,4.3,3.85,3.87,False,False,False,False,True
+"Curtis, Charles Rector",MUS 113,WI23,29,10,0.8,0.9,3.7,3.9,3.95,False,False,False,False,True
+"Diaz De Cossio, Teresa Sanchez",MUS 114,WI23,136,67,0.985,0.985,2.53,3.95,3.88,False,False,False,False,True
+"Davis, Anthony Curtis",MUS 12,WI23,91,30,0.815,0.8079999999999999,3.07,3.91,3.6,False,False,False,False,False
+"Schwenkler, Kevin Allen",MUS 120B,WI23,24,10,0.5,0.556,2.7,3.9,3.34,False,False,False,False,True
+"Dresser, Mark Stuart",MUS 127,WI23,102,33,0.9690000000000001,0.938,3.66,3.72,3.71,False,False,False,False,True
+"Guy, Nancy",MUS 13,WI23,93,45,0.69,0.732,3.85,3.27,2.79,False,False,False,False,False
+"Ohnishi, Takae",MUS 130,WI23,33,13,1.0,0.917,3.59,4.0,3.97,False,False,False,False,True
+"Kenyatta, Kamau",MUS 137B,WI23,22,3,1.0,1.0,0.5,4.0,4.0,False,False,False,False,True
+"Woo, Sora",MUS 15,WI23,183,68,0.938,0.905,2.89,3.94,3.77,False,False,False,False,False
+"Hankins, Sarah E.",MUS 151,WI23,48,17,0.688,0.813,3.63,3.67,3.75,False,False,False,False,True
+"Roth, Paul N",MUS 17,WI23,339,145,0.9570000000000001,0.97,2.1,3.88,3.79,False,False,False,False,False
+"Haering, Nathaniel James",MUS 172,WI23,21,16,0.75,0.813,6.88,3.6,3.72,False,False,False,False,True
+"Britt, King James",MUS 174B,WI23,32,6,1.0,1.0,9.17,4.0,3.77,False,False,False,False,True
+"Britt, King James",MUS 19R,WI23,207,76,1.0,1.0,2.72,3.88,3.94,False,False,False,False,False
+"Schneider, Berk Waldemar",MUS 1B,WI23,87,52,0.9229999999999999,0.961,3.38,3.85,3.8,False,False,False,False,False
+"Carlson, Erik Norman",MUS 2B,WI23,28,13,0.917,1.0,2.04,4.0,4.0,False,False,False,False,False
+"Waniuk, Ilana",MUS 4,WI23,194,70,0.899,0.9570000000000001,2.36,3.92,3.88,False,False,False,False,False
+"Dubnov, Shlomo",MUS 5R,WI23,123,65,0.938,0.9690000000000001,2.78,3.97,3.84,False,False,False,False,False
+"Schick, Steven",MUS 9,WI23,139,49,0.867,0.956,2.08,3.76,3.7,False,False,False,False,False
+"Taylor, Alexander Lawther",MUS 95E,WI23,56,29,1.0,1.0,2.36,4.0,4.0,False,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,WI23,30,10,1.0,1.0,4.5,4.0,4.0,False,False,False,False,False
+"Jones, Michael David",MUS 95L,WI23,48,21,1.0,0.9520000000000001,2.02,4.0,4.0,False,False,False,False,False
+"Seshadri, Kartik",MUS 95W,WI23,32,5,1.0,0.8,2.1,4.0,3.88,False,False,False,False,False
+"Ishov, Alexander Alexandrovich",MUS 101A,FA22,25,3,1.0,1.0,3.17,4.0,4.0,False,False,False,False,True
+"Yadegari, Shahrokh D",MUS 111,FA22,115,64,0.905,0.9520000000000001,3.53,3.76,3.74,False,False,False,False,True
+"Curtis, Charles Rector",MUS 114,FA22,123,30,0.69,0.759,3.74,3.76,3.62,False,False,False,False,True
+"Narucki, Susan M",MUS 12,FA22,68,19,1.0,1.0,2.29,3.68,3.44,False,False,False,False,False
+"Cimini, Amy Marie",MUS 120A,FA22,24,3,1.0,1.0,2.5,4.0,3.69,False,False,False,False,True
+"Borgo, David Garcia",MUS 126R,FA22,128,65,1.0,1.0,4.05,3.88,3.75,False,False,False,False,True
+"Ohnishi, Takae",MUS 130,FA22,34,14,1.0,0.7859999999999999,3.21,4.0,4.0,False,False,False,False,True
+"Kenyatta, Kamau",MUS 137A,FA22,21,6,1.0,1.0,1.17,3.6,3.73,False,False,False,False,True
+"Schwenkler, Kevin Allen",MUS 15,FA22,203,68,0.894,0.9390000000000001,2.2,3.95,4.0,False,False,False,False,False
+"Smyth, Tamara R.",MUS 171,FA22,38,14,0.5710000000000001,0.5,5.21,2.93,3.19,False,False,False,False,True
+"Britt, King James",MUS 173,FA22,28,10,0.889,1.0,6.1,3.3,3.98,False,False,False,False,True
+"Burr, Anthony I",MUS 174A,FA22,32,5,1.0,1.0,5.3,3.8,3.59,False,False,False,False,True
+"Britt, King James",MUS 19R,FA22,239,90,0.922,0.9890000000000001,2.68,3.8,3.93,False,False,False,False,False
+"Schneider, Berk Waldemar",MUS 1A,FA22,138,97,0.9279999999999999,0.9590000000000001,3.49,3.66,3.8,False,False,False,False,False
+"Zhang, Shaoai",MUS 1A,FA22,146,58,1.0,0.982,2.68,3.93,3.82,False,False,False,False,False
+"Borgo, David Garcia",MUS 20,FA22,56,31,0.867,0.966,2.69,3.9,3.87,False,False,False,False,False
+"Carlson, Erik Norman",MUS 2A,FA22,31,16,0.875,1.0,2.13,3.81,3.87,False,False,False,False,False
+"Liu, Anqi",MUS 4,FA22,189,62,0.8690000000000001,0.8029999999999999,3.16,3.89,3.85,False,False,False,False,False
+"Waniuk, Ilana",MUS 5,FA22,134,35,1.0,1.0,2.26,3.94,4.0,False,False,False,False,False
+"Haering, Nathaniel James",MUS 6,FA22,94,60,0.9329999999999999,0.966,3.53,3.89,4.0,False,False,False,False,False
+"Kenyatta, Kamau",MUS 8,FA22,144,70,0.971,0.985,2.15,3.7,3.62,False,False,False,False,False
+"Sussman, Diana Wald",MUS 95C,FA22,32,7,1.0,1.0,2.5,3.83,3.85,False,False,False,False,False
+"Taylor, Alexander Lawther",MUS 95E,FA22,49,27,1.0,1.0,2.06,4.0,4.0,False,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,FA22,27,9,1.0,1.0,2.94,4.0,4.0,False,False,False,False,False
+"Seshadri, Kartik",MUS 95W,FA22,42,11,0.889,0.889,3.0,4.0,3.91,False,False,False,False,False
+"Brindamour, Lydia Winsor",MUS 101C,SP22,24,9,0.778,0.889,2.5,3.63,3.52,False,False,False,False,True
+"Terrazas Perez, Wilfrido D",MUS 11,SP22,135,63,0.983,1.0,1.81,3.97,3.91,False,False,False,False,False
+"Yadegari, Shahrokh D",MUS 111,SP22,125,80,0.937,0.987,3.81,3.68,3.84,False,False,False,False,True
+"Curtis, Charles Rector",MUS 113,SP22,28,11,1.0,0.9,3.3,3.89,3.68,False,False,False,False,True
+"Reynolds, Roger L.",MUS 114,SP22,119,42,0.7140000000000001,0.738,4.06,3.59,3.27,False,False,False,False,True
+"Cimini, Amy Marie",MUS 120C,SP22,31,8,0.875,1.0,2.5,3.63,3.83,False,False,False,False,True
+"Guy, Nancy",MUS 13,SP22,106,60,0.804,0.873,3.88,3.46,3.29,False,False,False,False,False
+"Ohnishi, Takae",MUS 130,SP22,43,19,1.0,0.895,3.97,4.0,3.93,False,False,False,False,True
+"Schwenkler, Kevin Allen",MUS 15,SP22,299,97,0.902,0.935,2.8,3.85,3.8,False,False,False,False,False
+"Roth, Paul N",MUS 17,SP22,336,115,0.973,0.973,2.66,3.86,3.78,False,False,False,False,False
+"Erbe, Tom",MUS 172,SP22,52,12,0.917,1.0,6.67,3.55,3.38,False,False,False,False,True
+"Solem, Nicholas",MUS 174C,SP22,22,6,0.667,0.4,4.5,4.0,3.97,False,False,False,False,True
+"Smyth, Tamara R.",MUS 175,SP22,24,4,1.0,1.0,1.5,3.75,3.09,False,False,False,False,True
+"Zhang, Shaoai",MUS 1C,SP22,39,22,0.905,0.905,4.31,3.73,3.22,False,False,False,False,False
+"Liu, Anqi",MUS 2C,SP22,22,17,1.0,0.75,5.09,3.6,3.8,False,False,False,False,False
+"Lloyd-Jones, Rebecca Louise",MUS 4,SP22,190,69,0.938,0.938,3.3,3.81,3.77,False,False,False,False,False
+"Richards, Stephanie F",MUS 5,SP22,111,65,0.785,0.9079999999999999,3.0,3.8,3.6,False,False,False,False,False
+"Carlson, Erik Norman",MUS 95E,SP22,38,12,1.0,1.0,1.67,4.0,4.0,False,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,SP22,27,9,1.0,1.0,1.83,4.0,4.0,False,False,False,False,False
+"Jones, Michael David",MUS 95L,SP22,46,15,1.0,1.0,1.83,4.0,4.0,False,False,False,False,False
+"Seshadri, Kartik",MUS 95W,SP22,60,11,1.0,0.909,5.41,3.9,3.82,False,False,False,False,False
+"Seshadri, Kartik",MUS 95W,SP22,35,9,0.889,0.778,2.0,4.0,3.96,False,False,False,False,False
+"Karis, Aleck",MUS 101B,WI22,26,9,0.889,1.0,6.28,3.38,2.79,False,False,False,False,True
+"Ung, Chinary",MUS 111,WI22,93,27,0.731,0.8079999999999999,3.35,3.77,3.82,False,False,False,False,True
+"Pasler, Jann Corinne",MUS 113,WI22,27,11,0.545,0.636,4.5,3.7,2.78,False,False,False,False,True
+"Terrazas Perez, Wilfrido D",MUS 114,WI22,141,58,1.0,1.0,3.18,3.98,3.91,False,False,False,False,True
+"Davis, Anthony Curtis",MUS 12,WI22,91,35,0.941,0.97,4.26,3.84,3.61,False,False,False,False,False
+"Dresser, Mark Stuart",MUS 127,WI22,101,35,1.0,0.941,4.03,3.9,3.64,False,False,False,False,True
+"Leslie, Matthew",MUS 13,WI22,99,57,0.9470000000000001,0.982,2.54,3.95,3.9,False,False,False,False,False
+"Ohnishi, Takae",MUS 130,WI22,25,9,1.0,1.0,3.0,4.0,4.0,False,False,False,False,True
+"Kenyatta, Kamau",MUS 137B,WI22,24,9,1.0,1.0,3.83,4.0,4.0,False,False,False,False,True
+"Schulmeister, Kathryn Crandall",MUS 15,WI22,277,106,1.0,1.0,2.56,3.93,3.86,False,False,False,False,False
+"Borgo, David Garcia",MUS 150,WI22,26,18,0.889,0.941,3.83,3.5,3.5,False,False,False,False,True
+"Burr, Anthony I",MUS 17,WI22,382,137,0.917,0.955,3.27,3.86,3.66,False,False,False,False,False
+"Smyth, Tamara R.",MUS 171,WI22,108,27,0.885,0.885,5.39,3.63,3.52,False,False,False,False,True
+"Britt, King James",MUS 174B,WI22,24,9,1.0,1.0,10.28,3.67,3.89,False,False,False,False,True
+"Britt, King James",MUS 19R,WI22,191,75,0.986,0.9590000000000001,2.95,3.85,3.78,False,False,False,False,False
+"Zhang, Shaoai",MUS 1B,WI22,96,70,0.914,0.943,4.33,3.79,3.6,False,False,False,False,False
+"Borgo, David Garcia",MUS 20,WI22,42,34,0.882,1.0,3.09,3.93,3.91,False,False,False,False,False
+"Carlson, Erik Norman",MUS 2B,WI22,27,11,0.909,1.0,1.41,3.91,3.88,False,False,False,False,False
+"Brindamour, Lydia Winsor",MUS 4,WI22,207,87,0.966,0.9890000000000001,3.03,3.81,3.63,False,False,False,False,False
+"Lloyd-Jones, Rebecca Louise",MUS 5,WI22,141,60,0.966,1.0,2.88,3.91,3.83,False,False,False,False,False
+"Carlson, Erik Norman",MUS 95E,WI22,22,13,1.0,1.0,2.04,4.0,4.0,False,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,WI22,24,5,1.0,1.0,1.0,4.0,4.0,False,False,False,False,False
+"Jones, Michael David",MUS 95L,WI22,41,18,1.0,1.0,1.13,4.0,4.0,False,False,False,False,False
+"Seshadri, Kartik",MUS 95W,WI22,25,9,0.889,0.889,3.39,3.89,3.91,False,False,False,False,False
+"Karis, Aleck",MUS 101A,FA21,29,15,0.9329999999999999,1.0,4.77,3.4,3.18,True,False,False,False,True
+"Curtis, Charles Rector",MUS 114,FA21,120,43,0.929,0.902,3.69,3.86,3.8,True,False,False,False,True
+"Narucki, Susan M",MUS 12,FA21,69,37,0.946,1.0,2.34,3.94,3.62,True,False,False,False,False
+"Leslie, Matthew",MUS 120A,FA21,38,19,0.9440000000000001,1.0,2.28,3.94,3.94,True,False,False,False,True
+"Borgo, David Garcia",MUS 126,FA21,136,99,0.99,1.0,5.25,3.9,3.7,True,False,False,False,True
+"Davis, Anthony Curtis",MUS 127,FA21,87,32,0.6,0.5329999999999999,2.83,3.82,3.82,True,False,False,False,True
+"Kenyatta, Kamau",MUS 137A,FA21,31,16,0.938,0.938,4.25,3.63,3.66,True,False,False,False,True
+"Bain, Landon Lee",MUS 15,FA21,173,84,0.925,0.987,2.93,3.91,3.54,True,False,False,False,False
+"Puckette, Miller S.",MUS 170,FA21,52,19,1.0,1.0,4.03,3.94,3.82,True,False,False,False,True
+"Britt, King James",MUS 173,FA21,32,13,1.0,1.0,9.88,3.83,3.99,True,False,False,False,True
+"Burr, Anthony I",MUS 174A,FA21,26,11,1.0,0.818,3.41,4.0,3.94,True,False,False,False,True
+"Britt, King James",MUS 19,FA21,246,120,0.983,0.9740000000000001,2.64,3.82,3.74,True,False,False,False,False
+"Zhang, Shaoai",MUS 1A,FA21,135,91,0.955,0.978,2.37,3.84,3.75,True,False,False,False,False
+"Stephenson, Alex Edward",MUS 1A,FA21,137,87,1.0,1.0,3.03,3.96,3.84,True,False,False,False,False
+"Richards, Stephanie F",MUS 2A,FA21,37,26,0.9620000000000001,0.885,3.5,3.68,3.11,True,False,False,False,False
+"Brindamour, Lydia Winsor",MUS 4,FA21,164,69,0.97,1.0,3.51,3.8,3.58,True,False,False,False,False
+"Dubnov, Shlomo",MUS 5,FA21,193,71,0.687,0.7879999999999999,2.35,3.91,3.56,True,False,False,False,False
+"Schneider, Berk Waldemar",MUS 6,FA21,112,78,0.885,0.9620000000000001,3.05,3.9,3.86,True,False,False,False,False
+"Tiruviluamala, Nakul Venkat",MUS 7,FA21,113,49,0.9179999999999999,0.9590000000000001,2.79,3.85,4.0,True,False,False,False,False
+"Kenyatta, Kamau",MUS 8,FA21,137,55,0.981,1.0,1.71,3.9,3.88,True,False,False,False,False
+"Schick, Steven",MUS 9,FA21,123,57,0.982,0.963,1.93,3.9,3.72,True,False,False,False,False
+"Carlson, Erik Norman",MUS 95E,FA21,23,16,0.938,1.0,1.13,4.0,4.0,True,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,FA21,24,10,1.0,1.0,2.75,4.0,4.0,True,False,False,False,False
+"Jones, Michael David",MUS 95L,FA21,45,21,1.0,0.9520000000000001,1.26,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,FA21,44,17,0.8240000000000001,0.8240000000000001,1.68,3.93,3.87,True,False,False,False,False
+"Burr, Anthony I",MUS 101C,SP21,24,9,1.0,0.889,4.06,3.78,3.64,True,False,False,False,True
+"Terrazas Perez, Wilfrido D",MUS 11,SP21,206,86,0.988,1.0,2.34,3.99,3.88,True,False,False,False,False
+"Vine, Anthony Dominic",MUS 114,SP21,134,53,0.981,1.0,3.62,3.94,3.91,True,False,False,False,True
+"Davis, Anthony Curtis",MUS 127,SP21,115,38,0.647,0.5589999999999999,4.21,3.77,3.85,True,False,False,False,True
+"Guy, Nancy",MUS 13,SP21,85,32,0.813,0.774,3.5,3.45,3.39,True,False,False,False,False
+"Da Silva, Marcos Balter Ma",MUS 14,SP21,77,35,1.0,1.0,3.26,4.0,3.79,True,False,False,False,False
+"Leslie, Matthew",MUS 15,SP21,286,91,0.955,0.9890000000000001,2.97,3.88,3.7,True,False,False,False,False
+"Burr, Anthony I",MUS 17,SP21,476,159,0.9420000000000001,0.9159999999999999,3.06,3.81,3.61,True,False,False,False,False
+"Puckette, Miller S.",MUS 170,SP21,59,27,0.815,0.852,3.61,3.86,3.7,True,False,False,False,True
+"Smyth, Tamara R.",MUS 175,SP21,25,9,1.0,1.0,4.06,3.56,3.39,True,False,False,False,True
+"Tiruviluamala, Nakul Venkat",MUS 1C,SP21,56,18,0.9440000000000001,0.889,3.72,3.94,4.0,True,False,False,False,False
+"Borgo, David Garcia",MUS 20,SP21,33,22,0.955,1.0,4.32,3.82,3.74,True,False,False,False,False
+"Carlson, Erik Norman",MUS 2C,SP21,28,12,1.0,0.889,3.95,3.82,3.96,True,False,False,False,False
+"Gutierrez Martinez, Andres",MUS 4,SP21,253,90,0.884,0.86,3.28,3.86,3.79,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,SP21,43,17,0.941,0.941,3.09,4.0,3.86,True,False,False,False,False
+"Stephenson, Alex Edward",MUS 101B,WI21,29,21,0.9520000000000001,0.9520000000000001,5.07,3.74,3.41,True,False,False,False,True
+"Ung, Chinary",MUS 111,WI21,43,11,0.545,0.636,1.59,3.75,3.83,True,False,False,False,True
+"Terrazas Perez, Wilfrido D",MUS 114,WI21,158,71,1.0,1.0,3.01,3.97,3.94,True,False,False,False,True
+"Guy, Nancy",MUS 12,WI21,74,26,0.769,0.846,4.42,3.41,3.51,True,False,False,False,False
+"Cimini, Amy Marie",MUS 120B,WI21,20,6,0.833,0.833,3.83,4.0,3.3,True,False,False,False,True
+"Dresser, Mark Stuart",MUS 127,WI21,108,42,0.7140000000000001,0.81,5.28,3.61,3.8,True,False,False,False,True
+"Babin, Thomas Andrew",MUS 15,WI21,330,133,0.977,0.985,2.89,3.93,3.82,True,False,False,False,False
+"Boston, Martin Luther",MUS 153,WI21,20,8,0.857,1.0,3.93,3.6,3.68,True,False,False,False,True
+"Green, Kevin P",MUS 17,WI21,390,143,0.879,0.877,4.42,3.76,3.69,True,False,False,False,False
+"Britt, King James",MUS 173,WI21,25,14,1.0,1.0,6.81,3.64,3.87,True,False,False,False,True
+"Erbe, Tom",MUS 174A,WI21,20,9,1.0,1.0,2.5,3.83,3.93,True,False,False,False,True
+"Britt, King James",MUS 174B,WI21,25,15,1.0,1.0,5.83,3.67,3.81,True,False,False,False,True
+"Britt, King James",MUS 19,WI21,58,28,1.0,1.0,4.07,3.96,3.9,True,False,False,False,False
+"Tiruviluamala, Nakul Venkat",MUS 1B,WI21,113,51,0.96,0.878,2.7,3.92,3.99,True,False,False,False,False
+"Zhou, Tiange",MUS 2B,WI21,33,26,0.885,0.9229999999999999,3.5,3.64,3.92,True,False,False,False,False
+"Brindamour, Lydia Winsor",MUS 4,WI21,284,137,0.925,0.985,4.28,3.79,3.78,True,False,False,False,False
+"Greenstone, Madison Kearsley",MUS 5,WI21,153,68,0.862,0.9059999999999999,3.47,3.97,3.82,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,WI21,28,6,1.0,1.0,2.17,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,WI21,38,8,1.0,1.0,2.0,3.88,4.0,True,False,False,False,False
+"Karis, Aleck",MUS 101A,FA20,28,13,0.846,1.0,5.12,3.54,3.08,True,False,False,False,True
+"Yadegari, Shahrokh D",MUS 111,FA20,66,49,0.9179999999999999,0.98,4.05,3.71,3.73,True,False,False,False,True
+"Curtis, Charles Rector",MUS 114,FA20,111,39,0.868,0.9470000000000001,3.66,3.89,3.56,True,False,False,False,True
+"Borgo, David Garcia",MUS 126,FA20,109,62,1.0,1.0,4.0,3.94,3.77,True,False,False,False,True
+"Leslie, Matthew",MUS 13,FA20,138,67,0.985,0.985,2.44,3.84,3.97,True,False,False,False,False
+"Kenyatta, Kamau",MUS 137A,FA20,31,11,1.0,1.0,4.86,3.9,3.93,True,False,False,False,True
+"Bain, Landon Lee",MUS 15,FA20,153,74,0.863,0.9590000000000001,3.36,3.69,3.67,True,False,False,False,False
+"Babin, Thomas Andrew",MUS 17,FA20,334,139,0.978,0.955,3.85,3.87,3.65,True,False,False,False,False
+"Smyth, Tamara R.",MUS 171,FA20,56,17,0.765,0.882,6.15,3.71,3.25,True,False,False,False,True
+"Britt, King James",MUS 173,FA20,36,16,1.0,1.0,8.25,3.67,3.72,True,False,False,False,True
+"Erbe, Tom",MUS 174A,FA20,23,5,0.8,1.0,2.9,3.8,3.84,True,False,False,False,True
+"Britt, King James",MUS 19,FA20,43,18,0.9440000000000001,1.0,3.61,3.88,3.76,True,False,False,False,False
+"Stephenson, Alex Edward",MUS 1A,FA20,148,107,0.981,1.0,3.42,3.91,3.81,True,False,False,False,False
+"Mitsialis, Ioannis",MUS 1A,FA20,144,75,0.958,0.887,3.19,3.94,3.62,True,False,False,False,False
+"Stephenson, Alex Edward",MUS 1A,FA20,23,19,0.9440000000000001,1.0,2.94,3.93,3.88,True,False,False,False,False
+"Richards, Stephanie F",MUS 2A,FA20,25,21,0.9520000000000001,0.95,4.31,3.68,3.39,True,False,False,False,False
+"Richards, Stephanie F",MUS 2A,FA20,21,14,1.0,1.0,3.93,3.38,3.59,True,False,False,False,False
+"Brindamour, Lydia Winsor",MUS 4,FA20,273,134,0.985,1.0,4.16,3.82,3.84,True,False,False,False,False
+"Brindamour, Lydia Winsor",MUS 4,FA20,20,9,1.0,1.0,2.5,3.88,3.45,True,False,False,False,False
+"Dubnov, Shlomo",MUS 5,FA20,132,66,0.708,0.75,2.84,3.69,3.7,True,False,False,False,False
+"Dubnov, Shlomo",MUS 5,FA20,25,10,0.4,0.7,2.1,3.2,3.07,True,False,False,False,False
+"Tiruviluamala, Nakul Venkat",MUS 6,FA20,130,53,1.0,0.9790000000000001,4.02,3.89,3.98,True,False,False,False,False
+"Zhou, Tiange",MUS 7,FA20,139,110,0.955,0.9640000000000001,2.52,3.79,3.87,True,False,False,False,False
+"Kenyatta, Kamau",MUS 8,FA20,135,59,0.983,0.982,2.18,3.92,3.84,True,False,False,False,False
+"Schick, Steven",MUS 9,FA20,142,71,0.9440000000000001,0.972,2.61,3.8,3.84,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,FA20,59,14,1.0,1.0,2.64,4.0,3.79,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,FA20,28,9,1.0,0.889,4.72,4.0,3.8,True,False,False,False,False
+"Karis, Aleck",MUS 101C,SP20,20,8,1.0,1.0,5.75,3.43,3.43,True,False,False,False,True
+"Terrazas Perez, Wilfrido D",MUS 11,SP20,154,55,0.982,0.982,2.25,3.94,3.93,True,False,False,False,False
+"Yadegari, Shahrokh D",MUS 111,SP20,136,91,0.934,0.978,3.71,3.92,3.97,True,False,False,False,True
+"Curtis, Charles Rector",MUS 114,SP20,104,27,0.9259999999999999,0.963,4.2,4.0,3.92,True,False,False,False,True
+"Narucki, Susan M",MUS 12,SP20,40,20,1.0,1.0,2.92,3.88,3.84,True,False,False,False,False
+"Leslie, Matthew",MUS 120C,SP20,30,7,0.857,1.0,3.07,4.0,3.96,True,False,False,False,True
+"Borgo, David Garcia",MUS 127,SP20,78,57,0.912,0.9470000000000001,4.0,3.81,3.94,True,False,False,False,True
+"Lee, Leon Pakyuen",MUS 152,SP20,20,9,1.0,1.0,4.28,3.78,3.96,True,False,False,False,True
+"Babin, Thomas Andrew",MUS 17,SP20,366,116,0.955,0.991,3.41,3.89,3.89,True,False,False,False,False
+"Sundstrom, Jacob Lyle",MUS 172,SP20,28,13,0.9229999999999999,0.9229999999999999,5.42,3.67,3.52,True,False,False,False,True
+"Smyth, Tamara R.",MUS 175,SP20,26,8,0.875,1.0,2.5,3.29,3.89,True,False,False,False,True
+"Britt, King James",MUS 19,SP20,38,17,1.0,1.0,3.56,4.0,3.96,True,False,False,False,False
+"Tiruviluamala, Nakul Venkat",MUS 1C,SP20,61,24,0.9570000000000001,1.0,4.67,3.88,3.99,True,False,False,False,False
+"Borgo, David Garcia",MUS 20,SP20,32,18,0.889,0.9440000000000001,3.17,3.8,3.94,True,False,False,False,False
+"Zhou, Tiange",MUS 2C,SP20,30,24,0.958,0.875,3.33,3.95,4.0,True,False,False,False,False
+"Allen, Rachel Elizabeth",MUS 4,SP20,272,223,0.9329999999999999,0.9640000000000001,3.33,3.82,3.78,True,False,False,False,False
+"Dubnov, Shlomo",MUS 5,SP20,53,21,0.9,0.9,2.3,3.72,3.46,True,False,False,False,False
+"Diels, Natacha D.",MUS 6,SP20,147,40,1.0,1.0,3.34,3.81,3.96,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,SP20,29,6,1.0,1.0,1.7,4.0,3.86,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,SP20,30,9,1.0,1.0,1.0,4.0,3.87,True,False,False,False,False
+"Kline, Matthew John",MUS 95E,SP20,26,13,1.0,1.0,4.96,4.0,4.0,True,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,SP20,20,9,1.0,1.0,3.17,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,SP20,61,13,1.0,1.0,1.83,3.92,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,SP20,37,5,1.0,1.0,1.7,4.0,4.0,True,False,False,False,False
+"Ung, Chinary",MUS 111,WI20,37,16,0.6,0.733,2.37,3.23,3.65,True,False,False,False,True
+"Curtis, Charles Rector",MUS 113,WI20,38,14,0.615,0.846,2.65,3.82,3.81,True,False,False,False,True
+"Reynolds, Roger L.",MUS 114,WI20,116,38,0.622,0.649,2.5,3.7,3.72,True,False,False,False,True
+"Guy, Nancy",MUS 12,WI20,48,27,0.963,0.9259999999999999,2.13,3.57,3.19,True,False,False,False,False
+"Cimini, Amy Marie",MUS 120B,WI20,27,9,0.778,0.889,4.06,3.56,3.78,True,False,False,False,True
+"Dresser, Mark Stuart",MUS 127,WI20,100,50,0.9590000000000001,0.9590000000000001,3.33,3.62,3.68,True,False,False,False,True
+"Leslie, Matthew",MUS 13,WI20,72,34,0.971,1.0,3.09,3.57,3.79,True,False,False,False,False
+"Dubnov, Shlomo",MUS 15,WI20,240,87,0.7,0.6579999999999999,2.18,3.7,3.74,True,False,False,False,False
+"Babin, Thomas Andrew",MUS 17,WI20,335,123,0.8540000000000001,0.95,3.14,3.62,3.65,True,False,False,False,False
+"Puckette, Miller S.",MUS 171,WI20,46,14,1.0,0.9229999999999999,4.35,3.85,3.41,True,False,False,False,True
+"Britt, King James",MUS 173,WI20,33,9,1.0,1.0,5.83,3.89,3.41,True,False,False,False,True
+"Britt, King James",MUS 174B,WI20,25,4,0.75,1.0,5.17,4.0,4.0,True,False,False,False,True
+"Tiruviluamala, Nakul Venkat",MUS 1B,WI20,101,37,0.971,0.943,2.83,3.76,3.89,True,False,False,False,False
+"Zhou, Tiange",MUS 2B,WI20,35,16,0.9229999999999999,0.6920000000000001,3.58,3.77,3.99,True,False,False,False,False
+"Allen, Rachel Elizabeth",MUS 4,WI20,191,172,0.9059999999999999,0.953,2.37,3.54,3.55,True,False,False,False,False
+"Abbasi Hafshejani, Anahita",MUS 5,WI20,129,59,0.542,0.593,2.43,3.83,3.77,True,False,False,False,False
+"Schick, Steven",MUS 9,WI20,145,58,0.981,0.922,1.73,3.84,3.96,True,False,False,False,False
+"Kline, Matthew John",MUS 95E,WI20,41,18,1.0,1.0,3.83,4.0,4.0,True,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,WI20,24,10,0.9,0.9,2.94,4.0,4.0,True,False,False,False,False
+"Oram, Celeste Alice",MUS 95K,WI20,23,14,1.0,1.0,2.07,3.92,3.99,True,False,False,False,False
+"Beauton, James Alan",MUS 95L,WI20,35,18,1.0,1.0,2.06,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,WI20,32,3,1.0,1.0,1.17,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,WI20,53,11,1.0,1.0,4.28,4.0,4.0,True,False,False,False,False
+"Cimini, Amy Marie",MUS 120A,FA19,21,9,0.375,0.375,4.0,3.25,3.68,True,False,False,False,True
+"Borgo, David Garcia",MUS 126,FA19,105,66,0.8909999999999999,0.9059999999999999,3.52,3.69,3.43,True,False,False,False,True
+"Rubio, Juan David",MUS 13,FA19,132,111,0.9359999999999999,0.972,3.14,3.53,3.41,True,False,False,False,False
+"Ohnishi, Takae",MUS 130,FA19,30,10,1.0,1.0,4.3,4.0,4.0,True,False,False,False,True
+"Kenyatta, Kamau",MUS 137A,FA19,27,8,1.0,1.0,5.64,4.0,3.81,True,False,False,False,True
+"Bain, Landon Lee",MUS 15,FA19,187,89,0.9490000000000001,0.9620000000000001,2.9,3.71,3.47,True,False,False,False,False
+"Digney, Fiona Ruth",MUS 15,FA19,148,130,0.914,0.953,2.8,3.75,3.77,True,False,False,False,False
+"Hankins, Sarah E.",MUS 151,FA19,33,22,0.909,0.955,2.59,3.68,3.66,True,False,False,False,True
+"Burr, Anthony I",MUS 17,FA19,380,144,0.897,0.8740000000000001,2.76,3.5,3.36,True,False,False,False,False
+"Smyth, Tamara R.",MUS 171,FA19,62,24,0.75,0.875,4.08,3.17,3.08,True,False,False,False,True
+"Britt, King James",MUS 173,FA19,26,14,0.929,0.929,5.64,3.79,3.93,True,False,False,False,True
+"Britt, King James",MUS 174A,FA19,25,6,1.0,1.0,4.17,3.8,3.87,True,False,False,False,True
+"Tiruviluamala, Nakul Venkat",MUS 1A,FA19,129,66,1.0,1.0,2.79,3.84,3.93,True,False,False,False,False
+"Oram, Celeste Alice",MUS 1A,FA19,135,70,0.7759999999999999,0.8640000000000001,3.97,3.73,3.81,True,False,False,False,False
+"Carlson, Erik Norman",MUS 2A,FA19,35,23,0.9570000000000001,1.0,2.76,3.96,3.91,True,False,False,False,False
+"Allen, Rachel Elizabeth",MUS 4,FA19,263,231,0.851,0.9079999999999999,2.67,3.55,3.49,True,False,False,False,False
+"Dresser, Mark Stuart",MUS 5,FA19,130,82,0.765,0.848,2.65,3.77,3.72,True,False,False,False,False
+"Thorpe, Suzanne",MUS 7,FA19,132,47,0.727,0.75,2.37,3.59,3.09,True,False,False,False,False
+"Kenyatta, Kamau",MUS 8,FA19,135,69,0.938,1.0,2.22,3.82,3.46,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,FA19,28,9,1.0,1.0,3.0,4.0,3.84,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,FA19,28,10,1.0,1.0,2.7,3.88,3.99,True,False,False,False,False
+"Kline, Matthew John",MUS 95E,FA19,46,28,1.0,1.0,3.69,3.95,3.99,True,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,FA19,22,9,1.0,1.0,3.64,4.0,4.0,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95K,FA19,21,11,1.0,1.0,1.1,4.0,3.94,True,False,False,False,False
+"Beauton, James Alan",MUS 95L,FA19,32,15,1.0,1.0,2.37,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,FA19,56,23,1.0,1.0,3.11,3.91,3.96,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,FA19,30,15,0.9329999999999999,0.9329999999999999,2.23,4.0,3.82,True,False,False,False,False
+"Burr, Anthony I",MUS 101C,SP19,32,8,0.625,0.875,7.0,3.0,3.3,True,False,False,False,True
+"Terrazas Perez, Wilfrido D",MUS 11,SP19,127,68,0.9690000000000001,0.9690000000000001,2.06,3.92,3.95,True,False,False,False,False
+"Yadegari, Shahrokh D",MUS 111,SP19,116,81,0.924,0.9490000000000001,3.97,3.67,3.74,True,False,False,False,True
+"Narucki, Susan M",MUS 12,SP19,72,27,0.917,0.875,2.33,3.53,3.18,True,False,False,False,False
+"Cimini, Amy Marie",MUS 120C,SP19,25,7,0.667,0.667,3.93,3.43,2.77,True,False,False,False,True
+"Allen, Rachel Elizabeth",MUS 127,SP19,70,64,0.968,0.968,2.44,3.61,3.6,True,False,False,False,True
+"Ohnishi, Takae",MUS 130,SP19,21,17,0.941,1.0,4.75,4.0,4.0,True,False,False,False,True
+"Kenyatta, Kamau",MUS 137C,SP19,22,7,1.0,1.0,3.3,4.0,4.0,True,False,False,False,True
+"Hochman, Joshua David",MUS 15,SP19,250,90,0.818,0.831,2.55,3.35,2.85,True,False,False,False,False
+"Chodos, Asher Tobin",MUS 17,SP19,393,153,0.8690000000000001,0.8690000000000001,3.15,3.7,3.54,True,False,False,False,False
+"Erbe, Tom",MUS 172,SP19,33,9,0.875,0.875,3.75,3.78,3.44,True,False,False,False,True
+"Hankins, Sarah E.",MUS 173,SP19,25,19,1.0,1.0,4.28,3.76,3.64,True,False,False,False,True
+"Burr, Anthony I",MUS 174C,SP19,23,5,1.0,1.0,3.3,3.8,3.84,True,False,False,False,True
+"Clarino, Christopher Richard",MUS 1C,SP19,60,21,0.8420000000000001,0.8420000000000001,2.71,3.67,3.25,True,False,False,False,False
+"Nussman, Jonathan Banks",MUS 4,SP19,284,215,0.934,0.995,3.32,3.68,3.58,True,False,False,False,False
+"Kline, Matthew John",MUS 95E,SP19,27,17,1.0,1.0,2.88,4.0,4.0,True,False,False,False,False
+"Oram, Celeste Alice",MUS 95K,SP19,20,8,1.0,1.0,1.5,4.0,3.98,True,False,False,False,False
+"Beauton, James Alan",MUS 95L,SP19,46,27,1.0,1.0,2.57,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,SP19,60,11,1.0,1.0,1.64,3.8,3.54,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,SP19,35,10,0.875,0.875,1.5,4.0,3.54,True,False,False,False,False
+"Oram, Celeste Alice",MUS 101B,WI19,31,6,1.0,1.0,6.83,3.33,3.47,True,False,False,False,True
+"Ung, Chinary",MUS 111,WI19,39,19,0.789,0.737,2.82,3.53,3.65,True,False,False,False,True
+"Curtis, Charles Rector",MUS 113,WI19,35,18,0.882,0.938,2.62,3.93,3.73,True,False,False,False,True
+"Aoki Navarro, Fernanda",MUS 114,WI19,109,39,0.784,0.8240000000000001,3.29,3.55,3.0,True,False,False,False,True
+"Guy, Nancy",MUS 12,WI19,142,83,0.9009999999999999,0.9259999999999999,3.13,3.52,3.48,True,False,False,False,False
+"Cimini, Amy Marie",MUS 120B,WI19,29,6,0.2,0.4,10.9,3.5,3.14,True,False,False,False,True
+"Davis, Anthony Curtis",MUS 127,WI19,91,32,0.581,0.645,2.44,3.33,3.64,True,False,False,False,True
+"Ohnishi, Takae",MUS 130,WI19,23,12,0.889,1.0,3.5,4.0,4.0,True,False,False,False,True
+"Kenyatta, Kamau",MUS 137B,WI19,25,8,1.0,1.0,2.0,4.0,4.0,True,False,False,False,True
+"Digney, Fiona Ruth",MUS 15,WI19,191,89,0.845,0.7829999999999999,2.29,3.79,3.75,True,False,False,False,False
+"Babin, Thomas Andrew",MUS 17,WI19,372,160,0.953,0.899,2.29,3.76,3.66,True,False,False,False,False
+"Smyth, Tamara R.",MUS 171,WI19,81,40,0.526,0.579,5.82,3.09,3.13,True,False,False,False,True
+"Tiruviluamala, Nakul Venkat",MUS 173,WI19,32,14,1.0,1.0,6.07,3.93,4.0,True,False,False,False,True
+"Burr, Anthony I",MUS 174B,WI19,26,8,1.0,1.0,4.25,3.88,3.68,True,False,False,False,True
+"Clarino, Christopher Richard",MUS 1B,WI19,111,40,0.769,0.6920000000000001,3.22,3.42,2.74,True,False,False,False,False
+"Nussman, Jonathan Banks",MUS 4,WI19,189,147,0.938,0.972,3.3,3.64,3.49,True,False,False,False,False
+"Thorpe, Suzanne",MUS 5,WI19,135,116,0.816,0.9390000000000001,2.46,3.83,3.7,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,WI19,28,7,1.0,1.0,1.83,4.0,4.0,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,WI19,29,12,1.0,1.0,2.0,4.0,4.0,True,False,False,False,False
+"Kline, Matthew John",MUS 95E,WI19,24,16,1.0,1.0,2.9,4.0,4.0,True,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,WI19,22,10,1.0,1.0,2.5,4.0,4.0,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95K,WI19,24,6,1.0,1.0,1.17,4.0,4.0,True,False,False,False,False
+"Beauton, James Alan",MUS 95L,WI19,46,24,1.0,1.0,2.76,3.95,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,WI19,27,7,1.0,0.857,2.21,3.86,3.97,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,WI19,56,8,0.857,0.857,2.79,3.71,3.97,True,False,False,False,False
+"Karis, Aleck",MUS 101A,FA18,34,13,0.9229999999999999,0.9229999999999999,7.27,3.15,3.23,True,False,False,False,True
+"Murphy-Mancini, Justin Joseph",MUS 120A,FA18,33,11,0.7,0.7,7.3,3.5,3.75,True,False,False,False,True
+"Borgo, David Garcia",MUS 126,FA18,109,72,0.8859999999999999,0.943,3.4,3.73,3.49,True,False,False,False,True
+"Rubio, Juan David",MUS 13,FA18,127,105,0.804,0.8809999999999999,3.35,3.72,3.68,True,False,False,False,False
+"Ohnishi, Takae",MUS 130,FA18,20,11,1.0,1.0,4.5,3.91,4.0,True,False,False,False,True
+"Kenyatta, Kamau",MUS 137A,FA18,31,10,1.0,1.0,1.7,3.9,3.92,True,False,False,False,True
+"Nussman, Jonathan Banks",MUS 15,FA18,190,99,0.866,0.938,3.22,3.65,3.55,True,False,False,False,False
+"Hochman, Joshua David",MUS 15,FA18,175,95,0.591,0.747,3.23,3.13,3.07,True,False,False,False,False
+"Burr, Anthony I",MUS 17,FA18,368,164,0.8909999999999999,0.9229999999999999,2.94,3.73,3.36,True,False,False,False,False
+"Puckette, Miller S.",MUS 170,FA18,84,32,0.5479999999999999,0.586,5.03,3.57,3.16,True,False,False,False,True
+"Hsu, Jennifer Shanchen",MUS 173,FA18,24,8,1.0,1.0,4.25,3.88,3.81,True,False,False,False,True
+"Burr, Anthony I",MUS 174A,FA18,29,6,1.0,1.0,4.17,3.8,3.76,True,False,False,False,True
+"Clarino, Christopher Richard",MUS 1A,FA18,125,62,0.7020000000000001,0.679,3.98,3.47,3.08,True,False,False,False,False
+"Miller, Caroline Louise",MUS 1A,FA18,130,72,0.843,0.667,2.62,3.83,3.74,True,False,False,False,False
+"Carlson, Erik Norman",MUS 2A,FA18,20,14,1.0,1.0,2.64,3.93,4.0,True,False,False,False,False
+"Liang, Lei",MUS 33A,FA18,21,9,0.778,0.889,6.5,3.89,3.91,True,False,False,False,False
+"Digney, Fiona Ruth",MUS 4,FA18,276,138,0.7290000000000001,0.6970000000000001,2.71,3.69,3.32,True,False,False,False,False
+"Diels, Natacha D.",MUS 6,FA18,134,80,0.867,0.893,2.61,3.56,3.64,True,False,False,False,False
+"Kenyatta, Kamau",MUS 8,FA18,131,71,1.0,0.985,1.94,3.75,3.29,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,FA18,35,16,0.929,0.929,1.07,3.92,4.0,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,FA18,36,8,1.0,1.0,0.75,4.0,4.0,True,False,False,False,False
+"Kline, Matthew John",MUS 95E,FA18,26,13,0.9229999999999999,1.0,3.27,4.0,3.97,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95K,FA18,24,10,1.0,1.0,2.72,3.88,4.0,True,False,False,False,False
+"Beauton, James Alan",MUS 95L,FA18,39,25,1.0,1.0,2.42,3.95,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,FA18,61,13,0.909,0.909,1.41,4.0,3.75,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,FA18,33,5,1.0,1.0,3.3,4.0,3.75,True,False,False,False,False
+"Burr, Anthony I",MUS 101C,SP18,28,15,0.9329999999999999,1.0,4.5,3.54,3.44,True,False,False,False,True
+"Terrazas Perez, Wilfrido D",MUS 11,SP18,127,48,1.0,0.9790000000000001,2.59,3.85,3.99,True,False,False,False,False
+"Yadegari, Shahrokh D",MUS 111,SP18,63,49,0.9590000000000001,0.9590000000000001,2.58,3.74,3.88,True,False,False,False,True
+"Chodos, Asher Tobin",MUS 120C,SP18,20,15,0.867,0.867,4.37,3.6,3.47,True,False,False,False,True
+"Davis, Anthony Curtis",MUS 127,SP18,98,32,0.469,0.625,3.13,3.46,3.11,True,False,False,False,True
+"Ohnishi, Takae",MUS 130,SP18,24,7,1.0,1.0,2.5,4.0,4.0,True,False,False,False,True
+"Puckette, Miller S.",MUS 14,SP18,31,7,0.857,0.857,1.93,3.6,3.45,True,False,False,False,False
+"Cimini, Amy Marie",MUS 15,SP18,195,70,0.597,0.597,3.71,3.48,3.43,True,False,False,False,False
+"Burr, Anthony I",MUS 17,SP18,368,109,0.904,0.9420000000000001,2.46,3.52,3.01,True,False,False,False,False
+"Haywood, Kevin Matthew",MUS 172,SP18,28,15,0.867,1.0,6.23,3.31,3.4,True,False,False,False,True
+"Zyskowski, Colin A",MUS 173,SP18,29,7,0.857,0.857,5.64,3.83,3.66,True,False,False,False,True
+"Smyth, Tamara R.",MUS 175,SP18,23,11,0.8,0.8,4.1,3.25,3.49,True,False,False,False,True
+"Moellenberg, Todd Michael",MUS 1C,SP18,48,21,0.81,1.0,3.64,3.6,3.48,True,False,False,False,False
+"Borgo, David Garcia",MUS 20,SP18,21,17,0.8240000000000001,0.882,2.15,3.73,3.55,True,False,False,False,False
+"Carlson, Erik Norman",MUS 2C,SP18,23,9,0.889,1.0,3.39,3.75,3.76,True,False,False,False,False
+"Nussman, Jonathan Banks",MUS 4,SP18,267,119,0.9259999999999999,0.971,3.38,3.66,3.36,True,False,False,False,False
+"Miller, Caroline Louise",MUS 6,SP18,125,37,0.606,0.7190000000000001,2.44,3.43,3.58,True,False,False,False,False
+"Schick, Steven",MUS 9,SP18,125,53,0.9390000000000001,0.9390000000000001,1.82,3.88,3.6,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,SP18,27,6,1.0,1.0,1.5,3.8,4.0,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,SP18,27,8,1.0,1.0,1.17,4.0,4.0,True,False,False,False,False
+"Kline, Matthew John",MUS 95E,SP18,36,16,1.0,0.929,2.9,4.0,4.0,True,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,SP18,24,6,1.0,1.0,3.17,4.0,4.0,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95K,SP18,20,11,1.0,1.0,1.77,4.0,4.0,True,False,False,False,False
+"Beauton, James Alan",MUS 95L,SP18,38,19,1.0,1.0,2.5,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,SP18,59,14,0.917,0.833,2.5,4.0,3.55,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,SP18,35,5,1.0,1.0,2.9,4.0,3.55,True,False,False,False,False
+"Karis, Aleck",MUS 101B,WI18,29,11,0.727,0.6,6.5,3.18,3.42,True,False,False,False,True
+"Rubio, Juan David",MUS 11,WI18,66,48,0.813,0.9570000000000001,3.27,3.61,3.44,True,False,False,False,False
+"Digney, Fiona Ruth",MUS 114,WI18,62,24,0.583,0.667,5.33,3.46,3.14,True,False,False,False,True
+"Guy, Nancy",MUS 12,WI18,124,58,0.818,0.833,3.15,3.74,3.69,True,False,False,False,False
+"Cimini, Amy Marie",MUS 120B,WI18,21,8,0.75,0.875,5.75,3.5,3.49,True,False,False,False,True
+"Nordeson, Kjell Gunnar",MUS 127,WI18,109,47,0.956,0.9329999999999999,2.1,3.82,3.52,True,False,False,False,True
+"Ohnishi, Takae",MUS 130,WI18,28,10,1.0,1.0,1.5,4.0,4.0,True,False,False,False,True
+"Charney, Joshua Jamsheed",MUS 15,WI18,267,137,0.924,0.9540000000000001,2.47,3.79,3.67,True,False,False,False,False
+"Hochman, Joshua David",MUS 17,WI18,367,150,0.8690000000000001,0.867,2.91,3.47,3.3,True,False,False,False,False
+"Puckette, Miller S.",MUS 171,WI18,110,38,0.657,0.727,6.5,3.23,3.19,True,False,False,False,True
+"Dubnov, Shlomo",MUS 173,WI18,29,12,1.0,0.917,5.0,3.91,3.49,True,False,False,False,True
+"Erbe, Tom",MUS 174B,WI18,24,8,1.0,1.0,4.25,3.88,3.79,True,False,False,False,True
+"Moellenberg, Todd Michael",MUS 1B,WI18,100,43,0.927,0.951,2.85,3.84,3.34,True,False,False,False,False
+"Carlson, Erik Norman",MUS 2B,WI18,21,12,0.917,1.0,2.33,3.92,3.89,True,False,False,False,False
+"Carlson, Erik Norman",MUS 2B,WI18,30,13,0.75,1.0,1.83,4.0,3.89,True,False,False,False,False
+"Nestor, Ryan Douglas",MUS 4,WI18,191,90,0.919,0.977,2.46,3.57,3.45,True,False,False,False,False
+"Thorpe, Suzanne",MUS 5,WI18,133,70,0.58,0.7609999999999999,2.05,3.65,3.42,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,WI18,29,9,1.0,1.0,3.17,4.0,4.0,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,WI18,29,7,1.0,1.0,0.79,4.0,4.0,True,False,False,False,False
+"Kline, Matthew John",MUS 95E,WI18,33,19,1.0,1.0,1.66,4.0,4.0,True,False,False,False,False
+"Beauton, James Alan",MUS 95L,WI18,28,14,1.0,1.0,2.19,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,WI18,30,8,1.0,1.0,1.64,4.0,3.88,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,WI18,55,11,0.909,0.9,5.77,3.91,3.88,True,False,False,False,False
+"Burr, Anthony I",MUS 101A,FA17,34,19,0.882,1.0,6.06,3.12,3.39,True,False,False,False,True
+"Terrazas Perez, Wilfrido D",MUS 113,FA17,43,17,0.941,0.882,1.91,3.93,3.95,True,False,False,False,True
+"Curtis, Charles Rector",MUS 114,FA17,139,53,0.7759999999999999,0.978,3.4,3.63,3.46,True,False,False,False,True
+"Oram, Celeste Alice",MUS 120A,FA17,24,12,0.818,0.909,6.9,3.2,3.36,True,False,False,False,True
+"Chodos, Asher Tobin",MUS 126,FA17,101,78,0.9079999999999999,0.9329999999999999,3.64,3.57,3.49,True,False,False,False,True
+"Jackson, Yvette Janine",MUS 13,FA17,134,69,0.627,0.723,3.76,3.31,3.56,True,False,False,False,False
+"Ohnishi, Takae",MUS 130,FA17,28,8,1.0,0.833,2.5,4.0,4.0,True,False,False,False,True
+"Kenyatta, Kamau",MUS 137A,FA17,21,9,1.0,1.0,3.83,3.78,3.94,True,False,False,False,True
+"Hankins, Sarah E.",MUS 15,FA17,195,147,0.884,0.938,2.4,3.82,3.7,True,False,False,False,False
+"Babin, Thomas Andrew",MUS 16,FA17,266,115,0.9640000000000001,0.982,2.57,3.74,3.34,True,False,False,False,False
+"Hochman, Joshua David",MUS 17,FA17,373,133,0.9359999999999999,0.903,3.06,3.65,3.36,True,False,False,False,False
+"Smyth, Tamara R.",MUS 170,FA17,79,60,0.627,0.655,4.4,3.12,2.88,True,False,False,False,True
+"Dubnov, Shlomo",MUS 173,FA17,26,13,1.0,0.769,4.35,3.91,3.3,True,False,False,False,True
+"Erbe, Tom",MUS 174A,FA17,28,11,1.0,1.0,2.7,3.9,3.79,True,False,False,False,True
+"Digney, Fiona Ruth",MUS 1A,FA17,137,65,0.903,0.8170000000000001,2.85,3.77,3.78,True,False,False,False,False
+"Moellenberg, Todd Michael",MUS 1A,FA17,143,54,0.98,1.0,2.79,3.79,3.55,True,False,False,False,False
+"Richards, Stephanie F",MUS 2A,FA17,25,21,0.9,0.9,3.4,3.63,3.82,True,False,False,False,False
+"Richards, Stephanie F",MUS 2A,FA17,33,26,1.0,1.0,2.02,3.52,3.82,True,False,False,False,False
+"Nestor, Ryan Douglas",MUS 4,FA17,288,132,0.938,1.0,2.77,3.78,3.59,True,False,False,False,False
+"Kenyatta, Kamau",MUS 8,FA17,139,68,0.821,0.925,2.53,3.6,3.29,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,FA17,29,15,1.0,1.0,0.9,4.0,3.94,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,FA17,31,12,1.0,1.0,3.23,3.88,3.94,True,False,False,False,False
+"Kline, Matthew John",MUS 95E,FA17,39,22,1.0,1.0,3.26,4.0,4.0,True,False,False,False,False
+"Beauton, James Alan",MUS 95L,FA17,28,12,1.0,1.0,1.77,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,FA17,56,17,1.0,0.938,1.21,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,FA17,31,10,1.0,0.9,3.1,3.8,4.0,True,False,False,False,False
+"Guy, Nancy",MUS 111,SP17,88,32,0.742,0.742,4.24,3.39,3.44,True,False,False,False,True
+"Curtis, Charles Rector",MUS 113,SP17,35,11,1.0,1.0,4.86,3.89,3.64,True,False,False,False,True
+"Charney, Joshua Jamsheed",MUS 127,SP17,115,66,0.9690000000000001,0.985,2.98,3.74,3.44,True,False,False,False,True
+"Ohnishi, Takae",MUS 130,SP17,31,13,1.0,1.0,2.5,4.0,4.0,True,False,False,False,True
+"Lander, Bonnie Elizabeth",MUS 15,SP17,268,99,0.968,0.9890000000000001,3.41,3.78,3.61,True,False,False,False,False
+"Cantrell, Joe Leo",MUS 15,SP17,152,44,0.7859999999999999,0.833,3.87,3.48,3.32,True,False,False,False,False
+"Kini, Ashvin Rathnanand",MUS 153,SP17,22,7,0.833,1.0,3.7,3.33,2.86,True,False,False,False,True
+"Burr, Anthony I",MUS 17,SP17,369,125,0.872,0.897,3.3,3.55,3.31,True,False,False,False,False
+"Erbe, Tom",MUS 172,SP17,28,10,0.889,0.889,5.83,3.5,3.53,True,False,False,False,True
+"Dubnov, Shlomo",MUS 173,SP17,24,8,1.0,1.0,4.75,3.88,3.84,True,False,False,False,True
+"Erbe, Tom",MUS 174C,SP17,22,7,1.0,1.0,3.64,3.86,3.84,True,False,False,False,True
+"Smyth, Tamara R.",MUS 175,SP17,24,12,0.909,0.727,3.41,3.1,3.06,True,False,False,False,True
+"Moellenberg, Todd Michael",MUS 1C,SP17,64,21,1.0,1.0,4.61,3.73,3.55,True,False,False,False,False
+"Nestor, Ryan Douglas",MUS 4,SP17,196,78,0.948,0.948,2.72,3.82,3.55,True,False,False,False,False
+"Miller, Caroline Louise",MUS 6,SP17,113,43,0.732,0.78,2.85,3.37,2.89,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,SP17,30,7,1.0,1.0,1.07,4.0,3.9,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,SP17,31,12,1.0,1.0,0.9,3.92,3.9,True,False,False,False,False
+"Kline, Matthew John",MUS 95E,SP17,34,19,1.0,0.9470000000000001,2.72,4.0,4.0,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95K,SP17,22,12,1.0,1.0,0.86,4.0,4.0,True,False,False,False,False
+"Blair, Kyle Adam",MUS 95L,SP17,27,8,1.0,1.0,2.25,3.8,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,SP17,57,10,0.889,0.778,1.75,4.0,3.59,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,SP17,31,6,1.0,1.0,2.5,3.8,3.59,True,False,False,False,False
+"Johnson, Kyle",MUS 11,WI17,89,47,1.0,0.953,2.21,3.81,3.93,True,False,False,False,False
+"Narucki, Susan M",MUS 113,WI17,22,11,0.9,0.9,4.7,3.86,3.54,True,False,False,False,True
+"Curtis, Charles Rector",MUS 114,WI17,136,54,0.9,1.0,3.67,3.85,3.52,True,False,False,False,True
+"Guy, Nancy",MUS 12,WI17,129,65,0.953,0.938,3.48,3.85,3.83,True,False,False,False,False
+"Davis, Anthony Curtis",MUS 127A,WI17,44,13,0.75,0.75,3.5,3.25,3.05,True,False,False,False,True
+"Ohnishi, Takae",MUS 130,WI17,33,14,1.0,0.9229999999999999,5.12,4.0,4.0,True,False,False,False,True
+"Aoki Navarro, Fernanda",MUS 14,WI17,88,31,0.7859999999999999,0.821,3.43,3.59,3.31,True,False,False,False,False
+"Hankins, Sarah E.",MUS 15,WI17,185,91,0.907,0.895,2.74,3.61,3.68,True,False,False,False,False
+"Dunscombe, Samuel Ekkehardt",MUS 15,WI17,143,52,0.922,0.98,2.96,3.51,3.48,True,False,False,False,False
+"Puckette, Miller S.",MUS 171,WI17,86,26,0.75,0.875,5.92,3.43,3.36,True,False,False,False,True
+"Diels, Natacha D.",MUS 173,WI17,29,13,0.833,0.667,4.32,3.9,3.99,True,False,False,False,True
+"Erbe, Tom",MUS 174B,WI17,28,14,1.0,1.0,6.33,3.92,3.82,True,False,False,False,True
+"Moellenberg, Todd Michael",MUS 1B,WI17,98,44,0.927,0.927,3.48,3.79,3.57,True,False,False,False,False
+"Carlson, Erik Norman",MUS 2B,WI17,25,10,0.889,1.0,1.39,4.0,3.61,True,False,False,False,False
+"Nestor, Ryan Douglas",MUS 4,WI17,133,58,0.927,0.909,2.8,3.79,3.71,True,False,False,False,False
+"Thorpe, Suzanne",MUS 5,WI17,132,52,0.755,0.735,2.54,3.48,3.35,True,False,False,False,False
+"Kline, Matthew John",MUS 95E,WI17,28,12,1.0,1.0,3.77,4.0,4.0,True,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,WI17,20,9,1.0,1.0,2.0,4.0,4.0,True,False,False,False,False
+"Blair, Kyle Adam",MUS 95L,WI17,39,23,1.0,0.955,2.02,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,WI17,34,10,0.889,0.889,4.5,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,WI17,46,16,1.0,1.0,2.19,4.0,4.0,True,False,False,False,False
+"Nestor, Ryan Douglas",MUS 114,FA16,126,50,0.917,0.938,2.8,3.87,3.71,True,False,False,False,True
+"Charney, Joshua Jamsheed",MUS 126,FA16,111,85,0.9179999999999999,0.8590000000000001,3.22,3.52,3.54,True,False,False,False,True
+"Jackson, Yvette Janine",MUS 13,FA16,131,122,0.738,0.836,3.37,3.57,3.51,True,False,False,False,False
+"Ohnishi, Takae",MUS 130,FA16,29,15,1.0,1.0,2.35,4.0,4.0,True,False,False,False,True
+"Hochman, Joshua David",MUS 15,FA16,171,76,0.887,0.93,3.26,3.71,3.64,True,False,False,False,False
+"Babin, Thomas Andrew",MUS 15,FA16,128,56,0.8490000000000001,0.9059999999999999,2.93,3.91,3.71,True,False,False,False,False
+"Cantrell, Joe Leo",MUS 16,FA16,230,98,0.9259999999999999,0.9259999999999999,3.63,3.69,3.15,True,False,False,False,False
+"Smyth, Tamara R.",MUS 170,FA16,92,79,0.747,0.696,4.4,3.05,2.73,True,False,False,False,True
+"Erbe, Tom",MUS 174A,FA16,30,15,1.0,1.0,4.1,3.86,3.86,True,False,False,False,True
+"Moellenberg, Todd Michael",MUS 1A,FA16,141,62,0.9670000000000001,0.9179999999999999,2.83,3.8,3.56,True,False,False,False,False
+"Lander, Bonnie Elizabeth",MUS 1A,FA16,135,60,0.898,0.9490000000000001,3.67,3.78,3.61,True,False,False,False,False
+"Carlson, Erik Norman",MUS 2A,FA16,20,9,1.0,1.0,1.61,3.78,3.63,True,False,False,False,False
+"Carlson, Erik Norman",MUS 2A,FA16,29,11,0.818,1.0,2.14,3.73,3.63,True,False,False,False,False
+"Lee, Siu Hei",MUS 4,FA16,181,133,0.82,0.8270000000000001,2.65,3.6,3.52,True,False,False,False,False
+"Kenyatta, Kamau",MUS 8,FA16,138,77,0.96,0.987,2.66,3.83,3.52,True,False,False,False,False
+"Schick, Steven",MUS 9,FA16,138,68,0.938,0.9690000000000001,2.6,3.87,3.88,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,FA16,52,22,1.0,1.0,1.59,4.0,3.93,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,FA16,33,7,0.857,0.857,2.5,4.0,3.93,True,False,False,False,False
+"Blair, Kyle Adam",MUS 95L,FA16,39,20,1.0,1.0,1.5,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,FA16,53,9,0.875,0.875,1.83,4.0,3.77,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,FA16,33,9,1.0,0.875,1.83,4.0,3.77,True,False,False,False,False
+"Curtis, Charles Rector",MUS 114,SP16,114,43,0.953,0.907,3.4,3.93,3.82,True,False,False,False,True
+"Borgo, David Garcia",MUS 127B,SP16,83,57,0.895,0.93,3.12,3.68,3.51,True,False,False,False,True
+"Ohnishi, Takae",MUS 130,SP16,30,9,1.0,0.889,2.28,4.0,4.0,True,False,False,False,True
+"Guy, Nancy",MUS 13AS,SP16,133,41,0.861,0.889,2.09,3.88,3.58,True,False,False,False,False
+"Lander, Bonnie Elizabeth",MUS 15,SP16,221,78,0.945,0.945,3.51,3.67,3.51,True,False,False,False,False
+"Dunscombe, Samuel Ekkehardt",MUS 15,SP16,144,51,0.9179999999999999,0.9390000000000001,2.63,3.63,3.36,True,False,False,False,False
+"Burr, Anthony I",MUS 17,SP16,369,126,0.951,0.9670000000000001,3.01,3.61,3.31,True,False,False,False,False
+"Erbe, Tom",MUS 172,SP16,23,11,0.818,0.909,5.1,3.6,3.42,True,False,False,False,True
+"Smyth, Tamara R.",MUS 175,SP16,22,14,0.7859999999999999,0.857,2.96,3.69,3.81,True,False,False,False,True
+"Rowan, Kyle Edward",MUS 1C,SP16,26,14,0.857,1.0,4.93,4.0,3.5,True,False,False,False,False
+"Nestor, Ryan Douglas",MUS 4,SP16,190,85,0.873,0.9490000000000001,2.6,3.83,3.62,True,False,False,False,False
+"Puckette, Miller S.",MUS 6,SP16,101,34,0.5589999999999999,0.618,2.85,3.54,3.22,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,SP16,27,7,1.0,1.0,1.17,4.0,3.95,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,SP16,34,8,1.0,1.0,0.5,4.0,3.95,True,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,SP16,26,7,1.0,1.0,2.83,4.0,4.0,True,False,False,False,False
+"Gilmer, William",MUS 95L,SP16,46,23,1.0,1.0,1.14,4.0,3.9,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,SP16,56,9,0.875,0.875,1.5,3.88,3.88,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,SP16,36,12,1.0,1.0,2.5,4.0,3.88,True,False,False,False,False
+"Curtis, Charles Rector",MUS 113,WI16,32,12,1.0,1.0,3.41,3.8,3.49,True,False,False,False,True
+"Charney, Joshua Jamsheed",MUS 114,WI16,94,67,0.851,0.955,3.66,3.48,3.23,True,False,False,False,True
+"Guy, Nancy",MUS 12,WI16,66,28,0.9259999999999999,0.9259999999999999,2.57,3.96,3.74,True,False,False,False,False
+"Richards, Stephanie F",MUS 127A,WI16,66,64,0.857,0.873,3.2,3.55,3.7,True,False,False,False,True
+"Ohnishi, Takae",MUS 130,WI16,34,17,1.0,0.9329999999999999,2.5,4.0,4.0,True,False,False,False,True
+"Davis, Clinton Ross",MUS 13AM,WI16,30,14,1.0,1.0,2.36,3.55,3.42,True,False,False,False,False
+"Schick, Steven",MUS 14,WI16,91,45,0.909,1.0,2.86,3.82,3.78,True,False,False,False,False
+"Hochman, Joshua David",MUS 15,WI16,256,122,0.9309999999999999,0.9740000000000001,2.64,3.87,3.62,True,False,False,False,False
+"Nussman, Jonathan Banks",MUS 15,WI16,65,34,0.813,0.875,2.56,3.84,3.31,True,False,False,False,False
+"Puckette, Miller S.",MUS 171,WI16,49,24,0.7390000000000001,0.7829999999999999,6.5,3.32,3.12,True,False,False,False,True
+"Diels, Natacha D.",MUS 173,WI16,28,9,0.889,0.889,4.5,3.86,4.0,True,False,False,False,True
+"Rowan, Kyle Edward",MUS 1B,WI16,46,25,0.92,1.0,4.42,4.0,3.63,True,False,False,False,False
+"Thorpe, Suzanne",MUS 5,WI16,117,52,0.5920000000000001,0.6940000000000001,2.46,3.51,3.42,True,False,False,False,False
+"Nestor, Ryan Douglas",MUS 9,WI16,137,66,0.953,0.938,2.98,3.88,3.77,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,WI16,29,10,1.0,1.0,2.06,3.9,3.95,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,WI16,25,6,1.0,1.0,2.5,4.0,3.95,True,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,WI16,22,10,1.0,1.0,3.3,4.0,4.0,True,False,False,False,False
+"Gilmer, William",MUS 95L,WI16,33,15,1.0,1.0,3.03,4.0,3.97,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,WI16,81,18,1.0,0.813,1.88,4.0,3.92,True,False,False,False,False
+"Johnson, Kyle",MUS 11,FA15,85,44,0.976,0.976,3.63,3.53,3.78,True,False,False,False,False
+"Kuester, Nicolee S",MUS 115,FA15,50,21,0.857,0.9520000000000001,3.17,3.8,3.62,True,False,False,False,True
+"Weinstein, Joshua Irving",MUS 126,FA15,103,83,0.975,0.963,3.53,3.75,3.43,True,False,False,False,True
+"Ohnishi, Takae",MUS 130,FA15,30,7,1.0,1.0,1.64,4.0,4.0,True,False,False,False,True
+"Kenyatta, Kamau",MUS 137A,FA15,20,5,1.0,1.0,1.7,4.0,4.0,True,False,False,False,True
+"Jackson, Yvette Janine",MUS 13AF,FA15,36,15,0.857,0.929,3.36,3.5,3.5,True,False,False,False,False
+"Babin, Thomas Andrew",MUS 15,FA15,361,149,0.9229999999999999,0.937,3.31,3.65,3.55,True,False,False,False,False
+"Cantrell, Joe Leo",MUS 15,FA15,250,113,0.883,0.9640000000000001,3.93,3.62,3.3,True,False,False,False,False
+"Smyth, Tamara R.",MUS 170,FA15,95,81,0.7040000000000001,0.691,4.38,3.08,2.98,True,False,False,False,True
+"Erbe, Tom",MUS 174A,FA15,28,12,0.909,1.0,4.1,3.8,3.89,True,False,False,False,True
+"Rowan, Kyle Edward",MUS 1A,FA15,145,62,0.966,0.966,4.11,3.85,3.78,True,False,False,False,False
+"Karis, Aleck",MUS 2A,FA15,20,9,1.0,0.667,6.5,3.6,3.69,True,False,False,False,False
+"Nestor, Ryan Douglas",MUS 4,FA15,183,76,0.792,0.833,3.14,3.66,3.69,True,False,False,False,False
+"Kenyatta, Kamau",MUS 8,FA15,132,45,0.953,0.953,2.08,3.74,3.49,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,FA15,30,9,1.0,1.0,3.75,4.0,3.96,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,FA15,29,5,1.0,1.0,1.7,4.0,3.96,True,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,FA15,21,11,1.0,1.0,2.28,3.88,4.0,True,False,False,False,False
+"Gilmer, William",MUS 95L,FA15,27,13,1.0,1.0,2.0,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,FA15,90,19,0.895,0.9470000000000001,2.94,4.0,3.86,True,False,False,False,False
+"Donahue, Dustin Wayne",MUS 114,SP15,135,54,0.843,0.863,3.54,3.67,3.72,True,False,False,False,True
+"Guy, Nancy",MUS 12,SP15,44,20,1.0,0.9470000000000001,2.18,3.81,3.5,True,False,False,False,False
+"Borgo, David Garcia",MUS 127B,SP15,85,55,0.873,0.927,4.01,3.63,3.19,True,False,False,False,True
+"Ohnishi, Takae",MUS 130,SP15,31,10,1.0,1.0,5.17,4.0,4.0,True,False,False,False,True
+"Jung, Eun-Young",MUS 13AS,SP15,89,68,0.8959999999999999,0.8959999999999999,3.65,3.64,3.05,True,False,False,False,False
+"Burr, Anthony I",MUS 15,SP15,344,109,0.846,0.904,3.08,3.62,3.09,True,False,False,False,False
+"Pierzak, Robert Janusz",MUS 15,SP15,78,33,1.0,0.9690000000000001,4.0,3.63,3.78,True,False,False,False,False
+"Davis, Anthony Curtis",MUS 150,SP15,24,12,1.0,1.0,3.23,4.0,3.83,True,False,False,False,True
+"Mendes, Gabriel",MUS 152,SP15,28,8,1.0,0.5710000000000001,5.07,3.75,3.83,True,False,False,False,True
+"Erbe, Tom",MUS 172,SP15,22,7,0.857,0.857,5.93,3.29,3.3,True,False,False,False,True
+"Welsh, Ryan P",MUS 4,SP15,185,68,0.585,0.723,3.22,3.43,3.38,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,SP15,60,17,1.0,1.0,2.15,4.0,3.98,True,False,False,False,False
+"Hepfer, Jonathan D",MUS 95E,SP15,24,11,1.0,1.0,2.7,4.0,4.0,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95K,SP15,24,14,1.0,1.0,0.93,4.0,4.0,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L,SP15,28,8,1.0,1.0,1.25,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,SP15,80,17,0.938,0.938,2.1,4.0,3.97,True,False,False,False,False
+"Guy, Nancy",MUS 111,WI15,86,40,0.895,0.816,3.28,3.76,3.33,True,False,False,False,True
+"Richards, Stephanie F",MUS 127A,WI15,60,25,0.682,0.636,2.86,3.5,2.89,True,False,False,False,True
+"Ohnishi, Takae",MUS 130,WI15,29,9,1.0,0.889,2.28,4.0,4.0,True,False,False,False,True
+"Davis, Clinton Ross",MUS 13AM,WI15,53,25,0.87,0.87,3.68,3.32,3.16,True,False,False,False,False
+"Donahue, Dustin Wayne",MUS 14,WI15,81,36,0.917,0.972,3.33,3.78,3.51,True,False,False,False,False
+"Hembree, Paul James",MUS 15,WI15,211,82,0.875,0.85,2.37,3.71,3.35,True,False,False,False,False
+"Narucki, Susan M",MUS 15,WI15,148,121,0.892,0.925,2.64,3.65,3.52,True,False,False,False,False
+"Puckette, Miller S.",MUS 171,WI15,40,14,0.9229999999999999,0.9229999999999999,5.67,3.25,2.82,True,False,False,False,True
+"Dubnov, Shlomo",MUS 173,WI15,20,14,1.0,0.929,4.96,3.62,3.35,True,False,False,False,True
+"Erbe, Tom",MUS 174B,WI15,21,7,1.0,1.0,6.5,4.0,3.97,True,False,False,False,True
+"Rowan, Kyle Edward",MUS 1B,WI15,35,23,0.8640000000000001,0.955,5.93,3.44,3.49,True,False,False,False,False
+"Thorpe, Suzanne",MUS 5,WI15,129,58,0.655,0.672,3.24,3.74,3.42,True,False,False,False,False
+"Zelickman, Robert A",MUS 9,WI15,126,55,0.9,0.92,2.5,3.74,3.69,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,WI15,61,24,1.0,1.0,2.07,4.0,4.0,True,False,False,False,False
+"Hepfer, Jonathan D",MUS 95E,WI15,22,11,1.0,1.0,3.1,4.0,4.0,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L,WI15,42,22,1.0,1.0,1.24,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,WI15,74,20,0.9470000000000001,0.895,2.26,3.81,3.98,True,False,False,False,False
+"Johnson, Kyle",MUS 11,FA14,121,67,0.758,0.903,3.25,3.7,3.67,True,False,False,False,False
+"Schick, Steven",MUS 113,FA14,60,21,0.762,0.857,3.55,3.82,3.37,True,False,False,False,True
+"Stevens, Jane",MUS 120A,FA14,22,3,0.667,0.667,8.5,3.33,2.8,True,False,False,False,True
+"Weinstein, Joshua Irving",MUS 126,FA14,92,67,0.955,0.985,3.72,3.65,3.31,True,False,False,False,True
+"Pierzak, Robert Janusz",MUS 15,FA14,345,148,0.633,0.532,4.88,3.19,3.5,True,False,False,False,False
+"Welsh, Meghann Elise",MUS 15,FA14,275,137,0.879,0.8859999999999999,3.43,3.86,3.63,True,False,False,False,False
+"Fuste, Jose Ignacio",MUS 151,FA14,20,7,1.0,1.0,3.17,3.6,3.41,True,False,False,False,True
+"Mariglio, Joseph Anthony",MUS 170,FA14,71,26,0.727,0.727,5.17,3.73,3.21,True,False,False,False,True
+"Erbe, Tom",MUS 174A,FA14,21,6,1.0,1.0,5.7,4.0,3.64,True,False,False,False,True
+"Rowan, Kyle Edward",MUS 1A,FA14,140,53,0.9359999999999999,0.9359999999999999,3.88,3.88,3.85,True,False,False,False,False
+"Lewis, Stephen E",MUS 2A,FA14,21,6,1.0,1.0,4.9,3.67,3.21,True,False,False,False,False
+"Donahue, Dustin Wayne",MUS 4,FA14,185,73,0.754,0.846,3.6,3.54,3.23,True,False,False,False,False
+"Puckette, Miller S.",MUS 6,FA14,94,32,0.6559999999999999,0.7809999999999999,2.94,3.62,3.26,True,False,False,False,False
+"Kenyatta, Kamau",MUS 8,FA14,129,60,0.909,0.9640000000000001,2.31,3.84,3.44,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,FA14,66,17,1.0,1.0,2.37,4.0,3.98,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L,FA14,39,13,1.0,1.0,1.12,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,FA14,69,13,1.0,0.917,3.0,4.0,3.86,True,False,False,False,False
+"Lewis, Stephen E",MUS 114,SP14,110,47,0.727,0.614,3.59,3.56,3.08,True,False,False,False,True
+"Blecharz, Wojciech A",MUS 12,SP14,63,19,1.0,1.0,4.03,3.73,3.02,True,False,False,False,False
+"Borgo, David Garcia",MUS 127B,SP14,99,77,0.84,0.88,4.34,3.64,3.41,True,False,False,False,True
+"Ohnishi, Takae",MUS 130,SP14,37,9,1.0,1.0,2.75,4.0,4.0,True,False,False,False,True
+"Chen, Carolyn",MUS 13AS,SP14,175,123,0.7559999999999999,0.602,3.21,3.43,3.47,True,False,False,False,False
+"Burr, Anthony I",MUS 15,SP14,353,103,0.861,0.9009999999999999,3.73,3.49,3.09,True,False,False,False,False
+"Beteta, Francisco Xavier",MUS 15,SP14,118,52,0.922,0.961,2.46,3.76,3.38,True,False,False,False,False
+"Erbe, Tom",MUS 172,SP14,21,7,1.0,1.0,7.93,3.86,2.97,True,False,False,False,True
+"Teyssier, Alice",MUS 1C,SP14,38,14,0.9229999999999999,1.0,2.96,4.0,3.74,True,False,False,False,False
+"Gomez Cano, Pablo Jose",MUS 4,SP14,193,77,0.616,0.493,3.08,3.43,3.23,True,False,False,False,False
+"Warren, Christopher D",MUS 7,SP14,88,31,0.828,0.897,2.19,3.77,3.64,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,SP14,61,14,1.0,1.0,0.93,4.0,4.0,True,False,False,False,False
+"Medine, David E",MUS 95E,SP14,24,9,1.0,0.889,4.72,4.0,4.0,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L,SP14,29,13,1.0,1.0,3.0,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,SP14,96,23,0.955,0.909,2.39,3.95,3.73,True,False,False,False,False
+"Guy, Nancy",MUS 111,WI14,88,31,0.862,0.897,3.05,3.82,3.56,True,False,False,False,True
+"Pasler, Jann Corinne",MUS 113,WI14,21,11,0.7,0.8,3.7,3.56,3.38,True,False,False,False,True
+"Weinstein, Joshua Irving",MUS 127A,WI14,108,81,0.938,0.938,3.4,3.49,3.38,True,False,False,False,True
+"Ohnishi, Takae",MUS 130,WI14,26,11,1.0,1.0,4.1,4.0,4.0,True,False,False,False,True
+"DuMouchelle, Tiffany Anne",MUS 13AF,WI14,129,67,0.8,0.708,3.18,3.65,3.58,True,False,False,False,False
+"Rowan, Kyle Edward",MUS 14,WI14,57,21,0.85,0.9,3.76,3.8,3.29,True,False,False,False,False
+"Allen, Andrew Stewart",MUS 15,WI14,189,96,0.978,0.978,2.77,3.86,3.66,True,False,False,False,False
+"Pierzak, Robert Janusz",MUS 15,WI14,282,104,0.95,0.84,2.98,3.53,3.43,True,False,False,False,False
+"Smyth, Tamara R.",MUS 171,WI14,28,8,0.375,0.625,6.0,2.5,3.31,True,False,False,False,True
+"Erbe, Tom",MUS 174B,WI14,22,10,1.0,1.0,6.9,3.89,3.85,True,False,False,False,True
+"Teyssier, Alice",MUS 1B,WI14,39,16,1.0,1.0,3.27,3.67,3.75,True,False,False,False,False
+"Bowden, Sean Leah",MUS 5,WI14,109,48,0.7440000000000001,0.7909999999999999,2.45,3.7,3.7,True,False,False,False,False
+"Kenyatta, Kamau",MUS 8,WI14,138,54,0.98,0.96,2.75,3.82,3.56,True,False,False,False,False
+"Schick, Steven",MUS 9,WI14,128,63,0.934,0.951,2.47,3.89,3.79,True,False,False,False,False
+"Medine, David E",MUS 95E,WI14,25,11,1.0,1.0,3.9,4.0,4.0,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L,WI14,28,16,1.0,1.0,1.12,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,WI14,67,16,0.938,0.938,1.3,4.0,3.84,True,False,False,False,False
+"Zelickman, Robert A",MUS 11,FA13,124,62,0.852,0.885,2.47,3.82,3.34,True,False,False,False,False
+"Jung, Eun-Young",MUS 116,FA13,22,21,1.0,0.9520000000000001,5.17,3.78,3.52,True,False,False,False,True
+"Stevens, Jane",MUS 120A,FA13,20,8,1.0,0.667,6.83,3.2,2.99,True,False,False,False,True
+"Weinstein, Joshua Irving",MUS 126,FA13,148,118,0.983,0.983,3.64,3.75,3.53,True,False,False,False,True
+"Tinkle, Adam Gregory",MUS 13AM,FA13,164,88,0.86,0.884,3.32,3.51,3.43,True,False,False,False,False
+"Jung, Eun-Young",MUS 15,FA13,371,318,0.797,0.8029999999999999,3.58,3.5,3.43,True,False,False,False,False
+"Leytham, Leslie Ann",MUS 15,FA13,282,136,0.9470000000000001,0.977,3.07,3.71,3.41,True,False,False,False,False
+"Puckette, Miller S.",MUS 170,FA13,56,19,0.833,0.556,4.28,3.39,3.14,True,False,False,False,True
+"Erbe, Tom",MUS 174A,FA13,26,10,1.0,1.0,5.39,3.89,3.9,True,False,False,False,True
+"Teyssier, Alice",MUS 1A,FA13,151,62,0.9,0.95,3.23,3.79,3.7,True,False,False,False,False
+"Gomez Cano, Pablo Jose",MUS 4,FA13,185,68,0.8059999999999999,0.716,3.02,3.65,3.31,True,False,False,False,False
+"Gao, Mingfei Mike",MUS 6,FA13,98,33,0.8059999999999999,0.387,2.37,3.72,3.14,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,FA13,58,20,1.0,1.0,1.34,3.89,4.0,True,False,False,False,False
+"Medine, David E",MUS 95E,FA13,26,12,1.0,1.0,2.5,4.0,4.0,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L,FA13,35,14,1.0,1.0,2.35,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,FA13,71,17,1.0,0.941,2.26,4.0,3.77,True,False,False,False,False
+"Zelickman, Robert A",MUS 11,SP13,201,62,0.867,0.9,3.14,3.69,3.52,True,False,False,False,False
+"Power, Benjamin",MUS 110,SP13,20,4,1.0,1.0,4.5,3.67,3.67,True,False,False,False,True
+"Curtis, Charles Rector",MUS 114,SP13,149,52,0.885,0.904,2.66,3.83,3.76,True,False,False,False,True
+"Jung, Eun-Young",MUS 116,SP13,23,21,0.9520000000000001,0.9520000000000001,5.17,3.89,3.89,True,False,False,False,True
+"Williams, James G",MUS 127B,SP13,94,51,0.5,0.46,2.78,3.54,3.21,True,False,False,False,True
+"Weinstein, Joshua Irving",MUS 15,SP13,367,253,0.98,0.9840000000000001,3.18,3.79,3.47,True,False,False,False,False
+"Johnson, Kyle",MUS 15,SP13,78,36,0.914,0.943,3.19,3.88,3.63,True,False,False,False,False
+"Erbe, Tom",MUS 172,SP13,24,12,0.909,0.909,6.5,3.45,3.32,True,False,False,False,True
+"Teyssier, Alice",MUS 1C,SP13,31,16,0.857,0.857,4.07,3.56,3.65,True,False,False,False,False
+"Gomez Cano, Pablo Jose",MUS 4,SP13,200,68,0.809,0.721,2.69,3.67,3.36,True,False,False,False,False
+"Kenyatta, Kamau",MUS 8,SP13,187,62,0.9520000000000001,0.9520000000000001,2.57,3.88,3.63,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,SP13,59,25,1.0,1.0,1.14,4.0,3.97,True,False,False,False,False
+"Medine, David E",MUS 95E,SP13,34,13,0.846,0.846,3.27,4.0,4.0,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L,SP13,48,19,1.0,1.0,1.68,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,SP13,89,18,0.889,0.9440000000000001,1.94,4.0,3.93,True,False,False,False,False
+"Karis, Aleck",MUS 101B,WI13,22,4,1.0,1.0,3.17,3.67,3.45,True,False,False,False,True
+"Pasler, Jann Corinne",MUS 115,WI13,65,25,0.72,0.56,3.08,3.76,3.58,True,False,False,False,True
+"Blecharz, Wojciech A",MUS 120B,WI13,20,10,0.667,0.889,6.28,3.56,2.62,True,False,False,False,True
+"Borgo, David Garcia",MUS 127A,WI13,148,91,0.846,0.89,3.16,3.43,3.43,True,False,False,False,True
+"Negyesy, Janos",MUS 130,WI13,22,12,1.0,1.0,2.86,4.0,4.0,True,False,False,False,True
+"Negyesy, Janos",MUS 133,WI13,26,5,1.0,1.0,2.9,4.0,4.0,True,False,False,False,True
+"Kenyatta, Kamau",MUS 137B,WI13,21,7,1.0,1.0,3.93,4.0,3.8,True,False,False,False,True
+"Kaiser, Jeffrey G",MUS 13AF,WI13,171,76,0.8,0.867,3.65,3.75,3.56,True,False,False,False,False
+"Griffeath-Loeb, Brian",MUS 14,WI13,128,57,0.564,0.5820000000000001,4.28,3.32,3.15,True,False,False,False,False
+"Narucki, Susan M",MUS 15,WI13,218,131,0.893,0.9470000000000001,3.18,3.68,3.45,True,False,False,False,False
+"Puckette, Miller S.",MUS 171,WI13,39,20,1.0,0.9470000000000001,6.39,3.67,3.56,True,False,False,False,True
+"Warren, Christopher D",MUS 173,WI13,25,14,0.9229999999999999,0.9229999999999999,6.19,3.92,3.96,True,False,False,False,True
+"Erbe, Tom",MUS 174B,WI13,27,12,0.917,0.917,8.17,4.0,3.76,True,False,False,False,True
+"Teyssier, Alice",MUS 1B,WI13,47,26,0.846,0.9229999999999999,3.94,3.63,3.63,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,WI13,61,23,0.9570000000000001,1.0,1.11,4.0,4.0,True,False,False,False,False
+"Medine, David E",MUS 95E,WI13,28,13,0.917,0.917,2.5,4.0,4.0,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L,WI13,39,19,1.0,1.0,2.28,3.93,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,WI13,88,31,1.0,1.0,1.37,4.0,3.87,True,False,False,False,False
+"Burr, Anthony I",MUS 101A,FA12,22,10,0.9,1.0,6.1,3.2,3.0,True,False,False,False,True
+"Ung, Chinary",MUS 111,FA12,111,39,0.579,0.42100000000000004,3.56,3.19,3.19,True,False,False,False,True
+"Stevens, Jane",MUS 120A,FA12,20,9,0.5,0.375,6.0,3.25,3.32,True,False,False,False,True
+"Kaiser, Jeffrey G",MUS 126,FA12,157,72,0.972,0.986,3.49,3.76,3.38,True,False,False,False,True
+"Negyesy, Janos",MUS 130,FA12,32,13,1.0,0.9229999999999999,2.81,4.0,4.0,True,False,False,False,True
+"Kenyatta, Kamau",MUS 137A,FA12,22,9,1.0,1.0,2.28,4.0,4.0,True,False,False,False,True
+"Allen, Andrew Stewart",MUS 13AS,FA12,198,175,0.813,0.895,2.85,3.5,3.81,True,False,False,False,False
+"Weinstein, Joshua Irving",MUS 15,FA12,382,178,0.924,0.971,3.03,3.89,3.52,True,False,False,False,False
+"Tomasdottir, Berglind Maria",MUS 15,FA12,212,76,0.973,0.838,2.56,3.88,3.3,True,False,False,False,False
+"Smyth, Tamara R.",MUS 170,FA12,62,33,0.531,0.375,6.63,2.55,3.1,True,False,False,False,True
+"Erbe, Tom",MUS 174A,FA12,29,11,1.0,1.0,4.86,3.89,3.78,True,False,False,False,True
+"Teyssier, Alice",MUS 1A,FA12,147,51,0.9790000000000001,0.9790000000000001,2.71,3.84,3.56,True,False,False,False,False
+"Gomez Cano, Pablo Jose",MUS 4,FA12,195,79,0.7120000000000001,0.726,3.65,3.42,3.2,True,False,False,False,False
+"Gao, Mingfei Mike",MUS 6,FA12,98,33,0.818,0.727,1.83,3.75,3.23,True,False,False,False,False
+"Schick, Steven",MUS 9,FA12,147,67,0.9690000000000001,0.938,1.82,3.89,3.5,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C,FA12,56,22,1.0,1.0,0.68,4.0,3.96,True,False,False,False,False
+"Medine, David E",MUS 95E,FA12,25,10,1.0,0.9,2.5,4.0,4.0,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L,FA12,35,22,1.0,1.0,2.5,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W,FA12,85,22,1.0,1.0,1.63,4.0,3.88,True,False,False,False,False
+"Ung, Chinary",MUS 102C ,SP12,21,11,0.727,0.455,4.68,3.7,3.55,True,False,False,False,True
+"Power, Benjamin",MUS 111  ,SP12,155,65,0.938,0.9690000000000001,4.28,3.58,3.29,True,False,False,False,True
+"Rosenberger, Katharina",MUS 120C ,SP12,24,19,0.889,0.889,4.71,3.21,3.26,True,False,False,False,True
+"Davis, Anthony Curtis",MUS 127B ,SP12,126,41,0.585,0.5,4.21,3.38,3.51,True,False,False,False,True
+"Davis, Anthony Curtis",MUS 127B ,SP12,26,6,0.667,0.5,4.5,3.75,3.51,True,False,False,False,True
+"Negyesy, Janos",MUS 130  ,SP12,34,13,1.0,0.9229999999999999,4.04,4.0,4.0,True,False,False,False,True
+"Bigham, David Joseph",MUS 13AM,SP12,118,50,0.898,0.9790000000000001,4.1,3.47,3.43,True,False,False,False,False
+"Burr, Anthony I",MUS 15  ,SP12,357,103,0.871,0.9109999999999999,3.35,3.67,3.26,True,False,False,False,False
+"Deyoe, Nicholas O",MUS 15  ,SP12,211,85,0.9520000000000001,0.9520000000000001,2.9,3.83,3.56,True,False,False,False,False
+"Erbe, Tom",MUS 172  ,SP12,24,11,0.909,1.0,8.14,3.55,3.2,True,False,False,False,True
+"Warren, Christopher D",MUS 173  ,SP12,26,10,0.9,0.9,7.5,3.67,3.74,True,False,False,False,True
+"Turney, Kimberly A",MUS 1C ,SP12,43,11,0.818,1.0,3.41,3.75,3.41,True,False,False,False,False
+"Whiting Smith, Bonnie Anne",MUS 4  ,SP12,268,105,0.8540000000000001,0.883,2.86,3.54,3.24,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C ,SP12,60,16,1.0,1.0,1.75,4.0,4.0,True,False,False,False,False
+"Medine, David E",MUS 95E ,SP12,26,16,1.0,1.0,2.63,3.87,4.0,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95K ,SP12,25,15,1.0,1.0,2.9,3.93,3.99,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L ,SP12,40,23,1.0,1.0,1.8,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W ,SP12,82,20,1.0,0.9,3.2,4.0,3.91,True,False,False,False,False
+"Trevino, Jeffrey Robert",MUS 101B ,WI12,25,24,0.708,0.5,7.08,3.08,3.25,True,False,False,False,True
+"Hackbarth, Benjamin S.",MUS 102B ,WI12,24,13,0.846,0.9229999999999999,4.96,3.77,3.57,True,False,False,False,True
+"Whiting Smith, Bonnie Anne",MUS 114  ,WI12,129,68,0.6759999999999999,0.866,4.06,3.72,3.15,True,False,False,False,True
+"Pasler, Jann Corinne",MUS 115  ,WI12,64,29,0.857,0.929,2.64,3.88,3.57,True,False,False,False,True
+"Guy, Nancy",MUS 120B ,WI12,27,16,0.75,0.75,6.38,3.31,2.92,True,False,False,False,True
+"Power, Benjamin",MUS 127A ,WI12,155,63,0.935,0.758,2.92,3.68,3.35,True,False,False,False,True
+"Negyesy, Janos",MUS 130  ,WI12,32,17,1.0,0.875,3.03,4.0,4.0,True,False,False,False,True
+"Kaiser, Jeffrey G",MUS 13AF,WI12,105,51,0.96,0.98,2.82,3.78,3.53,True,False,False,False,False
+"Marquez, Tania L",MUS 14  ,WI12,145,64,0.8590000000000001,0.813,2.66,3.75,3.46,True,False,False,False,False
+"Narucki, Susan M",MUS 15  ,WI12,206,106,0.8759999999999999,0.904,3.81,3.67,3.63,True,False,False,False,False
+"Jung, Eun-Young",MUS 15  ,WI12,154,132,0.893,0.8540000000000001,3.13,3.76,3.46,True,False,False,False,False
+"Puckette, Miller S.",MUS 171  ,WI12,48,16,0.938,0.938,4.9,3.93,3.46,True,False,False,False,True
+"Dubnov, Shlomo",MUS 173  ,WI12,22,9,1.0,0.778,6.28,3.71,3.6,True,False,False,False,True
+"Erbe, Tom",MUS 174B ,WI12,27,7,1.0,0.857,6.21,4.0,3.54,True,False,False,False,True
+"Turney, Kimberly A",MUS 1B ,WI12,47,25,0.88,0.833,3.46,3.55,3.57,True,False,False,False,False
+"Solook, Stephen James",MUS 2B ,WI12,23,13,0.769,0.5379999999999999,4.35,3.23,2.89,True,False,False,False,False
+"Dresser, Mark Stuart",MUS 5  ,WI12,142,52,0.745,0.82,2.88,3.77,3.83,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C ,WI12,54,18,1.0,1.0,2.28,4.0,3.98,True,False,False,False,False
+"Medine, David E",MUS 95E ,WI12,24,15,0.9329999999999999,0.867,2.5,3.9,4.0,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95K ,WI12,20,15,1.0,1.0,1.3,4.0,3.98,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L ,WI12,32,20,1.0,1.0,2.4,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W ,WI12,91,24,1.0,1.0,1.5,3.95,3.9,True,False,False,False,False
+"Burr, Anthony I",MUS 101A ,FA11,31,16,0.9329999999999999,1.0,4.88,3.38,3.13,True,False,False,False,True
+"Fonville, John Winston",MUS 102A ,FA11,26,15,0.733,0.667,5.17,3.29,3.18,True,False,False,False,True
+"Stevens, Jane",MUS 112  ,FA11,33,15,0.4,0.33299999999999996,5.03,3.33,3.23,True,False,False,False,True
+"Piper, Jonathan Nicholas",MUS 120A ,FA11,31,20,0.85,1.0,5.5,3.44,2.91,True,False,False,False,True
+"Kaiser, Jeffrey G",MUS 126  ,FA11,33,14,1.0,1.0,2.93,3.83,3.61,True,False,False,False,True
+"Kaiser, Jeffrey G",MUS 126  ,FA11,148,87,0.988,0.965,3.36,3.78,3.61,True,False,False,False,True
+"Negyesy, Janos",MUS 130  ,FA11,35,16,0.938,0.938,4.37,4.0,3.97,True,False,False,False,True
+"Kenyatta, Kamau",MUS 137A ,FA11,20,11,1.0,1.0,2.14,3.91,3.89,True,False,False,False,True
+"Allen, Andrew Stewart",MUS 13AS,FA11,182,87,0.713,0.862,3.1,3.69,3.24,True,False,False,False,False
+"Weinstein, Joshua Irving",MUS 15  ,FA11,372,179,0.871,0.865,3.56,3.58,3.64,True,False,False,False,False
+"Moore, F Richard",MUS 170  ,FA11,21,11,0.455,0.455,5.95,2.27,3.0,True,False,False,False,True
+"Moore, F Richard",MUS 170  ,FA11,60,29,0.667,0.556,6.28,2.96,3.0,True,False,False,False,True
+"Erbe, Tom",MUS 174A ,FA11,32,11,1.0,0.909,5.95,3.91,3.6,True,False,False,False,True
+"Turney, Kimberly A",MUS 1A ,FA11,147,62,0.903,0.774,2.89,3.69,3.27,True,False,False,False,False
+"Larson, Philip Clarion",MUS 2A ,FA11,21,8,1.0,1.0,3.25,4.0,3.71,True,False,False,False,False
+"Larson, Philip Clarion",MUS 2A ,FA11,27,16,1.0,0.938,4.63,3.6,3.71,True,False,False,False,False
+"Marquez, Tania L",MUS 4  ,FA11,249,116,0.802,0.716,2.66,3.66,3.4,True,False,False,False,False
+"Gao, Mingfei Mike",MUS 6  ,FA11,105,47,0.889,0.8440000000000001,2.59,3.63,3.19,True,False,False,False,False
+"Kenyatta, Kamau",MUS 8  ,FA11,195,94,0.968,1.0,2.76,3.89,3.68,True,False,False,False,False
+"Zelickman, Robert A",MUS 9  ,FA11,152,77,0.88,0.893,2.42,3.8,3.58,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C ,FA11,58,22,1.0,1.0,0.98,4.0,3.98,True,False,False,False,False
+"Medine, David E",MUS 95E ,FA11,24,11,1.0,0.909,2.32,3.9,4.0,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L ,FA11,41,24,1.0,1.0,3.25,3.93,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W ,FA11,95,29,1.0,1.0,1.6,3.81,3.99,True,False,False,False,False
+"Griffeath-Loeb, Brian",MUS 101C ,SP11,27,15,0.6,0.33299999999999996,5.83,3.07,2.67,True,False,False,False,True
+"Liang, Lei",MUS 102C ,SP11,20,14,1.0,1.0,6.93,4.0,3.73,True,False,False,False,True
+"Power, Benjamin",MUS 111  ,SP11,153,81,0.84,0.815,3.72,3.6,3.07,True,False,False,False,True
+"Rosenberger, Katharina",MUS 120C ,SP11,33,17,0.765,0.8240000000000001,4.03,3.44,3.26,True,False,False,False,True
+"Borgo, David Garcia",MUS 127B ,SP11,180,127,0.882,0.904,3.98,3.65,3.55,True,False,False,False,True
+"Jung, Eun-Young",MUS 13AS,SP11,191,162,0.888,0.8690000000000001,3.03,3.68,3.39,True,False,False,False,False
+"Davis, Anthony Curtis",MUS 15  ,SP11,247,80,0.5379999999999999,0.6,4.85,3.3,3.29,True,False,False,False,False
+"Erbe, Tom",MUS 174C ,SP11,25,7,1.0,1.0,4.79,3.86,3.89,True,False,False,False,True
+"Balzano, Gerald J.",MUS 175  ,SP11,22,8,0.125,0.125,2.75,2.0,2.61,True,False,False,False,True
+"Turney, Kimberly A",MUS 1C ,SP11,20,9,0.778,0.875,3.83,3.43,3.43,True,False,False,False,False
+"Tacke, Daniel A",MUS 2C ,SP11,22,14,0.857,0.929,4.79,3.64,3.57,True,False,False,False,False
+"Piper, Jonathan Nicholas",MUS 4  ,SP11,289,106,0.858,0.925,3.07,3.71,3.41,True,False,False,False,False
+"Moore, F Richard",MUS 7  ,SP11,83,21,0.6,0.6,4.02,3.19,2.67,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C ,SP11,61,22,1.0,1.0,1.74,4.0,3.98,True,False,False,False,False
+"Medine, David E",MUS 95E ,SP11,30,15,0.9329999999999999,0.867,2.37,4.0,3.95,True,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,SP11,22,13,1.0,1.0,2.65,4.0,4.0,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L ,SP11,38,25,1.0,1.0,2.17,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W ,SP11,103,39,1.0,0.9740000000000001,1.83,4.0,3.96,True,False,False,False,False
+"Karis, Aleck",MUS 101B ,WI11,30,14,0.857,0.929,5.07,3.29,3.29,True,False,False,False,True
+"Thorvaldsdottir, Anna S",MUS 102B ,WI11,20,11,0.818,0.909,5.23,3.82,3.65,True,False,False,False,True
+"Stevens, Jane",MUS 113  ,WI11,28,10,1.0,0.9,4.7,3.75,3.61,True,False,False,False,True
+"Reynolds, Roger L.",MUS 114  ,WI11,25,5,0.8,0.8,5.3,4.0,3.84,True,False,False,False,True
+"Seshadri, Anne Lineback",MUS 115  ,WI11,70,33,0.875,0.9390000000000001,4.32,3.58,3.62,True,False,False,False,True
+"Jung, Eun-Young",MUS 116  ,WI11,21,16,1.0,0.938,5.43,3.8,3.83,True,False,False,False,True
+"Guy, Nancy",MUS 120B ,WI11,37,17,0.8240000000000001,0.706,5.38,3.07,2.31,True,False,False,False,True
+"Borgo, David Garcia",MUS 127A ,WI11,172,82,0.878,0.8170000000000001,4.23,3.56,3.68,True,False,False,False,True
+"Negyesy, Janos",MUS 130  ,WI11,42,26,1.0,1.0,3.19,3.96,4.0,True,False,False,False,True
+"Curtis, Charles Rector",MUS 133  ,WI11,29,15,0.5710000000000001,0.7859999999999999,1.64,3.71,3.77,True,False,False,False,True
+"Williams, James G",MUS 13AF,WI11,121,63,0.349,0.159,4.34,2.95,2.97,True,False,False,False,False
+"Fried, William N",MUS 14  ,WI11,110,60,0.5589999999999999,0.807,2.97,3.32,2.93,True,False,False,False,False
+"Jung, Eun-Young",MUS 15  ,WI11,384,329,0.915,0.902,3.12,3.69,3.3,True,False,False,False,False
+"Narucki, Susan M",MUS 15  ,WI11,97,60,0.883,0.95,2.47,3.71,3.47,True,False,False,False,False
+"Davis, Anthony Curtis",MUS 150  ,WI11,22,7,0.857,0.857,1.93,3.8,3.78,True,False,False,False,True
+"Puckette, Miller S.",MUS 171  ,WI11,55,14,1.0,0.857,5.36,3.57,3.59,True,False,False,False,True
+"Erbe, Tom",MUS 174B ,WI11,33,8,1.0,1.0,6.75,4.0,3.87,True,False,False,False,True
+"Turney, Kimberly A",MUS 1B ,WI11,37,15,1.0,0.9329999999999999,3.57,3.71,3.63,True,False,False,False,False
+"Dresser, Mark Stuart",MUS 2B ,WI11,22,14,0.929,0.5,6.64,3.54,3.4,True,False,False,False,False
+"Schick, Steven",MUS 9  ,WI11,148,82,0.976,0.976,1.96,3.93,3.91,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C ,WI11,55,22,1.0,1.0,0.98,4.0,3.98,True,False,False,False,False
+"Medine, David E",MUS 95E ,WI11,24,12,0.833,0.833,2.17,4.0,4.0,True,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,WI11,23,9,1.0,1.0,3.39,4.0,4.0,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L ,WI11,47,30,1.0,1.0,2.03,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W ,WI11,81,30,1.0,1.0,1.53,3.96,3.97,True,False,False,False,False
+"Burr, Anthony I",MUS 101A ,FA10,31,18,0.833,0.833,4.39,3.06,2.99,True,False,False,False,True
+"Fonville, John Winston",MUS 102A ,FA10,21,13,0.769,0.769,3.88,3.85,3.77,True,False,False,False,True
+"Zelickman, Robert A",MUS 11,FA10,194,122,0.885,0.9590000000000001,2.8,3.66,3.59,True,False,False,False,False
+"Fried, William N",MUS 114,FA10,117,37,0.622,0.6759999999999999,3.96,3.54,3.19,True,False,False,False,True
+"Jung, Eun-Young",MUS 116,FA10,22,18,1.0,1.0,4.83,3.81,3.38,True,False,False,False,True
+"Piper, Jonathan Nicholas",MUS 120A ,FA10,40,21,0.789,0.85,5.26,2.95,2.88,True,False,False,False,True
+"Kaiser, Jeffrey G",MUS 126,FA10,194,98,0.917,0.938,3.56,3.62,3.52,True,False,False,False,True
+"Negyesy, Janos",MUS 130,FA10,41,22,1.0,1.0,3.59,4.0,4.0,True,False,False,False,True
+"Burr, Anthony I",MUS 15,FA10,362,153,0.843,0.862,3.12,3.56,3.3,True,False,False,False,False
+"Wightman, David Andrew",MUS 15,FA10,58,24,0.826,0.8640000000000001,3.89,3.61,3.25,True,False,False,False,False
+"Dubnov, Shlomo",MUS 170,FA10,96,66,0.625,0.375,4.59,3.37,3.19,True,False,False,False,True
+"Erbe, Tom",MUS 174A ,FA10,33,11,1.0,1.0,5.41,3.5,3.78,True,False,False,False,True
+"Rosenberg, Jason C.",MUS 1A ,FA10,148,71,0.843,0.843,3.68,3.7,3.43,True,False,False,False,False
+"Larson, Philip Clarion",MUS 2A ,FA10,28,19,1.0,1.0,4.71,3.84,3.82,True,False,False,False,False
+"Bulut, Zeynep",MUS 4,FA10,276,136,0.687,0.617,3.88,3.54,3.15,True,False,False,False,False
+"Kenyatta, Kamau",MUS 8,FA10,208,101,0.96,0.98,2.8,3.83,3.76,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C ,FA10,67,28,0.9640000000000001,1.0,1.5,3.93,4.0,True,False,False,False,False
+"Medine, David E",MUS 95E ,FA10,29,15,0.9329999999999999,0.9329999999999999,3.43,4.0,4.0,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L ,FA10,45,26,1.0,1.0,2.58,3.94,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W ,FA10,93,30,0.897,0.828,1.3,3.91,3.98,True,False,False,False,False
+"Burr, Anthony I",MUS 101C ,SP10,21,11,0.636,0.636,4.68,3.33,3.02,True,False,False,False,True
+"Liang, Lei",MUS 102C ,SP10,23,9,0.889,0.875,5.39,3.78,3.86,True,False,False,False,True
+"Zelickman, Robert A",MUS 11,SP10,139,57,0.93,0.965,2.08,3.83,3.74,True,False,False,False,False
+"Seshadri, Anne Lineback",MUS 111,SP10,46,20,0.65,0.6,3.61,3.59,3.16,True,False,False,False,True
+"Rosenberger, Katharina",MUS 120C ,SP10,41,22,0.8640000000000001,0.818,4.05,3.32,3.11,True,False,False,False,True
+"Davis, Anthony Curtis",MUS 127B ,SP10,152,55,0.611,0.426,3.65,3.42,3.39,True,False,False,False,True
+"Negyesy, Janos",MUS 130,SP10,43,23,1.0,1.0,3.98,4.0,4.0,True,False,False,False,True
+"Kenyatta, Kamau",MUS 137C ,SP10,22,7,1.0,1.0,3.36,4.0,3.91,True,False,False,False,True
+"DeHart, Justin W",MUS 13AF,SP10,198,91,0.742,0.843,3.07,3.57,3.51,True,False,False,False,False
+"Fried, William N",MUS 14,SP10,115,45,0.773,0.867,3.52,3.36,3.35,True,False,False,False,False
+"Jung, Eun-Young",MUS 15,SP10,293,179,0.922,0.872,2.61,3.84,3.64,True,False,False,False,False
+"Davis, Anthony Curtis",MUS 150,SP10,47,16,0.938,0.875,3.75,3.94,3.83,True,False,False,False,True
+"Puckette, Miller S.",MUS 172,SP10,26,7,1.0,0.857,3.36,3.71,3.71,True,False,False,False,True
+"Balzano, Gerald J.",MUS 175,SP10,21,6,0.33299999999999996,0.16699999999999998,6.5,3.0,2.47,True,False,False,False,True
+"Wilmoth, Charles W.",MUS 1C ,SP10,43,21,0.95,0.95,4.3,3.63,3.06,True,False,False,False,False
+"Tacke, Daniel A",MUS 2C ,SP10,20,9,0.889,0.889,4.94,3.43,3.08,True,False,False,False,False
+"Tacke, Daniel A",MUS 2C ,SP10,27,9,0.889,1.0,6.5,3.38,3.08,True,False,False,False,False
+"Nguyen, Brendan D",MUS 2CK,SP10,21,9,0.75,1.0,2.75,4.0,4.0,True,False,False,False,False
+"McAllister, Colin L",MUS 4,SP10,243,117,0.7929999999999999,0.9570000000000001,3.71,3.44,2.94,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C ,SP10,79,33,1.0,1.0,1.21,3.96,3.99,True,False,False,False,False
+"Medine, David E",MUS 95E ,SP10,21,16,1.0,1.0,1.83,4.0,4.0,True,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,SP10,24,11,0.909,1.0,4.32,4.0,4.0,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95K ,SP10,23,14,1.0,1.0,0.81,4.0,4.0,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L ,SP10,58,39,1.0,1.0,1.47,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W ,SP10,92,34,1.0,1.0,2.26,3.97,3.95,True,False,False,False,False
+"Snow, Richard S.",MUS 101B ,WI10,36,15,0.9329999999999999,0.867,6.63,3.5,3.17,True,False,False,False,True
+"Fonville, John Winston",MUS 102B ,WI10,23,7,1.0,0.857,2.5,3.86,3.75,True,False,False,False,True
+"Burr, Anthony I",MUS 114,WI10,94,32,0.563,0.594,3.13,3.48,3.13,True,False,False,False,True
+"Jung, Eun-Young",MUS 116,WI10,20,17,1.0,0.941,3.56,3.76,3.74,True,False,False,False,True
+"Guy, Nancy",MUS 120B ,WI10,41,17,0.875,0.875,6.88,3.31,2.85,True,False,False,False,True
+"Lytle, Cecil William",MUS 127A ,WI10,183,65,0.9229999999999999,0.862,2.5,3.79,3.47,True,False,False,False,True
+"Negyesy, Janos",MUS 130,WI10,39,22,1.0,1.0,3.68,4.0,3.97,True,False,False,False,True
+"Curtis, Charles Rector",MUS 133,WI10,34,17,0.882,1.0,2.62,4.0,3.98,True,False,False,False,True
+"Kenyatta, Kamau",MUS 137B ,WI10,21,6,1.0,1.0,3.5,4.0,4.0,True,False,False,False,True
+"Wilmoth, Charles W.",MUS 13AM,WI10,184,75,0.905,0.932,2.55,3.53,3.38,True,False,False,False,False
+"DeHart, Justin W",MUS 15,WI10,382,163,0.9940000000000001,0.975,2.44,3.8,3.63,True,False,False,False,False
+"Wightman, David Andrew",MUS 15,WI10,204,70,0.882,0.618,3.28,3.5,3.33,True,False,False,False,False
+"Erbe, Tom",MUS 171,WI10,46,10,1.0,1.0,4.7,3.5,3.3,True,False,False,False,True
+"Dubnov, Shlomo",MUS 173,WI10,23,5,0.8,0.6,3.3,3.67,3.48,True,False,False,False,True
+"Erbe, Tom",MUS 174B ,WI10,30,9,1.0,1.0,8.06,4.0,3.82,True,False,False,False,True
+"Hackbarth, Benjamin S.",MUS 1B ,WI10,60,22,1.0,1.0,2.86,3.82,3.41,True,False,False,False,False
+"Tacke, Daniel A",MUS 2B ,WI10,27,22,0.818,0.955,4.59,3.33,3.25,True,False,False,False,False
+"Tacke, Daniel A",MUS 2B ,WI10,24,11,0.909,1.0,5.77,3.45,3.25,True,False,False,False,False
+"McAllister, Colin L",MUS 4,WI10,298,143,0.8590000000000001,0.9570000000000001,3.54,3.49,3.02,True,False,False,False,False
+"Dresser, Mark Stuart",MUS 5,WI10,102,48,0.8540000000000001,0.875,2.46,3.77,3.51,True,False,False,False,False
+"Kenyatta, Kamau",MUS 8,WI10,192,67,0.97,0.985,1.95,3.9,3.78,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C ,WI10,70,30,1.0,1.0,1.3,4.0,3.98,True,False,False,False,False
+"Medine, David E",MUS 95E ,WI10,31,18,1.0,1.0,2.26,4.0,4.0,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L ,WI10,46,29,1.0,1.0,1.4,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W ,WI10,79,21,1.0,1.0,1.93,4.0,3.99,True,False,False,False,False
+"Snow, Richard S.",MUS 101A ,FA09,36,33,0.879,0.9390000000000001,6.31,3.42,3.27,True,False,False,False,True
+"Ung, Chinary",MUS 111,FA09,67,46,0.826,0.7170000000000001,2.63,3.74,3.82,True,False,False,False,True
+"Stevens, Jane",MUS 112,FA09,36,24,0.625,0.792,3.33,3.2,3.18,True,False,False,False,True
+"Stevens, Jane",MUS 120A ,FA09,42,27,0.48100000000000004,0.26899999999999996,5.27,3.5,2.92,True,False,False,False,True
+"Borgo, David Garcia",MUS 126,FA09,175,102,0.971,0.941,3.05,3.6,3.54,True,False,False,False,True
+"Negyesy, Janos",MUS 130,FA09,41,35,1.0,1.0,3.21,4.0,4.0,True,False,False,False,True
+"Kenyatta, Kamau",MUS 137A ,FA09,27,21,1.0,1.0,3.83,3.67,3.86,True,False,False,False,True
+"Jung, Eun-Young",MUS 13AS,FA09,183,117,0.9059999999999999,0.9059999999999999,2.76,3.75,3.44,True,False,False,False,False
+"DeHart, Justin W",MUS 15,FA09,380,314,0.987,0.971,2.09,3.79,3.63,True,False,False,False,False
+"Wightman, David Andrew",MUS 15,FA09,82,62,0.934,0.917,2.86,3.58,2.98,True,False,False,False,False
+"Moore, F Richard",MUS 170,FA09,95,39,0.7440000000000001,0.667,4.13,3.06,3.03,True,False,False,False,True
+"Erbe, Tom",MUS 174A ,FA09,29,18,1.0,1.0,6.17,3.82,3.67,True,False,False,False,True
+"Hackbarth, Benjamin S.",MUS 1A ,FA09,151,51,1.0,1.0,2.54,3.93,3.67,True,False,False,False,False
+"Tacke, Daniel A",MUS 2A ,FA09,28,18,1.0,1.0,3.94,3.53,3.67,True,False,False,False,False
+"Tacke, Daniel A",MUS 2A ,FA09,27,24,0.958,1.0,5.08,3.48,3.67,True,False,False,False,False
+"McAllister, Colin L",MUS 4,FA09,246,116,0.884,0.991,2.85,3.51,3.1,True,False,False,False,False
+"Wilson, Adam J",MUS 6,FA09,73,32,0.8059999999999999,1.0,2.94,3.21,3.16,True,False,False,False,False
+"Schick, Steven",MUS 9,FA09,146,122,0.9840000000000001,0.9840000000000001,1.65,3.9,3.75,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C ,FA09,63,36,0.971,1.0,2.17,3.94,3.99,True,False,False,False,False
+"Medine, David E",MUS 95E ,FA09,26,24,1.0,1.0,2.5,4.0,4.0,True,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,FA09,21,16,1.0,1.0,4.0,4.0,3.93,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L ,FA09,46,26,1.0,1.0,2.58,3.93,3.96,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W ,FA09,89,46,1.0,1.0,2.5,4.0,3.83,True,False,False,False,False
+"Lytle, Cecil William",MUS 10,SP09,74,31,0.9670000000000001,0.968,2.31,3.75,3.37,True,False,False,False,False
+"Burr, Anthony I",MUS 101C ,SP09,24,17,1.0,0.875,5.32,3.75,2.92,True,False,False,False,True
+"Seshadri, Anne Lineback",MUS 111,SP09,141,78,0.846,0.753,3.07,3.77,3.34,True,False,False,False,True
+"Rosenberger, Katharina",MUS 120C ,SP09,22,15,0.733,0.667,2.9,3.77,3.53,True,False,False,False,True
+"Davis, Anthony Curtis",MUS 127B ,SP09,146,57,0.7090000000000001,0.768,3.11,3.35,3.51,True,False,False,False,True
+"Negyesy, Janos",MUS 130,SP09,31,29,1.0,1.0,2.98,4.0,4.0,True,False,False,False,True
+"FELDMAN, HEIDI C",MUS 13AF,SP09,160,71,0.718,0.7609999999999999,2.27,3.36,2.94,True,False,False,False,False
+"Rosenberg, Jason C.",MUS 15,SP09,370,249,0.98,0.9640000000000001,2.52,3.75,3.27,True,False,False,False,False
+"Balzano, Gerald J.",MUS 175,SP09,25,19,0.556,0.526,4.71,3.41,3.08,True,False,False,False,True
+"Wilmoth, Charles W.",MUS 1C ,SP09,32,22,0.9520000000000001,0.905,2.4,3.73,3.44,True,False,False,False,False
+"Gallagher, Kathleen",MUS 2C ,SP09,20,16,0.938,0.938,8.25,3.36,4.0,True,False,False,False,False
+"Gallagher, Kathleen",MUS 2C ,SP09,21,22,0.955,1.0,5.05,3.26,4.0,True,False,False,False,False
+"McAllister, Colin L",MUS 4,SP09,283,140,0.884,0.978,2.81,3.6,3.11,True,False,False,False,False
+"Moore, F Richard",MUS 7,SP09,65,28,0.815,0.821,2.87,3.6,3.0,True,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,SP09,22,11,0.9,0.8,3.23,4.0,3.94,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L ,SP09,57,29,1.0,1.0,1.74,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W ,SP09,109,74,1.0,0.9590000000000001,2.44,3.85,3.95,True,False,False,False,False
+"Tsao, Ming Yuan",MUS 101B ,WI09,33,23,0.9129999999999999,0.652,5.8,3.73,3.55,True,False,False,False,True
+"Oliveira, Fabio Fonseca de",MUS 111,WI09,105,62,0.932,0.951,2.43,3.74,3.82,True,False,False,False,True
+"Guy, Nancy",MUS 120B ,WI09,21,18,0.889,0.9440000000000001,5.06,3.5,2.9,True,False,False,False,True
+"Borgo, David Garcia",MUS 127A ,WI09,179,109,0.9159999999999999,0.935,3.46,3.61,3.47,True,False,False,False,True
+"Negyesy, Janos",MUS 130,WI09,28,27,1.0,1.0,3.98,4.0,4.0,True,False,False,False,True
+"Curtis, Charles Rector",MUS 133,WI09,36,24,0.87,1.0,3.92,3.95,3.97,True,False,False,False,True
+"Kenyatta, Kamau",MUS 137B ,WI09,28,13,1.0,1.0,3.88,3.92,3.82,True,False,False,False,True
+"Khalil, Alexander K.",MUS 13AS,WI09,184,120,0.871,0.966,2.43,3.76,3.71,True,False,False,False,False
+"Snow, Richard S.",MUS 14,WI09,127,58,0.625,0.75,2.32,3.71,3.66,True,False,False,False,False
+"Tsao, Ming Yuan",MUS 15,WI09,195,56,0.382,0.46299999999999997,2.43,3.62,3.67,True,False,False,False,False
+"Erbe, Tom",MUS 171,WI09,24,17,0.941,1.0,7.56,3.4,3.47,True,False,False,False,True
+"Dubnov, Shlomo",MUS 173,WI09,29,17,0.875,0.7859999999999999,5.25,3.76,3.75,True,False,False,False,True
+"Wilmoth, Charles W.",MUS 1B ,WI09,44,20,1.0,0.833,2.71,3.79,3.5,True,False,False,False,False
+"Gallagher, Kathleen",MUS 2B ,WI09,24,18,0.9440000000000001,0.9440000000000001,4.83,3.5,2.97,True,False,False,False,False
+"Gallagher, Kathleen",MUS 2B ,WI09,28,23,0.9129999999999999,1.0,4.93,3.18,2.97,True,False,False,False,False
+"Kenyatta, Kamau",MUS 8,WI09,131,77,0.943,0.955,1.96,3.73,3.55,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C ,WI09,85,44,1.0,0.977,0.86,4.0,3.97,True,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,WI09,21,17,1.0,0.941,3.79,4.0,4.0,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L ,WI09,52,34,1.0,1.0,2.02,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W ,WI09,96,70,1.0,1.0,1.76,3.97,3.96,True,False,False,False,False
+"Sabey, Benjamin J.",MUS 101A ,FA08,35,27,0.9259999999999999,0.9259999999999999,5.17,3.54,3.23,True,False,False,False,True
+"Zelickman, Robert A",MUS 11,FA08,151,96,0.8909999999999999,0.946,1.65,3.87,3.68,True,False,False,False,False
+"Pasler, Jann Corinne",MUS 115,FA08,55,37,0.833,0.861,3.17,3.66,3.39,True,False,False,False,True
+"Stevens, Jane",MUS 120A ,FA08,24,19,0.789,0.579,4.61,3.32,2.87,True,False,False,False,True
+"Borgo, David Garcia",MUS 126,FA08,186,111,0.982,0.982,2.99,3.63,3.46,True,False,False,False,True
+"Negyesy, Janos",MUS 130,FA08,35,25,1.0,1.0,3.92,4.0,3.97,True,False,False,False,True
+"Kenyatta, Kamau",MUS 137A ,FA08,33,27,1.0,1.0,4.28,3.86,3.7,True,False,False,False,True
+"Wilmoth, Charles W.",MUS 13AM,FA08,176,110,0.72,0.748,2.43,3.61,3.27,True,False,False,False,False
+"DeHart, Justin W",MUS 15,FA08,385,208,0.976,0.99,1.62,3.87,3.82,True,False,False,False,False
+"Wightman, David Andrew",MUS 15,FA08,139,90,0.943,0.865,2.92,3.55,3.23,True,False,False,False,False
+"Puckette, Miller S.",MUS 170,FA08,94,29,0.68,0.519,4.22,3.42,3.08,True,False,False,False,True
+"Erbe, Tom",MUS 174A ,FA08,20,15,1.0,1.0,3.93,4.0,3.95,True,False,False,False,True
+"Dicce, Anne-Marie S.",MUS 1A ,FA08,155,40,0.975,0.875,2.55,3.83,3.74,True,False,False,False,False
+"Larson, Philip Clarion",MUS 2A ,FA08,40,11,0.909,1.0,1.41,3.67,3.64,True,False,False,False,False
+"McAllister, Colin L",MUS 4,FA08,261,119,0.863,0.9740000000000001,2.5,3.58,3.17,True,False,False,False,False
+"Schick, Steven",MUS 9,FA08,145,102,0.9309999999999999,0.96,1.68,3.73,3.88,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C ,FA08,70,37,1.0,1.0,1.56,4.0,3.97,True,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,FA08,20,16,1.0,1.0,5.63,4.0,4.0,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L ,FA08,53,35,0.97,0.97,2.61,3.8,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W ,FA08,83,47,0.9570000000000001,0.9570000000000001,1.95,3.93,3.92,True,False,False,False,False
+"Borgo, David Garcia",MUS 127B ,SP08,182,105,0.9329999999999999,0.9620000000000001,2.54,3.63,3.54,True,False,False,False,True
+"Negyesy, Janos",MUS 130,SP08,30,26,1.0,1.0,4.04,4.0,4.0,True,False,False,False,True
+"Degbor, Joseph Kwame",MUS 13AF,SP08,186,102,0.95,0.97,1.97,3.86,3.8,True,False,False,False,False
+"Tonelli, Christopher J.",MUS 15,SP08,325,175,0.74,0.871,2.51,3.53,3.59,True,False,False,False,False
+"Snow, Richard S.",MUS 173,SP08,24,13,0.9229999999999999,0.9229999999999999,3.58,3.77,3.72,True,False,False,False,True
+"Wilmoth, Charles W.",MUS 1C ,SP08,35,14,0.7140000000000001,0.7859999999999999,2.36,3.27,3.09,True,False,False,False,False
+"Gallagher, Kathleen",MUS 2C ,SP08,21,24,1.0,0.958,5.2,3.4,3.25,True,False,False,False,False
+"Wilson, Adam J",MUS 33,SP08,20,18,1.0,1.0,4.28,3.78,4.0,True,False,False,False,False
+"Wilson, Adam J",MUS 33A,SP08,20,18,1.0,1.0,4.28,3.78,4.0,True,False,False,False,False
+"McAllister, Colin L",MUS 4,SP08,288,142,0.897,0.978,2.57,3.61,3.11,True,False,False,False,False
+"Stuart, Gregory W",MUS 6,SP08,85,46,0.8440000000000001,0.9329999999999999,2.5,3.38,2.57,True,False,False,False,False
+"Lytle, Cecil William",MUS 8,SP08,141,82,0.838,0.888,2.21,3.78,3.86,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95C ,SP08,79,34,0.97,1.0,1.74,3.97,3.95,True,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,SP08,23,17,1.0,1.0,3.88,4.0,4.0,True,False,False,False,False
+"Larson, Philip Clarion",MUS 95K ,SP08,25,21,1.0,1.0,2.4,4.0,4.0,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L ,SP08,52,30,1.0,1.0,1.97,4.0,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W ,SP08,100,73,0.971,0.971,2.73,3.95,3.95,True,False,False,False,False
+"Karis, Aleck",MUS 101B ,WI08,23,18,0.941,0.882,4.17,3.36,3.2,True,False,False,False,True
+"Curtis, Charles Rector",MUS 114,WI08,86,47,0.826,0.9570000000000001,2.93,3.87,3.87,True,False,False,False,True
+"Davis, Anthony Curtis",MUS 127A ,WI08,170,74,0.836,0.753,2.47,3.34,3.53,True,False,False,False,True
+"Negyesy, Janos",MUS 130,WI08,32,29,1.0,1.0,6.2,4.0,4.0,True,False,False,False,True
+"Kenyatta, Kamau",MUS 137B ,WI08,21,13,1.0,1.0,3.12,4.0,3.84,True,False,False,False,True
+"Khalil, Alexander K.",MUS 13AM,WI08,194,88,0.8690000000000001,0.94,2.22,3.73,3.8,True,False,False,False,False
+"Snow, Richard S.",MUS 14,WI08,130,59,0.446,0.672,1.74,3.45,3.58,True,False,False,False,False
+"Burr, Anthony I",MUS 15,WI08,171,94,0.804,0.857,3.61,3.58,3.63,True,False,False,False,False
+"Erbe, Tom",MUS 171,WI08,31,16,1.0,0.938,6.13,3.75,3.44,True,False,False,False,True
+"Erbe, Tom",MUS 174B ,WI08,20,13,1.0,1.0,6.19,3.85,3.92,True,False,False,False,True
+"Wilmoth, Charles W.",MUS 1B ,WI08,49,24,0.958,0.958,2.5,3.77,3.26,True,False,False,False,False
+"Gallagher, Kathleen",MUS 2B ,WI08,25,8,0.875,0.875,6.25,3.29,3.43,True,False,False,False,False
+"Gallagher, Kathleen",MUS 2B ,WI08,27,20,0.95,0.95,4.6,3.53,3.43,True,False,False,False,False
+"Dresser, Mark Stuart",MUS 5,WI08,96,17,0.7140000000000001,0.8,3.13,3.63,3.31,True,False,False,False,False
+"Zelickman, Robert A",MUS 9,WI08,144,92,0.89,0.9229999999999999,2.23,3.48,3.44,True,False,False,False,False
+"Kenyatta, Kamau",MUS 95JC,WI08,22,15,1.0,1.0,3.03,4.0,4.0,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L ,WI08,49,35,1.0,0.97,1.47,3.82,4.0,True,False,False,False,False
+"Seshadri, Kartik",MUS 95W ,WI08,85,58,0.981,0.925,1.39,3.96,3.9,True,False,False,False,False
+"Burr, Anthony I",MUS 101A ,FA07,26,17,0.8240000000000001,0.8240000000000001,4.62,3.41,3.03,True,False,False,False,True
+"Zelickman, Robert A",MUS 11,FA07,159,120,0.9490000000000001,0.9740000000000001,1.92,3.88,3.87,True,False,False,False,False
+"Stevens, Jane",MUS 112,FA07,28,21,0.7,0.905,2.88,3.29,2.72,True,False,False,False,True
+"Robinson, Jason",MUS 126,FA07,162,112,0.9179999999999999,0.917,3.47,3.82,3.86,True,False,False,False,True
+"Negyesy, Janos",MUS 130,FA07,34,35,1.0,0.971,5.19,3.92,4.0,True,False,False,False,True
+"Kenyatta, Kamau",MUS 137A ,FA07,23,18,1.0,1.0,3.06,4.0,3.76,True,False,False,False,True
+"Guy, Nancy",MUS 13AS,FA07,192,99,0.938,0.9490000000000001,2.68,3.75,3.55,True,False,False,False,False
+"Rosenberg, Jason C.",MUS 15,FA07,382,248,0.9670000000000001,0.9670000000000001,2.61,3.75,3.5,True,False,False,False,False
+"Moore, F Richard",MUS 170,FA07,46,26,0.654,0.5379999999999999,4.88,3.0,2.88,True,False,False,False,True
+"Erbe, Tom",MUS 174A ,FA07,20,15,1.0,1.0,3.57,3.87,3.92,True,False,False,False,True
+"Wilmoth, Charles W.",MUS 1A ,FA07,155,56,0.9640000000000001,0.982,2.54,3.82,3.62,True,False,False,False,False
+"McAllister, Colin L",MUS 4,FA07,290,187,0.935,0.9890000000000001,2.41,3.6,3.21,True,False,False,False,False
+"Moore, F Richard",MUS 7,FA07,71,41,0.5,0.639,2.86,3.43,2.82,True,False,False,False,False
+"Gartner, Geoffrey C.",MUS 95E ,FA07,37,25,1.0,1.0,2.98,3.95,4.0,True,False,False,False,False
+"Zelickman, Robert A",MUS 95L ,FA07,38,21,1.0,1.0,1.83,4.0,4.0,True,False,False,False,False
