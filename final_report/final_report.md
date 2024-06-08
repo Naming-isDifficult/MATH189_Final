@@ -59,7 +59,9 @@ Each subgroup will undergoes the following analytical methods to compare the dis
     Implementation details of bootstrapped t-test can be found in appendix
     
 ## Results
-Pending
+For each subgroup, we simulate the bootstrapped two-sampled t-test 1000 times. In each simulation, the bootstrap process is repeated for 1000 times. The seed for `numpy` random seed generator is set to be 189.
+
+### STEM
 
 ## Comparative Analysis
 Pending
@@ -147,7 +149,7 @@ $$
 H_0: \bar{\textbf{x}}=\bar{\textbf{y}}
 $$
 Bootstrapping process is repeated for 1000 times for each simulation. After 1000 simulations, the distribution of $p-values$ is shown below:
-
+![alt text](image.png)
 
 #### Simulation 2 Setup
 We set the seed of `numpy` random number generator to be 42. For each simulation, we sample 30 samples from $N(0,1)$ as $\textbf{x}$ and 300 samples from $N(0,16)$ as $\textbf{y}$. Absolute values are used to demonstrate a two-sided test. The null hypothesis is:
@@ -155,15 +157,12 @@ $$
 H_0: \bar{\textbf{x}}=\bar{\textbf{y}}
 $$
 Bootstrapping process is repeated for 1000 times for each simulation. After 1000 simulations, the distribution of $p-values$ is shown below:
-
+![alt text](image-1.png)
 
 #### Simulation 3 Setup
-We set the seed of `numpy` random number generator to be 42. For each simulation, we sample 30 samples from $N(0,1)$ as $\textbf{x}$ and 300 samples from $N(0,1)$ as $\textbf{y}$. Absolute values are *not* used to demonstrate a one-sided test. The null hypothesis is:
+We set the seed of `numpy` random number generator to be 42. For each simulation, we sample 30 samples from $N(0,1)$ as $\textbf{x}$ and 300 samples from $N(0,1)$ as $\textbf{y}$. Absolute values are ***not*** used to demonstrate a one-sided test. The null hypothesis is:
 $$
 H_0: \bar{\textbf{x}}=\bar{\textbf{y}}
 $$
 Bootstrapping process is repeated for 1000 times for each simulation. After 1000 simulations, the distribution of $p-values$ is shown below:
-
-
-### Implementation Details of Bootstrapped Two-sampled T-test
-For each subgroup, we simulate the bootstrapped two-sampled t-test 100 times. In each simulation, the bootstrapping process is repeated for 1000 times. Absolute values are used to perform a two-sided test.
+![alt text](image-2.png)
