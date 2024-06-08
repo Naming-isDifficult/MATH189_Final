@@ -68,31 +68,53 @@ def plot_dist(pre_gpt, post_gpt):
 
     plt.show()
 
-def bootstrap_ttest(group1, group2, n=1000):
-    t_stats = []
+
+def bootstrap_ttest(
+    group1,
+    group2,
+    p_nums = 10,
+    bootstrap_nums = 1000,
+    equal_var = False
+):
+    observed_t, _ = ttest_ind(group1, group2, equal_var=equal_var)
+    
+    # convert group1 and group2 into numpy array
+    group1 = group1.to_numpy()
+    group2 = group2.to_numpy()
+    total = np.concatenate((group1, group2))
+    
     p_vals = []
+    
+    for _ in range(p_nums):
+        # find bootstrapped t-stats
+        bootstrap_t = []
+        for _ in range(bootstrap_nums):
+            sample1 = np.random.choice(total, size=len(group1), replace=True)
+            sample2 = np.random.choice(total, size=len(group2), replace=True)
 
-    for _ in range(n):
-        sample1 = np.random.choice(group1, size=len(group1), replace=True)
-        sample2 = np.random.choice(group2, size=len(group2), replace=True)
+            t_stat, _ = ttest_ind(sample1, sample2)
 
-        t_stat, p_val = ttest_ind(sample1, sample2, equal_var=False)
-
-        t_stats.append(t_stat)
+            bootstrap_t.append(t_stat)
+        
+        # find actual p_val
+        bootstrap_t = np.array(bootstrap_t)
+        p_val = np.mean(np.abs(bootstrap_t) > np.abs(observed_t))
         p_vals.append(p_val)
 
-    return t_stats, p_vals
+    return observed_t, bootstrap_t, p_vals
 
-def plot_bootstrap_test(t_stats, p_vals, alpha=0.05):
+
+def plot_bootstrap_test(observed_t, bootstrap_t, p_vals, alpha=0.05):
     plt.figure(figsize=(20, 6))
 
-    temp = plt.subplot(1,2,1)
-    sns.histplot(t_stats, kde=True, stat='probability')
-    plt.title('Distribution of t-statistics')
+    plt.subplot(1,2,1)
+    plt.hist(bootstrap_t, density=True, edgecolor='k', bins=20, alpha=0.7)
+    plt.axvline(x=observed_t, color='r', linestyle='--', label='observed t-statistics')
+    plt.title('Distribution of bootstrapped t-statistics in one simulation')
+    plt.legend()
 
     plt.subplot(1,2,2)
-    sns.histplot(p_vals, kde=True, stat='probability', bins=100)
-        # bins are manually set to 100 to avoid explosion in number of bins
+    plt.hist(p_vals, density=True, edgecolor='k', alpha=0.7)
     plt.axvline(x=0.05, color='r', linestyle='--', label='alpha')
     plt.title('Distribution of p-values')
     plt.legend()
