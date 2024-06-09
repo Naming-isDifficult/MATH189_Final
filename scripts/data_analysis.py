@@ -72,7 +72,7 @@ def plot_dist(pre_gpt, post_gpt):
 def bootstrap_ttest(
     group1,
     group2,
-    p_nums = 10,
+    p_nums = 1000,
     bootstrap_nums = 1000,
     equal_var = False
 ):

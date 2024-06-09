@@ -44,12 +44,14 @@ To facilitate a detailed and meaningful analysis, we divided the courses into se
     - Written material-based
     - Audio/visual material-based
 
+Please note that CSE 20 is excluded from this analysis because it is the only proof-based lower division course. It is not reasonable to merge it into any subgroup of STEM courses.
+
 ### Methods Used
 Each subgroup will undergoes the following analytical methods to compare the distributions of average grades received before and after the introduction of GPT:
 1. Visualization of distribution<br>
     We will plot histograms and box plot to give a preliminary review of the distribution
 2. Welch's t-test with bootstrapping<br>
-    Because it is not reasonable to assume equal variance, we use Welch's t-test to check if the mean of average grade received before and after the introduction of GPT is the same. That is to say, for each subgroup, we have:
+    Because it is not reasonable to assume equal variance, we use Welch's t-test to check if the mean of average grade received before and after the introduction of GPT is the same with significant value $\alpha$ be $0.05$. That is to say, for each subgroup, we have:
     $$
     H_0: \mu_{\text{pre-GPT}} = \mu_{\text{post-GPT}}\\
     H_1: \mu_{\text{pre-GPT}} \neq \mu_{\text{post-GPT}}
@@ -57,17 +59,96 @@ Each subgroup will undergoes the following analytical methods to compare the dis
     Additionally, due to the shorter duration of the post-GPT era, we will use bootstrapping methods to balance the number of samples between pre-GPT and post-GPT data.
 
     Implementation details of bootstrapped t-test can be found in appendix
+
+### Initial Hypothesis
+GPT is good at writting and might be able to assist some math computations with few-shots approach, but usually it is poor at mathematical proofs and abstract math concepts. Additionally, GPT does not have the ability to interpret visual or auditory data before the data cutoff. We hypothesis that GPT should have a significant impact on lower division STEM courses and both lower and upper division written material based Arts courses. It should also have some effects on upper divison non-abstract STEM courses. It should not have any effects on upper division abstract STEM courses or lower or upper division audio/video based Arts courses.
     
 ## Results
-For each subgroup, we simulate the bootstrapped two-sampled t-test 1000 times. In each simulation, the bootstrap process is repeated for 1000 times. The seed for `numpy` random seed generator is set to be 189.
+For each subgroup, we simulate the bootstrapped two-sampled t-test 1000 times. In each simulation, the bootstrap process is repeated for 1000 times. The seed for `numpy` random seed generator is set to be 189. (i.e. course number)
 
-### STEM
+### Lower Division STEM Courses
+The distribution of grades is as follows:
+![stem_ld_dist](./stem_ld_dist.png)
+The histogram suggests that the distribution of average grades received during pre-GPT era slightly skew positive while the distribution of average grades received during post-GPT era is almost symmetric. Although there is some differences between these two distributions but it is possible due to either variance and/or the lack of data from post-GPT era. The boxplot also suggests that the 25th percentile, 50th percentile and 75th percentile are almost the same. The main difference is that pre-GPT era has a heavier tail on the left.
 
-## Comparative Analysis
-Pending
+The test statistics are shown as follows:
+![stem_ld_t](./stem_ld_t.png)
+The test statistics however suggests that these two distributions are unlikely to have the same mean. Although the distribution of bootstrapped t-values are relatively close to observed t-values, all p-values are smaller than the significance level. We reject the null hypothesis in this case.
+
+### Lower Division Written Based Arts Courses
+The distribution of grades is as follows:
+![art_ld_weitten_dist](./art_ld_written_dist.png)
+The histogram clearly shows a shift towards the higher end during post-GPT era. The histogram of post-GPT era has a sharp spike at around 3.8 while the histogram of pre-GPT era is almost flat from 3.0 to 3.8. The box plot also suggest a significant shift in 25th percentile, 50th percentile and 75th percentile.
+
+The test statistics are shown as follows:
+![art_ld_weitten_t](./art_ld_written_t.png)
+Clearly most p-values are 0, there might be some of the p-values hitting 0.002 or 0.003, but still, we reject the null.
+
+### Lower Division Audio/Video Based Arts Courses
+The distribution of grades is as follows:
+![art_ld_audio_video_dist](./art_ld_audio_video_dist.png)
+Note that the distribution seems to violate the assumption of normality. Both the distribution of pre-GPT era and post-GPT era have a spike at around 3.9~4.0. This might affect the statistical power and/or make the result invalid.
+
+According to the plots, it should be clear that there is a shift in the average grade received. The box plot shows that even though 75th percentil is close, both the median and 25th percentile become significantly higher in post-GPT era. Additionally, the histogram also shows that in post-GPT era, the average GPA tends to be equal or higher than 3.8
+
+The test statistics are shown as follows:
+![art_ld_audio_video_t](./art_ld_audio_video_t.png)
+The plot on the left shows the distribution of bootstrapped t-values are far from the observed t-value, indicating how extreme it is to obtain current distribution under null hypothesis. The histogram of p-values is a weird behavior of `seaborn`, it indicates that among 1000 simulations, all obtained p-values are 0, so clearly we reject the null.
+
+### Upper Division Abstract STEM Courses
+The distribution of grades is as follows:
+![stem_ud_abstract_dist](./stem_ud_abstract_dist.png)
+The histogram shows that the distribution of grades are close to the normal distribution in this group. For the post-GPT era, there is a spike around 3.1~3.2 but also a valley around 2.7~2.8. Most likely this spike and valley is because of the lack of data, but in general, they share almost the same distribution. The box plot suggests the same idea except that post-GPT era has a slightly higher 50th percentile which should be resulted from the spike and valley, and the range of post-GPT grades is smaller than that of pre-GPT era which also supports the lack of data guess.
+
+The test statistics are shown as follows:
+![stem_ud_abstract_t](./stem_ud_abstract_t.png)
+The distribution of p-values also supports the analysis above. Clearly we fail to reject the null. Clearly, GPT has no idea how to handle inquiries that require logic and/or ability to understand abstract math concepts.
+
+### Upper Division Non-Abstract STEM Courses
+The distribution of grades is as follows:
+![stem_ud_nonabstract_dist](./stem_ud_nonabstract_dist.png)
+The histogram seems to suggests that pre-GPT era and post-GPT era almost shares the same distribution except that the post-GPT era slightly shift towards negative skew. The boxplot suggest that they almost share the same 50th percentile but post-GPT era has higer 25th percentile and 75th percentile. Additionally, the box plot also suggests that post-GPT era has a ligher left tail but a extremely low GPA at around 1.5.
+
+The test statistics are shown as follows:
+![stem_ud_nonabstract_t](./stem_ud_nonabstract_t.png)
+Note that the histogram of p-values is a weird behavior of `seaborn`, it indicates that among 1000 simulations, all p-values are 0. The relatively small gap between observed t-value and distribution of bootstrapped t-values indicates that it might not be too extreme to observe current distribution under null hypothesis, which suggests that the help of GPT is limited. However, we still need to reject the null hypothesis given the p-values and admits that GPT does affect the score.
+
+### Upper Division Written Based Arts Courses
+The distribution of grades is as follows:
+![art_ud_written_dist](./art_ud_written_dist.png)
+According to the histogram, the distribution of grades in pre-GPT era is mostly bell-shape except for a small spike at around 3.9~4.0. The distribution of grades in post-GPT era is heavily skewed. Additionally, their center are also not the same. The boxplot also suggests the similar result. The 25th percentile, 50th percentile and 75th percentile of post-GPT era are higher than that of pre-GPT era. Most likely they don't share the same mean.
+
+The test statistics are shown as follows:
+![art_ud_written_t](./art_ud_written_t.png)
+Note that the histogram of p-values is a weird behavior of `seaborn`, it indicates that among 1000 simulations, all p-values are 0. It is clear that we need to reject the null. 
+
+### Upper Division Audio/Video Based Arts Courses
+The distribution of grades is as follows:
+![art_ud_audio_video_dist](./art_ud_audio_video_dist.png)
+Note that the distribution seems to violate the assumption of normality. Both the distribution of pre-GPT era and post-GPT era do not give a bell-shape like kde curve. This might affect the statistical power and/or make the result invalid.
+
+The histogram suggests that both pre-GPT era and post-GPT era have a spike at around 4.0. However, pre-GPT era suffers a much heavier tail on the left which should make its mean lower than that of post-GPT era. The boxplot also suggests such kind of shift. The 0th percentile, 25th percentile, 50th percentile, and 75th percentile of post-GPT era are significantly higher than that of pre-GPT era.
+
+The test statistics are shown as follows:
+![art_ud_audio_video_t](./art_ud_audio_video_t.png)
+Note that the histogram of p-values is a weird behavior of `seaborn`, it indicates that among 1000 simulations, all p-values are 0. We reject the null.
+
+## Analysis
+### STEM Courses and Arts Courses in General
+Unfortunately, among our intial hypothesis, only one of them remains true ---- upper division abstract STEM courses seem not to be affected by the introduction of GPT. However, the gap between bootstrappe t-values and observed t-values of STEM courses is smaller than that of Arts courses. This might suggest that the impact of GPT on STEM courses are somehow smaller than that on Arts courses, which alligns with our initial hypothesis in some ways.
+
+### Arts Written Based Courses and Arts Video/Audio Based Courses
+An interesting finding we have is that the distribution of bootstrapped t-values seem to suggest that it is more extreme for video/audio based courses to see such distribution under null hypothesis. This suggests that it is easier for GPT to help students to achieve a better score in video/audio based courses than that in written based courses. This is on the exact opposite side of our initial hypothesis.
+
+This might be because written based Arts courses require to cite many materials properly to achieve a higher score but GPT might not be good at it (i.e. causing long-term dependency problems), while audio/video based courses does not put such emphasis on writing skills. Students might choose to write down some of their feelings and/or use their own words to describe the audio/video such that GPT can assist them on the writing part. There might be some other reasons as described below.
+
+### Audio/Video Based Course In general
+Another interesting finding we have is that the distribution of grades of audio/video based courses is always not a normal distribution. For lower division courses, at leaset we have a bell-shape like structure except for the spike at around 4.0. However, for upper division courses, there is no clear trend for a bell-shape curve. We do not know why this happens. A possible guess is these courses, especially upper division courses, are heavily based on interactions between students and professors. In other words, as long as students are willing to attend lectures/labs and/or talk to professors, professor will tend to give high scores. (i.e. these courses are not primarily based on assignments and exams) However, please be aware that we do not know exactly how these courses are taught. This is just a guess.
 
 ## Limitations
-Pending
+Due to the limit of time and group members, we only collect data from courses that under some representative departments, resulting in the limited amount of data in post-GPT era. Moreover, we are also suspecting that there are some other parameters affecting the result, for example, professors. (i.e. teaching style) A block design might be able to identify these additional parameters.
+
+Though upper division abstract STEM courses suggests that this might not be the case, it is still possible that there is actually some trend in the overal GPA across either department, or the school. We might need some special ways to either identify this effect, and/or cancel out this effect.
 
 ## Conclusion
 Pending
@@ -103,8 +184,25 @@ Among 4648 samples from Arts courses, 2462 courses are tagged as "written based"
 
 Among 10815 samples from STEM courses, 806 courses are tagged as "abstract" and 10805 courses are tagged as not.
 
-#### Additional Note
-CSE 20 is excluded from this analysis because it is the only proof-based lower division course. It is not reasonable to merge it into any subgroup of STEM courses.
+#### Courses Identified as Abstract
+MATH 100A, MATH 100B, MATH 100C, <br>
+MATH 103A, MATH 103B, MATH 104A,<br>
+MATH 104B, MATH 105, MATH 106,<br>
+MATH 109, MATH 120A, MATH 120B,<br>
+MATH 140A, MATH 140B, MATH 140C,<br>
+MATH 142A, MATH 142B, MATH 144,<br>
+MATH 146, MATH 148, MATH 150A,<br>
+MATH 150B, MATH 154, MATH 158,<br>
+MATH 160A, MATH 160B, MATH 182,<br>
+MATH 190A, MATH 190B, MATH 191,<br>
+CSE 20, CSE 105, CSE 106,<br>
+CSE 107, CSE 130, CSE 132A,<br>
+CSE 140, CSE 150A, CSE 160,<br>
+PHYS 130A, PHYS 130B, PHYS 130C,<br>
+PHYS 137
+
+#### Courses Identified as Video/Audio Based
+All courses in visual arts (VIS) and music (MUS) department.
 
 ### Usage of LLM
 We craft part of the UCSD catalog information into the following prompt:
@@ -141,7 +239,7 @@ This method is inspired by Algorithm 16.1 described in Chapter 16 of An Introduc
     $$
     where $t_{obs}$ is the observed value of the statistic
 
-Although the proposed bootstrapped two-sampled t-test keeps the structure proposed by Bradley and Robert, it is still hard for us to justify why mixing data with different variance and treat the new mixed data as equal variance works (i.e. step 3 and step 4). However, it is possible for us to demonstrate the distribution of p-values under null hypothesis is indeed $\text{Uniform}(0,1)$ via simulation.
+Although the proposed bootstrapped two-sampled t-test keeps the structure proposed by Bradley and Robert, it is still hard for us to justify why mixing data with different variance and treat the new mixed data as equal variance works (i.e. step 3 and step 4). Moreover, it can be explained via intuition why using an absolute value indicates a two-sided test and using original value indicates a one-sided test, but it is hard for us to justify why that is the case mathematically. However, it is possible for us to demonstrate the distribution of p-values under null hypothesis is indeed $\text{Uniform}(0,1)$ via simulation.
 
 #### Simulation 1 Setup
 We set the seed of `numpy` random number generator to be 42. For each simulation, we sample 30 samples from $N(0,1)$ as $\textbf{x}$ and 300 samples from $N(0,1)$ as $\textbf{y}$. Absolute values are used to demonstrate a two-sided test. The null hypothesis is:
