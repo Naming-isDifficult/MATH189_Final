@@ -19,9 +19,6 @@ In order to automate and speed up the process, we use LLM to identify abstract c
 ### Data Limitations
 It is important to note that CAPE stopped publishing data after the Fall 2023 semester, so our analysis is limited to data up until that point. Although we considered using an alternative resource, the SunSET dataset, we found it impossible to distinguish fake data within it, leading us to abandon its use.
 
-## Exploratory Data Analysis (EDA)
-Pending
-
 ## Proposed Analysis
 ### Assumptions
 To ensure the validity of our analysis, we made the following assumptions:
