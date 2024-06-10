@@ -148,7 +148,7 @@ Due to the limit of time and group members, we only collect data from courses th
 Though upper division abstract STEM courses suggests that this might not be the case, it is still possible that there is actually some trend in the overal GPA across either department, or the school. We might need some special ways to either identify this effect, and/or cancel out this effect.
 
 ## Conclusion
-Pending
+The analysis results indicate that only high-level abstract STEM courses remain unaffected by the introduction of GPT. GPT is more likely to help students achieve better scores in video/audio-based courses than in written courses. Although student course grades are influenced by many uncontrollable factors and the analysis results are only a reference, the integration of generative AI tools like ChatGPT brings both opportunities and challenges to higher education. This study emphasizes the necessity of balanced methods using these technologies to enhance, not replace, traditional learning methods. This approach can fully utilize the potential of AI, enrich educational experiences, and better prepare students for the complexity of the modern world.
 
 ## Appendix
 ### Data Description
